@@ -16,3 +16,36 @@ SESSIONS_1_AND_2_REVISION {
     Altruistic  = selfless
 }
 
+
+SESSIONS_3_REVISION {
+
+    Introvert      = turns inward
+    Extrovert      = turns outward
+    Ambivert       = turns both inward and outward
+
+    Dexterous      = skillful
+    Dexterity      = skill
+    Ambidextrous   = skillful with both hands
+    Ambidexterity  = ability to use both hands equally well
+
+    Adroit         = skillful
+    Adroitness     = skill
+    Maladroit      = awkward, clumsy
+    Maladroitness  = awkwardness
+
+    Misanthrope    = hates mankind
+    Misanthropy    = hatred of mankind
+    Philanthropist = lover of mankind
+    Anthropology   = study of mankind
+
+    Misogynist     = hates women
+    Misogyny       = hatred of women
+    Misogamist     = hates marriage
+    Misogamy       = hatred of marriage
+
+    Monogamy       = one marriage
+    Polygamy       = plural marriage
+    Bigamy         = two marriages
+    Polyandry      = many husbands
+    Polygyny       = many wives
+}

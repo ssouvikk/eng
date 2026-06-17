@@ -118,4 +118,286 @@ MANIA ("madness" or "obsession") {
 }
 
 
+VERTO ("to turn") {
+
+    Introvert : {
+        = intro + verto
+        = turn inward
+        → thoughts directed inward
+        → self-analytical person
+    },
+
+    Extrovert : {
+        = extro + verto
+        = turn outward
+        → thoughts directed outward
+        → socially outgoing person
+    },
+
+    Ambivert : {
+        = ambi + verto
+        = turn both ways
+        → inward and outward tendencies
+        → balanced personality
+    },
+}
+
+
+AMBI ("both") {
+
+    Ambivert : {
+        = ambi + verto
+        = turn in both directions
+        → both introverted and extroverted
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both right hands
+        → able to use both hands equally well
+        → skillful
+    },
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = ability to use both hands equally well
+    },
+}
+
+
+DEXTER ("right hand") {
+
+    Dexterous : {
+        = dexter + ous
+        = having the skill of the right hand
+        → skillful
+    },
+
+    Dexterity : {
+        = dexter + ity
+        = skill
+        → manual skill
+        → general competence
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both hands function like right hands
+        → equal skill in both hands
+    },
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = equal skill with both hands
+    },
+}
+
+
+DROIT ("right", "proper",) {
+
+    Adroit : {
+        = a + droit
+        = to the right way
+        → skillful
+        → clever
+    },
+
+    Adroitness : {
+        = adroit + ness
+        = skill
+        → cleverness
+        → dexterity
+    },
+
+    Maladroit : {
+        = mal + adroit
+        = badly right
+        → lacking skill
+        → awkward
+        → clumsy
+    },
+
+    Maladroitness : {
+        = maladroit + ness
+        = awkwardness
+        → clumsiness
+    },
+}
+
+
+MAL ("bad") {
+
+    Maladroit : {
+        = mal + adroit
+        = badly skilled
+        → awkward
+        → clumsy
+    },
+
+    Maladroitness : {
+        = mal + adroit + ness
+        = awkwardness
+    },
+}
+
+
+ANTHROPOS ("mankind", "human being") {
+
+    Misanthrope : {
+        = misein + anthropos
+        = hater of mankind
+        → human-hater
+    },
+
+    Misanthropy : {
+        = misein + anthropos + y
+        = hatred of mankind
+    },
+
+    Misanthropic : {
+        = misein + anthropos + ic
+        = characterized by hatred of mankind
+    },
+
+    Misanthropist : {
+        = misein + anthropos + ist
+        = one who hates mankind
+    },
+
+    Philanthropist : {
+        = philos + anthropos
+        = lover of mankind
+    },
+
+    Anthropology : {
+        = anthropos + logos
+        = study of mankind
+    },
+}
+
+
+MISEIN ("to hate") {
+
+    Misanthrope : {
+        = misein + anthropos
+        = hater of mankind
+    },
+
+    Misanthropy : {
+        = misein + anthropos + y
+        = hatred of mankind
+    },
+
+    Misogynist : {
+        = misein + gyne
+        = hater of women
+    },
+
+    Misogyny : {
+        = misein + gyne + y
+        = hatred of women
+    },
+
+    Misogamist : {
+        = misein + gamos
+        = hater of marriage
+    },
+
+    Misogamy : {
+        = misein + gamos + y
+        = hatred of marriage
+    },
+}
+
+
+GYNE ("woman") {
+
+    Misogynist : {
+        = misein + gyne
+        = hater of women
+    },
+
+    Misogyny : {
+        = misein + gyne + y
+        = hatred of women
+    },
+
+    Misogynous : {
+        = misein + gyne + ous
+        = characterized by hatred of women
+    },
+
+    Misogynistic : {
+        = misogynist + ic
+        = pertaining to hatred of women
+    },
+
+    Gynecologist : {
+        = gyne + logos
+        = specialist in women's disorders
+    },
+}
+
+
+GAMOS ("marriage") {
+
+    Misogamist : {
+        = misein + gamos
+        = hater of marriage
+    },
+
+    Misogamy : {
+        = misein + gamos + y
+        = hatred of marriage
+    },
+
+    Misogamous : {
+        = misein + gamos + ous
+        = pertaining to hatred of marriage
+    },
+
+    Monogamy : {
+        = monos + gamos
+        = one marriage
+    },
+
+    Polygamy : {
+        = poly + gamos
+        = many marriages
+    },
+
+    Bigamy : {
+        = bi + gamos
+        = two marriages
+    },
+
+    Polyandry : {
+        = poly + andros
+        = many husbands
+    },
+
+    Polygyny : {
+        = poly + gyne
+        = many wives
+    },
+}
+
+
+MONOS ("one") {
+
+    Monogamy : {
+        = monos + gamos
+        = one marriage
+    },
+}
+
+
+ANDROS ("male", "man") {
+
+    Polyandry : {
+        = poly + andros
+        = many husbands
+    },
+}
+
 
