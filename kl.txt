@@ -127,6 +127,23 @@ LACONIA ("Sparta; region famous for brief speech") {
 }
 
 
+LASCIVUS ("playful, lustful") {
+
+    Lascivious : {
+        = lascivus + ious
+        = lustful
+        → sexually unrestrained
+        → sensual
+    },
+
+    Lasciviousness : {
+        = lascivious + ness
+        = lustfulness
+        → sexual wantonness
+    },
+}
+
+
 LECHER ("lustful person") {
 
     Lascivious : {
@@ -523,5 +540,24 @@ LOQUOR ("to speak") {
     Ventriloquize : {
         = ventriloquy + ize
         = to perform ventriloquism
+    },
+}
+
+
+LUBRICUS ("slippery") {
+
+    Lubricious : {
+        = lubricus + ious
+        = slippery
+        → morally slippery
+        → lustful
+        → sexually immoral
+    },
+
+    Lubricity : {
+        = lubricious + ity
+        = slipperiness
+        → sensuality
+        → lustfulness
     },
 }

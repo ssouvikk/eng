@@ -251,6 +251,58 @@ GLIB ("smooth") {
 }
 
 
+GNOSIS (knowledge) {
+
+    Diagnosis : {
+        = dia + gnosis
+        = knowledge through examination
+        → determination of a condition
+        → identification after investigation
+    },
+
+    Diagnostic : {
+        = diagnosis + tic
+        = relating to identification or examination
+    },
+
+    Prognosis : {
+        = pro + gnosis
+        = knowledge beforehand
+        → prediction of future course
+        → forecast of outcome
+    },
+
+    Prognostic : {
+        = prognosis + tic
+        = predictive
+        → foretelling future developments
+    },
+
+    Prognosticate : {
+        = pro + gnosticate
+        = know beforehand
+        → predict
+        → forecast
+    },
+}
+
+
+GNOSTOS (known) {
+
+    Agnostic : {
+        = a + gnostos
+        = not knowing
+        → one who claims ultimate reality is unknowable
+    },
+
+    Agnosticism : {
+        = agnostic + ism
+        = doctrine of unknowability
+        → belief that God cannot be known with certainty
+    },
+}
+
+
 GRAPHEIN ("to write") {
 
     Biography : {
@@ -467,19 +519,45 @@ HARMONIA ("harmony", "music") {
 }
 
 
+HYPER (over, above) {
+
+    Hypertension : {
+        = hyper + tension
+        = high pressure
+        → abnormally high blood pressure
+    },
+
+    Hypertensive : {
+        = hyper + tensive
+        = having high blood pressure
+    },
+}
+
+
 HYPO ("under, below") {
 
     Hypochondria : {
         = hypo + chondria
         = morbid anxiety about health
+        = condition beneath cartilage
         → health obsession
+        → morbid anxiety about health
+        → imaginary illness obsession
     },
 
     Hypochondriac : {
         = hypo + chondros
         = beneath the cartilage
+        = hypo + chondriac
+        = person obsessed with disease
         → person obsessed with illness
         → sufferer of imaginary ailments
+        → sufferer from imaginary ailments
+    },
+
+    Hypochondriacal : {
+        = hypochondria + al
+        = excessively concerned with health
     },
 
     Hypotension : {

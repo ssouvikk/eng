@@ -264,3 +264,34 @@ FIDES ("faith", "trust") {
         → unfaithfulness
     },
 }
+
+
+FRATER (brother) {
+
+    Fraternal : {
+        = frater + al
+        = brotherly
+        → friendly
+        → relating to brothers
+    },
+
+    Fraternity : {
+        = frater + ity
+        = brotherhood
+        → men's association
+        → group united by common interests
+    },
+
+    Fraternization : {
+        = fraternize + ation
+        = brotherly association
+        → friendly social intercourse
+    },
+
+    Fraternize : {
+        = frater + ize
+        = act as a brother
+        → socialize warmly
+        → associate on friendly terms
+    },
+}

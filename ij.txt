@@ -53,23 +53,50 @@ ICON ("image") {
     Iconoclasm : {
         = icon + clasm
         = destruction of images
+        = breaking images
         → hostility to tradition
         → rejection of established beliefs
+        → rejection of tradition
+        → attack on established beliefs
     },
 
     Iconoclast : {
         = icon + klastes
         = breaker of images
+        = eikon + klastes
+        = image breaker
         → attacker of cherished beliefs
         → scoffer at tradition
         → rebel against convention
+        → destroyer of sacred images
+        → challenger of traditions
+        → attacker of accepted beliefs
     },
 
     Iconoclastic : {
         = iconoclast + ic
         = attacking accepted beliefs
+        = characterized by attacks on tradition
         → unconventional
         → anti-traditional
+        → anti-establishment
+    },
+}
+
+
+INCENDO (to set on fire) {
+
+    Incendiarism : {
+        = incendiary + ism
+        = malicious fire-setting
+        → arson for revenge or destruction
+    },
+
+    Incendiary : {
+        = incendio + ary
+        = one who sets fires
+        → fire-setter
+        → arsonist
     },
 }
 

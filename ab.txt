@@ -441,6 +441,16 @@ ANTHROPOS ("mankind", "human being") {
 }
 
 
+ARSIO (burning) {
+
+    Arson : {
+        = arsio (burning)
+        = criminal burning
+        → deliberate destruction by fire
+    },
+}
+
+
 ARTICULUS ("joint") {
 
     Articulate : {

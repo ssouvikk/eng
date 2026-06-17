@@ -333,6 +333,19 @@ SOPHOS ("wise", "wisdom") {
 }
 
 
+SOROR (sister) {
+
+    Sorority : {
+        = soror + ity
+        = sisterhood
+        → women's association
+        → women's social organization
+        → women's organization
+        → women's social club
+    },
+}
+
+
 SPHYGMOS ("pulse") {
 
     Sphygmomanometer : {
@@ -523,6 +536,8 @@ THEOS ("God") {
     Atheism : {
         = a + theos + ism
         = belief that there is no God
+        = doctrine denying God
+        → belief that God does not exist
     },
 
     Atheist : {
@@ -577,7 +592,10 @@ THEOS ("God") {
     Theologian : {
         = theology + ian
         = student of religion
+        = theos + logos
+        = student of God
         → religious scholar
+        → scholar of religion
     },
 
     Theology : {

@@ -202,7 +202,10 @@ MANIA ("madness" or "obsession") {
     Dipsomania : {
         = dipso + mania
         = obsession with drinking
+        = dipso (thirst) + mania
+        = obsessive thirst
         → uncontrollable craving for alcohol
+        → alcoholism
     },
 
     Dipsomaniac : {
@@ -235,10 +238,16 @@ MANIA ("madness" or "obsession") {
         = compulsive thief
     },
 
+    Kleptomaniacal : {
+        = kleptomania + al
+        = characterized by compulsive stealing
+    },
+
     Megalomania : {
         = megas + mania
         = obsession with greatness
         → delusions of grandeur
+        → craving for power
     },
 
     Megalomaniac : {
@@ -246,38 +255,80 @@ MANIA ("madness" or "obsession") {
         = person obsessed with greatness
     },
 
+    Megalomaniacal : {
+        = megalomania + al
+        = characterized by grandiose delusions
+    },
+
     Monomania : {
         = mono + mania
         = single obsession
+        = one obsession
         → fixation
+        → single fixed idea
+        → one-track fixation
     },
 
     Monomaniac : {
         = mono + mania
         = one obsession
+        = mono + maniac
+        = person obsessed with one thing
         → person obsessed with one idea
+        → one-track-minded individual
+    },
+
+    Monomaniacal : {
+        = monomania + al
+        = characterized by one obsession
     },
 
     Nymphomania : {
         = nymph + mania
         = excessive female sexual desire
+        = excessive female sexual craving
         → compulsive sexuality
+        → compulsive sexual desire
     },
 
     Nymphomaniac : {
         = nympho + maniac
         = woman with compulsive sexual desire
+        = woman with obsessive sexual desire
+    },
+
+    Nymphomaniacal : {
+        = nymphomania + al
+        = characterized by excessive sexual craving
     },
 
     Pyromania : {
         = pyr + mania
         = obsession with fire
+        = pyr (fire) + mania
         → compulsive fire-setting
     },
 
     Pyromaniac : {
         = pyro + maniac
         = person obsessed with setting fires
+    },
+
+    Pyromaniacal : {
+        = pyromania + al
+        = characterized by fire-setting obsession
+    },
+
+    Satyriasis : {
+        = satyr + iasis
+        = pathological male sexual desire
+        → male nymphomania
+    },
+
+    Satyromania : {
+        = satyr + mania
+        = excessive male sexual craving
+        → compulsive male sexuality
     },
 }
 
@@ -309,6 +360,30 @@ MANUS ("hand") {
         = manus + scriptus
         = handwritten document
         → original text
+    },
+}
+
+
+MARITUS (husband; marriage) {
+
+    Extramarital : {
+        = extra + marital
+        = outside marriage
+        → beyond marital relationship
+    },
+
+    Marital : {
+        = maritus + al
+        = relating to husband-wife union
+        = relating to marriage
+        → pertaining to marriage
+        → matrimonial
+    },
+
+    Premarital : {
+        = pre + marital
+        = before marriage
+        → occurring prior to marriage
     },
 }
 

@@ -1,1 +1,24 @@
+REX / REGIS ("king") {
 
+    Regal : {
+        = rex + al
+        = kingly
+        → royal
+        → magnificent
+        → majestic
+    },
+
+    Regalia : {
+        = rex + alia
+        = things belonging to a king
+        → royal insignia
+        → badges of office
+        → ceremonial dress
+    },
+
+    Regicide : {
+        = rex + cide
+        = king-killing
+        → murder of a ruler
+    },
+}

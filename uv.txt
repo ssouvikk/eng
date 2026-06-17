@@ -1,3 +1,21 @@
+UXOR (wife) {
+
+    Uxorial : {
+        = uxor + ial
+        = pertaining to a wife
+        → wife-related
+    },
+
+    Uxorious : {
+        = uxor + ious
+        = wife-oriented
+        → excessively devoted to wife
+        → foolishly doting husband
+        → doting husband
+    },
+}
+
+
 VENTER / VENTRIS ("belly") {
 
     Ventral : {

@@ -799,6 +799,43 @@ PHILEIN ("to love") {
 }
 
 
+PHOBIA ("fear") {
+
+    Acrophobia : {
+        = acro (height) + phobia
+        = fear of heights
+        → morbid dread of high places
+    },
+
+    Acrophobic : {
+        = acrophobia + ic
+        = suffering fear of heights
+    },
+
+    Agoraphobia : {
+        = agora (open place) + phobia
+        = fear of open spaces
+        → dread of wide-open places
+    },
+
+    Agoraphobic : {
+        = agoraphobia + ic
+        = suffering fear of open spaces
+    },
+
+    Claustrophobia : {
+        = claustrum (closed place) + phobia
+        = fear of confinement
+        → dread of enclosed spaces
+    },
+
+    Claustrophobic : {
+        = claustrophobia + ic
+        = suffering fear of enclosed places
+    },
+}
+
+
 PHONE ("sound") {
 
     Phonograph : {
@@ -900,6 +937,35 @@ PRAKTIKOS ("to do", "to practice") {
         = cheir + praktikos
         = practitioner using hands
         → chiropractor
+    },
+}
+
+
+PRURIRE ("to itch") {
+
+    Prurience : {
+        = prurient + ence
+        = sexual longing
+        → excessive curiosity about sex
+    },
+
+    Pruriency : {
+        = prurient + ency
+        = lustfulness
+        → erotic curiosity
+    },
+
+    Prurient : {
+        = prurire + ent
+        = itching
+        → sexually curious
+        → lustful
+    },
+
+    Pruritus : {
+        = prurire + itus
+        = itching
+        → persistent itch
     },
 }
 
