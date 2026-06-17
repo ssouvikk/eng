@@ -489,6 +489,11 @@ PAIDOS / PAIS ("child") {
         → pediatrician
     },
 
+    Pediatric : {
+        = paidos + ic
+        = relating to children
+    },
+
     Orthopedics : {
         = orthos + pais
         = straight child
@@ -502,12 +507,23 @@ PAIDOS / PAIS ("child") {
         → orthopedist
     },
 
-     Pediatric : {
-        = paidos + ic
-        = relating to children
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = relating to child dentistry
     },
 }
-
 
 
 
