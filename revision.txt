@@ -1,4 +1,3 @@
-SESSIONS_1_AND_2_REVISION {
 
     Egoist      = self first
     Egotist     = talks about self
@@ -14,10 +13,8 @@ SESSIONS_1_AND_2_REVISION {
     Altruist    = others first
     Altruism    = selfless concern for others
     Altruistic  = selfless
-}
 
 
-SESSIONS_3_REVISION {
 
     Introvert      = turns inward
     Extrovert      = turns outward
@@ -48,10 +45,7 @@ SESSIONS_3_REVISION {
     Bigamy         = two marriages
     Polyandry      = many husbands
     Polygyny       = many wives
-}
 
-
-SESSIONS_4_5_REVISION {
 
     Internist       = specialist in internal medicine
     Gynecologist    = specialist in female reproductive organs
@@ -99,4 +93,3 @@ SESSION_6_REVISION {
     Algos           = pain
     Itis            = inflammation
     Osis            = abnormal or diseased condition
-}
