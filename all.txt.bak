@@ -335,16 +335,16 @@ ANTHROPOS ("mankind", "human being") {
 
     Misanthrope : {
         = misein + anthropos
-        = misos + anthropos
         = hater of mankind
+        = misos + anthropos
         → human-hater
         → person who dislikes people
     },
 
     Misanthropic : {
         = misein + anthropos + ic
-        = misanthrope + ic
         = characterized by hatred of mankind
+        = misanthrope + ic
         = characterized by hatred of people
     },
 
@@ -360,8 +360,8 @@ ANTHROPOS ("mankind", "human being") {
 
     Philanthropist : {
         = philos + anthropos
-        = philein + anthropos
         = lover of mankind
+        = philein + anthropos
         → humanitarian; benefactor
     },
 
@@ -542,108 +542,6 @@ BIOS ("life") {
         = bios + opsis
         = viewing living tissue
         → microscopic examination of living tissue
-    },
-}
-
-
-BONUS / BENE ("good", "well") {
-
-    Benediction : {
-        = bene + diction
-        = speaking good
-        → blessing
-        → expression of good wishes
-    },
-
-    Benedictory : {
-        = bene + dict + ory
-        = relating to blessing
-        → blessing-like
-    },
-
-    Benefaction : {
-        = bene + faction
-        = act of doing good
-        → charitable gift
-        → donation
-    },
-
-    Benefactor : {
-        = bene + factor
-        = doer of good
-        → helper
-        → patron
-        → donor
-    },
-
-    Benefactress : {
-        = benefactor + ess
-        = female benefactor
-        → woman who does good
-    },
-
-    Beneficence : {
-        = beneficent + ence
-        = act of doing good
-        → charity
-        → generosity
-    },
-
-    Beneficent : {
-        = bene + facio
-        = doing good
-        → charitable
-        → helpful
-        → kind
-    },
-
-    Beneficiary : {
-        = bene + ficiary
-        = receiver of good
-        → recipient of aid
-        → recipient of benefits
-    },
-
-    Benevolence : {
-        = benevolent + ence
-        = goodwill toward others
-        → kindness
-        → generosity
-    },
-
-    Benevolent : {
-        = bene + volo
-        = wishing good
-        → kind-hearted
-        → well-disposed
-    },
-
-    Benign : {
-        = bene + ign
-        = good in nature
-        → kindly
-        → gentle
-        → harmless
-    },
-
-    Benignancy : {
-        = benignant + cy
-        = state of kindness
-        → goodwill
-    },
-
-    Benignant : {
-        = bene + gnant
-        = actively good-natured
-        → kindly disposed
-        → benevolent
-    },
-
-    Benignity : {
-        = benign + ity
-        = quality of being kind and harmless
-        → kindness
-        → gentleness
     },
 }
 
@@ -914,69 +812,19 @@ DICHA ("in two") {
 
 DICO / DICTUS ("to say", "to tell", "to speak") {
 
-    Benediction : {
-        = bene + dico
-        = saying good
-        → blessing
-    },
-
-    Benedictory : {
-        = bene + dict + ory
-        = relating to blessings
-        → blessing-like
-    },
-
     Malediction : {
         = mal + dico
         = speak evil
         = speaking evil
-        = saying evil
         → curse
     },
 
     Maledictory : {
         = mal + dico + ory
-        = mal + dict + ory
         = relating to curses
         = of cursing
         → cursing
         → curse-like
-    },
-}
-
-
-DONO ("to give") {
-
-    Condonation : {
-        = condone + ation
-        = act of forgiving
-        → overlooking wrongdoing
-    },
-
-    Condone : {
-        = con + dono
-        = completely give away
-        → forgive
-        → overlook an offense
-    },
-
-    Donate : {
-        = dono + ate
-        = give
-        → contribute voluntarily
-    },
-
-    Donation : {
-        = dono + ation
-        = act of giving
-        → gift
-        → contribution
-    },
-
-    Donor : {
-        = dono + or
-        = giver
-        → contributor
     },
 }
 
@@ -1168,39 +1016,7 @@ EX ("out") {
 }
 
 
-FACIO / FACTUS ("to do", "to make") {
-
-    Benefaction : {
-        = bene + faction
-        = good deed
-        → charitable gift
-    },
-
-    Benefactor : {
-        = bene + factor
-        = one who does good
-        → helper
-        → patron
-    },
-
-    Beneficence : {
-        = beneficent + ence
-        = active goodness
-        → charity
-    },
-
-    Beneficent : {
-        = bene + facio
-        = doing good
-        → charitable
-        → helpful
-    },
-
-    Beneficiary : {
-        = bene + ficiary
-        = one who receives benefit
-        → recipient
-    },
+FACIO ("to do", "to make") {
 
     Malecent : {
         = mal + facio + ent
@@ -1210,7 +1026,6 @@ FACIO / FACTUS ("to do", "to make") {
 
     Malefaction : {
         = mal + facio + tion
-        = mal + faction
         = evil deed
         → wrongdoing
     },
@@ -1225,58 +1040,6 @@ FACIO / FACTUS ("to do", "to make") {
         = mal + facio + ent
         = doing evil
         → harmful
-    },
-}
-
-
-FIDES ("faith", "trust") {
-
-    Bona Fide : {
-        = bona + fide
-        = in good faith
-        → genuine
-        → authentic
-    },
-
-    Confidant : {
-        = confide + ant
-        = trusted person
-        → intimate adviser
-    },
-
-    Confide : {
-        = con + fides
-        = trust with
-        → reveal in confidence
-        → trust another
-    },
-
-    Confidence : {
-        = con + fides + ence
-        = state of trust
-        → self-assurance
-        → faith
-    },
-
-    Confidential : {
-        = confidence + ial
-        = entrusted in confidence
-        → secret
-        → private
-    },
-
-    Fidelity : {
-        = fides + ity
-        = faithfulness
-        → loyalty
-        → devotion
-    },
-
-    Infidelity : {
-        = in + fidelity
-        = lack of faithfulness
-        → disloyalty
-        → unfaithfulness
     },
 }
 
@@ -3410,8 +3173,8 @@ SCIO / SCIENS ("to know", "knowing") {
 
     Conscience : {
         = con + sciens
-        = con + scio
         = knowledge with oneself
+        = con + scio
         = knowledge within oneself
         → moral awareness
         → sense of right and wrong
@@ -3420,8 +3183,8 @@ SCIO / SCIENS ("to know", "knowing") {
 
     Conscious : {
         = con + sciens
-        = con + scio
         = knowing with oneself
+        = con + scio
         → aware
         → alert
         → mentally alert
@@ -3454,8 +3217,8 @@ SCIO / SCIENS ("to know", "knowing") {
 
     Prescience : {
         = prescient + ence
-        = pre + science
         = foreknowledge
+        = pre + science
         → advance awareness
     },
 
@@ -3923,8 +3686,8 @@ TOME ("a cutting", "cut", "section") {
 
     Entomology : {
         = en + tome
-        = en + tome + logos
         = insect study
+        = en + tome + logos
         = study of creatures "cut in"
         → science of insects
     },
@@ -4109,26 +3872,7 @@ VIA ("road", "way") {
 }
 
 
-VOLO ("to wish", "to will") {
-
-    Benevolence : {
-        = benevolent + ence
-        = goodwill
-        → kindness toward others
-    },
-
-    Benevolent : {
-        = bene + volo
-        = wishing good
-        → kind-hearted
-        → charitable
-    },
-
-    Malevolence : {
-        = malevolent + ence
-        = ill will
-        → hostility
-    },
+VOLO ("to wish") {
 
     Malevolent : {
         = mal + volo
@@ -4136,7 +3880,6 @@ VOLO ("to wish", "to will") {
         → ill-disposed
         → ill-will
         → desire to harm
-        → hostile
     },
 
     Volition : {
