@@ -607,17 +607,24 @@ OPHTHALMOS ("eye") {
 
 ORTHOS ("straight", "correct") {
 
-    Orthodontia : {
-        = orthos + odontos
-        = straight tooth
+    Orthodontia / Orthodontics : {
+        = orthos + odontos (tooth)
+        = making teeth straight
         → correction of tooth alignment
-        → orthodontia
+        → orthodontia / orthodontics
+    },
+
+    Orthodontist : {
+        = orthos + odontos + ist
+        = straight-tooth specialist
+        → specialist who corrects tooth alignment
+        → orthodontist
     },
 
     Orthopedics : {
-        = orthos + pais
+        = orthos + pais (child)
         = straight child
-        → correction of deformities
+        → correction of bodily deformities
         → orthopedics
     },
 
@@ -627,38 +634,117 @@ ORTHOS ("straight", "correct") {
         → orthopedist
     },
 
-    Orthodontist : {
-        = orthos + odous
-        = straight tooth
-        → specialist who straightens teeth
-        → orthodontist
-    },
-
-    Orthodontics : {
-        = orthos + odous
-        = straightening teeth
-    },
-
     Orthography : {
-        = orthos + graphein
+        = orthos + graphein (to write)
         = correct writing
-        → correct spelling
+        → correct spelling and writing
+        → orthography
     },
 }
 
 
 
-ODOUS / ODONT ("tooth") {
+OSTEON ("bone") {
 
-    Orthodontist : {
-        = orthos + odont
-        = straight tooth
-        → tooth-straightening specialist
+    Osteopath : {
+        = osteon + pathos
+        = bone disease specialist
+        → practitioner using manipulation and massage
     },
 
-    Orthodontics : {
-        = orthos + odont
-        = correction of tooth alignment
+    Osteopathy : {
+        = osteon + pathos
+        = treatment based on skeletal relationships
+        → osteopathic medicine
+    },
+
+    Osteopathic : {
+        = osteopathy + ic
+        = relating to osteopathy
+    },
+}
+
+
+ODOUS / ODONT / ODONTOS ("tooth") {
+
+    Orthodontist : {
+        = orthos + odontos
+        = straight tooth specialist
+        → dentist who straightens teeth
+    },
+
+    Orthodontics / Orthodontia : {
+        = orthos + odontos
+        = straightening and correction of tooth alignment
+        → branch of dentistry concerned with aligned teeth and jaws
+    },
+
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = relating to children's dentistry
+    },
+
+    Periodontist : {
+        = peri + odontos
+        = around-the-tooth specialist
+        → gum specialist
+    },
+
+    Periodontia : {
+        = peri + odontos
+        = treatment of tissues around teeth
+        → gum specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = relating to gum treatment
+    },
+
+    Endodontist : {
+        = endon + odontos
+        = inner-tooth specialist
+        → root canal specialist
+    },
+
+    Endodontia : {
+        = endon + odontos
+        = treatment of inner tooth structures
+        → root canal specialty
+    },
+
+    Endodontic : {
+        = endodontia + ic
+        = relating to root canal therapy
+    },
+
+    Exodontist : {
+        = ex + odontos
+        = out-tooth specialist
+        → tooth extraction specialist
+    },
+
+    Exodontia : {
+        = ex + odontos
+        = removal of teeth
+        → tooth extraction specialty
+    },
+
+    Exodontic : {
+        = exodontia + ic
+        = relating to tooth extraction
     },
 }
 
@@ -725,10 +811,18 @@ NEURON ("nerve") {
 
 PSYCHE ("mind", "soul", "spirit") {
 
+    Psyche : {
+        = Greek psyche
+        = soul, spirit, mind
+        → mental life
+        → inner self
+        → self-image
+    },
+
     Psychiatry : {
         = psyche + iatreia
         = healing of the mind
-        → treatment of mental illness
+        → medical treatment of mental illness
     },
 
     Psychiatrist : {
@@ -739,24 +833,38 @@ PSYCHE ("mind", "soul", "spirit") {
     Psychology : {
         = psyche + logos
         = study of the mind
-        → psychology
+        → science of behavior and mental processes
     },
 
     Psychologist : {
         = psyche + logos + ist
-        = student of the mind
-        → psychologist
+        = student/specialist of the mind
+        → expert in human behavior and mental processes
+    },
+
+    Psychological : {
+        = psychology + al
+        = relating to the study of the mind
     },
 
     Psychic : {
         = psyche + ic
         = relating to the mind or spirit
+        → mentally produced
+        → extrasensory or mysterious mental powers
     },
 
     Psychoanalysis : {
         = psyche + analysis
         = analysis of the mind
         → Freudian exploration of the unconscious
+        → psychoanalytic therapy
+    },
+
+    Psychoanalyst : {
+        = psyche + analysis + ist
+        = analyzer of the mind
+        → practitioner of psychoanalysis
     },
 
     Psychoanalytic : {
@@ -768,6 +876,7 @@ PSYCHE ("mind", "soul", "spirit") {
         = psyche + therapeia
         = treatment of the mind
         → therapy through psychological methods
+        → treatment of emotional and mental disorders
     },
 
     Psychotherapist : {
@@ -779,36 +888,39 @@ PSYCHE ("mind", "soul", "spirit") {
         = psyche + genesis
         = originating in the mind
         → psychologically caused
+        → of emotional origin
     },
 
     Psychosomatic : {
         = psyche + soma
-        = mind-body
-        → physical symptoms influenced by mental causes
+        = mind-body relationship
+        → physical symptoms or illness influenced by mental factors
     },
 
     Psychopath : {
         = psyche + pathos
-        = diseased mind
-        → person with severe personality disorder
+        = person with a diseased mind
+        → individual with severe antisocial personality traits
     },
 
     Psychopathy : {
         = psyche + pathos + y
-        = mental/personality disorder
+        = diseased mind
+        → severe personality disorder
     },
 
     Psychopathic : {
         = psyche + pathos + ic
         = relating to psychopathy
+        → mentally or emotionally disturbed
     },
 
-
-     Psychotic : {
+    Psychotic : {
         = psyche + otic
         = mentally disordered
         → suffering severe mental disturbance
-    },
+        → loss of contact with reality
+    }
 }
 
 
@@ -835,14 +947,14 @@ PATHOS ("suffering", "disease") {
 
     Psychopath : {
         = psyche + pathos
-        = diseased mind
+        = person with a diseased/suffering mind
         → psychopath
     },
 
     Psychopathy : {
         = psyche + pathos + y
         = diseased mind condition
-        → severe mental disorder
+        → severe personality disorder
     },
 
     Psychopathic : {
@@ -858,12 +970,16 @@ PATHOS ("suffering", "disease") {
 
     Osteopath : {
         = osteon + pathos
-        = bone disease / bone suffering
-        → practitioner using manipulative treatment
-        → osteopath
+        = bone suffering/disease
+        → osteopathic practitioner
+    },
+
+    Osteopathy : {
+        = osteon + pathos + y
+        = bone-related disease/suffering condition
+        → osteopathic medicine
     },
 }
-
 
 
 
@@ -942,7 +1058,7 @@ OCULUS ("eye") {
 }
 
 
-METRON ("measurement") {
+METRON ("measure", "measurement") {
 
     Optometry : {
         = opsis + metron
@@ -954,9 +1070,38 @@ METRON ("measurement") {
         = one who measures vision
     },
 
+    Thermometer : {
+        = therme + metron
+        = heat measure
+        → instrument measuring temperature
+    },
+
+    Barometer : {
+        = baros + metron
+        = pressure/weight measure
+        → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        = barometer + ic
+        = relating to atmospheric pressure
+    },
+
+    Sphygmomanometer : {
+        = sphygmos + manometer
+        = pulse-pressure measure
+        → blood-pressure apparatus
+    },
+
     Metric : {
         = metron
         = relating to measurement
+    },
+
+    Metric System : {
+        = metron
+        = system based on measurement
+        → decimal system of weights and measures
     },
 }
 
@@ -964,40 +1109,395 @@ METRON ("measurement") {
 
 OPSIS / OPTIKOS ("vision", "sight") {
 
-    Optometry : {
-        = opsis + metron
-        = measurement of vision
-        → science of measuring eyesight
-        → optometry
-    },
-
-    Optometrist : {
-        = opsis + metron + ist
-        = measurer of vision
-        → specialist who tests eyesight and prescribes glasses
-        → optometrist
-    },
-
     Optics : {
         = opsis
         = science of vision and light
         → optics
     },
 
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → science of measuring/testing eyesight
+        → optometry
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = measurer of vision
+        → eyesight specialist who tests vision
+        → prescribes glasses and contact lenses
+        → optometrist
+    },
+
     Optician : {
-        = opsis + ician
-        = vision expert
-        → grinder and fitter of lenses
+        = optikos / opsis + ician
+        = worker with optical devices
+        → grinder, fitter, and dispenser of lenses
+        → seller of optical goods
         → optician
     },
 
     Optical : {
-        = opsis + al
-        = relating to sight
+        = optikos + al
+        = relating to vision, sight, or light
+        → optical
     },
 
     Optometric : {
         = optometry + ic
-        = relating to measurement of vision
+        = relating to the measurement and testing of vision
+        → optometric
+    },
+}
+
+
+
+POUS / PODOS ("foot") {
+
+    Podiatrist : {
+        = podos + iatreia
+        = foot healer
+        → foot specialist
+    },
+
+    Podiatry : {
+        = podos + iatreia
+        = treatment of foot ailments
+        → podiatry
+    },
+
+    Podiatric : {
+        = podiatry + ic
+        = relating to foot treatment
+    },
+
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → treatment of foot ailments
+        → older term for podiatry
+    },
+
+    Octopus : {
+        = okto + pous
+        = eight-footed
+        → eight-armed sea creature
+    },
+
+    Platypus : {
+        = platys + pous
+        = broad-footed
+        → egg-laying mammal
+    },
+
+    Podium : {
+        = podos
+        = foot support
+        → platform for a speaker
+    },
+
+    Tripod : {
+        = tri + podos
+        = three-footed
+        → three-legged stand
+    },
+}
+
+
+
+CHEIR ("hand") {
+
+    Chiropractor : {
+        = cheir + praktikos
+        = hand practitioner
+        → manipulates spinal joints
+    },
+
+    Chiropractic : {
+        = cheir + praktikos
+        = treatment by hand
+        → manipulation of articulations
+    },
+
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → foot care
+    },
+
+    Chirography : {
+        = cheir + graphein
+        = hand writing
+        → handwriting
+    },
+
+    Chirographic : {
+        = cheir + graphein + ic
+        = pertaining to handwriting
+    },
+
+    Chirographer : {
+        = cheir + graphein + er
+        = handwriting expert
+        → penmanship specialist
+    },
+
+    Chiromancy : {
+        = cheir + manteia
+        = hand divination
+        → palm reading
+    },
+
+    Chiromancer : {
+        = cheir + manteia + er
+        = palm reader
+    },
+}
+
+
+GRAPHEIN ("to write") {
+
+    Graphologist : {
+        = graphein + logos
+        = student of writing
+        → handwriting analyst
+    },
+
+    Graphology : {
+        = graphein + logos
+        = study of handwriting
+        → handwriting analysis
+    },
+
+    Graphological : {
+        = graphology + al
+        = pertaining to handwriting analysis
+    },
+
+    Chirography : {
+        = cheir + graphein
+        = handwriting
+    },
+
+    Chirographer : {
+        = cheir + graphein + er
+        = handwriting expert
+    },
+
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic penmanship
+    },
+
+    Calligrapher : {
+        = kallos + graphein + er
+        = artist of beautiful writing
+    },
+
+    Calligraphic : {
+        = calligraphy + ic
+        = pertaining to artistic handwriting
+    },
+
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible handwriting
+    },
+
+    Cacographer : {
+        = kakos + graphein + er
+        = person with poor handwriting
+    },
+
+    Cacographic : {
+        = kakos + graphein + ic
+        = marked by bad handwriting
+    },
+
+    Cardiograph : {
+        = kardia + graphein
+        = heart writer
+        → heart-recording instrument
+    },
+
+    Photograph : {
+        = photos + graphein
+        = light writing
+        → picture produced by light
+    },
+
+    Phonograph : {
+        = phone + graphein
+        = sound writing
+        → sound-recording device
+    },
+
+    Telegraph : {
+        = tele + graphein
+        = distance writing
+        → long-distance communication
+    },
+
+    Biography : {
+        = bios + graphein
+        = life writing
+        → written account of a life
+    },
+}
+
+
+
+KALLOS ("beauty") {
+
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting
+    },
+
+    Calligrapher : {
+        = kallos + graphein + er
+        = artist of beautiful writing
+    },
+
+    Calligraphic : {
+        = calligraphy + ic
+        = pertaining to beautiful writing
+    },
+}
+
+
+KAKOS ("bad", "ugly", "harsh") {
+
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible handwriting
+    },
+
+    Cacographer : {
+        = kakos + graphein + er
+        = poor writer of handwriting
+    },
+
+    Cacographic : {
+        = kakos + graphein + ic
+        = pertaining to bad handwriting
+    },
+}
+
+
+
+GERAS ("old age") {
+
+    Geriatrics : {
+        = geras + iatreia
+        = medical treatment of old age
+        → care of the elderly
+    },
+
+    Geriatrician : {
+        = geras + iatreia + ian
+        = physician for the elderly
+    },
+
+    Geriatric : {
+        = geras + ic
+        = relating to old age
+    },
+}
+
+
+
+GERON ("old man") {
+
+    Gerontologist : {
+        = geron + logos
+        = student of old age
+        → specialist in aging problems
+    },
+
+    Gerontology : {
+        = geron + logos
+        = study of aging
+        → science of old age
+    },
+
+    Gerontological : {
+        = gerontology + al
+        = pertaining to aging studies
+    },
+}
+
+
+
+TELE ("distance") {
+
+    Telegraph : {
+        = tele + graphein
+        = distance writing
+        → long-distance written communication
+    },
+
+    Telephone : {
+        = tele + phone
+        = distance sound
+        → transmission of sound over distance
+    },
+
+    Television : {
+        = tele + vision
+        = distance seeing
+        → viewing events from afar
+    },
+
+    Telescope : {
+        = tele + scope
+        = distance viewing
+        → instrument for seeing far away objects
+    },
+}
+
+
+
+
+BIOS ("life") {
+
+    Biography : {
+        = bios + graphein
+        = life writing
+        → written life story
+    },
+}
+
+
+
+PHOTOS ("light") {
+
+    Photograph : {
+        = photos + graphein
+        = writing by light
+        → image produced through light
+    },
+}
+
+
+
+
+PHONE ("sound") {
+
+    Phonograph : {
+        = phone + graphein
+        = sound writing
+        → sound recording device
+    },
+
+    Telephone : {
+        = tele + phone
+        = sound over distance
+        → voice communication device
     },
 }
