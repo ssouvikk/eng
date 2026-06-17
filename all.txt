@@ -1174,23 +1174,6 @@ OPSIS / OPTIKOS ("vision", "sight") {
 
 POUS / PODOS ("foot") {
 
-    Podiatrist : {
-        = podos + iatreia
-        = foot healer
-        → foot specialist
-    },
-
-    Podiatry : {
-        = podos + iatreia
-        = treatment of foot ailments
-        → podiatry
-    },
-
-    Podiatric : {
-        = podiatry + ic
-        = relating to foot treatment
-    },
-
     Chiropody : {
         = cheir + podos
         = hand-foot treatment
@@ -1204,16 +1187,33 @@ POUS / PODOS ("foot") {
         → eight-armed sea creature
     },
 
-    Platypus : {
-        = platys + pous
-        = broad-footed
-        → egg-laying mammal
+    Podiatric : {
+        = podiatry + ic
+        = relating to / pertaining to foot treatment
+    },
+
+    Podiatrist : {
+        = podos + iatreia
+        = foot healer
+        → foot specialist
+    },
+
+    Podiatry : {
+        = podos + iatreia
+        = treatment of foot ailments
+        → podiatry
     },
 
     Podium : {
         = podos
         = foot support
-        → platform for a speaker
+        → speaker's platform
+    },
+
+    Platypus : {
+        = platys + pous
+        = broad-footed
+        → egg-laying mammal
     },
 
     Tripod : {
@@ -1582,5 +1582,42 @@ EX ("out") {
     Exodontic : {
         = exodontia + ic
         = relating to tooth extraction
+    },
+}
+
+
+
+THERME ("heat") {
+
+    Thermometer : {
+        = therme + metron
+        = heat measure
+        → instrument measuring temperature
+    },
+}
+
+
+BAROS ("weight", "pressure") {
+
+    Barometer : {
+        = baros + metron
+        = pressure measure
+        → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        = barometer + ic
+        = pertaining to atmospheric pressure
+    },
+}
+
+
+
+SPHYGMOS ("pulse") {
+
+    Sphygmomanometer : {
+        = sphygmos + manometer
+        = pulse-pressure measure
+        → blood-pressure apparatus
     },
 }
