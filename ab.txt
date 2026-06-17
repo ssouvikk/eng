@@ -316,62 +316,99 @@ ANGLUS ("English", "England") {
 }
 
 
-ANIMUS ("mind, spirit, soul") {
+ANIMUS / ANIMA ("mind", "soul", "spirit", "life principle") {
+
+    Animal : {
+        = anima + al
+        = possessing life principle
+        → living creature
+    },
+
+    Animate : {
+        = anima + ate
+        = give life to
+        → enliven
+        → make active
+    },
+
+    Animated : {
+        = animate + ed
+        = filled with life
+        → lively
+        → spirited
+    },
+
+    Animation : {
+        = animate + ion
+        = act of giving life
+        → liveliness
+        → vitality
+    },
 
     Animosity : {
         = animus + ity
-        = hostile spirit
-        → resentment
+        = hostile mind
         → hatred
+        → resentment
+        → hostility
     },
 
     Animus : {
         = animus
-        = spirit, mind
-        → hostility
-        → ill feeling
+        = mind
+        → hostile attitude
+        → ill will
+        → malevolence
     },
 
     Equanimity : {
         = aequus + animus
         = equal mind
         → calmness
-        → emotional balance
         → composure
+        → mental balance
+    },
+
+    Inanimate : {
+        = in + animate
+        = not alive
+        → lifeless
     },
 
     Magnanimity : {
         = magnanimous + ity
-        = greatness of spirit
+        = greatness of soul
         → generosity
-        → forgiveness
+        → nobility of character
     },
 
     Magnanimous : {
         = magnus + animus
-        = great soul
+        = great mind
+        = noble soul
         → generous
-        → noble-hearted
+        → forgiving
+        → big-hearted
     },
 
     Pusillanimity : {
         = pusillanimous + ity
-        = smallness of spirit
-        → cowardice
-        → lack of courage
+        = smallness of soul
+        → pettiness
+        → meanness
     },
 
     Pusillanimous : {
         = pusillus + animus
-        = tiny soul
-        → cowardly
-        → timid
-        → lacking courage
+        = tiny mind
+        → petty
+        → mean-spirited
+        → contemptibly small-minded
     },
 
     Unanimity : {
         = unanimous + ity
-        = state of one-mindedness
+        = state of one mind
         → complete agreement
     },
 

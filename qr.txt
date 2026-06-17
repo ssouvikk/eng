@@ -22,3 +22,40 @@ REX / REGIS ("king") {
         → murder of a ruler
     },
 }
+
+
+RUS / RURIS ("country", "farmland") {
+
+    Rural : {
+        = rus + al
+        = relating to the countryside
+        → agricultural
+        → country-based
+    },
+
+    Rustic : {
+        = rus + tic
+        = country person
+        → unsophisticated
+        → uncultured
+        → rough-hewn
+    },
+
+    Rusticate : {
+        = rustic + ate
+        = become country-oriented
+        → spend time in the countryside
+    },
+
+    Rustication : {
+        = rusticate + ion
+        = act of living in the countryside
+        → country retreat
+    },
+
+    Rusticity : {
+        = rustic + ity
+        = quality of being rustic
+        → lack of refinement
+    },
+}

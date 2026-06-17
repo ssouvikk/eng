@@ -1,11 +1,17 @@
 SCINTILLA ("spark") {
 
+    Scintilla : {
+        = scintilla
+        = tiny spark
+        → small trace
+        → slightest amount
+    },
+
     Scintillate : {
         = scintilla + ate
         = emit sparks
         → sparkle
-        → shine brilliantly
-        → be witty and lively
+        → flash with wit
     },
 
     Scintillating : {
@@ -18,9 +24,9 @@ SCINTILLA ("spark") {
 
     Scintillation : {
         = scintillate + ion
-        = sparkling quality
+        = sparkling
         → brilliance
-        → wit
+        → clever liveliness
     },
 }
 
@@ -501,15 +507,14 @@ STOA ("porch") {
 
     Stoic : {
         = stoa
-        = follower of Stoic philosophy
+        = follower of the Stoic school
         → emotionally controlled person
-        → uncomplaining individual
     },
 
     Stoical : {
         = stoic + al
-        = showing emotional control
-        → uncomplaining
+        = characterized by emotional control
+        → enduring hardship calmly
     },
 
     Stoically : {
@@ -520,8 +525,8 @@ STOA ("porch") {
 
     Stoicism : {
         = stoic + ism
-        = philosophy of endurance
-        → emotional self-control
+        = philosophy of self-control
+        → endurance without complaint
     },
 }
 
@@ -940,13 +945,12 @@ TOME ("a cutting", "cut", "section") {
 }
 
 
-TREPIDUS ("frightened") {
+TREPIDO ("to tremble") {
 
     Intrepid : {
-        = in + trepidus
-        = not frightened
+        = in + trepido
+        = not trembling
         → fearless
-        → courageous
         → brave
     },
 
@@ -957,10 +961,11 @@ TREPIDUS ("frightened") {
     },
 
     Trepidation : {
-        = trepidus + ation
-        = trembling fear
+        = trepido + ation
+        = trembling
+        → fear
         → anxiety
-        → apprehension
+        → alarm
     },
 }
 

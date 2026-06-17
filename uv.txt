@@ -1,23 +1,84 @@
 URBS ("city") {
 
+    Exurb : {
+        = ex + urbs
+        = outside the city
+        → affluent area beyond suburbs
+    },
+
+    Exurbs : {
+        = exurb + s
+        = regions beyond suburbs
+    },
+
+    Exurban : {
+        = ex + urbs + an
+        = relating to exurbs
+    },
+
+    Exurbanite : {
+        = exurban + ite
+        = resident of an exurb
+    },
+
+    Exurbia : {
+        = exurb + ia
+        = exurban life and culture
+    },
+
+    Interurban : {
+        = inter + urbs + an
+        = between cities
+    },
+
+    Intraurban : {
+        = intra + urbs + an
+        = within a city
+    },
+
+    Suburb : {
+        = sub + urbs
+        = near-city settlement
+        → residential community near a city
+    },
+
+    Suburban : {
+        = sub + urbs + an
+        = near the city
+        → relating to suburbs
+    },
+
+    Suburbanite : {
+        = suburban + ite
+        = resident of a suburb
+    },
+
+    Suburbia : {
+        = suburb + ia
+        = collective suburbs
+        → suburban life and culture
+    },
+
     Urban : {
         = urbs + an
         = relating to a city
     },
 
     Urbane : {
-        = urbs
+        = urbs + ane
         = of the city
-        → polished
         → refined
+        → polished
+        → courteous
         → sophisticated
     },
 
     Urbanity : {
         = urbane + ity
-        = polish of manner
-        → refinement
+        = city-bred polish
         → sophistication
+        → courtesy
+        → cultivation
     },
 
     Urbanization : {
@@ -129,29 +190,7 @@ VERBUM ("word") {
 }
 
 
-VERSARE ("to turn") {
-
-    Versatile : {
-        = versare
-        = turn easily
-        → adaptable
-        → capable in many fields
-    },
-
-    Versatilely : {
-        = versatile + ly
-        = in an adaptable manner
-    },
-
-    Versatility : {
-        = versatile + ity
-        = adaptability
-        → many-sided ability
-    },
-}
-
-
-VERTO ("to turn") {
+VERSO / VERTO ("to turn") {
 
     Ambivert : {
         = ambi + verto
@@ -172,6 +211,24 @@ VERTO ("to turn") {
         = turn inward
         → thoughts directed inward
         → self-analytical person
+    },
+
+    Versatile : {
+        = verto + ile
+        = able to turn easily
+        → adaptable
+        → skilled in many fields
+    },
+
+    Versatilely : {
+        = versatile + ly
+        = in an adaptable manner
+    },
+
+    Versatility : {
+        = versatile + ity
+        = ability to turn to many activities
+        → many-sided ability
     },
 }
 

@@ -731,6 +731,18 @@ PATHOS ("suffering", "disease", "feeling") {
 }
 
 
+PEJOR ("worse") {
+
+    Pejorative : {
+        = pejor + ative
+        = expressing something worse
+        → derogatory
+        → insulting
+        → disparaging
+    },
+}
+
+
 PERI ("around", "surrounding") {
 
     Periodontia : {
