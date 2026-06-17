@@ -1,3 +1,13 @@
+ADELPHOS ("brother") {
+
+    Philadelphia : {
+        = philein + adelphos
+        = brotherly love
+        → city symbolizing brotherhood
+    },
+}
+
+
 ALTER ("other") {
 
     Alter Ego : {
@@ -80,11 +90,48 @@ AMBI ("both") {
 }
 
 
+ANA ("up", "through", "apart") {
+
+    Anatomical : {
+        = anatomy + ical
+        = relating to bodily structure
+    },
+
+    Anatomy : {
+        = ana + tome
+        = cutting up
+        → dissection
+        → study of bodily structure
+    },
+}
+
+
 ANDROS ("male", "man") {
+
+    Philander : {
+        = philein + andros
+        = love of males/females
+        → engage in sexual adventures
+    },
+
+    Philanderer : {
+        = philander + er
+        = promiscuous lover
+    },
 
     Polyandry : {
         = poly + andros
         = many husbands
+    },
+}
+
+
+ANGLUS ("English", "England") {
+
+    Anglophile : {
+        = Anglus + philein
+        = admirer of England
+        → admirer of English culture
     },
 }
 
@@ -296,6 +343,7 @@ BIBLION ("book") {
         = biblion + philein
         = lover of books
         → book enthusiast
+        → book collector
     },
 }
 
@@ -482,6 +530,17 @@ DEXTER ("right hand") {
 }
 
 
+DICHA ("in two") {
+
+    Dichotomy : {
+        = dicha + tome
+        = cut in two
+        → division into two branches
+        → separation into two categories
+    },
+}
+
+
 DROIT ("right", "proper") {
 
     Adroit : {
@@ -510,6 +569,57 @@ DROIT ("right", "proper") {
         = maladroit + ness
         = awkwardness
         → clumsiness
+    },
+}
+
+
+EC / EK ("out") {
+
+    Appendectomy : {
+        = appendix + ec + tome
+        = cutting out the appendix
+    },
+
+    Eccentric : {
+        = ec + kentron
+        = out of the center
+        → deviating from the norm
+        → unconventional
+        → odd
+        → strange
+    },
+
+    Eccentricity : {
+        = eccentric + ity
+        = quality of being off-center
+        → oddness
+        → unconventionality
+    },
+
+    Ectomy : {
+        = ec + tome
+        = cutting out
+        → surgical removal
+    },
+
+    Hysterectomy : {
+        = hystera + ec + tome
+        = cutting out the uterus
+    },
+
+    Mastectomy : {
+        = mastos + ec + tome
+        = cutting out the breast
+    },
+
+    Prostatectomy : {
+        = prostate + ec + tome
+        = cutting out the prostate
+    },
+
+    Tonsillectomy : {
+        = tonsil + ec + tome
+        = cutting out the tonsils
     },
 }
 
@@ -888,6 +998,17 @@ GYNE ("woman") {
 }
 
 
+HARMONIA ("harmony", "music") {
+
+    Philharmonic : {
+        = philein + harmonia
+        = love of harmony
+        → devotion to music
+        → musical society/orchestra
+    },
+}
+
+
 IATREIA ("healing", "medical treatment") {
 
     Geriatrics : {
@@ -1033,6 +1154,23 @@ KARDIA ("heart") {
 }
 
 
+KENTRON ("center", "sharp point") {
+
+    Eccentric : {
+        = ec + kentron
+        = out of the center
+        → deviating from normal position
+        → unconventional person
+    },
+
+    Eccentricity : {
+        = eccentric + ity
+        = state of being off-center
+        → odd behavior
+    },
+}
+
+
 LINGUA ("tongue", "language") {
 
     Bilingual : {
@@ -1049,6 +1187,7 @@ LINGUA ("tongue", "language") {
     Linguistic : {
         = linguistics + ic
         = pertaining to language
+        = relating to language
     },
 
     Linguistics : {
@@ -1077,7 +1216,7 @@ LINGUA ("tongue", "language") {
 }
 
 
-LOGOS ("study", "science", "knowledge", "word", "reason") {
+LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
 
     Anthropology : {
         = anthropos + logos
@@ -1133,6 +1272,14 @@ LOGOS ("study", "science", "knowledge", "word", "reason") {
         = philein + logos
         = love of words
         → study of language and literature
+        → study of language
+        → linguistics
+    },
+
+    Philosophy : {
+        = philein + sophos
+        = love of wisdom
+        → pursuit of truth and wisdom
     },
 
     Psychology : {
@@ -1143,6 +1290,12 @@ LOGOS ("study", "science", "knowledge", "word", "reason") {
     Semantic : {
         = semantics + ic
         = relating to meaning
+    },
+
+    Semanticist : {
+        = sema + ntics + ist
+        = student of meaning
+        → specialist in semantics
     },
 
     Semantics : {
@@ -1771,12 +1924,54 @@ PHILEIN ("to love") {
     Bibliophile : {
         = biblion + philein
         = lover of books
+        → book collector
+    },
+
+    Philadelphia : {
+        = philein + adelphos
+        = brotherly love
+        → city of brotherly love
+    },
+
+    Philander : {
+        = philein + andros
+        = love of men/women
+        → engage in casual love affairs
+        → be sexually promiscuous
+    },
+
+    Philanderer : {
+        = philander + er
+        = person who engages in love affairs
+    },
+
+    Philanthropic : {
+        = philanthropy + ic
+        = characterized by concern for humanity
+    },
+
+    Philanthropist : {
+        = philein + anthropos + ist
+        = lover of mankind
+        → charitable person
     },
 
     Philanthropy : {
         = philein + anthropos
         = love of mankind
         → humanitarian concern
+        → charity
+    },
+
+    Philharmonic : {
+        = philein + harmonia
+        = love of harmony
+        → devotion to music
+    },
+
+    Philological : {
+        = philology + ical
+        = pertaining to language study
     },
 
     Philologist : {
@@ -1788,6 +1983,7 @@ PHILEIN ("to love") {
         = philein + logos
         = love of words
         → study of language
+        → linguistics
     },
 
     Philosopher : {
@@ -1799,6 +1995,13 @@ PHILEIN ("to love") {
         = philein + sophos
         = love of wisdom
         → pursuit of knowledge and truth
+        → search for truth and knowledge
+    },
+
+    Philter : {
+        = philein
+        = love potion
+        → magical drink intended to inspire love
     },
 }
 
@@ -2012,7 +2215,7 @@ PSYCHE ("mind", "soul", "spirit") {
 }
 
 
-SECTUS ("cut") {
+SECTUS ("cut", "to cut") {
 
     Dissect : {
         = dis + sectus
@@ -2023,13 +2226,44 @@ SECTUS ("cut") {
     Insect : {
         = in + sectus
         = cut into
+        = cut into sections
         → creature with segmented body
+        → segmented creature
     },
 
     Section : {
         = sectus + ion
         = part cut off
+        = something cut off
         → division or segment
+        → division
+        → part
+    },
+}
+
+
+SEMA ("sign", "meaning") {
+
+    Semantic : {
+        = semantics + ic
+        = pertaining to meaning
+    },
+
+    Semantical : {
+        = semantics + al
+        = relating to meaning
+    },
+
+    Semanticist : {
+        = semantics + ist
+        = specialist in meanings of words
+        → student of psychological effects of language
+    },
+
+    Semantics : {
+        = sema + ntics
+        = study of meanings
+        → science of meaning in language
     },
 }
 
@@ -2051,6 +2285,18 @@ SOCIUS ("companion", "associate") {
     Social : {
         = socius + al
         = relating to companions or society
+        = relating to society
+    },
+
+    Society : {
+        = socius + ety
+        = organized companionship
+        → community of people
+    },
+
+    Sociological : {
+        = sociology + ical
+        = pertaining to social organization
     },
 
     Sociologist : {
@@ -2062,6 +2308,7 @@ SOCIUS ("companion", "associate") {
         = socius + logos
         = study of society
         → science of social organization
+        → science of social relationships
     },
 }
 
@@ -2078,6 +2325,22 @@ SOMA ("body") {
         = soma + ic
         = bodily
         → relating to the body
+    },
+}
+
+
+SOPHOS ("wise", "wisdom") {
+
+    Philosopher : {
+        = philein + sophos + er
+        = lover of wisdom
+        → thinker
+    },
+
+    Philosophy : {
+        = philein + sophos
+        = love of wisdom
+        → pursuit of knowledge and truth
     },
 }
 
@@ -2130,18 +2393,46 @@ THERME ("heat") {
 }
 
 
-TOME ("a cutting") {
+TOME ("a cutting", "cut", "section") {
+
+    Anatomical : {
+        = anatomy + ical
+        = pertaining to bodily structure
+    },
 
     Anatomy : {
         = ana + tome
         = cutting up
         → dissection; bodily structure
+        → dissection
+        → study of bodily structure
+        → bodily structure itself
+    },
+
+    Appendectomy : {
+        = appendix + ec + tome
+        = cutting out the appendix
+        → surgical removal of appendix
     },
 
     Atom : {
         = a + tome
         = not cut
+        = indivisible particle
         → indivisible particle
+        → originally thought to be smallest possible unit of matter
+    },
+
+    Atomic : {
+        = atom + ic
+        = pertaining to atoms
+    },
+
+    Dichotomy : {
+        = dicha + tome
+        = cut into two
+        → division into two parts
+        → bifurcation
     },
 
     Entomological : {
@@ -2157,7 +2448,46 @@ TOME ("a cutting") {
     Entomology : {
         = en + tome
         = insect study
+        = en + tome + logos
+        = study of creatures "cut in"
         → science of insects
+    },
+
+    Hysterectomy : {
+        = hystera + ec + tome
+        = cutting out the uterus
+        → surgical removal of uterus
+    },
+
+    Insect : {
+        = in + sectus
+        = cut into sections
+        → segmented creature
+    },
+
+    Mastectomy : {
+        = mastos + ec + tome
+        = cutting out the breast
+        → surgical removal of breast
+    },
+
+    Prostatectomy : {
+        = prostate + ec + tome
+        = cutting out the prostate gland
+        → surgical removal of prostate
+    },
+
+    Tome : {
+        = tome
+        = part cut from a whole
+        → one volume of a larger work
+        → very large or heavy book
+    },
+
+    Tonsillectomy : {
+        = tonsil + ec + tome
+        = cutting out the tonsils
+        → surgical removal of tonsils
     },
 }
 
