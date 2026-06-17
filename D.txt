@@ -1,0 +1,262 @@
+DERMA ("skin") {
+
+    Dermatological : {
+        = dermatology + al
+        = relating to the skin
+    },
+
+    Dermatologist : {
+        = derma + logos + ist
+        = skin specialist
+        → dermatologist
+    },
+
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+        → medical science of skin diseases
+    },
+
+    Epidermis : {
+        = epi + derma
+        = upon the skin
+        → outer layer of skin
+    },
+}
+
+
+DESTITUERE ("to abandon", "leave without") {
+
+    Destitute : {
+        = destitution + e
+        = left without resources
+        → impoverished
+        → lacking necessities of life
+    },
+
+    Destitution : {
+        = de + statuere
+        = left standing alone
+        → total deprivation
+        → extreme poverty
+    },
+}
+
+
+DEXTER ("right hand") {
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = equal skill with both hands
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both hands function like right hands
+        → equal skill in both hands
+    },
+
+    Dexterity : {
+        = dexter + ity
+        = skill
+        → manual skill
+        → general competence
+    },
+
+    Dexterous : {
+        = dexter + ous
+        = having the skill of the right hand
+        → skillful
+    },
+}
+
+
+DICHA ("in two") {
+
+    Dichotomy : {
+        = dicha + tome
+        = cut in two
+        → division into two branches
+        → separation into two categories
+    },
+}
+
+
+DICO / DICTUS ("to say", "to tell", "to speak") {
+
+    Benediction : {
+        = bene + dico
+        = saying good
+        → blessing
+    },
+
+    Benedictory : {
+        = bene + dict + ory
+        = relating to blessings
+        → blessing-like
+    },
+
+    Malediction : {
+        = mal + dico
+        = speak evil
+        = speaking evil
+        = saying evil
+        → curse
+    },
+
+    Maledictory : {
+        = mal + dico + ory
+        = mal + dict + ory
+        = relating to curses
+        = of cursing
+        → cursing
+        → curse-like
+    },
+}
+
+
+DILETTARE ("to delight oneself") {
+
+    Dilettante : {
+        = Italian dilettare
+        = one who delights in an activity
+        → amateur enthusiast
+        → superficial participant
+        → dabbler in the arts
+    },
+
+    Dilettantism : {
+        = dilettante + ism
+        = conduct of a dabbler
+        → superficial interest
+        → amateurism
+    },
+}
+
+
+DOLEO ("to suffer", "to grieve") {
+
+    Dolorous : {
+        = doleo + ous
+        = full of grief
+        → sorrowful
+        → melancholy
+        → mournful
+    },
+
+    Dolor : {
+        = doleo
+        = grief
+        → sorrow
+        → suffering
+    },
+
+    Doleful : {
+        = doleo + ful
+        = full of sorrow
+        → gloomy
+        → exaggerated sadness
+    },
+
+    Condole : {
+        = con + doleo
+        = grieve together
+        → sympathize
+        → mourn with another
+    },
+
+    Condolence : {
+        = con + doleo + ence
+        = expression of shared grief
+        → sympathy after loss
+    },
+
+    Dolores : {
+        = from dolor
+        = sorrows
+        → grief
+    },
+
+    Indolent : {
+        = in + doleo
+        = not suffering
+        → avoiding effort
+        → lazy
+        → inactive
+    },
+
+    Indolence : {
+        = in + doleo + ence
+        = absence of effort
+        → laziness
+        → idleness
+    },
+}
+
+
+DONO ("to give") {
+
+    Condonation : {
+        = condone + ation
+        = act of forgiving
+        → overlooking wrongdoing
+    },
+
+    Condone : {
+        = con + dono
+        = completely give away
+        → forgive
+        → overlook an offense
+    },
+
+    Donate : {
+        = dono + ate
+        = give
+        → contribute voluntarily
+    },
+
+    Donation : {
+        = dono + ation
+        = act of giving
+        → gift
+        → contribution
+    },
+
+    Donor : {
+        = dono + or
+        = giver
+        → contributor
+    },
+}
+
+
+DROIT ("right", "proper") {
+
+    Adroit : {
+        = a + droit
+        = to the right way
+        → skillful
+        → clever
+    },
+
+    Adroitness : {
+        = adroit + ness
+        = skill
+        → cleverness
+        → dexterity
+    },
+
+    Maladroit : {
+        = mal + adroit
+        = badly right
+        → lacking skill
+        → awkward
+        → clumsy
+    },
+
+    Maladroitness : {
+        = maladroit + ness
+        = awkwardness
+        → clumsiness
+    },
+}

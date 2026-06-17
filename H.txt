@@ -1,0 +1,85 @@
+HARMONIA ("harmony", "music") {
+
+    Philharmonic : {
+        = philein + harmonia
+        = love of harmony
+        → devotion to music
+        → musical society/orchestra
+    },
+}
+
+
+HORA ("hour") {
+
+    Horologist : {
+        = hora + logist
+        = student of timekeeping
+        → clock expert
+    },
+
+    Horology : {
+        = hora + logy
+        = study of timekeeping
+        → science of clocks and watches
+    },
+
+    Horometer : {
+        = hora + meter
+        = measure of time
+        → time-measuring instrument
+    },
+}
+
+
+HYPER (over, above) {
+
+    Hypertension : {
+        = hyper + tension
+        = high pressure
+        → abnormally high blood pressure
+    },
+
+    Hypertensive : {
+        = hyper + tensive
+        = having high blood pressure
+    },
+}
+
+
+HYPO ("under, below") {
+
+    Hypochondria : {
+        = hypo + chondria
+        = morbid anxiety about health
+        = condition beneath cartilage
+        → health obsession
+        → morbid anxiety about health
+        → imaginary illness obsession
+    },
+
+    Hypochondriac : {
+        = hypo + chondros
+        = beneath the cartilage
+        = hypo + chondriac
+        = person obsessed with disease
+        → person obsessed with illness
+        → sufferer of imaginary ailments
+        → sufferer from imaginary ailments
+    },
+
+    Hypochondriacal : {
+        = hypochondria + al
+        = excessively concerned with health
+    },
+
+    Hypotension : {
+        = hypo + tension
+        = low pressure
+        → abnormally low blood pressure
+    },
+
+    Hypotensive : {
+        = hypo + tensive
+        = having low blood pressure
+    },
+}

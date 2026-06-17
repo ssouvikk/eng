@@ -1,0 +1,96 @@
+KAKOS ("bad", "ugly", "harsh") {
+
+    Cacographer : {
+        = kakos + graphein + er
+        = writer of bad handwriting
+        → poor writer; one whose handwriting is illegible
+    },
+
+    Cacographic : {
+        = kakos + graphein + ic
+        = pertaining to bad writing
+        → marked by poor or illegible handwriting
+    },
+
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible or poor handwriting
+    },
+
+    Cacophonous : {
+        = kakos + phone + ous
+        = unpleasant in sound
+    },
+
+    Cacophony : {
+        = kakos + phone
+        = bad sound
+        → harsh noise
+    },
+}
+
+
+KALLOS ("beauty") {
+
+    Calligrapher : {
+        = kallos + graphein + er
+        = artist of beautiful writing
+    },
+
+    Calligraphic : {
+        = calligraphy + ic
+        = pertaining to beautiful writing
+        → artistic handwriting
+    },
+
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting / artistic penmanship
+    },
+}
+
+
+KARDIA ("heart") {
+
+    Cardiac : {
+        = kardia + ac
+        = relating to the heart
+    },
+
+    Cardiogram : {
+        = kardia + gramma
+        = heart record
+        → tracing of heart activity
+    },
+
+    Cardiologist : {
+        = kardia + logos + ist
+        = heart specialist
+        → cardiologist
+    },
+
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+        → science of heart diseases
+    },
+}
+
+
+KENTRON ("center", "sharp point") {
+
+    Eccentric : {
+        = ec + kentron
+        = out of the center
+        → deviating from normal position
+        → unconventional person
+    },
+
+    Eccentricity : {
+        = eccentric + ity
+        = state of being off-center
+        → odd behavior
+    },
+}
