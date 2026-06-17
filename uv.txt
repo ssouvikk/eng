@@ -124,12 +124,13 @@ UXOR (wife) {
 }
 
 
-VACILLARE ("to sway", "to waver") {
+VACILLO ("to sway", "to swing back and forth") {
 
     Vacillate : {
-        = vacillare
+        = vacillo + ate
         = sway back and forth
         → waver
+        → hesitate
         → be indecisive
     },
 
@@ -137,12 +138,21 @@ VACILLARE ("to sway", "to waver") {
         = vacillate + ing
         = wavering
         → uncertain
+        → unable to decide
     },
 
     Vacillation : {
         = vacillate + ion
         = act of wavering
         → indecision
+        → uncertainty
+    },
+
+    Vacillatory : {
+        = vacillate + ory
+        = characterized by wavering
+        → indecisive
+        → irresolute
     },
 }
 

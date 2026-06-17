@@ -198,18 +198,20 @@ INTERNUS ("inside") {
 }
 
 
-INTIMUS ("innermost") {
+INTIMUS ("innermost", "deep within") {
 
     Intimacy : {
         = intimate + acy
-        = close personal relationship
-        → familiarity
+        = state of close familiarity
+        → personal closeness
+        → deep relationship
     },
 
     Intimate (adjective) : {
         = intimus
         = very close
         → deeply familiar
+        → closely connected
     },
 
     Intimate (verb) : {
@@ -221,8 +223,9 @@ INTIMUS ("innermost") {
 
     Intimation : {
         = intimate + ion
-        = slight indication from within
+        = indication from the innermost part
         → hint
         → suggestion
+        → indirect clue
     },
 }

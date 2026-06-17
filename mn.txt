@@ -623,38 +623,47 @@ MISEIN ("to hate") {
 }
 
 
-MISER ("wretched", "unhappy") {
+MISER ("wretched", "unhappy", "miserable") {
 
     Commiserate : {
-        = com + miser
-        = share another's unhappiness
+        = com + miser + ate
+        = be miserable together
         → sympathize
-        → feel pity
+        → share another's sorrow
     },
 
     Commiseration : {
         = commiserate + ion
-        = sharing another's sorrow
+        = sharing another's grief
         → sympathy
         → pity
     },
 
     Miser : {
         = miser
-        = unhappy person
+        = wretched person
         → stingy hoarder
     },
 
     Miserable : {
-        = miser
-        = unhappy
+        = miser + able
+        = full of misery
+        → unhappy
         → wretched
+    },
+
+    Miserly : {
+        = miser + ly
+        = like a miser
+        → stingy
+        → ungenerous
     },
 
     Misery : {
         = miser + y
         = state of unhappiness
         → suffering
+        → distress
     },
 }
 

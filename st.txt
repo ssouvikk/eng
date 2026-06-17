@@ -336,33 +336,37 @@ SIMILIS ("similar", "like") {
         = dissemble + ance
         = act of concealing reality
         → deception
+        → concealment
     },
 
     Dissemble : {
         = dis + similis
-        = disguise reality
+        = disguise what is true
         → conceal intentions
-        → feign ignorance
+        → pretend ignorance
+        → deceive
     },
 
     Dissimulate : {
         = dis + simulate
-        = make falsely unlike true feelings
-        → conceal feelings
-        → pretend opposite emotions
+        = pretend differently from reality
+        → conceal true feelings
+        → show opposite emotions
+        → deceive by pretense
     },
 
     Dissimulation : {
         = dissimulate + ion
-        = concealment by pretense
+        = act of concealing real feelings
         → hypocrisy
-        → deception
+        → emotional deception
     },
 
     Dissimulator : {
         = dissimulate + or
-        = one who conceals true feelings
+        = one who hides true feelings
         → pretender
+        → deceiver
     },
 
     Similar : {
@@ -371,24 +375,32 @@ SIMILIS ("similar", "like") {
         → resembling
     },
 
+    Similarity : {
+        = similis + ity
+        = state of being alike
+        → resemblance
+    },
+
     Simulate : {
-        = similis
+        = simulo ← similis
         = make similar
         → imitate
         → pretend
+        → feign reality
     },
 
     Simulated : {
         = simulate + ed
-        = made to resemble
+        = made to resemble the real thing
         → artificial imitation
     },
 
     Simulation : {
         = simulate + ion
-        = act of making similar
-        → imitation
+        = act of making something similar
+        → imitation of reality
         → pretense
+        → counterfeit appearance
     },
 }
 

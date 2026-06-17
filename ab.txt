@@ -281,7 +281,7 @@ ALTRUIST ("other people first") {
 }
 
 
-AMBI ("both") {
+AMBI ("both", "on both sides") {
 
     Ambidexterity : {
         = ambi + dexter + ity
@@ -293,6 +293,20 @@ AMBI ("both") {
         = both right hands
         → able to use both hands equally well
         → skillful
+    },
+
+    Ambivalence : {
+        = ambivalent + ence
+        = state of conflicting feelings
+        → mixed emotions
+        → simultaneous attraction and repulsion
+    },
+
+    Ambivalent : {
+        = ambi + valent
+        = strong in both directions
+        → feeling both ways at once
+        → having contradictory emotions
     },
 
     Ambivert : {

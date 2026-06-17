@@ -251,10 +251,17 @@ LEO ("lion") {
 LEVIS ("light", "not heavy") {
 
     Alleviate : {
-        = ad(al) + levis
+        = ad(al) + levis + ate
         = make lighter
         → lessen burden
-        → ease suffering
+        → ease pain
+        → provide temporary relief
+    },
+
+    Alleviating : {
+        = alleviate + ing
+        = producing relief
+        → easing
     },
 
     Alleviation : {
@@ -262,6 +269,28 @@ LEVIS ("light", "not heavy") {
         = act of making lighter
         → relief
         → mitigation
+    },
+
+    Alleviative : {
+        = alleviate + ive
+        = tending to lighten suffering
+        → soothing
+        → relieving
+    },
+
+    Elevate : {
+        = e(ex) + levis + ate
+        = raise up
+        → lift
+        → raise to higher position
+        → uplift spirits
+    },
+
+    Elevation : {
+        = elevate + ion
+        = act of raising
+        → upliftment
+        → height
     },
 
     Leverage : {
@@ -272,14 +301,30 @@ LEVIS ("light", "not heavy") {
 
     Levitate : {
         = levis + ate
-        = make light
+        = become light
         → rise into air
+        → float upward
+    },
+
+    Levitation : {
+        = levitate + ion
+        = act of floating upward
+        → apparent rising without support
     },
 
     Levity : {
         = levis + ity
         = lightness
+        → frivolity
+        → joking attitude
         → lack of seriousness
+    },
+
+    Relieve : {
+        = re + levis
+        = make light again
+        → ease
+        → reduce burden
     },
 }
 

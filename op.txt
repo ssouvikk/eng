@@ -410,6 +410,30 @@ ORTHOS ("straight", "correct") {
 }
 
 
+OSCILLUM ("swing", "little swing") {
+
+    Oscillate : {
+        = oscillum + ate
+        = swing like a pendulum
+        → move back and forth
+        → fluctuate
+    },
+
+    Oscillation : {
+        = oscillate + ion
+        = repeated swinging movement
+        → fluctuation
+        → back-and-forth motion
+    },
+
+    Oscillatory : {
+        = oscillate + ory
+        = characterized by repeated swinging
+        → fluctuating
+    },
+}
+
+
 OSTEON ("bone") {
 
     Osteopath : {
