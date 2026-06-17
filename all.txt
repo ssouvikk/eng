@@ -8,6 +8,89 @@ ADELPHOS ("brother") {
 }
 
 
+ADULOR ("to flatter") {
+
+    Adulate : {
+        = adulor + ate
+        = flatter excessively
+        → worship
+        → praise slavishly
+    },
+
+    Adulation : {
+        = adulate + ion
+        = excessive flattery
+        → exaggerated admiration
+    },
+
+    Adulatory : {
+        = adulate + ory
+        = characterized by flattery
+        → worshipful
+    },
+}
+
+
+AEQUUS / EQU ("equal") {
+
+    Equanimity : {
+        = equ + animus
+        = equal mind
+        → calmness
+        → emotional balance
+    },
+
+    Equilateral : {
+        = equ + latus
+        = equal-sided
+        → having all sides equal
+    },
+
+    Equilibrist : {
+        = equ + libra
+        = equal balance
+        → tightrope walker
+        → one who balances expertly
+    },
+
+    Equity : {
+        = equ + ity
+        = equality
+        → fairness
+        → justice
+    },
+
+    Equivocal : {
+        = equ + voc(al)
+        = equally voiced
+        = having more than one equally possible meaning
+        → ambiguous
+        → intentionally unclear
+    },
+
+    Equivocate : {
+        = equ + voc + ate
+        = speak with equal meanings
+        → use ambiguous language
+        → deliberately mislead
+    },
+
+    Equivocation : {
+        = equivocate + ion
+        = act of deliberate ambiguity
+        → evasive speech
+    },
+
+    Unequivocal : {
+        = un + equivocal
+        = not equally interpretable
+        → clear
+        → direct
+        → capable of only one meaning
+    },
+}
+
+
 ALTER ("other") {
 
     Alter Ego : {
@@ -656,6 +739,22 @@ DICHA ("in two") {
 }
 
 
+DICO / DICTUS ("to say", "to tell") {
+
+    Malediction : {
+        = mal + dico
+        = speak evil
+        → curse
+    },
+
+    Maledictory : {
+        = mal + dico + ory
+        = relating to curses
+        → cursing
+    },
+}
+
+
 DROIT ("right", "proper") {
 
     Adroit : {
@@ -817,6 +916,28 @@ EX ("out") {
         = ex + odontos
         = out tooth specialist
         → tooth extractor
+    },
+}
+
+
+FACIO ("to do", "to make") {
+
+    Malecent : {
+        = mal + facio + ent
+        = doing evil
+        → harmful
+    },
+
+    Malefaction : {
+        = mal + facio + tion
+        = evil deed
+        → wrongdoing
+    },
+
+    Malefactor : {
+        = mal + facio
+        = doer of evil
+        → criminal
     },
 }
 
@@ -1603,11 +1724,18 @@ LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
 }
 
 
-MAL ("bad") {
+MALUS ("bad", "evil") {
+
+    Maladjusted : {
+        = mal + adjusted
+        = badly adjusted
+        → psychologically troubled
+    },
 
     Maladroit : {
         = mal + adroit
         = badly skilled
+        = badly skillful
         → awkward
         → clumsy
     },
@@ -1615,6 +1743,122 @@ MAL ("bad") {
     Maladroitness : {
         = mal + adroit + ness
         = awkwardness
+    },
+
+    Malady : {
+        = mal + ady
+        = bad condition
+        → illness
+    },
+
+    Malaise : {
+        = mal + aise
+        = bad ease
+        → vague discomfort
+        → feeling of illness
+    },
+
+    Malcontent : {
+        = mal + content
+        = badly contented
+        → dissatisfied person
+    },
+
+    Malecent : {
+        = mal + facio + ent
+        = doing evil
+        → harmful
+        → hurtful
+    },
+
+    Malediction : {
+        = mal + dico
+        = speaking evil
+        → curse
+    },
+
+    Maledictory : {
+        = mal + dico + ory
+        = relating to curses
+        → cursing
+    },
+
+    Malefaction : {
+        = mal + facio + tion
+        = evil deed
+        → crime
+        → wrongdoing
+    },
+
+    Malefactor : {
+        = mal + facio
+        = doer of evil
+        → criminal
+        → wrongdoer
+    },
+
+    Malevolent : {
+        = mal + volo
+        = wishing evil
+        → ill-disposed
+        → wishing harm
+    },
+
+    Malice : {
+        = mal + ice
+        = evil intention
+        → spite
+    },
+
+    Malicious : {
+        = mal + ice
+        = full of evil intent
+        → spiteful
+    },
+
+    Malign : {
+        = malus
+        = think or speak evil
+        → slander
+        → defame
+    },
+
+    Malign (adj.) : {
+        = malus
+        = evil
+        → harmful
+        → malevolent
+    },
+
+    Malignancy : {
+        = malignant + cy
+        = state of harmfulness
+        → cancerous condition
+    },
+
+    Malignant : {
+        = malus
+        = harmful
+        → dangerously evil
+        → cancerous
+    },
+
+    Malignity : {
+        = malign + ity
+        = evil nature
+        → malevolence
+    },
+
+    Malnutrition : {
+        = mal + nutrition
+        = bad nourishment
+        → poor nutrition
+    },
+
+    Malpractice : {
+        = mal + practice
+        = bad professional conduct
+        → professional wrongdoing
     },
 }
 
@@ -1640,6 +1884,22 @@ MANTEIA ("divination", "prophecy", "predictor") {
         = cheir + manteia
         = divination from the hand
         → palmistry
+    },
+}
+
+
+MANUS ("hand") {
+
+    Manual : {
+        = manus + al
+        = relating to the hand
+        → done by hand
+    },
+
+    Manuscript : {
+        = manus + scriptus
+        = handwritten document
+        → original text
     },
 }
 
@@ -1701,6 +1961,34 @@ METRON ("measure", "measurement") {
         = therme + metron
         = heat measure
         → instrument measuring temperature
+    },
+}
+
+
+MILITIS ("soldier") {
+
+    Militancy : {
+        = militant + cy
+        = aggressive attitude
+        → combativeness
+    },
+
+    Militant : {
+        = militis + ant
+        = soldier-like
+        → aggressive fighter for a cause
+    },
+
+    Military : {
+        = militis + ary
+        = relating to soldiers
+    },
+
+    Militate : {
+        = militis + ate
+        = act as a soldier against
+        → work against
+        → operate to disadvantage
     },
 }
 
@@ -2209,6 +2497,59 @@ PAIDOS / PAIS ("child") {
 }
 
 
+PAR ("equal") {
+
+    Disparage : {
+        = dis + par
+        = lower another's equality/status
+        → belittle
+        → speak slightingly of
+    },
+
+    Disparagement : {
+        = disparage + ment
+        = act of belittling
+        → depreciation
+        → ridicule
+    },
+
+    Disparate : {
+        = dis + par
+        = unequal
+        → essentially different
+        → fundamentally unlike
+    },
+
+    Disparity : {
+        = dis + parity
+        = lack of equality
+        → inequality
+        → difference in status or amount
+    },
+
+    Par : {
+        = par
+        = equal standard
+        → expected level
+        → average performance benchmark
+    },
+
+    Parity : {
+        = par + ity
+        = equality
+        → equivalence
+        → equal status
+    },
+
+    Peer : {
+        = par
+        = equal
+        → one of equal rank
+        → social or professional equal
+    },
+}
+
+
 PATHOS ("suffering", "disease", "feeling") {
 
     Antipathetic : {
@@ -2480,6 +2821,17 @@ PHOTOS ("light") {
         = photos + graphein
         = writing by light
         → image produced through light
+    },
+}
+
+
+PLAC ("to please", "to soothe", "to pacify") {
+
+    Placate : {
+        = plac + ate
+        = make pleasing
+        → pacify
+        → change hostility into friendliness
     },
 }
 
@@ -2758,6 +3110,93 @@ SCIO / SCIENS ("to know", "knowing") {
 }
 
 
+SCRIBO / SCRIPTUS ("to write") {
+
+    Describe : {
+        = de + scribo
+        = write down
+        → portray
+        → depict
+    },
+
+    Description : {
+        = describe + tion
+        = written account
+        → portrayal
+    },
+
+    Descriptive : {
+        = describe + ive
+        = characterized by description
+    },
+
+    Inscribe : {
+        = in + scribo
+        = write in
+        → engrave
+        → enter formally
+    },
+
+    Inscription : {
+        = inscribe + tion
+        = engraved writing
+    },
+
+    Inscriptive : {
+        = inscribe + ive
+        = relating to inscription
+    },
+
+    Manuscript : {
+        = manus + scriptus
+        = handwritten writing
+        → original document
+    },
+
+    Postscript : {
+        = post + scriptus
+        = written after
+        → additional note
+    },
+
+    Proscribe : {
+        = pro + scribo
+        = write publicly against
+        → prohibit
+        → forbid officially
+    },
+
+    Proscription : {
+        = proscribe + tion
+        = official prohibition
+        → ban
+    },
+
+    Proscriptive : {
+        = proscribe + ive
+        = tending to prohibit
+        → restrictive
+    },
+
+    Subscribe : {
+        = sub + scribo
+        = write under
+        → sign
+        → support
+    },
+
+    Subscription : {
+        = subscribe + tion
+        = act of signing/supporting
+    },
+
+    Subscriptive : {
+        = subscribe + ive
+        = relating to subscription
+    },
+}
+
+
 SECTUS ("cut", "to cut") {
 
     Dissect : {
@@ -3021,6 +3460,23 @@ THERME ("heat") {
 }
 
 
+TITILL ("to tickle") {
+
+    Titillate : {
+        = titill + ate
+        = tickle
+        → stimulate pleasantly
+        → excite interest
+    },
+
+    Titillation : {
+        = titillate + ion
+        = pleasurable stimulation
+        → excitement
+    },
+}
+
+
 TOME ("a cutting", "cut", "section") {
 
     Anatomical : {
@@ -3178,6 +3634,113 @@ VETUS ("old") {
         = old experienced person
         → seasoned expert
         → old hand
+    },
+}
+
+
+VIA ("road", "way") {
+
+    Obviate : {
+        = ob + via + ate
+        = remove from the road
+        → prevent
+        → make unnecessary
+    },
+
+    Obviation : {
+        = obviate + ion
+        = act of preventing
+        → elimination of need
+    },
+
+    Obvious : {
+        = ob + via
+        = in the road
+        → easily seen
+        → evident
+    },
+
+    Trivia : {
+        = tri + via
+        = common roadside talk
+        → unimportant facts
+        → trifles
+    },
+
+    Trivial : {
+        = tri + via
+        = at the meeting of three roads
+        → commonplace
+        → insignificant
+    },
+
+    Triviality : {
+        = trivial + ity
+        = insignificant thing
+        → trifle
+    },
+
+    Via : {
+        = via
+        = road
+        → route
+        → by way of
+    },
+}
+
+
+VOLO ("to wish") {
+
+    Malevolent : {
+        = mal + volo
+        = wishing evil
+        → ill-disposed
+    },
+
+    Volition : {
+        = volo + ition
+        = act of wishing
+        → will
+        → conscious choice
+    },
+}
+
+
+VOX / VOCIS ("voice") {
+
+    Equivocal : {
+        = equ + vox
+        = equally voiced
+        → ambiguous
+        → open to multiple interpretations
+    },
+
+    Equivocate : {
+        = equ + vox + ate
+        = use equally voiced meanings
+        → speak ambiguously
+        → evade commitment
+    },
+
+    Magnavox : {
+        = magnus + vox
+        = great voice
+        → amplified sound
+    },
+
+    Vocal : {
+        = vox
+        = voice-related
+        → spoken
+        → oral
+    },
+
+    Vociferous : {
+        = vox + fero
+        = carry the voice
+        → loud
+        → noisy
+        → clamorous
     },
 }
 
