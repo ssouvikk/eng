@@ -1,0 +1,18 @@
+SESSIONS_1_AND_2_REVISION {
+
+    Egoist      = self first
+    Egotist     = talks about self
+    Egocentric  = self at the center
+    Egomaniac   = obsessed with self
+
+    Alter_Ego   = other self
+    Alternate   = take turns
+    Alternative = another choice
+    Alteration  = change
+    Altercation = quarrel
+
+    Altruist    = others first
+    Altruism    = selfless concern for others
+    Altruistic  = selfless
+}
+
