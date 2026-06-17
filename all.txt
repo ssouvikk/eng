@@ -481,37 +481,50 @@ CHRONOS ("time") {
         = ana + chronos + ism
         = thing out of its proper time
         → historical mismatch
+        → temporal inconsistency
     },
 
     Anachronistic : {
         = anachronous + tic
         = temporally misplaced
+        = out of proper historical time
         → outdated
+        → historically misplaced
     },
 
     Anachronous : {
         = ana + chronos
         = against time
+        = against/out of time
         → belonging to another period
         → out of time
+        → belonging to another era
+        → temporally misplaced
     },
 
     Chronic : {
         = chronos + ic
         = continuing through time
+        = pertaining to time
         → recurring
         → persistent
+        → continuing over time
+        → recurring repeatedly
     },
 
     Chronicity : {
         = chronic + ity
         = state of recurring over time
+        = state of recurring through time
         → persistence
+        → long-duration condition
     },
 
     Chronological : {
         = chronology + ical
         = arranged by time sequence
+        = relating to time sequence
+        → arranged in historical order
     },
 
     Chronology : {
@@ -519,6 +532,7 @@ CHRONOS ("time") {
         = study/order of time
         → time sequence
         → historical order
+        → arrangement of events by dates
     },
 
     Chronometer : {
@@ -547,11 +561,12 @@ CHRONOS ("time") {
 }
 
 
-CORRIGO ("to correct", "to reform") {
+CORRIGO ("to correct", "to reform", "to set straight") {
 
     Corrigible : {
         = corrigo + ible
         = capable of being corrected
+        = capable of correction
         → reformable
     },
 
@@ -566,6 +581,11 @@ CORRIGO ("to correct", "to reform") {
         = not capable of correction
         → beyond reform
         → irredeemable
+    },
+
+    Incorrigibleness : {
+        = incorrigible + ness
+        = state of being beyond reform
     },
 }
 
@@ -905,6 +925,7 @@ GENESIS ("birth", "origin", "beginning") {
     Gene : {
         = genesis
         = unit of origin/birth traits
+        = unit of inherited origin
         → hereditary factor
     },
 
@@ -916,12 +937,14 @@ GENESIS ("birth", "origin", "beginning") {
     Genealogist : {
         = genealogy + ist
         = student of family origins
+        = student of family history
         → ancestry researcher
     },
 
     Genealogy : {
         = genea + logos
         = study of origins/family birth lines
+        = study of family origins
         → tracing ancestry
         → family history
     },
@@ -941,16 +964,28 @@ GENESIS ("birth", "origin", "beginning") {
         → inherited
     },
 
+    Geneticist : {
+        = genetic + ist
+        = specialist in heredity
+    },
+
     Genetics : {
         = gene + tics
         = science of heredity
         → study of inheritance
+        → study of inherited traits
     },
 
     Genital : {
         = genesis + al
         = relating to generation/birth
         → reproductive organs
+    },
+
+    Hereditary : {
+        = hereditas
+        = inherited from parents
+        → transmitted genetically
     },
 
     Psychogenic : {
@@ -1124,6 +1159,7 @@ GREX, GREGIS ("flock", "herd", "group") {
     Aggregate : {
         = ad + grex
         = brought into a group
+        = brought into a flock/group
         → total mass
         → collection
     },
@@ -1131,6 +1167,7 @@ GREX, GREGIS ("flock", "herd", "group") {
     Aggregation : {
         = aggregate + ion
         = act of collecting together
+        = gathering together
         → accumulation
     },
 
@@ -1152,6 +1189,9 @@ GREX, GREGIS ("flock", "herd", "group") {
         = standing out from the flock
         → conspicuously bad
         → outstandingly wrong
+        → conspicuously different
+        → outstandingly bad
+        → remarkably vicious
     },
 
     Gregarious : {
@@ -1166,6 +1206,12 @@ GREX, GREGIS ("flock", "herd", "group") {
         = separate from the flock
         → isolate
         → set apart
+    },
+
+    Segregation : {
+        = segregate + ion
+        = act of separation
+        → isolation of groups
     },
 }
 
@@ -1436,8 +1482,10 @@ LOCUS ("place") {
     Incongruity : {
         = incongruous + ity
         = state of not fitting
+        = state of being out of place
         → mismatch
         → impropriety
+        → inconsistency
     },
 
     Incongruous : {
@@ -1609,6 +1657,17 @@ METRON ("measure", "measurement") {
         = relating to / pertaining to atmospheric pressure
     },
 
+    Chronometer : {
+        = chronos + metron
+        = measure of time
+        → precision timepiece
+    },
+
+    Chronometric : {
+        = chronos + metron + ic
+        = pertaining to time measurement
+    },
+
     Metric : {
         = metron
         = relating to / pertaining to measurement
@@ -1765,6 +1824,34 @@ NOMOS ("law", "order", "arrangement") {
 
 
 NOTUS ("known") {
+
+    Notable : {
+        = notus + able
+        = worthy of being known
+        → distinguished person
+        → noteworthy individual
+    },
+
+    Noted : {
+        = notus + ed
+        = known
+        → famous
+        → distinguished
+    },
+
+    Notice : {
+        = notus + ice
+        = act of knowing
+        → observation
+        → attention
+    },
+
+    Notify : {
+        = notus + fy
+        = make known
+        → inform
+        → give notice
+    },
 
     Notoriety : {
         = notorious + ity
@@ -1930,6 +2017,8 @@ OMNIS ("all") {
     Omniscience : {
         = omnis + scientia
         = total knowledge
+        = all knowledge
+        → infinite awareness
     },
 
     Omniscient : {
@@ -2122,6 +2211,12 @@ PAIDOS / PAIS ("child") {
 
 PATHOS ("suffering", "disease", "feeling") {
 
+    Antipathetic : {
+        = antipathy + etic
+        = showing hostility
+        → opposed in feeling
+    },
+
     Antipathy : {
         = anti + pathos
         = feeling against
@@ -2129,11 +2224,22 @@ PATHOS ("suffering", "disease", "feeling") {
         → hostility
     },
 
+    Apathetic : {
+        = apathy + etic
+        = emotionally indifferent
+    },
+
     Apathy : {
         = a + pathos
         = without feeling
         → indifference
         → lack of interest
+        → lack of concern
+    },
+
+    Empathic : {
+        = empathy + ic
+        = relating to empathy
     },
 
     Empathize : {
@@ -2146,6 +2252,7 @@ PATHOS ("suffering", "disease", "feeling") {
         = en + pathos
         = feeling in
         → identification with another's feelings
+        → emotional participation
     },
 
     Osteopath : {
@@ -2163,6 +2270,7 @@ PATHOS ("suffering", "disease", "feeling") {
     Pathetic : {
         = pathos + etic
         = full of feeling
+        = full of feeling/suffering
         → evoking pity
         → sorrowful
     },
@@ -2177,11 +2285,14 @@ PATHOS ("suffering", "disease", "feeling") {
     Pathologist : {
         = pathology + ist
         = specialist in disease diagnosis
+        = specialist in disease study
+        → disease diagnostician
     },
 
     Pathology : {
         = pathos + logos
         = study of disease
+        → science of disease
     },
 
     Psychopath : {
@@ -2202,7 +2313,14 @@ PATHOS ("suffering", "disease", "feeling") {
         = psyche + pathos + y
         = diseased mind condition
         = mental disorder
+        = disorder of personality
         → severe personality disorder
+        → diseased mental condition
+    },
+
+    Sympathetic : {
+        = sympathy + etic
+        = characterized by compassion
     },
 
     Sympathy : {
@@ -2210,6 +2328,7 @@ PATHOS ("suffering", "disease", "feeling") {
         = feeling with
         → compassion
         → understanding another's suffering
+        → sharing another's feelings
     },
 
     Telepathic : {
@@ -2553,20 +2672,26 @@ SCIO / SCIENS ("to know", "knowing") {
     Conscience : {
         = con + sciens
         = knowledge with oneself
+        = con + scio
+        = knowledge within oneself
         → moral awareness
         → sense of right and wrong
+        → inner sense of right and wrong
     },
 
     Conscious : {
         = con + sciens
         = knowing with oneself
+        = con + scio
         → aware
         → alert
+        → mentally alert
     },
 
     Nescience : {
         = nescient + ence
         = ignorance
+        → lack of knowledge
     },
 
     Nescient : {
@@ -2578,17 +2703,21 @@ SCIO / SCIENS ("to know", "knowing") {
     Omniscience : {
         = omniscient + ence
         = infinite knowledge
+        = total knowledge
     },
 
     Omniscient : {
         = omnis + sciens
         = all knowing
+        = all-knowing
         → possessing complete knowledge
     },
 
     Prescience : {
         = prescient + ence
         = foreknowledge
+        = pre + science
+        → advance awareness
     },
 
     Prescient : {
@@ -2596,24 +2725,30 @@ SCIO / SCIENS ("to know", "knowing") {
         = knowing beforehand
         → prophetic
         → predictive
+        → having foreknowledge
     },
 
     Science : {
         = sciens
         = knowledge
+        = scio
         → systematic body of knowledge
+        → organized body of knowledge
     },
 
     Unconscionability : {
         = unconscionable + ity
         = absence of moral restraint
+        = lack of moral restraint
     },
 
     Unconscionable : {
         = un + conscience + able
         = without functioning conscience
+        = incapable of moral awareness
         → morally insensitive
         → unscrupulous
+        → without conscience
     },
 
     Unconscionableness : {
@@ -2672,6 +2807,32 @@ SEMA ("sign", "meaning") {
         = sema + ntics
         = study of meanings
         → science of meaning in language
+    },
+}
+
+
+SENEX ("old") {
+
+    Senescence : {
+        = senescent + ence
+        = process of aging
+    },
+
+    Senescent : {
+        = senex + escent
+        = growing old
+        → aging
+    },
+
+    Senile : {
+        = senex + ile
+        = pertaining to old age
+        → mentally weakened by age
+    },
+
+    Senility : {
+        = senile + ity
+        = condition of old-age decline
     },
 }
 
@@ -2768,13 +2929,16 @@ SUMMUS ("highest", "utmost") {
     Consummacy : {
         = consummate + acy
         = highest degree of excellence
+        = state of highest excellence
         → perfection
         → mastery
+        → artistry
     },
 
     Consummate (adj.) : {
         = con + summus + ate
         = brought to the highest point
+        = brought to highest point
         → perfect
         → supremely skillful
     },
@@ -2782,15 +2946,19 @@ SUMMUS ("highest", "utmost") {
     Consummate (v.) : {
         = con + summus + ate
         = bring to completion
+        = bring to highest completion
         → finish
         → fulfill
+        → complete
     },
 
     Consummateness : {
         = consummate + ness
         = quality of complete skill
+        = quality of complete perfection
         → artistry
         → perfection
+        → mastery
     },
 
     Consummation : {
@@ -2798,6 +2966,19 @@ SUMMUS ("highest", "utmost") {
         = act of completing
         → completion
         → fulfillment
+    },
+
+    Sum : {
+        = summus
+        = total brought to highest whole
+        → total amount
+    },
+
+    Summit : {
+        = summus
+        = highest point
+        → peak
+        → top
     },
 }
 
@@ -2969,20 +3150,26 @@ VETUS ("old") {
     Inveteracy : {
         = inveterate + acy
         = quality of being long established
+        = long-established habit
         → fixed habit
+        → deeply rooted tendency
     },
 
     Inveterate : {
         = in + vetus
         = in old habit
+        = grown old in a habit
         → long established
         → habitual
         → deeply rooted
+        → deeply habituated
+        → long-established
     },
 
     Inveterateness : {
         = inveterate + ness
         = deeply rooted condition
+        = condition of long habit
         → habitual persistence
     },
 
