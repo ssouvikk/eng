@@ -1,0 +1,24 @@
+ZOION ("animal") {
+
+    Zodiac : {
+        = zoion
+        = circle of little animals
+        → belt of constellations named after animals
+    },
+
+    Zoological : {
+        = zoology + ical
+        = pertaining to animal science
+    },
+
+    Zoologist : {
+        = zoion + logos + ist
+        = student of animal life
+    },
+
+    Zoology : {
+        = zoion + logos
+        = study of animals
+        → science of animal life
+    },
+}

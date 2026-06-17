@@ -1,0 +1,208 @@
+VERTO ("to turn") {
+
+    Ambivert : {
+        = ambi + verto
+        = turn both ways
+        → inward and outward tendencies
+        → balanced personality
+    },
+
+    Extrovert : {
+        = extro + verto
+        = turn outward
+        → thoughts directed outward
+        → socially outgoing person
+    },
+
+    Introvert : {
+        = intro + verto
+        = turn inward
+        → thoughts directed inward
+        → self-analytical person
+    },
+}
+
+
+VETUS ("old") {
+
+    Inveteracy : {
+        = inveterate + acy
+        = quality of being long established
+        = long-established habit
+        → fixed habit
+        → deeply rooted tendency
+    },
+
+    Inveterate : {
+        = in + vetus
+        = in old habit
+        = grown old in a habit
+        → long established
+        → habitual
+        → deeply rooted
+        → deeply habituated
+        → long-established
+    },
+
+    Inveterateness : {
+        = inveterate + ness
+        = deeply rooted condition
+        = condition of long habit
+        → habitual persistence
+    },
+
+    Veteran : {
+        = vetus
+        = old experienced person
+        → seasoned expert
+        → old hand
+    },
+}
+
+
+VIA ("road", "way") {
+
+    Obviate : {
+        = ob + via + ate
+        = remove from the road
+        → prevent
+        → make unnecessary
+    },
+
+    Obviation : {
+        = obviate + ion
+        = act of preventing
+        → elimination of need
+        → making unnecessary
+    },
+
+    Obvious : {
+        = ob + via
+        = in the road
+        → easily seen
+        → evident
+    },
+
+    Trivia : {
+        = tri + via
+        = common roadside talk
+        → unimportant facts
+        → trifles
+        → trifling information
+    },
+
+    Trivial : {
+        = tri + via
+        = at the meeting of three roads
+        = common crossroads matter
+        → commonplace
+        → insignificant
+    },
+
+    Triviality : {
+        = trivial + ity
+        = insignificant thing
+        → trifle
+    },
+
+    Via : {
+        = via
+        = road
+        → route
+        → by way of
+    },
+}
+
+
+VOLO ("to wish", "to will") {
+
+    Benevolence : {
+        = benevolent + ence
+        = goodwill
+        → kindness toward others
+    },
+
+    Benevolent : {
+        = bene + volo
+        = wishing good
+        → kind-hearted
+        → charitable
+    },
+
+    Malevolence : {
+        = malevolent + ence
+        = ill will
+        → hostility
+    },
+
+    Malevolent : {
+        = mal + volo
+        = wishing evil
+        → ill-disposed
+        → ill-will
+        → desire to harm
+        → hostile
+    },
+
+    Volition : {
+        = volo + ition
+        = act of wishing
+        → will
+        → conscious choice
+    },
+}
+
+
+VOX / VOCIS ("voice") {
+
+    Equivocal : {
+        = equ + vox
+        = equally voiced
+        → ambiguous
+        → open to multiple interpretations
+    },
+
+    Equivocate : {
+        = equ + vox + ate
+        = use equally voiced meanings
+        → speak ambiguously
+        → evade commitment
+    },
+
+    Magnavox : {
+        = magnus + vox
+        = great voice
+        → amplified sound
+    },
+
+    Vocal : {
+        = vox
+        = voice-related
+        = relating to voice
+        → spoken
+        → oral
+        → expressive by voice
+    },
+
+    Vocalist : {
+        = vocal + ist
+        = voice performer
+        → singer
+    },
+
+    Vocalize : {
+        = vocal + ize
+        = make vocal
+        → utter by voice
+        → sing
+    },
+
+    Vociferous : {
+        = vox + fero
+        = carry the voice
+        = carrying the voice
+        → loud
+        → noisy
+        → clamorous
+    },
+}

@@ -1,0 +1,343 @@
+CENTRUM ("center") {
+
+    Egocentric : {
+        = ego + centrum
+        = self at the center
+        → self-centered person
+    },
+}
+
+
+CHEIR ("hand") {
+
+    Chirographer : {
+        = cheir + graphein + er
+        = one skilled in handwriting
+        → handwriting expert
+        → penmanship specialist
+    },
+
+    Chirographic : {
+        = cheir + graphein + ic
+        = pertaining to handwriting
+    },
+
+    Chirography : {
+        = cheir + graphein
+        = hand writing
+        → handwriting
+    },
+
+    Chiromancer : {
+        = cheir + manteia + er
+        = palm reader
+    },
+
+    Chiromancy : {
+        = cheir + manteia
+        = hand divination
+        → palm reading
+    },
+
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → foot care
+    },
+
+    Chiropractic : {
+        = cheir + praktikos
+        = treatment by hand
+        → spinal manipulation therapy
+        → manipulation of articulations
+    },
+
+    Chiropractor : {
+        = cheir + praktikos
+        = hand practitioner
+        → manipulates spinal joints
+        → spinal-joint specialist
+    },
+}
+
+
+CHRONOS ("time") {
+
+    Anachronism : {
+        = ana + chronos + ism
+        = thing out of its proper time
+        → historical mismatch
+        → temporal inconsistency
+    },
+
+    Anachronistic : {
+        = anachronous + tic
+        = temporally misplaced
+        = out of proper historical time
+        → outdated
+        → historically misplaced
+    },
+
+    Anachronous : {
+        = ana + chronos
+        = against time
+        = against/out of time
+        → belonging to another period
+        → out of time
+        → belonging to another era
+        → temporally misplaced
+    },
+
+    Chronic : {
+        = chronos + ic
+        = continuing through time
+        = pertaining to time
+        → recurring
+        → persistent
+        → continuing over time
+        → recurring repeatedly
+    },
+
+    Chronicity : {
+        = chronic + ity
+        = state of recurring over time
+        = state of recurring through time
+        → persistence
+        → long-duration condition
+    },
+
+    Chronological : {
+        = chronology + ical
+        = arranged by time sequence
+        = relating to time sequence
+        → arranged in historical order
+    },
+
+    Chronology : {
+        = chronos + logos
+        = study/order of time
+        → time sequence
+        → historical order
+        → arrangement of events by dates
+    },
+
+    Chronometer : {
+        = chronos + metron
+        = measurer of time
+        → accurate timepiece
+    },
+
+    Chronometric : {
+        = chronos + metron + ic
+        = relating to time measurement
+    },
+
+    Synchronize : {
+        = syn + chronos + ize
+        = make time together
+        → occur simultaneously
+        → coordinate timing
+    },
+
+    Synchronous : {
+        = syn + chronos + ous
+        = happening at the same time
+        → simultaneous
+    },
+}
+
+
+CORRIGO ("to correct", "to reform", "to set straight") {
+
+    Corrigible : {
+        = corrigo + ible
+        = capable of being corrected
+        = capable of correction
+        → reformable
+    },
+
+    Incorrigibility : {
+        = incorrigible + ity
+        = inability to be corrected
+        → unreformable nature
+    },
+
+    Incorrigible : {
+        = in + corrigible
+        = not capable of correction
+        → beyond reform
+        → irredeemable
+    },
+
+    Incorrigibleness : {
+        = incorrigible + ness
+        = state of being beyond reform
+    },
+}
+
+
+DERMA ("skin") {
+
+    Dermatological : {
+        = dermatology + al
+        = relating to the skin
+    },
+
+    Dermatologist : {
+        = derma + logos + ist
+        = skin specialist
+        → dermatologist
+    },
+
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+        → medical science of skin diseases
+    },
+
+    Epidermis : {
+        = epi + derma
+        = upon the skin
+        → outer layer of skin
+    },
+}
+
+
+DEXTER ("right hand") {
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = equal skill with both hands
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both hands function like right hands
+        → equal skill in both hands
+    },
+
+    Dexterity : {
+        = dexter + ity
+        = skill
+        → manual skill
+        → general competence
+    },
+
+    Dexterous : {
+        = dexter + ous
+        = having the skill of the right hand
+        → skillful
+    },
+}
+
+
+DICHA ("in two") {
+
+    Dichotomy : {
+        = dicha + tome
+        = cut in two
+        → division into two branches
+        → separation into two categories
+    },
+}
+
+
+DICO / DICTUS ("to say", "to tell", "to speak") {
+
+    Benediction : {
+        = bene + dico
+        = saying good
+        → blessing
+    },
+
+    Benedictory : {
+        = bene + dict + ory
+        = relating to blessings
+        → blessing-like
+    },
+
+    Malediction : {
+        = mal + dico
+        = speak evil
+        = speaking evil
+        = saying evil
+        → curse
+    },
+
+    Maledictory : {
+        = mal + dico + ory
+        = mal + dict + ory
+        = relating to curses
+        = of cursing
+        → cursing
+        → curse-like
+    },
+}
+
+
+DONO ("to give") {
+
+    Condonation : {
+        = condone + ation
+        = act of forgiving
+        → overlooking wrongdoing
+    },
+
+    Condone : {
+        = con + dono
+        = completely give away
+        → forgive
+        → overlook an offense
+    },
+
+    Donate : {
+        = dono + ate
+        = give
+        → contribute voluntarily
+    },
+
+    Donation : {
+        = dono + ation
+        = act of giving
+        → gift
+        → contribution
+    },
+
+    Donor : {
+        = dono + or
+        = giver
+        → contributor
+    },
+}
+
+
+DROIT ("right", "proper") {
+
+    Adroit : {
+        = a + droit
+        = to the right way
+        → skillful
+        → clever
+    },
+
+    Adroitness : {
+        = adroit + ness
+        = skill
+        → cleverness
+        → dexterity
+    },
+
+    Maladroit : {
+        = mal + adroit
+        = badly right
+        → lacking skill
+        → awkward
+        → clumsy
+    },
+
+    Maladroitness : {
+        = maladroit + ness
+        = awkwardness
+        → clumsiness
+    },
+}

@@ -1,0 +1,860 @@
+OBSTETRIX ("midwife") {
+
+    Obstetrical : {
+        = obstetrics + al
+        = relating to childbirth and pregnancy
+    },
+
+    Obstetrician : {
+        = obstetrix + ian
+        = practitioner of midwifery
+        → physician dealing with pregnancy and childbirth
+        → obstetrician
+    },
+
+    Obstetrics : {
+        = obstetrix
+        = midwifery
+        → branch dealing with pregnancy and childbirth
+        → obstetrics
+    },
+}
+
+
+OCULUS ("eye") {
+
+    Binocular : {
+        = bi + oculus
+        = two eyes
+        → using both eyes
+    },
+
+    Inoculate : {
+        = in + oculus
+        = put into an eye/opening
+        → inject through a puncture
+        → vaccinate
+    },
+
+    Monocular : {
+        = mono + oculus
+        = one eye
+        → using one eye
+    },
+
+    Ocular : {
+        = oculus + ar
+        = relating to the eye
+        → visual
+    },
+
+    Oculist : {
+        = oculus + ist
+        = eye specialist
+        → physician specializing in eye care
+        → oculist
+    },
+}
+
+
+ODOUS / ODONT / ODONTOS ("tooth") {
+
+    Endodontia : {
+        = endon + odontos
+        = treatment of inner tooth structures
+        → root canal specialty
+    },
+
+    Endodontic : {
+        = endodontia + ic
+        = pertaining to / relating to root canal therapy
+    },
+
+    Endodontist : {
+        = endon + odontos
+        = inner-tooth specialist
+        → root canal specialist
+    },
+
+    Exodontia : {
+        = ex + odontos
+        = removal of teeth
+        → tooth extraction specialty
+    },
+
+    Exodontic : {
+        = exodontia + ic
+        = pertaining to / relating to tooth extraction
+    },
+
+    Exodontist : {
+        = ex + odontos
+        = out-tooth specialist
+        → tooth extraction specialist
+    },
+
+    Orthodontics / Orthodontia : {
+        = orthos + odontos
+        = straightening and correction of tooth alignment
+        → branch of dentistry concerned with aligned teeth and jaws
+    },
+
+    Orthodontist : {
+        = orthos + odontos
+        = straight tooth specialist
+        → dentist who straightens teeth
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = pertaining to / relating to children's dentistry
+    },
+
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+
+    Periodontia : {
+        = peri + odontos
+        = treatment of tissues around teeth
+        → gum specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = pertaining to / relating to gum treatment
+    },
+
+    Periodontist : {
+        = peri + odontos
+        = around-the-tooth specialist
+        → gum specialist
+    },
+}
+
+
+OMNIS ("all") {
+
+    Omniscience : {
+        = omnis + scientia
+        = total knowledge
+        = all knowledge
+        → infinite awareness
+    },
+
+    Omniscient : {
+        = omnis + sciens
+        = all knowing
+        → possessing complete knowledge
+    },
+}
+
+
+OPHTHALMOS ("eye") {
+
+    Ophthalmic : {
+        = ophthalmos + ic
+        = relating to the eyes
+    },
+
+    Ophthalmologist : {
+        = ophthalmos + logos + ist
+        = eye specialist
+        → ophthalmologist
+    },
+
+    Ophthalmology : {
+        = ophthalmos + logos
+        = study of the eye
+        → medical science of vision and eye diseases
+    },
+}
+
+
+OPSIS / OPTIKOS ("vision", "sight") {
+
+    Optical : {
+        = optikos + al
+        = relating to vision, sight, or light
+        → optical
+    },
+
+    Optician : {
+        = optikos / opsis + ician
+        = worker with optical devices
+        → grinder, fitter, and dispenser of lenses
+        → lens grinder
+        → seller of optical goods
+        → optician
+    },
+
+    Optics : {
+        = opsis
+        = science of vision and light
+        → optics
+    },
+
+    Optometric : {
+        = optometry + ic
+        = relating to the measurement and testing of vision
+        → pertaining to eyesight measurement
+        → optometric
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = measurer of vision
+        → eyesight specialist who tests vision
+        → prescribes glasses and contact lenses
+        → optometrist
+    },
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → science of measuring/testing eyesight
+        → optometry
+    },
+}
+
+
+ORTHOS ("straight", "correct") {
+
+    Orthodontia / Orthodontics : {
+        = orthos + odontos (tooth)
+        = making teeth straight
+        → correction of tooth alignment
+        → orthodontia / orthodontics
+    },
+
+    Orthodontist : {
+        = orthos + odontos + ist
+        = straight-tooth specialist
+        → specialist who corrects tooth alignment
+        → orthodontist
+    },
+
+    Orthography : {
+        = orthos + graphein (to write)
+        = correct writing
+        → correct spelling and writing
+        → orthography
+    },
+
+    Orthopedics : {
+        = orthos + pais (child)
+        = straight child
+        → correction of bodily deformities
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist in correcting deformities
+        → orthopedist
+    },
+}
+
+
+OSTEON ("bone") {
+
+    Osteopath : {
+        = osteon + pathos
+        = bone disease specialist
+        → practitioner using manipulation and massage
+    },
+
+    Osteopathic : {
+        = osteopathy + ic
+        = relating to osteopathy
+    },
+
+    Osteopathy : {
+        = osteon + pathos
+        = treatment based on skeletal relationships
+        → osteopathic medicine
+    },
+}
+
+
+PAIDOS / PAIS ("child") {
+
+    Orthopedics : {
+        = orthos + pais
+        = straight child
+        → originally correction of deformities in children
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist correcting skeletal deformities
+        → orthopedist
+    },
+
+    Pediatric : {
+        = paidos + ic
+        = relating to children
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = physician for children
+        → specialist in childhood diseases and development
+        → pediatrician
+    },
+
+    Pediatrics : {
+        = paidos + iatreia
+        = healing of children
+        → branch of medicine dealing with children
+        → pediatrics
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = relating to child dentistry
+    },
+
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+}
+
+
+PAR ("equal") {
+
+    Disparage : {
+        = dis + par
+        = lower another's equality/status
+        → belittle
+        → speak slightingly of
+    },
+
+    Disparagement : {
+        = disparage + ment
+        = act of belittling
+        → depreciation
+        → ridicule
+    },
+
+    Disparate : {
+        = dis + par
+        = unequal
+        → essentially different
+        → fundamentally unlike
+    },
+
+    Disparity : {
+        = dis + parity
+        = lack of equality
+        → inequality
+        → difference in status or amount
+    },
+
+    Par : {
+        = par
+        = equal standard
+        → expected level
+        → average performance benchmark
+    },
+
+    Parity : {
+        = par + ity
+        = equality
+        → equivalence
+        → equal status
+    },
+
+    Peer : {
+        = par
+        = equal
+        → one of equal rank
+        → social or professional equal
+    },
+}
+
+
+PATHOS ("suffering", "disease", "feeling") {
+
+    Antipathetic : {
+        = antipathy + etic
+        = showing hostility
+        → opposed in feeling
+    },
+
+    Antipathy : {
+        = anti + pathos
+        = feeling against
+        → dislike
+        → hostility
+    },
+
+    Apathetic : {
+        = apathy + etic
+        = emotionally indifferent
+    },
+
+    Apathy : {
+        = a + pathos
+        = without feeling
+        → indifference
+        → lack of interest
+        → lack of concern
+    },
+
+    Empathic : {
+        = empathy + ic
+        = relating to empathy
+    },
+
+    Empathize : {
+        = empathy + ize
+        = enter another's feelings
+        → emotionally identify
+    },
+
+    Empathy : {
+        = en + pathos
+        = feeling in
+        → identification with another's feelings
+        → emotional participation
+    },
+
+    Osteopath : {
+        = osteon + pathos
+        = bone suffering/disease
+        → osteopathic practitioner
+    },
+
+    Osteopathy : {
+        = osteon + pathos + y
+        = bone-related disease/suffering condition
+        → osteopathic medicine
+    },
+
+    Pathetic : {
+        = pathos + etic
+        = full of feeling
+        = full of feeling/suffering
+        → evoking pity
+        → sorrowful
+    },
+
+    Pathological : {
+        = pathos + logos + ical
+        = relating to disease
+        → diseased
+        → abnormal
+    },
+
+    Pathologist : {
+        = pathology + ist
+        = specialist in disease diagnosis
+        = specialist in disease study
+        → disease diagnostician
+    },
+
+    Pathology : {
+        = pathos + logos
+        = study of disease
+        → science of disease
+    },
+
+    Psychopath : {
+        = psyche + pathos
+        = person with a diseased/suffering mind
+        = diseased mind
+        → psychopath
+        → person with severe personality disorder
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = mentally diseased
+        → relating to psychopathy
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = diseased mind condition
+        = mental disorder
+        = disorder of personality
+        → severe personality disorder
+        → diseased mental condition
+    },
+
+    Sympathetic : {
+        = sympathy + etic
+        = characterized by compassion
+    },
+
+    Sympathy : {
+        = syn + pathos
+        = feeling with
+        → compassion
+        → understanding another's suffering
+        → sharing another's feelings
+    },
+
+    Telepathic : {
+        = telepathy + ic
+        = relating to thought transference
+    },
+
+    Telepathy : {
+        = tele + pathos
+        = feeling at a distance
+        → thought transference
+        → extrasensory communication
+    },
+}
+
+
+PERI ("around", "surrounding") {
+
+    Periodontia : {
+        = peri + odontos
+        = treatment around teeth
+        → periodontal specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = relating to periodontal treatment
+    },
+
+    Periodontist : {
+        = peri + odontos
+        = around the tooth
+        → gum specialist
+    },
+}
+
+
+PHILEIN ("to love") {
+
+    Anglophile : {
+        = Anglus + philein
+        = lover of England or English culture
+    },
+
+    Bibliophile : {
+        = biblion + philein
+        = lover of books
+        → book collector
+    },
+
+    Philadelphia : {
+        = philein + adelphos
+        = brotherly love
+        → city of brotherly love
+    },
+
+    Philander : {
+        = philein + andros
+        = love of men/women
+        → engage in casual love affairs
+        → be sexually promiscuous
+    },
+
+    Philanderer : {
+        = philander + er
+        = person who engages in love affairs
+    },
+
+    Philanthropic : {
+        = philanthropy + ic
+        = characterized by concern for humanity
+    },
+
+    Philanthropist : {
+        = philein + anthropos + ist
+        = lover of mankind
+        → charitable person
+    },
+
+    Philanthropy : {
+        = philein + anthropos
+        = love of mankind
+        → humanitarian concern
+        → charity
+    },
+
+    Philharmonic : {
+        = philein + harmonia
+        = love of harmony
+        → devotion to music
+    },
+
+    Philological : {
+        = philology + ical
+        = pertaining to language study
+    },
+
+    Philologist : {
+        = philein + logos + ist
+        = lover/student of language
+    },
+
+    Philology : {
+        = philein + logos
+        = love of words
+        → study of language
+        → linguistics
+    },
+
+    Philosopher : {
+        = philein + sophos + er
+        = lover of wisdom
+    },
+
+    Philosophy : {
+        = philein + sophos
+        = love of wisdom
+        → pursuit of knowledge and truth
+        → search for truth and knowledge
+    },
+
+    Philter : {
+        = philein
+        = love potion
+        → magical drink intended to inspire love
+    },
+}
+
+
+PHONE ("sound") {
+
+    Phonograph : {
+        = phone + graphein
+        = sound writing
+        → sound recording device
+    },
+
+    Telephone : {
+        = tele + phone
+        = sound over distance
+        → voice communication device
+    },
+}
+
+
+PHOTOS ("light") {
+
+    Photograph : {
+        = photos + graphein
+        = writing by light
+        → image produced through light
+    },
+}
+
+
+PLAC ("to please", "to soothe", "to pacify") {
+
+    Placate : {
+        = plac + ate
+        = make pleasing
+        → pacify
+        → change hostility into friendliness
+    },
+}
+
+
+POUS / PODOS ("foot") {
+
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → treatment of foot ailments
+        → older term for podiatry
+    },
+
+    Octopus : {
+        = okto + pous
+        = eight-footed
+        → eight-armed sea creature
+    },
+
+    Platypus : {
+        = platys + pous
+        = broad-footed
+        → egg-laying mammal
+    },
+
+    Podiatric : {
+        = podiatry + ic
+        = relating to / pertaining to foot treatment
+    },
+
+    Podiatrist : {
+        = podos + iatreia
+        = foot healer
+        → foot specialist
+    },
+
+    Podiatry : {
+        = podos + iatreia
+        = treatment of foot ailments
+        → podiatry
+    },
+
+    Podium : {
+        = podos
+        = foot support
+        → speaker's platform
+    },
+
+    Tripod : {
+        = tri + podos
+        = three-footed
+        → three-legged stand
+    },
+}
+
+
+PRAKTIKOS ("to do", "to practice") {
+
+    Chiropractic : {
+        = cheir + praktikos
+        = treatment by hand
+        → chiropractic therapy
+    },
+
+    Chiropractor : {
+        = cheir + praktikos
+        = practitioner using hands
+        → chiropractor
+    },
+}
+
+
+PSYCHE ("mind", "soul", "spirit") {
+
+    Psyche : {
+        = Greek psyche
+        = soul, spirit, mind
+        → mental life
+        → inner self
+        → self-image
+    },
+
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician treating mental disorders
+    },
+
+    Psychiatry : {
+        = psyche + iatreia
+        = healing of the mind
+        → medical treatment of mental illness
+    },
+
+    Psychic : {
+        = psyche + ic
+        = relating to the mind or spirit
+        → mentally produced
+        → extrasensory or mysterious mental powers
+    },
+
+    Psychoanalysis : {
+        = psyche + analysis
+        = analysis of the mind
+        → Freudian exploration of the unconscious
+        → psychoanalytic therapy
+    },
+
+    Psychoanalyst : {
+        = psyche + analysis + ist
+        = analyzer of the mind
+        → practitioner of psychoanalysis
+    },
+
+    Psychoanalytic : {
+        = psychoanalysis + ic
+        = relating to psychoanalysis
+    },
+
+    Psychogenic : {
+        = psyche + genesis
+        = originating in the mind
+        → psychologically caused
+        → of emotional origin
+    },
+
+    Psychological : {
+        = psychology + al
+        = relating to the study of the mind
+    },
+
+    Psychologist : {
+        = psyche + logos + ist
+        = student/specialist of the mind
+        → expert in human behavior and mental processes
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
+        → science of behavior and mental processes
+    },
+
+    Psychopath : {
+        = psyche + pathos
+        = person with a diseased mind
+        → individual with severe antisocial personality traits
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = relating to psychopathy
+        → mentally or emotionally disturbed
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = diseased mind
+        → severe personality disorder
+    },
+
+    Psychosomatic : {
+        = psyche + soma
+        = mind-body relationship
+        → physical symptoms or illness influenced by mental factors
+    },
+
+    Psychotherapist : {
+        = psyche + therapeia + ist
+        = practitioner of psychotherapy
+    },
+
+    Psychotherapy : {
+        = psyche + therapeia
+        = treatment of the mind
+        → therapy through psychological methods
+        → treatment of emotional and mental disorders
+    },
+
+    Psychotic : {
+        = psyche + otic
+        = mentally disordered
+        → suffering severe mental disturbance
+        → loss of contact with reality
+    },
+}

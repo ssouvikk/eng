@@ -1,0 +1,256 @@
+KAKOS ("bad", "ugly", "harsh") {
+
+    Cacographer : {
+        = kakos + graphein + er
+        = writer of bad handwriting
+        → poor writer; one whose handwriting is illegible
+    },
+
+    Cacographic : {
+        = kakos + graphein + ic
+        = pertaining to bad writing
+        → marked by poor or illegible handwriting
+    },
+
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible or poor handwriting
+    },
+}
+
+
+KALLOS ("beauty") {
+
+    Calligrapher : {
+        = kallos + graphein + er
+        = artist of beautiful writing
+    },
+
+    Calligraphic : {
+        = calligraphy + ic
+        = pertaining to beautiful writing
+        → artistic handwriting
+    },
+
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting / artistic penmanship
+    },
+}
+
+
+KARDIA ("heart") {
+
+    Cardiac : {
+        = kardia + ac
+        = relating to the heart
+    },
+
+    Cardiogram : {
+        = kardia + gramma
+        = heart record
+        → tracing of heart activity
+    },
+
+    Cardiologist : {
+        = kardia + logos + ist
+        = heart specialist
+        → cardiologist
+    },
+
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+        → science of heart diseases
+    },
+}
+
+
+KENTRON ("center", "sharp point") {
+
+    Eccentric : {
+        = ec + kentron
+        = out of the center
+        → deviating from normal position
+        → unconventional person
+    },
+
+    Eccentricity : {
+        = eccentric + ity
+        = state of being off-center
+        → odd behavior
+    },
+}
+
+
+LINGUA ("tongue", "language") {
+
+    Bilingual : {
+        = bi + lingua
+        = two languages
+        → able to use two languages
+    },
+
+    Linguist : {
+        = lingua + ist
+        = language expert
+    },
+
+    Linguistic : {
+        = linguistics + ic
+        = pertaining to language
+        = relating to language
+    },
+
+    Linguistics : {
+        = lingua + istics
+        = science of language
+        → systematic study of language
+    },
+
+    Monolingual : {
+        = mono + lingua
+        = one language
+        → using only one language
+    },
+
+    Multilingual : {
+        = multi + lingua
+        = many languages
+        → using several languages
+    },
+
+    Trilingual : {
+        = tri + lingua
+        = three languages
+        → able to use three languages
+    },
+}
+
+
+LOCUS ("place") {
+
+    Incongruity : {
+        = incongruous + ity
+        = state of not fitting
+        = state of being out of place
+        → mismatch
+        → impropriety
+        → inconsistency
+    },
+
+    Incongruous : {
+        = in + congruous
+        = not fitting in place
+        → inappropriate
+        → out of place
+    },
+}
+
+
+LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
+
+    Anthropology : {
+        = anthropos + logos
+        = study of mankind
+    },
+
+    Astrology : {
+        = astron + logos
+        = interpretation of stars
+    },
+
+    Biology : {
+        = bios + logos
+        = study of life
+    },
+
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+    },
+
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+    },
+
+    Entomology : {
+        = entomon + logos
+        = study of insects
+    },
+
+    Geology : {
+        = geo + logos
+        = study of the earth
+    },
+
+    Gynecology : {
+        = gyne + logos
+        = study of women
+    },
+
+    Neurology : {
+        = neuron + logos
+        = study of the nervous system
+    },
+
+    Philologist : {
+        = philein + logos + ist
+        = student of language
+    },
+
+    Philology : {
+        = philein + logos
+        = love of words
+        → study of language and literature
+        → study of language
+        → linguistics
+    },
+
+    Philosophy : {
+        = philein + sophos
+        = love of wisdom
+        → pursuit of truth and wisdom
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
+    },
+
+    Semantic : {
+        = semantics + ic
+        = relating to meaning
+    },
+
+    Semanticist : {
+        = sema + ntics + ist
+        = student of meaning
+        → specialist in semantics
+    },
+
+    Semantics : {
+        = sema + ntics
+        = study of meaning
+        → science of meanings of words
+    },
+
+    Sociologist : {
+        = socius + logos + ist
+        = student of society
+    },
+
+    Sociology : {
+        = socius + logos
+        = study of society
+        → science of social organization
+    },
+
+    Zoology : {
+        = zoion + logos
+        = study of animals
+    },
+}

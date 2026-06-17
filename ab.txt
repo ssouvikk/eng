@@ -1,0 +1,668 @@
+ADELPHOS ("brother") {
+
+    Philadelphia : {
+        = philein + adelphos
+        = brotherly love
+        → city symbolizing brotherhood
+    },
+}
+
+
+ADULOR ("to flatter", "to fawn upon") {
+
+    Adulate : {
+        = adulor + ate
+        = flatter excessively
+        → worship
+        → praise slavishly
+    },
+
+    Adulation : {
+        = adulate + ion
+        = excessive flattery
+        → exaggerated admiration
+        → worshipful praise
+    },
+
+    Adulatory : {
+        = adulate + ory
+        = characterized by flattery
+        = characterized by adulation
+        → worshipful
+        → flattering
+    },
+}
+
+
+AEQUUS / EQU ("equal") {
+
+    Equability : {
+        = equable + ity
+        = evenness
+        → calmness of temper
+    },
+
+    Equable : {
+        = equ + able
+        = evenly balanced
+        → calm
+        → steady in temperament
+    },
+
+    Equanimity : {
+        = equ + animus
+        = equal mind
+        → calmness
+        → emotional balance
+        → composure
+    },
+
+    Equilateral : {
+        = equ + latus
+        = equal-sided
+        → having all sides equal
+    },
+
+    Equilibrist : {
+        = equ + libra
+        = equal balance
+        → tightrope walker
+        → one who balances expertly
+    },
+
+    Equilibrium : {
+        = equ + libra
+        = equal balance
+        → physical balance
+        → balance of forces
+    },
+
+    Equinoctial : {
+        = equinox + ial
+        = relating to equal day and night
+    },
+
+    Equinox : {
+        = equ + nox
+        = equal night
+        = day and night of equal length
+    },
+
+    Equitable : {
+        = equ + able
+        = capable of being equal
+        → fair
+        → just
+        → evenhanded
+    },
+
+    Equity : {
+        = equ + ity
+        = equality
+        → fairness
+        → justice
+    },
+
+    Equivocal : {
+        = equ + voc(al)
+        = equally voiced
+        = having more than one equally possible meaning
+        → ambiguous
+        → intentionally unclear
+    },
+
+    Equivocate : {
+        = equ + voc + ate
+        = speak with equal meanings
+        → use ambiguous language
+        → deliberately mislead
+    },
+
+    Equivocation : {
+        = equivocate + ion
+        = act of deliberate ambiguity
+        → evasive speech
+    },
+
+    Inequitable : {
+        = in + equitable
+        = not fair
+        → unjust
+    },
+
+    Inequity : {
+        = in + equity
+        = lack of fairness
+        → injustice
+        → unfairness
+    },
+
+    Iniquitous : {
+        = iniquity + ous
+        = characterized by wickedness
+        → sinful
+        → immoral
+    },
+
+    Iniquity : {
+        = in + equity
+        = extreme injustice
+        → wickedness
+        → sinfulness
+        → gross immorality
+    },
+
+    Unequivocal : {
+        = un + equivocal
+        = not equally interpretable
+        → clear
+        → direct
+        → capable of only one meaning
+    },
+}
+
+
+ALTER ("other") {
+
+    Alter Ego : {
+        = alter + ego
+        = other self
+        = second personality
+    },
+
+    Alteration : {
+        = alter + ation
+        = act of making other
+        → modification
+        → change
+    },
+
+    Altercation : {
+        = alter + cation
+        = becoming different in opinion
+        → disagreement
+        → argument
+        → quarrel
+    },
+
+    Alternate : {
+        = alter + ate
+        = become the other
+        → take turns
+        → substitute successively
+    },
+
+    Alternative : {
+        = alter + native
+        = other choice
+        → another possibility
+        → option
+    },
+}
+
+
+ALTRUIST ("other people first") {
+
+    Altruism : {
+        = alter → altrui + ism
+        = philosophy of helping others
+        → selfless concern for others
+    },
+
+    Altruist : {
+        = alter → altrui + ist
+        = person devoted to others
+        = selfless helper
+    },
+
+    Altruistic : {
+        = alter → altrui + istic
+        = characterized by selflessness
+    },
+}
+
+
+AMBI ("both") {
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = ability to use both hands equally well
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both right hands
+        → able to use both hands equally well
+        → skillful
+    },
+
+    Ambivert : {
+        = ambi + verto
+        = turn in both directions
+        → both introverted and extroverted
+    },
+}
+
+
+ANA ("up", "through", "apart") {
+
+    Anatomical : {
+        = anatomy + ical
+        = relating to bodily structure
+    },
+
+    Anatomy : {
+        = ana + tome
+        = cutting up
+        → dissection
+        → study of bodily structure
+    },
+}
+
+
+ANDROS ("male", "man") {
+
+    Philander : {
+        = philein + andros
+        = love of males/females
+        → engage in sexual adventures
+    },
+
+    Philanderer : {
+        = philander + er
+        = promiscuous lover
+    },
+
+    Polyandry : {
+        = poly + andros
+        = many husbands
+    },
+}
+
+
+ANGLUS ("English", "England") {
+
+    Anglophile : {
+        = Anglus + philein
+        = admirer of England
+        → admirer of English culture
+    },
+}
+
+
+ANTHROPOS ("mankind", "human being") {
+
+    Anthropocentric : {
+        = anthropos + centrum
+        = mankind at the center
+        → human-centered viewpoint
+    },
+
+    Anthropoid : {
+        = anthropos + oid
+        = human-like
+        → resembling a human being
+    },
+
+    Anthropological : {
+        = anthropology + ical
+        = pertaining to the study of mankind
+    },
+
+    Anthropologist : {
+        = anthropos + logos + ist
+        = student of mankind
+        → scientist studying human origins and cultures
+    },
+
+    Anthropology : {
+        = anthropos + logos
+        = study of mankind
+        → science of human development, culture, and evolution
+    },
+
+    Anthropomorphic : {
+        = anthropos + morphe
+        = human form
+        → giving human qualities or shape to non-humans
+    },
+
+    Anthropophobia : {
+        = anthropos + phobos
+        = fear of people
+        → abnormal fear of human beings
+    },
+
+    Misanthrope : {
+        = misein + anthropos
+        = misos + anthropos
+        = hater of mankind
+        → human-hater
+        → person who dislikes people
+    },
+
+    Misanthropic : {
+        = misein + anthropos + ic
+        = misanthrope + ic
+        = characterized by hatred of mankind
+        = characterized by hatred of people
+    },
+
+    Misanthropist : {
+        = misein + anthropos + ist
+        = one who hates mankind
+    },
+
+    Misanthropy : {
+        = misein + anthropos + y
+        = hatred of mankind
+    },
+
+    Philanthropist : {
+        = philos + anthropos
+        = philein + anthropos
+        = lover of mankind
+        → humanitarian; benefactor
+    },
+
+    Philanthropy : {
+        = philein + anthropos
+        = love of humanity
+        → charitable concern for human welfare
+    },
+}
+
+
+ASTRON ("star", "heavenly body") {
+
+    Aster : {
+        = astron
+        = star
+        → star-shaped flower
+    },
+
+    Asterisk : {
+        = aster
+        = little star
+        → star-shaped typographical mark (*)
+    },
+
+    Astrologer : {
+        = astron + logos
+        = interpreter of stars
+        → one who believes stars influence human affairs
+    },
+
+    Astrology : {
+        = astron + logos
+        = study of star influence
+        → system linking celestial motions to human events
+    },
+
+    Astronaut : {
+        = astron + nautes
+        = sailor among the stars
+        → space traveler
+    },
+
+    Astronomer : {
+        = astron + nomos + er
+        = student of the heavens
+        → scientist of celestial bodies
+    },
+
+    Astronomical : {
+        = astronomy + ical
+        = pertaining to the heavens
+        → enormously large in number
+    },
+
+    Astronomy : {
+        = astron + nomos
+        = arrangement/law of stars
+        → science of the heavens
+    },
+
+    Astrophysics : {
+        = astron + physis
+        = physics of stars
+        → branch studying composition and behavior of celestial bodies
+    },
+
+    Disaster : {
+        = dis + astron
+        = against the stars
+        → calamity; great misfortune
+    },
+}
+
+
+AUTOS ("self") {
+
+    Autobiography : {
+        = autos + bios + graphein
+        = self life writing
+        → story of one's own life
+    },
+
+    Autonomous : {
+        = autos + nomos + ous
+        = self-governing
+    },
+
+    Autonomy : {
+        = autos + nomos
+        = self-rule
+        → self-government
+    },
+
+    Autopsy : {
+        = autos + opsis
+        = seeing for oneself
+        → examination of a corpse
+    },
+}
+
+
+BAROS ("weight", "pressure") {
+
+    Barometer : {
+        = baros + metron
+        = pressure measure
+        → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        = barometer + ic
+        = pertaining to atmospheric pressure
+    },
+}
+
+
+BIBLION ("book") {
+
+    Bible : {
+        = biblion
+        = the book
+        → sacred scripture
+    },
+
+    Bibliomaniac : {
+        = biblion + mania
+        = obsessive love of books
+        → compulsive book collector
+    },
+
+    Bibliophile : {
+        = biblion + philein
+        = lover of books
+        → book enthusiast
+        → book collector
+    },
+}
+
+
+BIOS ("life") {
+
+    Autobiography : {
+        = autos + bios + graphein
+        = self life writing
+        → story of one's own life
+    },
+
+    Biographical : {
+        = biography + ical
+        = relating to life history
+    },
+
+    Biography : {
+        = bios + graphein
+        = life writing
+        → written life story
+        → written account of a person's life
+    },
+
+    Biological : {
+        = biology + ical
+        = pertaining to life sciences
+    },
+
+    Biologist : {
+        = bios + logos + ist
+        = student of living matter
+    },
+
+    Biology : {
+        = bios + logos
+        = study of life
+        → science of living matter
+    },
+
+    Biopsy : {
+        = bios + opsis
+        = viewing living tissue
+        → microscopic examination of living tissue
+    },
+}
+
+
+BONUS / BENE ("good", "well") {
+
+    Benediction : {
+        = bene + diction
+        = speaking good
+        → blessing
+        → expression of good wishes
+    },
+
+    Benedictory : {
+        = bene + dict + ory
+        = relating to blessing
+        → blessing-like
+    },
+
+    Benefaction : {
+        = bene + faction
+        = act of doing good
+        → charitable gift
+        → donation
+    },
+
+    Benefactor : {
+        = bene + factor
+        = doer of good
+        → helper
+        → patron
+        → donor
+    },
+
+    Benefactress : {
+        = benefactor + ess
+        = female benefactor
+        → woman who does good
+    },
+
+    Beneficence : {
+        = beneficent + ence
+        = act of doing good
+        → charity
+        → generosity
+    },
+
+    Beneficent : {
+        = bene + facio
+        = doing good
+        → charitable
+        → helpful
+        → kind
+    },
+
+    Beneficiary : {
+        = bene + ficiary
+        = receiver of good
+        → recipient of aid
+        → recipient of benefits
+    },
+
+    Benevolence : {
+        = benevolent + ence
+        = goodwill toward others
+        → kindness
+        → generosity
+    },
+
+    Benevolent : {
+        = bene + volo
+        = wishing good
+        → kind-hearted
+        → well-disposed
+    },
+
+    Benign : {
+        = bene + ign
+        = good in nature
+        → kindly
+        → gentle
+        → harmless
+    },
+
+    Benignancy : {
+        = benignant + cy
+        = state of kindness
+        → goodwill
+    },
+
+    Benignant : {
+        = bene + gnant
+        = actively good-natured
+        → kindly disposed
+        → benevolent
+    },
+
+    Benignity : {
+        = benign + ity
+        = quality of being kind and harmless
+        → kindness
+        → gentleness
+    },
+}
+
+
+BOTANE ("plant", "herb") {
+
+    Botanical : {
+        = botany + ical
+        = pertaining to plants
+    },
+
+    Botanist : {
+        = botane + ist
+        = student of plant life
+    },
+
+    Botany : {
+        = botane
+        = study of plants
+        → science of plant life
+    },
+}
