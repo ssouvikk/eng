@@ -147,6 +147,23 @@ CHRONOS ("time") {
 }
 
 
+COGO ("to drive together", "to compel") {
+
+    Cogency : {
+        = cogent + y
+        = force of argument
+        → logical persuasiveness
+    },
+
+    Cogent : {
+        = cogo + ent
+        = compelling
+        → convincing
+        → logically persuasive
+    },
+}
+
+
 CORRIGO ("to correct", "to reform", "to set straight") {
 
     Corrigible : {

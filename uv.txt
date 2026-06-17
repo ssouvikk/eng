@@ -1,3 +1,33 @@
+VERBUM ("word") {
+
+    Verbatim : {
+        = verba + tim
+        = word for word
+        → exact wording
+    },
+
+    Verbiage : {
+        = verb + age
+        = mass of words
+        → unnecessary language
+        → wordiness
+    },
+
+    Verbose : {
+        = verbum + ose
+        = full of words
+        → wordy
+        → using more words than necessary
+    },
+
+    Verbosity : {
+        = verbose + ity
+        = excessive wordiness
+        → over-elaborate speech
+    },
+}
+
+
 VERTO ("to turn") {
 
     Ambivert : {
@@ -153,6 +183,23 @@ VOLO ("to wish", "to will") {
 }
 
 
+VOLVO / VOLVERE ("to roll") {
+
+    Volubility : {
+        = voluble + ity
+        = fluency of speech
+        → verbal smoothness
+    },
+
+    Voluble : {
+        = volvere + ible
+        = words rolling easily
+        → fluent
+        → rapid speaker
+    },
+}
+
+
 VOX / VOCIS ("voice") {
 
     Equivocal : {
@@ -195,6 +242,19 @@ VOX / VOCIS ("voice") {
         = make vocal
         → utter by voice
         → sing
+    },
+
+    Vociferate : {
+        = vox + fero + ate
+        = to carry forth the voice
+        → shout loudly
+        → yell vehemently
+    },
+
+    Vociferation : {
+        = vociferate + ion
+        = loud shouting
+        → clamorous outcry
     },
 
     Vociferous : {

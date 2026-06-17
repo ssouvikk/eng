@@ -85,6 +85,42 @@ KENTRON ("center", "sharp point") {
 }
 
 
+LACONIA ("Sparta; region famous for brief speech") {
+
+    Laconic : {
+        = Laconia + ic
+        = speaking like a Spartan
+        → brief
+        → concise
+        → meaningful in few words
+    },
+
+    Laconicism : {
+        = laconic + ism
+        = habitual brevity
+        → concise mode of speech
+    },
+
+    Laconicity : {
+        = laconic + ity
+        = brevity of expression
+        → economy of words
+    },
+
+    Laconicness : {
+        = laconic + ness
+        = quality of brevity
+        → concise speech
+    },
+
+    Laconism : {
+        = laconic + ism
+        = concise statement
+        → pithy expression
+    },
+}
+
+
 LINGUA ("tongue", "language") {
 
     Bilingual : {
@@ -252,5 +288,130 @@ LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
     Zoology : {
         = zoion + logos
         = study of animals
+    },
+}
+
+
+LOQUOR ("to speak") {
+
+    Circumlocution : {
+        = circum + locution
+        = speaking around
+        → roundabout expression
+        → indirect speech
+    },
+
+    Circumlocutory : {
+        = circum + locutory
+        = characterized by talking around
+        → indirect
+        → evasive
+    },
+
+    Colloquial : {
+        = col + loquor
+        = speaking together
+        → conversational
+        → informal
+    },
+
+    Colloquialism : {
+        = colloquial + ism
+        = conversational expression
+        → everyday spoken phrase
+    },
+
+    Eloquent : {
+        = e (out) + loquor
+        = speaking out
+        → expressive
+        → persuasive
+        → moving in speech
+    },
+
+    Grandiloquence : {
+        = grandiloquent + ence
+        = pompous expression
+        → inflated language
+    },
+
+    Grandiloquent : {
+        = grandis + loquor
+        = speaking grandly
+        → bombastic
+        → high-flown
+    },
+
+    Loquacious : {
+        = loquor + acious
+        = fond of speaking
+        → talkative
+        → given to conversation
+    },
+
+    Loquaciousness : {
+        = loquacious + ness
+        = quality of being talkative
+        → excessive talking
+    },
+
+    Loquacity : {
+        = loquor + acity
+        = talkativeness
+        → tendency to speak much
+    },
+
+    Magniloquence : {
+        = magniloquent + ence
+        = grand style of speech
+        → lofty language
+    },
+
+    Magniloquent : {
+        = magnus + loquor
+        = speaking greatly
+        → pompous
+        → grandly expressive
+    },
+
+    Soliloquist : {
+        = soliloquy + ist
+        = one who talks to oneself
+        → speaker of a monologue
+    },
+
+    Soliloquize : {
+        = soliloquy + ize
+        = to speak to oneself
+        → think aloud
+    },
+
+    Soliloquy : {
+        = soli + loquor
+        = speaking alone
+        → talking to oneself
+        → dramatic self-speech
+    },
+
+    Ventriloquism : {
+        = ventri + loquor + ism
+        = art of belly-speaking
+        → voice projection illusion
+    },
+
+    Ventriloquist : {
+        = ventri + loquor + ist
+        = belly speaker
+        → one who throws voice
+    },
+
+    Ventriloquistic : {
+        = ventriloquism + ic
+        = relating to ventriloquism
+    },
+
+    Ventriloquize : {
+        = ventriloquy + ize
+        = to perform ventriloquism
     },
 }

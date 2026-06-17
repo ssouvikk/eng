@@ -373,6 +373,37 @@ ANTHROPOS ("mankind", "human being") {
 }
 
 
+ARTICULUS ("joint") {
+
+    Articulate : {
+        = articulus + ate
+        = join together
+        → express clearly
+        → speak coherently
+    },
+
+    Articulation : {
+        = articulate + ion
+        = act of joining words clearly
+        → clear expression
+    },
+
+    Inarticulate : {
+        = in + articulate
+        = unable to join words
+        → incoherent
+        → sputtering
+        → unclear in speech
+    },
+
+    Inarticulateness : {
+        = inarticulate + ness
+        = inability to express clearly
+        → verbal incoherence
+    },
+}
+
+
 ASTRON ("star", "heavenly body") {
 
     Aster : {
@@ -460,6 +491,30 @@ AUTOS ("self") {
         = autos + opsis
         = seeing for oneself
         → examination of a corpse
+    },
+}
+
+
+BANAL ("commonplace") {
+
+    Banal : {
+        = banal
+        = common and overused
+        → trite
+        → hackneyed
+        → unoriginal
+    },
+
+    Banality : {
+        = banal + ity
+        = triteness
+        → lack of originality
+    },
+
+    Banalness : {
+        = banal + ness
+        = state of being commonplace
+        → dull conventionality
     },
 }
 

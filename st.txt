@@ -402,6 +402,56 @@ SUMMUS ("highest", "utmost") {
 }
 
 
+TACEO ("to be silent") {
+
+    Reticence : {
+        = reticent + ence
+        = habit of silence
+        → reserve
+        → unwillingness to disclose
+    },
+
+    Reticency : {
+        = reticent + ency
+        = state of being reticent
+        → restraint in speech
+    },
+
+    Reticent : {
+        = re + tic (from taceo) + ent
+        = inclined to keep silent
+        → reserved
+        → reluctant to reveal thoughts
+    },
+
+    Tacit : {
+        = taceo
+        = left unsaid
+        → implied
+        → understood without words
+    },
+
+    Tacitness : {
+        = tacit + ness
+        = quality of being unspoken
+        → implied understanding
+    },
+
+    Taciturn : {
+        = taceo + turn
+        = habitually silent
+        → disinclined to conversation
+        → uncommunicative person
+    },
+
+    Taciturnity : {
+        = taciturn + ity
+        = state of habitual silence
+        → reserve in speech
+    },
+}
+
+
 TELE ("distance") {
 
     Telegraph : {

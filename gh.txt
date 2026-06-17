@@ -42,6 +42,23 @@ GAMOS ("marriage") {
 }
 
 
+GARRIRE ("to chatter") {
+
+    Garrulity : {
+        = garrulous + ity
+        = incessant chatter
+        → meaningless talkativeness
+    },
+
+    Garrulous : {
+        = garrire + ulous
+        = chattering
+        → talking constantly
+        → rambling talk
+    },
+}
+
+
 GE / GEO ("earth") {
 
     Geographic : {
