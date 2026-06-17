@@ -8,7 +8,7 @@ ADELPHOS ("brother") {
 }
 
 
-ADULOR ("to flatter") {
+ADULOR ("to flatter", "to fawn upon") {
 
     Adulate : {
         = adulor + ate
@@ -21,23 +21,40 @@ ADULOR ("to flatter") {
         = adulate + ion
         = excessive flattery
         → exaggerated admiration
+        → worshipful praise
     },
 
     Adulatory : {
         = adulate + ory
         = characterized by flattery
+        = characterized by adulation
         → worshipful
+        → flattering
     },
 }
 
 
 AEQUUS / EQU ("equal") {
 
+    Equability : {
+        = equable + ity
+        = evenness
+        → calmness of temper
+    },
+
+    Equable : {
+        = equ + able
+        = evenly balanced
+        → calm
+        → steady in temperament
+    },
+
     Equanimity : {
         = equ + animus
         = equal mind
         → calmness
         → emotional balance
+        → composure
     },
 
     Equilateral : {
@@ -51,6 +68,32 @@ AEQUUS / EQU ("equal") {
         = equal balance
         → tightrope walker
         → one who balances expertly
+    },
+
+    Equilibrium : {
+        = equ + libra
+        = equal balance
+        → physical balance
+        → balance of forces
+    },
+
+    Equinoctial : {
+        = equinox + ial
+        = relating to equal day and night
+    },
+
+    Equinox : {
+        = equ + nox
+        = equal night
+        = day and night of equal length
+    },
+
+    Equitable : {
+        = equ + able
+        = capable of being equal
+        → fair
+        → just
+        → evenhanded
     },
 
     Equity : {
@@ -79,6 +122,34 @@ AEQUUS / EQU ("equal") {
         = equivocate + ion
         = act of deliberate ambiguity
         → evasive speech
+    },
+
+    Inequitable : {
+        = in + equitable
+        = not fair
+        → unjust
+    },
+
+    Inequity : {
+        = in + equity
+        = lack of fairness
+        → injustice
+        → unfairness
+    },
+
+    Iniquitous : {
+        = iniquity + ous
+        = characterized by wickedness
+        → sinful
+        → immoral
+    },
+
+    Iniquity : {
+        = in + equity
+        = extreme injustice
+        → wickedness
+        → sinfulness
+        → gross immorality
     },
 
     Unequivocal : {
@@ -739,18 +810,21 @@ DICHA ("in two") {
 }
 
 
-DICO / DICTUS ("to say", "to tell") {
+DICO / DICTUS ("to say", "to tell", "to speak") {
 
     Malediction : {
         = mal + dico
         = speak evil
+        = speaking evil
         → curse
     },
 
     Maledictory : {
         = mal + dico + ory
         = relating to curses
+        = of cursing
         → cursing
+        → curse-like
     },
 }
 
@@ -899,6 +973,28 @@ ENDON ("within", "inner") {
 }
 
 
+EQUUS ("horse") {
+
+    Equestrian : {
+        = equus + estrian
+        = horse rider
+        → person on horseback
+    },
+
+    Equestrienne : {
+        = equus + estrienne
+        = female rider
+        → woman on horseback
+    },
+
+    Equine : {
+        = equus + ine
+        = horse-like
+        → characteristic of a horse
+    },
+}
+
+
 EX ("out") {
 
     Exodontia : {
@@ -938,6 +1034,12 @@ FACIO ("to do", "to make") {
         = mal + facio
         = doer of evil
         → criminal
+    },
+
+    Maleficent : {
+        = mal + facio + ent
+        = doing evil
+        → harmful
     },
 }
 
@@ -1756,6 +1858,7 @@ MALUS ("bad", "evil") {
         = bad ease
         → vague discomfort
         → feeling of illness
+        → feeling unwell
     },
 
     Malcontent : {
@@ -1786,6 +1889,7 @@ MALUS ("bad", "evil") {
     Malefaction : {
         = mal + facio + tion
         = evil deed
+        = evil act
         → crime
         → wrongdoing
     },
@@ -1795,6 +1899,13 @@ MALUS ("bad", "evil") {
         = doer of evil
         → criminal
         → wrongdoer
+    },
+
+    Maleficent : {
+        = mal + facio + ent
+        = doing evil
+        → harmful
+        → hurtful
     },
 
     Malevolent : {
@@ -1833,7 +1944,9 @@ MALUS ("bad", "evil") {
     Malignancy : {
         = malignant + cy
         = state of harmfulness
+        = harmful condition
         → cancerous condition
+        → cancerous growth
     },
 
     Malignant : {
@@ -1970,13 +2083,17 @@ MILITIS ("soldier") {
     Militancy : {
         = militant + cy
         = aggressive attitude
+        = state of soldier-like aggression
         → combativeness
+        → aggressiveness
     },
 
     Militant : {
         = militis + ant
         = soldier-like
         → aggressive fighter for a cause
+        → aggressive fighter
+        → activist for a cause
     },
 
     Military : {
@@ -1987,6 +2104,7 @@ MILITIS ("soldier") {
     Militate : {
         = militis + ate
         = act as a soldier against
+        = act like a soldier against
         → work against
         → operate to disadvantage
     },
@@ -2153,6 +2271,38 @@ NOTUS ("known") {
         = widely known
         → publicly known for bad reasons
         → infamous
+    },
+}
+
+
+NOX / NOCTIS ("night") {
+
+    Equinoctial : {
+        = equi + noct
+        = relating to equal night
+    },
+
+    Equinox : {
+        = equ + nox
+        = equal night
+        → time when day and night are equal
+    },
+
+    Nocturnal : {
+        = noctis + urnal
+        = of the night
+        → active at night
+    },
+
+    Nocturne : {
+        = noctis + urne
+        = night piece
+        → night music
+    },
+
+    Nox : {
+        = nox
+        = night
     },
 }
 
@@ -3175,6 +3325,7 @@ SCRIBO / SCRIPTUS ("to write") {
     Proscriptive : {
         = proscribe + ive
         = tending to prohibit
+        = prohibiting
         → restrictive
     },
 
@@ -3467,12 +3618,16 @@ TITILL ("to tickle") {
         = tickle
         → stimulate pleasantly
         → excite interest
+        → delight
     },
 
     Titillation : {
         = titillate + ion
         = pleasurable stimulation
+        = act of tickling
         → excitement
+        → pleasurable stimulation
+        → mild sexual excitement
     },
 }
 
@@ -3576,6 +3731,31 @@ TOME ("a cutting", "cut", "section") {
 }
 
 
+TRIVIA / TRI-VIA ("three roads") {
+
+    Trivia : {
+        = tri + via
+        = common roadside knowledge
+        → miscellaneous unimportant facts
+        → trifles
+    },
+
+    Trivial : {
+        = tri + via
+        = found at crossroads
+        → commonplace
+        → unimportant
+        → insignificant
+    },
+
+    Triviality : {
+        = trivial + ity
+        = insignificant thing
+        → trifle
+    },
+}
+
+
 VERTO ("to turn") {
 
     Ambivert : {
@@ -3651,6 +3831,7 @@ VIA ("road", "way") {
         = obviate + ion
         = act of preventing
         → elimination of need
+        → making unnecessary
     },
 
     Obvious : {
@@ -3665,11 +3846,13 @@ VIA ("road", "way") {
         = common roadside talk
         → unimportant facts
         → trifles
+        → trifling information
     },
 
     Trivial : {
         = tri + via
         = at the meeting of three roads
+        = common crossroads matter
         → commonplace
         → insignificant
     },
@@ -3695,6 +3878,8 @@ VOLO ("to wish") {
         = mal + volo
         = wishing evil
         → ill-disposed
+        → ill-will
+        → desire to harm
     },
 
     Volition : {
@@ -3731,13 +3916,29 @@ VOX / VOCIS ("voice") {
     Vocal : {
         = vox
         = voice-related
+        = relating to voice
         → spoken
         → oral
+        → expressive by voice
+    },
+
+    Vocalist : {
+        = vocal + ist
+        = voice performer
+        → singer
+    },
+
+    Vocalize : {
+        = vocal + ize
+        = make vocal
+        → utter by voice
+        → sing
     },
 
     Vociferous : {
         = vox + fero
         = carry the voice
+        = carrying the voice
         → loud
         → noisy
         → clamorous
