@@ -862,6 +862,33 @@ NEURON ("nerve") {
 }
 
 
+NOCEO ("to injure") {
+
+    Innocuous : {
+        = in + noceo + ous
+        = not injuring
+        → harmless
+        → safe
+        → inoffensive
+    },
+
+    Innocent : {
+        = in + noceo
+        = not harmful
+        → guiltless
+        → blameless
+    },
+
+    Noxious : {
+        = noceo + ious
+        = harmful
+        → poisonous
+        → injurious
+        → unwholesome
+    },
+}
+
+
 NOMOS ("law", "order", "arrangement") {
 
     Astronomy : {

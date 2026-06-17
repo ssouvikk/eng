@@ -142,21 +142,18 @@ EPHEMEROS ("lasting only a day") {
 EQUUS ("horse") {
 
     Equestrian : {
-        = equus + estrian
-        = horse rider
-        → person on horseback
+        = equus + trian
+        = horseman
     },
 
     Equestrienne : {
-        = equus + estrienne
-        = female rider
-        → woman on horseback
+        = equus + trienne
+        = horsewoman
     },
 
     Equine : {
         = equus + ine
-        = like a horse
-        → horselike
+        = horse-like
         → relating to horses
     },
 }

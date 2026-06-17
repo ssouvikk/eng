@@ -827,6 +827,31 @@ PATHOS ("suffering", "disease", "feeling") {
 }
 
 
+PECUS ("cattle", ancient wealth) {
+
+    Impecunious : {
+        = im + pecus + ious
+        = without cattle/wealth
+        → short of money
+        → lacking cash
+        → financially embarrassed
+    },
+
+    Pecuniary : {
+        = pecus + ary
+        = relating to wealth
+        → monetary
+        → financial
+    },
+
+    Penury : {
+        = related wealth-poverty concept
+        → extreme poverty
+        → destitution
+    },
+}
+
+
 PEJOR ("worse") {
 
     Pejorative : {

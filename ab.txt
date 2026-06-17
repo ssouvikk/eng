@@ -812,6 +812,32 @@ BIBLION ("book") {
 }
 
 
+BIBO ("to drink") {
+
+    Bibulous : {
+        = bibo + ulous
+        = full of drinking
+        → fond of liquor
+        → alcoholic
+        → prone to overdrinking
+    },
+
+    Imbibe : {
+        = im + bibo
+        = drink into
+        → absorb
+        → soak up
+        → take in knowledge
+    },
+
+    Bib : {
+        = from drinking
+        = protective cloth
+        → catches spills while eating/drinking
+    },
+}
+
+
 BIOS ("life") {
 
     Autobiography : {

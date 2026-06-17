@@ -1,3 +1,16 @@
+QUEROR ("to complain") {
+
+    Querulous : {
+        = queror + ulous
+        = full of complaints
+        → nagging
+        → whining
+        → fretful
+        → dissatisfied
+    },
+}
+
+
 REX / REGIS ("king") {
 
     Regal : {

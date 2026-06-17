@@ -330,6 +330,47 @@ SENEX ("old") {
 }
 
 
+SEQUOR ("to follow") {
+
+    Obsequious : {
+        = ob + sequor + ous
+        = full of following
+        = servilely attentive
+        → fawning
+        → submissive
+        → self-ingratiating
+    },
+
+    Obsequies : {
+        = ob + sequor
+        = followers after the dead
+        → funeral rites
+        → burial ceremonies
+    },
+
+    Subsequent : {
+        = sub + sequor
+        = following after
+        → later
+        → coming afterward
+    },
+
+    Sequel : {
+        = sequor + el
+        = that which follows
+        → continuation
+        → later development
+    },
+
+    Sequence : {
+        = sequor + ence
+        = act of following
+        → proper order
+        → succession
+    },
+}
+
+
 SIMILIS ("similar", "like") {
 
     Dissemblance : {
@@ -643,6 +684,19 @@ STOA ("porch") {
         = stoic + ism
         = philosophy of self-control
         → endurance without complaint
+    },
+}
+
+
+STREPO ("to make a noise") {
+
+    Obstreperous : {
+        = ob + strepo + ous
+        = full of noisy opposition
+        → unruly
+        → boisterous
+        → troublesome
+        → unmanageable
     },
 }
 

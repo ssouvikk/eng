@@ -1,3 +1,44 @@
+CADO ("to fall") {
+
+    Cadaverous : {
+        = cado + aver + ous
+        = like one who has fallen in death
+        → corpse-like
+        → gaunt
+        → haggard
+        → pale
+    },
+
+    Cadaver : {
+        = cado + aver
+        = fallen body
+        → corpse
+    },
+
+    Decadent : {
+        = de + cado
+        = falling down
+        → morally declining
+        → corrupt
+        → deteriorating
+    },
+
+    Decadence : {
+        = de + cado + ence
+        = state of falling down
+        → moral decay
+        → spiritual decline
+    },
+
+    Cadence : {
+        = cado + ence
+        = falling movement
+        → rhythmic fall
+        → modulation of sound
+    },
+}
+
+
 CAEDO / CIDE ("to kill") {
 
     Fratricide : {
@@ -336,6 +377,55 @@ CHEIR ("hand") {
 }
 
 
+CHEVAL ("horse") / CABALLUS ("horse") {
+
+    Chivalrous : {
+        = cheval + rous
+        = full of knightly horsemanship
+        → courteous to women
+        → gallant
+        → protective
+    },
+
+    Chivalry : {
+        = cheval + ry
+        = knightly code
+        → gallantry
+        → courtesy to women
+    },
+
+    Chivalric : {
+        = cheval + ic
+        = pertaining to chivalry
+        → knightly
+        → gallant
+    },
+
+    Cavalcade : {
+        = caval + cade
+        = horse procession
+        → parade of riders
+    },
+
+    Cavalier : {
+        = caval + ier
+        = horseman/soldier
+        → mounted soldier
+
+        (adj.)
+        → haughty
+        → offhand
+        → highhanded
+    },
+
+    Cavalry : {
+        = caval + ry
+        = horse soldiers
+        → mounted military force
+    },
+}
+
+
 CHRONOS ("time") {
 
     Anachronism : {
@@ -438,6 +528,32 @@ CHRONOS ("time") {
         = syn + chronos + ous
         = happening at the same time
         → simultaneous
+    },
+}
+
+
+CILIUM ("eyelid") + SUPER ("above") {
+
+    Supercilious : {
+        = super + cilium + ous
+        = eyebrows raised above eyelids
+        → looking down on others
+        → haughty
+        → arrogant
+        → contemptuous
+    },
+
+    Super : {
+        = above
+        → higher
+        → superior
+    },
+
+    Superior : {
+        = super + ior
+        = higher above
+        → better
+        → higher in rank
     },
 }
 
@@ -717,6 +833,66 @@ DILETTARE ("to delight oneself") {
         = conduct of a dabbler
         → superficial interest
         → amateurism
+    },
+}
+
+
+DOLEO ("to suffer", "to grieve") {
+
+    Dolorous : {
+        = doleo + ous
+        = full of grief
+        → sorrowful
+        → melancholy
+        → mournful
+    },
+
+    Dolor : {
+        = doleo
+        = grief
+        → sorrow
+        → suffering
+    },
+
+    Doleful : {
+        = doleo + ful
+        = full of sorrow
+        → gloomy
+        → exaggerated sadness
+    },
+
+    Condole : {
+        = con + doleo
+        = grieve together
+        → sympathize
+        → mourn with another
+    },
+
+    Condolence : {
+        = con + doleo + ence
+        = expression of shared grief
+        → sympathy after loss
+    },
+
+    Dolores : {
+        = from dolor
+        = sorrows
+        → grief
+    },
+
+    Indolent : {
+        = in + doleo
+        = not suffering
+        → avoiding effort
+        → lazy
+        → inactive
+    },
+
+    Indolence : {
+        = in + doleo + ence
+        = absence of effort
+        → laziness
+        → idleness
     },
 }
 
