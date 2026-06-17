@@ -527,7 +527,20 @@ PAIDOS / PAIS ("child") {
 
 
 
-IATREIA ("medical healing", "treatment") {
+IATREIA ("healing", "medical treatment") {
+
+    Geriatrics : {
+        = geras + iatreia
+        = healing of old age
+        → medical care of the elderly
+        → geriatrics
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = children's physician
+        → pediatrician
+    },
 
     Pediatrics : {
         = paidos + iatreia
@@ -535,10 +548,10 @@ IATREIA ("medical healing", "treatment") {
         → medical care of children
     },
 
-    Pediatrician : {
-        = paidos + iatreia + ian
-        = children's physician
-        → pediatrician
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician healing the mind
+        → psychiatrist
     },
 
     Psychiatry : {
@@ -548,10 +561,11 @@ IATREIA ("medical healing", "treatment") {
         → psychiatry
     },
 
-    Psychiatrist : {
-        = psyche + iatreia + ist
-        = physician healing the mind
-        → psychiatrist
+    Podiatrist : {
+        = podos + iatreia + ist
+        = foot healer
+        → foot doctor
+        → podiatrist
     },
 
     Podiatry : {
@@ -560,15 +574,7 @@ IATREIA ("medical healing", "treatment") {
         → treatment of foot ailments
         → podiatry
     },
-
-    Geriatrics : {
-        = geras + iatreia
-        = healing of old age
-        → medical care of the elderly
-        → geriatrics
-    },
 }
-
 
 
 DERMA ("skin") {
