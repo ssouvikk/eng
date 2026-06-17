@@ -377,6 +377,51 @@ OSTEON ("bone") {
 }
 
 
+OVUM ("egg") {
+
+    Oval : {
+        = ovum + al
+        = egg-shaped
+        → elliptical
+    },
+
+    Ovarian : {
+        = ovary + an
+        = relating to the ovary
+    },
+
+    Ovary : {
+        = ovum + ary
+        = egg-producing organ
+        → female reproductive gland
+    },
+
+    Oviparous : {
+        = ovum + parous
+        = producing eggs
+        → laying eggs
+    },
+
+    Ovoid : {
+        = ovum + oid
+        = resembling an egg
+        → egg-shaped form
+    },
+
+    Ovulation : {
+        = ovule + ation
+        = release of an egg
+        → egg production cycle
+    },
+
+    Ovule : {
+        = ovum + ule
+        = little egg
+        → immature egg cell
+    },
+}
+
+
 PAIDOS / PAIS ("child") {
 
     Orthopedics : {
@@ -858,6 +903,37 @@ PHOTOS ("light") {
         = photos + graphein
         = writing by light
         → image produced through light
+    },
+}
+
+
+PICERE / SPICERE ("to look") {
+
+    Perspicacious : {
+        = per + spicere
+        = look through
+        → see clearly
+        → mentally keen
+        → insightful
+    },
+
+    Perspicacity : {
+        = perspicacious + ity
+        = mental sharpness
+        → keen understanding
+    },
+
+    Perspicuity : {
+        = perspicuous + ity
+        = clarity
+        → lucidity
+    },
+
+    Perspicuous : {
+        = per + spicere
+        = clearly seen through
+        → clear
+        → easily understood
     },
 }
 

@@ -110,6 +110,18 @@ ENDON ("within", "inner") {
 }
 
 
+ENNUI ("weariness") {
+
+    Ennui : {
+        = French ennui
+        = boredom
+        → dissatisfaction
+        → listlessness
+        → tedium
+    },
+}
+
+
 EQUUS ("horse") {
 
     Equestrian : {
@@ -210,6 +222,30 @@ FACIO / FACTUS ("to do", "to make") {
         = mal + facio + ent
         = doing evil
         → harmful
+    },
+}
+
+
+FATIGUE ("weariness") {
+
+    Fatigue : {
+        = fatigue
+        = weariness
+        → exhaustion
+    },
+
+    Indefatigability : {
+        = indefatigable + ity
+        = tirelessness
+        → endless persistence
+    },
+
+    Indefatigable : {
+        = in + de + fatigue + able
+        = unable to be fatigued
+        → tireless
+        → untiring
+        → persistent
     },
 }
 

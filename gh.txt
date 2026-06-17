@@ -193,6 +193,44 @@ GENESIS ("birth", "origin", "beginning") {
 }
 
 
+GENUUS / INGENUUS ("native, natural, frank") {
+
+    Ingenious : {
+        = ingenium
+        = naturally gifted
+        → clever
+        → inventive
+        → resourceful
+    },
+
+    Ingeniousness : {
+        = ingenious + ness
+        = quality of being inventive
+    },
+
+    Ingenuity : {
+        = ingenious + ity
+        = cleverness
+        → inventiveness
+    },
+
+    Ingenuous : {
+        = ingenuus
+        = natural and open
+        → simple
+        → honest
+        → artless
+        → frank
+    },
+
+    Ingenuousness : {
+        = ingenuous + ness
+        = honesty and simplicity
+        → frank openness
+    },
+}
+
+
 GERAS ("old age") {
 
     Geriatric : {
@@ -251,6 +289,35 @@ GLIB ("smooth") {
 }
 
 
+GLUTTIRE ("to swallow greedily") {
+
+    Glutton : {
+        = gluttire
+        = one who swallows excessively
+        → overeater
+        → piggish eater
+    },
+
+    Gluttonize : {
+        = glutton + ize
+        = eat excessively
+        → stuff oneself greedily
+    },
+
+    Gluttonous : {
+        = glutton + ous
+        = characterized by overeating
+        → greedy for food
+    },
+
+    Gluttony : {
+        = glutton + y
+        = excessive eating
+        → greed in consumption
+    },
+}
+
+
 GNOSIS (knowledge) {
 
     Diagnosis : {
@@ -299,6 +366,29 @@ GNOSTOS (known) {
         = agnostic + ism
         = doctrine of unknowability
         → belief that God cannot be known with certainty
+    },
+}
+
+
+GOURMET ("connoisseur of food") {
+
+    Gourmand : {
+        = French gourmand
+        = lover of food
+        → hearty eater
+        → sensual enjoyer of food
+    },
+
+    Gourmandize : {
+        = gourmand + ize
+        = eat luxuriously
+        → indulge in food pleasures
+    },
+
+    Gourmet : {
+        = French gourmet
+        = expert in food and drink
+        → connoisseur of fine cuisine
     },
 }
 

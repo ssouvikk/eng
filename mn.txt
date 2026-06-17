@@ -2,25 +2,38 @@ MAGNUS ("great, large") {
 
     Magnanimity : {
         = magnanimous + ity
-        = greatness of soul
+        = greatness of spirit
         → generosity
-        → nobility of character
+        → nobility
     },
 
     Magnanimous : {
         = magnus + animus
         = great soul
+        → noble
         → generous
-        → noble-minded
         → forgiving
-        → big-hearted
     },
 
     Magnate : {
-        = magnus + ate
+        = magnus
         = great person
-        → influential person
-        → powerful leader in business or society
+        → powerful leader
+        → influential figure
+    },
+
+    Magnificent : {
+        = magnus + facere
+        = made great
+        → splendid
+        → grand
+    },
+
+    Magnify : {
+        = magnus + facere
+        = make great
+        → enlarge
+        → glorify
     },
 
     Magniloquence : {

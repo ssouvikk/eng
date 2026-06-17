@@ -696,6 +696,17 @@ BIOS ("life") {
 }
 
 
+BON VIVANT ("one who lives well") {
+
+    Bon Vivant : {
+        = bon (good) + vivant (living)
+        = one who lives well
+        → pleasure-loving person
+        → sophisticated enjoyer of life
+    },
+}
+
+
 BONUS / BENE ("good", "well") {
 
     Benediction : {

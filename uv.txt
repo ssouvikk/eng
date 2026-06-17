@@ -1,3 +1,38 @@
+URBS ("city") {
+
+    Urban : {
+        = urbs + an
+        = relating to a city
+    },
+
+    Urbane : {
+        = urbs
+        = of the city
+        → polished
+        → refined
+        → sophisticated
+    },
+
+    Urbanity : {
+        = urbane + ity
+        = polish of manner
+        → refinement
+        → sophistication
+    },
+
+    Urbanization : {
+        = urbanize + ation
+        = process of becoming urban
+    },
+
+    Urbanize : {
+        = urban + ize
+        = make city-like
+        → develop urban characteristics
+    },
+}
+
+
 UXOR (wife) {
 
     Uxorial : {
@@ -90,6 +125,28 @@ VERBUM ("word") {
         = excess of words
         → over-elaborate speech
         → wordiness
+    },
+}
+
+
+VERSARE ("to turn") {
+
+    Versatile : {
+        = versare
+        = turn easily
+        → adaptable
+        → capable in many fields
+    },
+
+    Versatilely : {
+        = versatile + ly
+        = in an adaptable manner
+    },
+
+    Versatility : {
+        = versatile + ity
+        = adaptability
+        → many-sided ability
     },
 }
 
@@ -260,6 +317,133 @@ VIR ("man") {
         = virtue + ous
         = possessing virtue
         → morally upright
+    },
+}
+
+
+VIVO / VITA ("to live", "life") {
+
+    Antivivisectionist : {
+        = anti + vivisection + ist
+        = opponent of vivisection
+    },
+
+    Convivial : {
+        = con + vivo
+        = live together
+        → feast together
+        → enjoy companionship
+        → friendly and sociable
+    },
+
+    Conviviality : {
+        = convivial + ity
+        = state of friendliness
+        → good fellowship
+        → sociability
+    },
+
+    Devitalize : {
+        = de + vital + ize
+        = remove life from
+        → weaken
+        → drain energy
+    },
+
+    Revitalization : {
+        = re + vital + ization
+        = make alive again
+        → restore vigor
+        → renew strength
+    },
+
+    Revitalize : {
+        = re + vital + ize
+        = give life again
+        → energize
+        → rejuvenate
+    },
+
+    Revival : {
+        = revive + al
+        = act of bringing back to life
+        → restoration
+        → renewed interest
+    },
+
+    Revive : {
+        = re + vive
+        = live again
+        → restore to life
+        → restore energy
+    },
+
+    Vital : {
+        = vita + al
+        = pertaining to life
+        → essential
+        → indispensable
+        → crucial
+    },
+
+    Vitality : {
+        = vital + ity
+        = life force
+        → vigor
+        → energy
+    },
+
+    Vivacious : {
+        = vivo + acious
+        = full of life
+        → lively
+        → animated
+        → energetic
+    },
+
+    Vivaciousness : {
+        = vivacious + ness
+        = quality of being lively
+        → energy and enthusiasm
+    },
+
+    Vivacity : {
+        = vivacious + ity
+        = liveliness
+        → animation
+        → high spirits
+    },
+
+    Vivid : {
+        = vivo + id
+        = full of life
+        → bright
+        → intense
+        → strikingly clear
+    },
+
+    Vividness : {
+        = vivid + ness
+        = clarity and intensity
+        → lifelike quality
+    },
+
+    Viviparous : {
+        = vivi + parous
+        = producing live offspring
+        → giving birth to living young
+    },
+
+    Vivisection : {
+        = vivi + section
+        = cutting a living creature
+        → operation on live animals
+        → scientific experimentation
+    },
+
+    Vivisectionist : {
+        = vivisection + ist
+        = one who practices vivisection
     },
 }
 

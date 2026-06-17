@@ -1,3 +1,30 @@
+SCINTILLA ("spark") {
+
+    Scintillate : {
+        = scintilla + ate
+        = emit sparks
+        → sparkle
+        → shine brilliantly
+        → be witty and lively
+    },
+
+    Scintillating : {
+        = scintillate + ing
+        = sparkling intellectually
+        → brilliant
+        → fascinating
+        → witty
+    },
+
+    Scintillation : {
+        = scintillate + ion
+        = sparkling quality
+        → brilliance
+        → wit
+    },
+}
+
+
 SCIO / SCIENS ("to know", "knowing") {
 
     Conscience : {
@@ -352,6 +379,35 @@ SPHYGMOS ("pulse") {
         = sphygmos + manometer
         = pulse-pressure measure
         → blood-pressure apparatus
+    },
+}
+
+
+STOA ("porch") {
+
+    Stoic : {
+        = stoa
+        = follower of Stoic philosophy
+        → emotionally controlled person
+        → uncomplaining individual
+    },
+
+    Stoical : {
+        = stoic + al
+        = showing emotional control
+        → uncomplaining
+    },
+
+    Stoically : {
+        = stoical + ly
+        = without complaint
+        → with endurance
+    },
+
+    Stoicism : {
+        = stoic + ism
+        = philosophy of endurance
+        → emotional self-control
     },
 }
 
@@ -732,6 +788,31 @@ TOME ("a cutting", "cut", "section") {
         = tonsil + ec + tome
         = cutting out the tonsils
         → surgical removal of tonsils
+    },
+}
+
+
+TREPIDUS ("frightened") {
+
+    Intrepid : {
+        = in + trepidus
+        = not frightened
+        → fearless
+        → courageous
+        → brave
+    },
+
+    Intrepidity : {
+        = intrepid + ity
+        = fearlessness
+        → courage
+    },
+
+    Trepidation : {
+        = trepidus + ation
+        = trembling fear
+        → anxiety
+        → apprehension
     },
 }
 
