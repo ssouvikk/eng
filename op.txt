@@ -226,6 +226,50 @@ OPSIS / OPTIKOS ("vision", "sight") {
 }
 
 
+OPUS ("work") {
+
+    Cooperative : {
+        = co + oper + ative
+        = working together
+        → collaborative
+    },
+
+    Magnum Opus : {
+        = magnus + opus
+        = great work
+        → masterpiece
+        → greatest achievement
+    },
+
+    Operate : {
+        = opus → oper
+        = perform work
+        → function
+        → carry out action
+    },
+
+    Operation : {
+        = operate + ion
+        = act of working
+        → procedure
+        → performance
+    },
+
+    Operator : {
+        = operate + or
+        = one who works
+        → performer
+        → controller of operations
+    },
+
+    Opus : {
+        = opus
+        = work
+        → artistic composition
+    },
+}
+
+
 ORTHOS ("straight", "correct") {
 
     Orthodontia / Orthodontics : {

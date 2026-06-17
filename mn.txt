@@ -1,3 +1,52 @@
+MAGNUS ("great, large") {
+
+    Magnanimity : {
+        = magnanimous + ity
+        = greatness of soul
+        → generosity
+        → nobility of character
+    },
+
+    Magnanimous : {
+        = magnus + animus
+        = great soul
+        → generous
+        → noble-minded
+        → forgiving
+        → big-hearted
+    },
+
+    Magnate : {
+        = magnus + ate
+        = great person
+        → influential person
+        → powerful leader in business or society
+    },
+
+    Magniloquence : {
+        = magniloquent + ence
+        = grand style of speaking
+        → lofty language
+        → verbal magnificence
+    },
+
+    Magniloquent : {
+        = magnus + loquor
+        = speaking greatly
+        → grandiloquent
+        → lofty in speech
+        → pompously expressive
+    },
+
+    Magnum Opus : {
+        = magnus + opus
+        = great work
+        → masterpiece
+        → greatest achievement
+    },
+}
+
+
 MALUS ("bad", "evil") {
 
     Maladjusted : {

@@ -98,25 +98,31 @@ LACONIA ("Sparta; region famous for brief speech") {
     Laconicism : {
         = laconic + ism
         = habitual brevity
+        = habit of brevity
         → concise mode of speech
+        → concise mode of expression
     },
 
     Laconicity : {
         = laconic + ity
         = brevity of expression
+        = brevity
         → economy of words
     },
 
     Laconicness : {
         = laconic + ness
         = quality of brevity
+        = quality of being concise
         → concise speech
+        → terseness
     },
 
     Laconism : {
         = laconic + ism
         = concise statement
         → pithy expression
+        → brevity
     },
 }
 
@@ -299,6 +305,8 @@ LOQUOR ("to speak") {
         = speaking around
         → roundabout expression
         → indirect speech
+        → indirect expression
+        → roundabout speech
     },
 
     Circumlocutory : {
@@ -311,6 +319,7 @@ LOQUOR ("to speak") {
     Colloquial : {
         = col + loquor
         = speaking together
+        = com + loquor
         → conversational
         → informal
     },
@@ -321,18 +330,30 @@ LOQUOR ("to speak") {
         → everyday spoken phrase
     },
 
+    Eloquence : {
+        = eloquent + ence
+        = power of expression
+        → expressiveness
+        → persuasive speech
+    },
+
     Eloquent : {
         = e (out) + loquor
         = speaking out
+        = e + loquor
+        = speak out
         → expressive
         → persuasive
         → moving in speech
+        → forceful in speech
     },
 
     Grandiloquence : {
         = grandiloquent + ence
         = pompous expression
+        = pompous language
         → inflated language
+        → inflated speech
     },
 
     Grandiloquent : {
@@ -364,6 +385,7 @@ LOQUOR ("to speak") {
     Magniloquence : {
         = magniloquent + ence
         = grand style of speech
+        = grand speech
         → lofty language
     },
 
@@ -372,6 +394,7 @@ LOQUOR ("to speak") {
         = speaking greatly
         → pompous
         → grandly expressive
+        → lofty
     },
 
     Soliloquist : {
@@ -383,26 +406,33 @@ LOQUOR ("to speak") {
     Soliloquize : {
         = soliloquy + ize
         = to speak to oneself
+        = to talk to oneself
         → think aloud
     },
 
     Soliloquy : {
         = soli + loquor
         = speaking alone
+        = solus + loquor
         → talking to oneself
         → dramatic self-speech
+        → monologue
     },
 
     Ventriloquism : {
         = ventri + loquor + ism
         = art of belly-speaking
+        = venter + loquor + ism
+        = art of belly speaking
         → voice projection illusion
     },
 
     Ventriloquist : {
         = ventri + loquor + ist
         = belly speaker
+        = venter + loquor + ist
         → one who throws voice
+        → voice thrower
     },
 
     Ventriloquistic : {

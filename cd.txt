@@ -152,7 +152,9 @@ COGO ("to drive together", "to compel") {
     Cogency : {
         = cogent + y
         = force of argument
+        = compelling force
         → logical persuasiveness
+        → force of argument
     },
 
     Cogent : {

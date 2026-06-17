@@ -1,4 +1,48 @@
+VENTER / VENTRIS ("belly") {
+
+    Ventral : {
+        = ventris + al
+        = relating to the belly
+        → front side of an animal
+        → anterior side
+    },
+
+    Ventricle : {
+        = ventris + icle
+        = little belly
+        → hollow chamber
+        → chamber of heart or brain
+    },
+
+    Ventricular : {
+        = ventricle + ar
+        = relating to a ventricle
+        → chamber-like
+    },
+
+    Ventriloquism : {
+        = venter + loquor + ism
+        = art of belly-speaking
+        → voice illusion
+    },
+
+    Ventriloquist : {
+        = venter + loquor + ist
+        = belly speaker
+        → voice thrower
+    },
+}
+
+
 VERBUM ("word") {
+
+    Verbal : {
+        = verbum + al
+        = relating to words
+        → oral
+        → spoken
+        → linguistic
+    },
 
     Verbatim : {
         = verba + tim
@@ -11,6 +55,7 @@ VERBUM ("word") {
         = mass of words
         → unnecessary language
         → wordiness
+        → excessive language
     },
 
     Verbose : {
@@ -18,12 +63,15 @@ VERBUM ("word") {
         = full of words
         → wordy
         → using more words than necessary
+        → long-winded
     },
 
     Verbosity : {
         = verbose + ity
         = excessive wordiness
+        = excess of words
         → over-elaborate speech
+        → wordiness
     },
 }
 
@@ -185,17 +233,56 @@ VOLO ("to wish", "to will") {
 
 VOLVO / VOLVERE ("to roll") {
 
+    Evolution : {
+        = e + volvere
+        = roll out
+        → gradual unfolding
+        → gradual development
+    },
+
+    Evolutionary : {
+        = evolution + ary
+        = relating to gradual development
+        → developing step by step
+    },
+
+    Revolution : {
+        = re + volvere + tion
+        = complete turning around
+        → radical change
+        → overthrow of existing order
+    },
+
+    Revolutionary : {
+        = revolution + ary
+        = relating to revolution
+        → radically changing
+        → innovative
+    },
+
+    Revolve : {
+        = re + volvere
+        = roll back
+        → turn round and round
+        → rotate
+    },
+
     Volubility : {
         = voluble + ity
         = fluency of speech
+        = ease of rolling words
         → verbal smoothness
+        → fluency
     },
 
     Voluble : {
         = volvere + ible
         = words rolling easily
+        = rolling easily
         → fluent
         → rapid speaker
+        → fluent in speech
+        → talkative
     },
 }
 

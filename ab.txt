@@ -290,6 +290,74 @@ ANGLUS ("English", "England") {
 }
 
 
+ANIMUS ("mind, spirit, soul") {
+
+    Animosity : {
+        = animus + ity
+        = hostile spirit
+        → resentment
+        → hatred
+    },
+
+    Animus : {
+        = animus
+        = spirit, mind
+        → hostility
+        → ill feeling
+    },
+
+    Equanimity : {
+        = aequus + animus
+        = equal mind
+        → calmness
+        → emotional balance
+        → composure
+    },
+
+    Magnanimity : {
+        = magnanimous + ity
+        = greatness of spirit
+        → generosity
+        → forgiveness
+    },
+
+    Magnanimous : {
+        = magnus + animus
+        = great soul
+        → generous
+        → noble-hearted
+    },
+
+    Pusillanimity : {
+        = pusillanimous + ity
+        = smallness of spirit
+        → cowardice
+        → lack of courage
+    },
+
+    Pusillanimous : {
+        = pusillus + animus
+        = tiny soul
+        → cowardly
+        → timid
+        → lacking courage
+    },
+
+    Unanimity : {
+        = unanimous + ity
+        = state of one-mindedness
+        → complete agreement
+    },
+
+    Unanimous : {
+        = unus + animus
+        = one mind
+        → complete agreement
+        → all of one opinion
+    },
+}
+
+
 ANTHROPOS ("mankind", "human being") {
 
     Anthropocentric : {
@@ -464,6 +532,23 @@ ASTRON ("star", "heavenly body") {
         = dis + astron
         = against the stars
         → calamity; great misfortune
+    },
+}
+
+
+AURIS ("ear") {
+
+    Auricle : {
+        = auris + icle
+        = little ear
+        → ear-shaped chamber
+        → upper chamber of the heart
+    },
+
+    Auricular : {
+        = auricle + ar
+        = relating to the ear
+        → ear-shaped
     },
 }
 
