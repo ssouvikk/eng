@@ -1076,22 +1076,6 @@ OCULUS ("eye") {
 
 METRON ("measure", "measurement") {
 
-    Optometry : {
-        = opsis + metron
-        = measurement of vision
-    },
-
-    Optometrist : {
-        = opsis + metron + ist
-        = one who measures vision
-    },
-
-    Thermometer : {
-        = therme + metron
-        = heat measure
-        → instrument measuring temperature
-    },
-
     Barometer : {
         = baros + metron
         = pressure/weight measure
@@ -1100,7 +1084,30 @@ METRON ("measure", "measurement") {
 
     Barometric : {
         = barometer + ic
-        = relating to atmospheric pressure
+        = relating to / pertaining to atmospheric pressure
+    },
+
+    Metric : {
+        = metron
+        = relating to / pertaining to measurement
+    },
+
+    Metric System : {
+        = metron
+        = system based on measurement
+        → decimal system of weights and measures
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = one who measures vision
+        → vision specialist
+    },
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → eyesight testing
     },
 
     Sphygmomanometer : {
@@ -1109,15 +1116,10 @@ METRON ("measure", "measurement") {
         → blood-pressure apparatus
     },
 
-    Metric : {
-        = metron
-        = relating to measurement
-    },
-
-    Metric System : {
-        = metron
-        = system based on measurement
-        → decimal system of weights and measures
+    Thermometer : {
+        = therme + metron
+        = heat measure
+        → instrument measuring temperature
     },
 }
 
