@@ -1,63 +1,9 @@
-EGO ("I" or "self") {
-
-    Egoist : {
-        = ego + ist
-        = self-interested person
-        = person concerned with own welfare
-    },
-
-    Egotist : {
-        = ego + tist          // T = Talks
-        = person who constantly talks about self
-        = boastful self-promoter
-    },
-
-    Egocentric : {
-        = ego + centrum
-        = self at the center
-        → self-centered person
-    },
-
-    Egomaniac : {
-        = ego + mania
-        = obsession/madness with self
-        → pathological self-importance
-    },
-
-    Egoism : {
-        = ego + ism
-        = doctrine of self-interest
-        → selfish philosophy
-    },
-
-    Egotism : {
-        = ego + ism
-        = excessive self-importance
-        → vanity and boastfulness
-    },
-}
-
-
 ALTER ("other") {
 
     Alter Ego : {
         = alter + ego
         = other self
         = second personality
-    },
-
-    Alternate : {
-        = alter + ate
-        = become the other
-        → take turns 
-        → substitute successively
-    },
-
-    Alternative : {
-        = alter + native
-        = other choice
-        → another possibility
-        → option
     },
 
     Alteration : {
@@ -74,16 +20,24 @@ ALTER ("other") {
         → argument
         → quarrel
     },
+
+    Alternate : {
+        = alter + ate
+        = become the other
+        → take turns
+        → substitute successively
+    },
+
+    Alternative : {
+        = alter + native
+        = other choice
+        → another possibility
+        → option
+    },
 }
 
 
 ALTRUIST ("other people first") {
-
-    Altruist : {
-        = alter → altrui + ist
-        = person devoted to others
-        = selfless helper
-    },
 
     Altruism : {
         = alter → altrui + ism
@@ -91,9 +45,106 @@ ALTRUIST ("other people first") {
         → selfless concern for others
     },
 
+    Altruist : {
+        = alter → altrui + ist
+        = person devoted to others
+        = selfless helper
+    },
+
     Altruistic : {
         = alter → altrui + istic
         = characterized by selflessness
+    },
+}
+
+
+AMBI ("both") {
+
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = ability to use both hands equally well
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both right hands
+        → able to use both hands equally well
+        → skillful
+    },
+
+    Ambivert : {
+        = ambi + verto
+        = turn in both directions
+        → both introverted and extroverted
+    },
+}
+
+
+ANDROS ("male", "man") {
+
+    Polyandry : {
+        = poly + andros
+        = many husbands
+    },
+}
+
+
+ANTHROPOS ("mankind", "human being") {
+
+    Anthropology : {
+        = anthropos + logos
+        = study of mankind
+    },
+
+    Misanthrope : {
+        = misein + anthropos
+        = hater of mankind
+        → human-hater
+    },
+
+    Misanthropic : {
+        = misein + anthropos + ic
+        = characterized by hatred of mankind
+    },
+
+    Misanthropist : {
+        = misein + anthropos + ist
+        = one who hates mankind
+    },
+
+    Misanthropy : {
+        = misein + anthropos + y
+        = hatred of mankind
+    },
+
+    Philanthropist : {
+        = philos + anthropos
+        = lover of mankind
+    },
+}
+
+
+BAROS ("weight", "pressure") {
+
+    Barometer : {
+        = baros + metron
+        = pressure measure
+        → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        = barometer + ic
+        = pertaining to atmospheric pressure
+    },
+}
+
+
+BIOS ("life") {
+
+    Biography : {
+        = bios + graphein
+        = life writing
+        → written life story
     },
 }
 
@@ -108,69 +159,97 @@ CENTRUM ("center") {
 }
 
 
-MANIA ("madness" or "obsession") {
+CHEIR ("hand") {
 
-    Egomaniac : {
-        = ego + mania
-        = madness about self
-        → obsessive self-importance
+    Chirographer : {
+        = cheir + graphein + er
+        = one skilled in handwriting
+        → handwriting expert
+        → penmanship specialist
+    },
+
+    Chirographic : {
+        = cheir + graphein + ic
+        = pertaining to handwriting
+    },
+
+    Chirography : {
+        = cheir + graphein
+        = hand writing
+        → handwriting
+    },
+
+    Chiromancer : {
+        = cheir + manteia + er
+        = palm reader
+    },
+
+    Chiromancy : {
+        = cheir + manteia
+        = hand divination
+        → palm reading
+    },
+
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → foot care
+    },
+
+    Chiropractic : {
+        = cheir + praktikos
+        = treatment by hand
+        → spinal manipulation therapy
+        → manipulation of articulations
+    },
+
+    Chiropractor : {
+        = cheir + praktikos
+        = hand practitioner
+        → manipulates spinal joints
+        → spinal-joint specialist
     },
 }
 
 
-VERTO ("to turn") {
+DERMA ("skin") {
 
-    Introvert : {
-        = intro + verto
-        = turn inward
-        → thoughts directed inward
-        → self-analytical person
+    Dermatological : {
+        = dermatology + al
+        = relating to the skin
     },
 
-    Extrovert : {
-        = extro + verto
-        = turn outward
-        → thoughts directed outward
-        → socially outgoing person
+    Dermatologist : {
+        = derma + logos + ist
+        = skin specialist
+        → dermatologist
     },
 
-    Ambivert : {
-        = ambi + verto
-        = turn both ways
-        → inward and outward tendencies
-        → balanced personality
-    },
-}
-
-
-AMBI ("both") {
-
-    Ambivert : {
-        = ambi + verto
-        = turn in both directions
-        → both introverted and extroverted
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+        → medical science of skin diseases
     },
 
-    Ambidextrous : {
-        = ambi + dexter
-        = both right hands
-        → able to use both hands equally well
-        → skillful
-    },
-
-    Ambidexterity : {
-        = ambi + dexter + ity
-        = ability to use both hands equally well
+    Epidermis : {
+        = epi + derma
+        = upon the skin
+        → outer layer of skin
     },
 }
 
 
 DEXTER ("right hand") {
 
-    Dexterous : {
-        = dexter + ous
-        = having the skill of the right hand
-        → skillful
+    Ambidexterity : {
+        = ambi + dexter + ity
+        = equal skill with both hands
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = both hands function like right hands
+        → equal skill in both hands
     },
 
     Dexterity : {
@@ -180,15 +259,10 @@ DEXTER ("right hand") {
         → general competence
     },
 
-    Ambidextrous : {
-        = ambi + dexter
-        = both hands function like right hands
-        → equal skill in both hands
-    },
-
-    Ambidexterity : {
-        = ambi + dexter + ity
-        = equal skill with both hands
+    Dexterous : {
+        = dexter + ous
+        = having the skill of the right hand
+        → skillful
     },
 }
 
@@ -225,145 +299,98 @@ DROIT ("right", "proper",) {
 }
 
 
-MAL ("bad") {
+EGO ("I" or "self") {
 
-    Maladroit : {
-        = mal + adroit
-        = badly skilled
-        → awkward
-        → clumsy
+    Egocentric : {
+        = ego + centrum
+        = self at the center
+        → self-centered person
     },
 
-    Maladroitness : {
-        = mal + adroit + ness
-        = awkwardness
-    },
-}
-
-
-ANTHROPOS ("mankind", "human being") {
-
-    Misanthrope : {
-        = misein + anthropos
-        = hater of mankind
-        → human-hater
+    Egoism : {
+        = ego + ism
+        = doctrine of self-interest
+        → selfish philosophy
     },
 
-    Misanthropy : {
-        = misein + anthropos + y
-        = hatred of mankind
+    Egoist : {
+        = ego + ist
+        = self-interested person
+        = person concerned with own welfare
     },
 
-    Misanthropic : {
-        = misein + anthropos + ic
-        = characterized by hatred of mankind
+    Egomaniac : {
+        = ego + mania
+        = obsession/madness with self
+        → pathological self-importance
     },
 
-    Misanthropist : {
-        = misein + anthropos + ist
-        = one who hates mankind
+    Egotism : {
+        = ego + ism
+        = excessive self-importance
+        → vanity and boastfulness
     },
 
-    Philanthropist : {
-        = philos + anthropos
-        = lover of mankind
-    },
-
-    Anthropology : {
-        = anthropos + logos
-        = study of mankind
+    Egotist : {
+        = ego + tist          // T = Talks
+        = person who constantly talks about self
+        = boastful self-promoter
     },
 }
 
 
-MISEIN ("to hate") {
+ENDON ("within", "inner") {
 
-    Misanthrope : {
-        = misein + anthropos
-        = hater of mankind
+    Endodontia : {
+        = endon + odontos
+        = treatment of inner tooth
+        → endodontics
     },
 
-    Misanthropy : {
-        = misein + anthropos + y
-        = hatred of mankind
+    Endodontic : {
+        = endodontia + ic
+        = relating to endodontics
     },
 
-    Misogynist : {
-        = misein + gyne
-        = hater of women
-    },
-
-    Misogyny : {
-        = misein + gyne + y
-        = hatred of women
-    },
-
-    Misogamist : {
-        = misein + gamos
-        = hater of marriage
-    },
-
-    Misogamy : {
-        = misein + gamos + y
-        = hatred of marriage
+    Endodontist : {
+        = endon + odontos
+        = inner tooth specialist
+        → root-canal specialist
     },
 }
 
 
-GYNE ("woman") {
+EX ("out") {
 
-    Misogynist : {
-        = misein + gyne
-        = hater of women
+    Exodontia : {
+        = ex + odontos
+        = pulling teeth out
+        → tooth extraction
     },
 
-    Misogyny : {
-        = misein + gyne + y
-        = hatred of women
+    Exodontic : {
+        = exodontia + ic
+        = relating to tooth extraction
     },
 
-    Misogynous : {
-        = misein + gyne + ous
-        = characterized by hatred of women
-    },
-
-    Misogynistic : {
-        = misogynist + ic
-        = pertaining to hatred of women
-    },
-
-
-    Gynecology : {
-        = gyne + logos
-        = study/science of women
-        → medical science of female reproductive system
-        → gynecology
-    },
-
-    Gynecologist : {
-        = gyne + logos + ist
-        = specialist in the science of women
-        → physician treating female reproductive organs
-        → gynecologist
-    },
-
-    Gynecological : {
-        = gynecology + al
-        = relating to gynecology
+    Exodontist : {
+        = ex + odontos
+        = out tooth specialist
+        → tooth extractor
     },
 }
 
 
 GAMOS ("marriage") {
 
+    Bigamy : {
+        = bi + gamos
+        = two marriages
+    },
+
     Misogamist : {
         = misein + gamos
         = hater of marriage
-    },
-
-    Misogamy : {
-        = misein + gamos + y
-        = hatred of marriage
     },
 
     Misogamous : {
@@ -371,24 +398,24 @@ GAMOS ("marriage") {
         = pertaining to hatred of marriage
     },
 
+    Misogamy : {
+        = misein + gamos + y
+        = hatred of marriage
+    },
+
     Monogamy : {
         = monos + gamos
         = one marriage
     },
 
-    Polygamy : {
-        = poly + gamos
-        = many marriages
-    },
-
-    Bigamy : {
-        = bi + gamos
-        = two marriages
-    },
-
     Polyandry : {
         = poly + andros
         = many husbands
+    },
+
+    Polygamy : {
+        = poly + gamos
+        = many marriages
     },
 
     Polygyny : {
@@ -398,889 +425,60 @@ GAMOS ("marriage") {
 }
 
 
-MONOS ("one") {
-
-    Monogamy : {
-        = monos + gamos
-        = one marriage
-    },
-}
-
-
-ANDROS ("male", "man") {
-
-    Polyandry : {
-        = poly + andros
-        = many husbands
-    },
-}
-
-
-INTERNUS ("inside") {
-
-    Internal : {
-        = internus
-        = inside
-        → located within
-        → internal
-    },
-
-    Internist : {
-        = internus + ist
-        = specialist of the inside
-        → physician studying internal organs
-        → expert in internal medicine
-    },
-
-    Intern : {
-        = internus
-        = one working inside
-        → medical apprentice in a hospital
-        → intern
-    },
-}
-
-
-
-LOGOS ("study", "science", "knowledge") {
-
-    Gynecology : {
-        = gyne + logos
-        = study of women
-    },
-
-    Cardiology : {
-        = kardia + logos
-        = study of the heart
-    },
-
-    Neurology : {
-        = neuron + logos
-        = study of the nervous system
-    },
-
-    Psychology : {
-        = psyche + logos
-        = study of the mind
-    },
-
-    Dermatology : {
-        = derma + logos
-        = study of the skin
-    },
-}
-
-
-
-
-PAIDOS / PAIS ("child") {
-
-    Pediatrics : {
-        = paidos + iatreia
-        = healing of children
-        → branch of medicine dealing with children
-        → pediatrics
-    },
-
-    Pediatrician : {
-        = paidos + iatreia + ian
-        = physician for children
-        → specialist in childhood diseases and development
-        → pediatrician
-    },
-
-    Pediatric : {
-        = paidos + ic
-        = relating to children
-    },
-
-    Orthopedics : {
-        = orthos + pais
-        = straight child
-        → originally correction of deformities in children
-        → orthopedics
-    },
-
-    Orthopedist : {
-        = orthos + pais + ist
-        = specialist correcting skeletal deformities
-        → orthopedist
-    },
-
-    Pedodontist : {
-        = paidos + odontos
-        = child tooth specialist
-        → children's dentist
-    },
-
-    Pedodontia : {
-        = paidos + odontos
-        = care of children's teeth
-        → pediatric dentistry
-    },
-
-    Pedodontic : {
-        = pedodontia + ic
-        = relating to child dentistry
-    },
-}
-
-
-
-IATREIA ("healing", "medical treatment") {
-
-    Geriatrics : {
-        = geras + iatreia
-        = healing of old age
-        → medical care of the elderly
-        → geriatrics
-    },
-
-    Pediatrician : {
-        = paidos + iatreia + ian
-        = children's physician
-        → pediatrician
-    },
-
-    Pediatrics : {
-        = paidos + iatreia
-        = healing of children
-        → medical care of children
-    },
-
-    Psychiatrist : {
-        = psyche + iatreia + ist
-        = physician healing the mind
-        → psychiatrist
-    },
-
-    Psychiatry : {
-        = psyche + iatreia
-        = healing of the mind
-        → treatment of mental disorders
-        → psychiatry
-    },
-
-    Podiatrist : {
-        = podos + iatreia + ist
-        = foot healer
-        → foot doctor
-        → podiatrist
-    },
-
-    Podiatry : {
-        = podos + iatreia
-        = healing of the foot
-        → treatment of foot ailments
-        → podiatry
-    },
-}
-
-
-DERMA ("skin") {
-
-    Dermatology : {
-        = derma + logos
-        = study of the skin
-        → medical science of skin diseases
-    },
-
-    Dermatologist : {
-        = derma + logos + ist
-        = skin specialist
-        → dermatologist
-    },
-
-    Epidermis : {
-        = epi + derma
-        = upon the skin
-        → outer layer of skin
-    },
-
-    Dermatological : {
-        = dermatology + al
-        = relating to the skin
-    },
-}
-
-
-
-OPHTHALMOS ("eye") {
-
-    Ophthalmology : {
-        = ophthalmos + logos
-        = study of the eye
-        → medical science of vision and eye diseases
-    },
-
-    Ophthalmologist : {
-        = ophthalmos + logos + ist
-        = eye specialist
-        → ophthalmologist
-    },
-
-    Ophthalmic : {
-        = ophthalmos + ic
-        = relating to the eyes
-    },
-}
-
-
-
-ORTHOS ("straight", "correct") {
-
-    Orthodontia / Orthodontics : {
-        = orthos + odontos (tooth)
-        = making teeth straight
-        → correction of tooth alignment
-        → orthodontia / orthodontics
-    },
-
-    Orthodontist : {
-        = orthos + odontos + ist
-        = straight-tooth specialist
-        → specialist who corrects tooth alignment
-        → orthodontist
-    },
-
-    Orthopedics : {
-        = orthos + pais (child)
-        = straight child
-        → correction of bodily deformities
-        → orthopedics
-    },
-
-    Orthopedist : {
-        = orthos + pais + ist
-        = specialist in correcting deformities
-        → orthopedist
-    },
-
-    Orthography : {
-        = orthos + graphein (to write)
-        = correct writing
-        → correct spelling and writing
-        → orthography
-    },
-}
-
-
-
-OSTEON ("bone") {
-
-    Osteopath : {
-        = osteon + pathos
-        = bone disease specialist
-        → practitioner using manipulation and massage
-    },
-
-    Osteopathy : {
-        = osteon + pathos
-        = treatment based on skeletal relationships
-        → osteopathic medicine
-    },
-
-    Osteopathic : {
-        = osteopathy + ic
-        = relating to osteopathy
-    },
-}
-
-
-ODOUS / ODONT / ODONTOS ("tooth") {
-
-    Orthodontist : {
-        = orthos + odontos
-        = straight tooth specialist
-        → dentist who straightens teeth
-    },
-
-    Orthodontics / Orthodontia : {
-        = orthos + odontos
-        = straightening and correction of tooth alignment
-        → branch of dentistry concerned with aligned teeth and jaws
-    },
-
-    Pedodontist : {
-        = paidos + odontos
-        = child tooth specialist
-        → children's dentist
-    },
-
-    Pedodontia : {
-        = paidos + odontos
-        = care of children's teeth
-        → pediatric dentistry
-    },
-
-    Pedodontic : {
-        = pedodontia + ic
-        = pertaining to / relating to children's dentistry
-    },
-
-    Periodontist : {
-        = peri + odontos
-        = around-the-tooth specialist
-        → gum specialist
-    },
-
-    Periodontia : {
-        = peri + odontos
-        = treatment of tissues around teeth
-        → gum specialty
-    },
-
-    Periodontic : {
-        = periodontia + ic
-        = pertaining to / relating to gum treatment
-    },
-
-    Endodontist : {
-        = endon + odontos
-        = inner-tooth specialist
-        → root canal specialist
-    },
-
-    Endodontia : {
-        = endon + odontos
-        = treatment of inner tooth structures
-        → root canal specialty
-    },
-
-    Endodontic : {
-        = endodontia + ic
-        = pertaining to / relating to root canal therapy
-    },
-
-    Exodontist : {
-        = ex + odontos
-        = out-tooth specialist
-        → tooth extraction specialist
-    },
-
-    Exodontia : {
-        = ex + odontos
-        = removal of teeth
-        → tooth extraction specialty
-    },
-
-    Exodontic : {
-        = exodontia + ic
-        = pertaining to / relating to tooth extraction
-    },
-}
-
-
-KARDIA ("heart") {
-
-    Cardiology : {
-        = kardia + logos
-        = study of the heart
-        → science of heart diseases
-    },
-
-    Cardiologist : {
-        = kardia + logos + ist
-        = heart specialist
-        → cardiologist
-    },
-
-    Cardiogram : {
-        = kardia + gramma
-        = heart record
-        → tracing of heart activity
-    },
-
-    Cardiac : {
-        = kardia + ac
-        = relating to the heart
-    },
-}
-
-
-
-NEURON ("nerve") {
-
-    Neurology : {
-        = neuron + logos
-        = study of nerves
-        → science of nervous system disorders
-    },
-
-    Neurologist : {
-        = neuron + logos + ist
-        = nerve specialist
-        → neurologist
-    },
-
-    Neural : {
-        = neuron + al
-        = relating to nerves
-    },
-
-    Neurosis : {
-        = neuron + osis
-        = nervous disorder
-        → neurosis
-    },
-
-    Neurotic : {
-        = neurosis + ic
-        = suffering from nervous disturbance
-    },
-}
-
-
-PSYCHE ("mind", "soul", "spirit") {
-
-    Psyche : {
-        = Greek psyche
-        = soul, spirit, mind
-        → mental life
-        → inner self
-        → self-image
-    },
-
-    Psychiatry : {
-        = psyche + iatreia
-        = healing of the mind
-        → medical treatment of mental illness
-    },
-
-    Psychiatrist : {
-        = psyche + iatreia + ist
-        = physician treating mental disorders
-    },
-
-    Psychology : {
-        = psyche + logos
-        = study of the mind
-        → science of behavior and mental processes
-    },
-
-    Psychologist : {
-        = psyche + logos + ist
-        = student/specialist of the mind
-        → expert in human behavior and mental processes
-    },
-
-    Psychological : {
-        = psychology + al
-        = relating to the study of the mind
-    },
-
-    Psychic : {
-        = psyche + ic
-        = relating to the mind or spirit
-        → mentally produced
-        → extrasensory or mysterious mental powers
-    },
-
-    Psychoanalysis : {
-        = psyche + analysis
-        = analysis of the mind
-        → Freudian exploration of the unconscious
-        → psychoanalytic therapy
-    },
-
-    Psychoanalyst : {
-        = psyche + analysis + ist
-        = analyzer of the mind
-        → practitioner of psychoanalysis
-    },
-
-    Psychoanalytic : {
-        = psychoanalysis + ic
-        = relating to psychoanalysis
-    },
-
-    Psychotherapy : {
-        = psyche + therapeia
-        = treatment of the mind
-        → therapy through psychological methods
-        → treatment of emotional and mental disorders
-    },
-
-    Psychotherapist : {
-        = psyche + therapeia + ist
-        = practitioner of psychotherapy
-    },
-
-    Psychogenic : {
-        = psyche + genesis
-        = originating in the mind
-        → psychologically caused
-        → of emotional origin
-    },
-
-    Psychosomatic : {
-        = psyche + soma
-        = mind-body relationship
-        → physical symptoms or illness influenced by mental factors
-    },
-
-    Psychopath : {
-        = psyche + pathos
-        = person with a diseased mind
-        → individual with severe antisocial personality traits
-    },
-
-    Psychopathy : {
-        = psyche + pathos + y
-        = diseased mind
-        → severe personality disorder
-    },
-
-    Psychopathic : {
-        = psyche + pathos + ic
-        = relating to psychopathy
-        → mentally or emotionally disturbed
-    },
-
-    Psychotic : {
-        = psyche + otic
-        = mentally disordered
-        → suffering severe mental disturbance
-        → loss of contact with reality
-    }
-}
-
-
-
-SOMA ("body") {
-
-    Psychosomatic : {
-        = psyche + soma
-        = mind-body
-        → condition involving interaction of mind and body
-    },
-
-    Somatic : {
-        = soma + ic
-        = bodily
-        → relating to the body
-    },
-}
-
-
-
-
-PATHOS ("suffering", "disease") {
-
-    Psychopath : {
-        = psyche + pathos
-        = person with a diseased/suffering mind
-        → psychopath
-    },
-
-    Psychopathy : {
-        = psyche + pathos + y
-        = diseased mind condition
-        → severe personality disorder
-    },
-
-    Psychopathic : {
-        = psyche + pathos + ic
-        = mentally diseased
-        → relating to psychopathy
-    },
-
-    Pathology : {
-        = pathos + logos
-        = study of disease
-    },
-
-    Osteopath : {
-        = osteon + pathos
-        = bone suffering/disease
-        → osteopathic practitioner
-    },
-
-    Osteopathy : {
-        = osteon + pathos + y
-        = bone-related disease/suffering condition
-        → osteopathic medicine
-    },
-}
-
-
-
 GENESIS ("birth", "origin") {
-
-    Psychogenic : {
-        = psyche + genesis
-        = originating in the mind
-        → mentally produced
-    },
 
     Genesis : {
         = birth
         → origin
         → beginning
     },
-}
 
-
-
-OBSTETRIX ("midwife") {
-
-    Obstetrics : {
-        = obstetrix
-        = midwifery
-        → branch dealing with pregnancy and childbirth
-        → obstetrics
-    },
-
-    Obstetrician : {
-        = obstetrix + ian
-        = practitioner of midwifery
-        → physician dealing with pregnancy and childbirth
-        → obstetrician
-    },
-
-    Obstetrical : {
-        = obstetrics + al
-        = relating to childbirth and pregnancy
-    },
-}
-
-OCULUS ("eye") {
-
-    Oculist : {
-        = oculus + ist
-        = eye specialist
-        → physician specializing in eye care
-        → oculist
-    },
-
-    Ocular : {
-        = oculus + ar
-        = relating to the eye
-        → visual
-    },
-
-    Inoculate : {
-        = in + oculus
-        = put into an eye/opening
-        → inject through a puncture
-        → vaccinate
-    },
-
-    Binocular : {
-        = bi + oculus
-        = two eyes
-        → using both eyes
-    },
-
-    Monocular : {
-        = mono + oculus
-        = one eye
-        → using one eye
+    Psychogenic : {
+        = psyche + genesis
+        = originating in the mind
+        → mentally produced
     },
 }
 
 
-METRON ("measure", "measurement") {
+GERAS ("old age") {
 
-    Barometer : {
-        = baros + metron
-        = pressure/weight measure
-        → instrument measuring atmospheric pressure
+    Geriatric : {
+        = geras + ic
+        = pertaining to / relating to old age
     },
 
-    Barometric : {
-        = barometer + ic
-        = relating to / pertaining to atmospheric pressure
+    Geriatrician : {
+        = geras + iatreia + ian
+        = physician for the elderly
     },
 
-    Metric : {
-        = metron
-        = relating to / pertaining to measurement
-    },
-
-    Metric System : {
-        = metron
-        = system based on measurement
-        → decimal system of weights and measures
-    },
-
-    Optometrist : {
-        = opsis + metron + ist
-        = one who measures vision
-        → vision specialist
-    },
-
-    Optometry : {
-        = opsis + metron
-        = measurement of vision
-        → eyesight testing
-    },
-
-    Sphygmomanometer : {
-        = sphygmos + manometer
-        = pulse-pressure measure
-        → blood-pressure apparatus
-    },
-
-    Thermometer : {
-        = therme + metron
-        = heat measure
-        → instrument measuring temperature
+    Geriatrics : {
+        = geras + iatreia
+        = medical treatment of old age
+        → care of the elderly
     },
 }
 
 
+GERON ("old man") {
 
-OPSIS / OPTIKOS ("vision", "sight") {
-
-    Optics : {
-        = opsis
-        = science of vision and light
-        → optics
+    Gerontological : {
+        = gerontology + al
+        = pertaining to aging studies
     },
 
-    Optometry : {
-        = opsis + metron
-        = measurement of vision
-        → science of measuring/testing eyesight
-        → optometry
+    Gerontologist : {
+        = geron + logos
+        = student of old age
+        → specialist in aging / aging problems
     },
 
-    Optometric : {
-        = optometry + ic
-        = relating to the measurement and testing of vision
-        → pertaining to eyesight measurement
-        → optometric
+    Gerontology : {
+        = geron + logos
+        = study of aging
+        → science of old age
     },
-
-    Optometrist : {
-        = opsis + metron + ist
-        = measurer of vision
-        → eyesight specialist who tests vision
-        → prescribes glasses and contact lenses
-        → optometrist
-    },
-
-    Optician : {
-        = optikos / opsis + ician
-        = worker with optical devices
-        → grinder, fitter, and dispenser of lenses
-        → lens grinder
-        → seller of optical goods
-        → optician
-    },
-
-    Optical : {
-        = optikos + al
-        = relating to vision, sight, or light
-        → optical
-    },
-}
-
-
-POUS / PODOS ("foot") {
-
-    Chiropody : {
-        = cheir + podos
-        = hand-foot treatment
-        → treatment of foot ailments
-        → older term for podiatry
-    },
-
-    Octopus : {
-        = okto + pous
-        = eight-footed
-        → eight-armed sea creature
-    },
-
-    Podiatric : {
-        = podiatry + ic
-        = relating to / pertaining to foot treatment
-    },
-
-    Podiatrist : {
-        = podos + iatreia
-        = foot healer
-        → foot specialist
-    },
-
-    Podiatry : {
-        = podos + iatreia
-        = treatment of foot ailments
-        → podiatry
-    },
-
-    Podium : {
-        = podos
-        = foot support
-        → speaker's platform
-    },
-
-    Platypus : {
-        = platys + pous
-        = broad-footed
-        → egg-laying mammal
-    },
-
-    Tripod : {
-        = tri + podos
-        = three-footed
-        → three-legged stand
-    },
-}
-
-
-
-CHEIR ("hand") {
-
-    Chiropractor : {
-        = cheir + praktikos
-        = hand practitioner
-        → manipulates spinal joints
-        → spinal-joint specialist
-    },
-
-    Chiropractic : {
-        = cheir + praktikos
-        = treatment by hand
-        → spinal manipulation therapy
-        → manipulation of articulations
-    },
-
-    Chirographer : {
-        = cheir + graphein + er
-        = one skilled in handwriting
-        → handwriting expert
-        → penmanship specialist
-    },
-
-    Chirographic : {
-        = cheir + graphein + ic
-        = pertaining to handwriting
-    },
-
-    Chirography : {
-        = cheir + graphein
-        = hand writing
-        → handwriting
-    },
-
-    Chiromancer : {
-        = cheir + manteia + er
-        = palm reader
-    },
-
-    Chiromancy : {
-        = cheir + manteia
-        = hand divination
-        → palm reading
-    },
-
-    Chiropody : {
-        = cheir + podos
-        = hand-foot treatment
-        → foot care
-    }
 }
 
 
@@ -1380,28 +578,124 @@ GRAPHEIN ("to write") {
         = tele + graphein
         = distance writing
         → long-distance communication
-    }
+    },
 }
 
 
+GYNE ("woman") {
 
-KALLOS ("beauty") {
-
-    Calligrapher : {
-        = kallos + graphein + er
-        = artist of beautiful writing
+    Gynecological : {
+        = gynecology + al
+        = relating to gynecology
     },
 
-    Calligraphic : {
-        = calligraphy + ic
-        = pertaining to beautiful writing
-        → artistic handwriting
+    Gynecologist : {
+        = gyne + logos + ist
+        = specialist in the science of women
+        → physician treating female reproductive organs
+        → gynecologist
     },
 
-    Calligraphy : {
-        = kallos + graphein
-        = beautiful writing
-        → artistic handwriting / artistic penmanship
+    Gynecology : {
+        = gyne + logos
+        = study/science of women
+        → medical science of female reproductive system
+        → gynecology
+    },
+
+    Misogynist : {
+        = misein + gyne
+        = hater of women
+    },
+
+    Misogynistic : {
+        = misogynist + ic
+        = pertaining to hatred of women
+    },
+
+    Misogynous : {
+        = misein + gyne + ous
+        = characterized by hatred of women
+    },
+
+    Misogyny : {
+        = misein + gyne + y
+        = hatred of women
+    },
+}
+
+
+IATREIA ("healing", "medical treatment") {
+
+    Geriatrics : {
+        = geras + iatreia
+        = healing of old age
+        → medical care of the elderly
+        → geriatrics
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = children's physician
+        → pediatrician
+    },
+
+    Pediatrics : {
+        = paidos + iatreia
+        = healing of children
+        → medical care of children
+    },
+
+    Podiatrist : {
+        = podos + iatreia + ist
+        = foot healer
+        → foot doctor
+        → podiatrist
+    },
+
+    Podiatry : {
+        = podos + iatreia
+        = healing of the foot
+        → treatment of foot ailments
+        → podiatry
+    },
+
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician healing the mind
+        → psychiatrist
+    },
+
+    Psychiatry : {
+        = psyche + iatreia
+        = healing of the mind
+        → treatment of mental disorders
+        → psychiatry
+    },
+}
+
+
+INTERNUS ("inside") {
+
+    Intern : {
+        = internus
+        = one working inside
+        → medical apprentice in a hospital
+        → intern
+    },
+
+    Internal : {
+        = internus
+        = inside
+        → located within
+        → internal
+    },
+
+    Internist : {
+        = internus + ist
+        = specialist of the inside
+        → physician studying internal organs
+        → expert in internal medicine
     },
 }
 
@@ -1428,101 +722,630 @@ KAKOS ("bad", "ugly", "harsh") {
 }
 
 
+KALLOS ("beauty") {
 
-GERAS ("old age") {
-
-    Geriatric : {
-        = geras + ic
-        = pertaining to / relating to old age
+    Calligrapher : {
+        = kallos + graphein + er
+        = artist of beautiful writing
     },
 
-    Geriatrician : {
-        = geras + iatreia + ian
-        = physician for the elderly
+    Calligraphic : {
+        = calligraphy + ic
+        = pertaining to beautiful writing
+        → artistic handwriting
     },
 
-    Geriatrics : {
-        = geras + iatreia
-        = medical treatment of old age
-        → care of the elderly
-    },
-}
-
-
-
-GERON ("old man") {
-
-    Gerontological : {
-        = gerontology + al
-        = pertaining to aging studies
-    },
-
-    Gerontologist : {
-        = geron + logos
-        = student of old age
-        → specialist in aging / aging problems
-    },
-
-    Gerontology : {
-        = geron + logos
-        = study of aging
-        → science of old age
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting / artistic penmanship
     },
 }
 
 
+KARDIA ("heart") {
 
-TELE ("distance") {
-
-    Telegraph : {
-        = tele + graphein
-        = distance writing
-        → long-distance written communication
+    Cardiac : {
+        = kardia + ac
+        = relating to the heart
     },
 
-    Telephone : {
-        = tele + phone
-        = distance sound
-        → transmission of sound over distance
+    Cardiogram : {
+        = kardia + gramma
+        = heart record
+        → tracing of heart activity
     },
 
-    Television : {
-        = tele + vision
-        = distance seeing
-        → viewing events from afar
+    Cardiologist : {
+        = kardia + logos + ist
+        = heart specialist
+        → cardiologist
     },
 
-    Telescope : {
-        = tele + scope
-        = distance viewing
-        → instrument for seeing far away objects
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+        → science of heart diseases
     },
 }
 
 
+LOGOS ("study", "science", "knowledge") {
 
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+    },
 
-BIOS ("life") {
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+    },
 
-    Biography : {
-        = bios + graphein
-        = life writing
-        → written life story
+    Gynecology : {
+        = gyne + logos
+        = study of women
+    },
+
+    Neurology : {
+        = neuron + logos
+        = study of the nervous system
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
     },
 }
 
 
+MAL ("bad") {
 
-PHOTOS ("light") {
+    Maladroit : {
+        = mal + adroit
+        = badly skilled
+        → awkward
+        → clumsy
+    },
 
-    Photograph : {
-        = photos + graphein
-        = writing by light
-        → image produced through light
+    Maladroitness : {
+        = mal + adroit + ness
+        = awkwardness
     },
 }
 
 
+MANIA ("madness" or "obsession") {
+
+    Egomaniac : {
+        = ego + mania
+        = madness about self
+        → obsessive self-importance
+    },
+}
+
+
+MANTEIA ("divination", "prophecy" , "predictor") {
+
+    Chiromancer : {
+        = cheir + manteia + er
+        = one who reads palms
+    },
+
+    Chiromancy : {
+        = cheir + manteia
+        = divination from the hand
+        → palmistry
+    },
+}
+
+
+METRON ("measure", "measurement") {
+
+    Barometer : {
+        = baros + metron
+        = pressure/weight measure
+        → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        = barometer + ic
+        = relating to / pertaining to atmospheric pressure
+    },
+
+    Metric : {
+        = metron
+        = relating to / pertaining to measurement
+    },
+
+    Metric System : {
+        = metron
+        = system based on measurement
+        → decimal system of weights and measures
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = one who measures vision
+        → vision specialist
+    },
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → eyesight testing
+    },
+
+    Sphygmomanometer : {
+        = sphygmos + manometer
+        = pulse-pressure measure
+        → blood-pressure apparatus
+    },
+
+    Thermometer : {
+        = therme + metron
+        = heat measure
+        → instrument measuring temperature
+    },
+}
+
+
+MISEIN ("to hate") {
+
+    Misanthrope : {
+        = misein + anthropos
+        = hater of mankind
+    },
+
+    Misanthropy : {
+        = misein + anthropos + y
+        = hatred of mankind
+    },
+
+    Misogamist : {
+        = misein + gamos
+        = hater of marriage
+    },
+
+    Misogamy : {
+        = misein + gamos + y
+        = hatred of marriage
+    },
+
+    Misogynist : {
+        = misein + gyne
+        = hater of women
+    },
+
+    Misogyny : {
+        = misein + gyne + y
+        = hatred of women
+    },
+}
+
+
+MONOS ("one") {
+
+    Monogamy : {
+        = monos + gamos
+        = one marriage
+    },
+}
+
+
+NEURON ("nerve") {
+
+    Neural : {
+        = neuron + al
+        = relating to nerves
+    },
+
+    Neurologist : {
+        = neuron + logos + ist
+        = nerve specialist
+        → neurologist
+    },
+
+    Neurology : {
+        = neuron + logos
+        = study of nerves
+        → science of nervous system disorders
+    },
+
+    Neurosis : {
+        = neuron + osis
+        = nervous disorder
+        → neurosis
+    },
+
+    Neurotic : {
+        = neurosis + ic
+        = suffering from nervous disturbance
+    },
+}
+
+
+OBSTETRIX ("midwife") {
+
+    Obstetrical : {
+        = obstetrics + al
+        = relating to childbirth and pregnancy
+    },
+
+    Obstetrician : {
+        = obstetrix + ian
+        = practitioner of midwifery
+        → physician dealing with pregnancy and childbirth
+        → obstetrician
+    },
+
+    Obstetrics : {
+        = obstetrix
+        = midwifery
+        → branch dealing with pregnancy and childbirth
+        → obstetrics
+    },
+}
+
+
+OCULUS ("eye") {
+
+    Binocular : {
+        = bi + oculus
+        = two eyes
+        → using both eyes
+    },
+
+    Inoculate : {
+        = in + oculus
+        = put into an eye/opening
+        → inject through a puncture
+        → vaccinate
+    },
+
+    Monocular : {
+        = mono + oculus
+        = one eye
+        → using one eye
+    },
+
+    Ocular : {
+        = oculus + ar
+        = relating to the eye
+        → visual
+    },
+
+    Oculist : {
+        = oculus + ist
+        = eye specialist
+        → physician specializing in eye care
+        → oculist
+    },
+}
+
+
+ODOUS / ODONT / ODONTOS ("tooth") {
+
+    Endodontia : {
+        = endon + odontos
+        = treatment of inner tooth structures
+        → root canal specialty
+    },
+
+    Endodontic : {
+        = endodontia + ic
+        = pertaining to / relating to root canal therapy
+    },
+
+    Endodontist : {
+        = endon + odontos
+        = inner-tooth specialist
+        → root canal specialist
+    },
+
+    Exodontia : {
+        = ex + odontos
+        = removal of teeth
+        → tooth extraction specialty
+    },
+
+    Exodontic : {
+        = exodontia + ic
+        = pertaining to / relating to tooth extraction
+    },
+
+    Exodontist : {
+        = ex + odontos
+        = out-tooth specialist
+        → tooth extraction specialist
+    },
+
+    Orthodontics / Orthodontia : {
+        = orthos + odontos
+        = straightening and correction of tooth alignment
+        → branch of dentistry concerned with aligned teeth and jaws
+    },
+
+    Orthodontist : {
+        = orthos + odontos
+        = straight tooth specialist
+        → dentist who straightens teeth
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = pertaining to / relating to children's dentistry
+    },
+
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+
+    Periodontia : {
+        = peri + odontos
+        = treatment of tissues around teeth
+        → gum specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = pertaining to / relating to gum treatment
+    },
+
+    Periodontist : {
+        = peri + odontos
+        = around-the-tooth specialist
+        → gum specialist
+    },
+}
+
+
+OPHTHALMOS ("eye") {
+
+    Ophthalmic : {
+        = ophthalmos + ic
+        = relating to the eyes
+    },
+
+    Ophthalmologist : {
+        = ophthalmos + logos + ist
+        = eye specialist
+        → ophthalmologist
+    },
+
+    Ophthalmology : {
+        = ophthalmos + logos
+        = study of the eye
+        → medical science of vision and eye diseases
+    },
+}
+
+
+OPSIS / OPTIKOS ("vision", "sight") {
+
+    Optical : {
+        = optikos + al
+        = relating to vision, sight, or light
+        → optical
+    },
+
+    Optician : {
+        = optikos / opsis + ician
+        = worker with optical devices
+        → grinder, fitter, and dispenser of lenses
+        → lens grinder
+        → seller of optical goods
+        → optician
+    },
+
+    Optics : {
+        = opsis
+        = science of vision and light
+        → optics
+    },
+
+    Optometric : {
+        = optometry + ic
+        = relating to the measurement and testing of vision
+        → pertaining to eyesight measurement
+        → optometric
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = measurer of vision
+        → eyesight specialist who tests vision
+        → prescribes glasses and contact lenses
+        → optometrist
+    },
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → science of measuring/testing eyesight
+        → optometry
+    },
+}
+
+
+ORTHOS ("straight", "correct") {
+
+    Orthodontia / Orthodontics : {
+        = orthos + odontos (tooth)
+        = making teeth straight
+        → correction of tooth alignment
+        → orthodontia / orthodontics
+    },
+
+    Orthodontist : {
+        = orthos + odontos + ist
+        = straight-tooth specialist
+        → specialist who corrects tooth alignment
+        → orthodontist
+    },
+
+    Orthography : {
+        = orthos + graphein (to write)
+        = correct writing
+        → correct spelling and writing
+        → orthography
+    },
+
+    Orthopedics : {
+        = orthos + pais (child)
+        = straight child
+        → correction of bodily deformities
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist in correcting deformities
+        → orthopedist
+    },
+}
+
+
+OSTEON ("bone") {
+
+    Osteopath : {
+        = osteon + pathos
+        = bone disease specialist
+        → practitioner using manipulation and massage
+    },
+
+    Osteopathic : {
+        = osteopathy + ic
+        = relating to osteopathy
+    },
+
+    Osteopathy : {
+        = osteon + pathos
+        = treatment based on skeletal relationships
+        → osteopathic medicine
+    },
+}
+
+
+PAIDOS / PAIS ("child") {
+
+    Orthopedics : {
+        = orthos + pais
+        = straight child
+        → originally correction of deformities in children
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist correcting skeletal deformities
+        → orthopedist
+    },
+
+    Pediatric : {
+        = paidos + ic
+        = relating to children
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = physician for children
+        → specialist in childhood diseases and development
+        → pediatrician
+    },
+
+    Pediatrics : {
+        = paidos + iatreia
+        = healing of children
+        → branch of medicine dealing with children
+        → pediatrics
+    },
+
+    Pedodontia : {
+        = paidos + odontos
+        = care of children's teeth
+        → pediatric dentistry
+    },
+
+    Pedodontic : {
+        = pedodontia + ic
+        = relating to child dentistry
+    },
+
+    Pedodontist : {
+        = paidos + odontos
+        = child tooth specialist
+        → children's dentist
+    },
+}
+
+
+PATHOS ("suffering", "disease") {
+
+    Osteopath : {
+        = osteon + pathos
+        = bone suffering/disease
+        → osteopathic practitioner
+    },
+
+    Osteopathy : {
+        = osteon + pathos + y
+        = bone-related disease/suffering condition
+        → osteopathic medicine
+    },
+
+    Pathology : {
+        = pathos + logos
+        = study of disease
+    },
+
+    Psychopath : {
+        = psyche + pathos
+        = person with a diseased/suffering mind
+        → psychopath
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = mentally diseased
+        → relating to psychopathy
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = diseased mind condition
+        → severe personality disorder
+    },
+}
+
+
+PERI ("around", "surrounding") {
+
+    Periodontia : {
+        = peri + odontos
+        = treatment around teeth
+        → periodontal specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = relating to periodontal treatment
+    },
+
+    Periodontist : {
+        = peri + odontos
+        = around the tooth
+        → gum specialist
+    },
+}
 
 
 PHONE ("sound") {
@@ -1541,106 +1364,66 @@ PHONE ("sound") {
 }
 
 
-PERI ("around", "surrounding") {
+PHOTOS ("light") {
 
-    Periodontist : {
-        = peri + odontos
-        = around the tooth
-        → gum specialist
-    },
-
-    Periodontia : {
-        = peri + odontos
-        = treatment around teeth
-        → periodontal specialty
-    },
-
-    Periodontic : {
-        = periodontia + ic
-        = relating to periodontal treatment
+    Photograph : {
+        = photos + graphein
+        = writing by light
+        → image produced through light
     },
 }
 
 
-ENDON ("within", "inner") {
+POUS / PODOS ("foot") {
 
-    Endodontist : {
-        = endon + odontos
-        = inner tooth specialist
-        → root-canal specialist
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → treatment of foot ailments
+        → older term for podiatry
     },
 
-    Endodontia : {
-        = endon + odontos
-        = treatment of inner tooth
-        → endodontics
+    Octopus : {
+        = okto + pous
+        = eight-footed
+        → eight-armed sea creature
     },
 
-    Endodontic : {
-        = endodontia + ic
-        = relating to endodontics
-    },
-}
-
-
-
-EX ("out") {
-
-    Exodontist : {
-        = ex + odontos
-        = out tooth specialist
-        → tooth extractor
+    Platypus : {
+        = platys + pous
+        = broad-footed
+        → egg-laying mammal
     },
 
-    Exodontia : {
-        = ex + odontos
-        = pulling teeth out
-        → tooth extraction
+    Podiatric : {
+        = podiatry + ic
+        = relating to / pertaining to foot treatment
     },
 
-    Exodontic : {
-        = exodontia + ic
-        = relating to tooth extraction
+    Podiatrist : {
+        = podos + iatreia
+        = foot healer
+        → foot specialist
     },
-}
 
+    Podiatry : {
+        = podos + iatreia
+        = treatment of foot ailments
+        → podiatry
+    },
 
+    Podium : {
+        = podos
+        = foot support
+        → speaker's platform
+    },
 
-THERME ("heat") {
-
-    Thermometer : {
-        = therme + metron
-        = heat measure
-        → instrument measuring temperature
+    Tripod : {
+        = tri + podos
+        = three-footed
+        → three-legged stand
     },
 }
-
-
-BAROS ("weight", "pressure") {
-
-    Barometer : {
-        = baros + metron
-        = pressure measure
-        → instrument measuring atmospheric pressure
-    },
-
-    Barometric : {
-        = barometer + ic
-        = pertaining to atmospheric pressure
-    },
-}
-
-
-
-SPHYGMOS ("pulse") {
-
-    Sphygmomanometer : {
-        = sphygmos + manometer
-        = pulse-pressure measure
-        → blood-pressure apparatus
-    },
-}
-
 
 
 PRAKTIKOS ("to do", "to practice") {
@@ -1659,16 +1442,205 @@ PRAKTIKOS ("to do", "to practice") {
 }
 
 
-MANTEIA ("divination", "prophecy" , "predictor") {
+PSYCHE ("mind", "soul", "spirit") {
 
-    Chiromancy : {
-        = cheir + manteia
-        = divination from the hand
-        → palmistry
+    Psyche : {
+        = Greek psyche
+        = soul, spirit, mind
+        → mental life
+        → inner self
+        → self-image
     },
 
-    Chiromancer : {
-        = cheir + manteia + er
-        = one who reads palms
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician treating mental disorders
+    },
+
+    Psychiatry : {
+        = psyche + iatreia
+        = healing of the mind
+        → medical treatment of mental illness
+    },
+
+    Psychic : {
+        = psyche + ic
+        = relating to the mind or spirit
+        → mentally produced
+        → extrasensory or mysterious mental powers
+    },
+
+    Psychoanalysis : {
+        = psyche + analysis
+        = analysis of the mind
+        → Freudian exploration of the unconscious
+        → psychoanalytic therapy
+    },
+
+    Psychoanalyst : {
+        = psyche + analysis + ist
+        = analyzer of the mind
+        → practitioner of psychoanalysis
+    },
+
+    Psychoanalytic : {
+        = psychoanalysis + ic
+        = relating to psychoanalysis
+    },
+
+    Psychogenic : {
+        = psyche + genesis
+        = originating in the mind
+        → psychologically caused
+        → of emotional origin
+    },
+
+    Psychological : {
+        = psychology + al
+        = relating to the study of the mind
+    },
+
+    Psychologist : {
+        = psyche + logos + ist
+        = student/specialist of the mind
+        → expert in human behavior and mental processes
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
+        → science of behavior and mental processes
+    },
+
+    Psychopath : {
+        = psyche + pathos
+        = person with a diseased mind
+        → individual with severe antisocial personality traits
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = relating to psychopathy
+        → mentally or emotionally disturbed
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = diseased mind
+        → severe personality disorder
+    },
+
+    Psychosomatic : {
+        = psyche + soma
+        = mind-body relationship
+        → physical symptoms or illness influenced by mental factors
+    },
+
+    Psychotherapist : {
+        = psyche + therapeia + ist
+        = practitioner of psychotherapy
+    },
+
+    Psychotherapy : {
+        = psyche + therapeia
+        = treatment of the mind
+        → therapy through psychological methods
+        → treatment of emotional and mental disorders
+    },
+
+    Psychotic : {
+        = psyche + otic
+        = mentally disordered
+        → suffering severe mental disturbance
+        → loss of contact with reality
+    },
+}
+
+
+SOMA ("body") {
+
+    Psychosomatic : {
+        = psyche + soma
+        = mind-body
+        → condition involving interaction of mind and body
+    },
+
+    Somatic : {
+        = soma + ic
+        = bodily
+        → relating to the body
+    },
+}
+
+
+SPHYGMOS ("pulse") {
+
+    Sphygmomanometer : {
+        = sphygmos + manometer
+        = pulse-pressure measure
+        → blood-pressure apparatus
+    },
+}
+
+
+TELE ("distance") {
+
+    Telegraph : {
+        = tele + graphein
+        = distance writing
+        → long-distance written communication
+    },
+
+    Telephone : {
+        = tele + phone
+        = distance sound
+        → transmission of sound over distance
+    },
+
+    Telescope : {
+        = tele + scope
+        = distance viewing
+        → instrument for seeing far away objects
+    },
+
+    Television : {
+        = tele + vision
+        = distance seeing
+        → viewing events from afar
+    },
+}
+
+
+THERME ("heat") {
+
+    Thermometer : {
+        = therme + metron
+        = heat measure
+        → instrument measuring temperature
+    },
+}
+
+
+VERTO ("to turn") {
+
+    Ambivert : {
+        = ambi + verto
+        = turn both ways
+        → inward and outward tendencies
+        → balanced personality
+    },
+
+    Extrovert : {
+        = extro + verto
+        = turn outward
+        → thoughts directed outward
+        → socially outgoing person
+    },
+
+    Introvert : {
+        = intro + verto
+        = turn inward
+        → thoughts directed inward
+        → self-analytical person
     },
 }
