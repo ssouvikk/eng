@@ -1,0 +1,332 @@
+EGO ("I" or "self") {
+
+    Egotist : {
+        = ego + ist
+        = Self-interested person
+    },
+
+    Egotist : {
+        = ego + tist
+        = Person who constantly talks about self
+    },
+
+    Egocentric : {
+        = ego + centric
+        = Self at the center
+    },
+
+    Egomaniac : {
+        = ego + maniac
+        = Obsessed with self
+    }
+}
+
+
+
+ALTER ("other") {
+
+    Altruist : {
+        = alter → other
+        = Person who puts others first
+    },
+
+    Altruistic : {
+        = alter → other
+        = Concern for others
+    },
+
+    Alternate : {
+        = alter + nate
+        = Substitute; taking turns
+    },
+
+    Alternative : {
+        = alter + native
+        = Another choice
+    },
+
+    Alter : {
+        = alter
+        = To change
+    },
+
+    Alter Ego : {
+        = alter + ego
+        = Other self
+    },
+
+    Altercation : {
+        = alter + cation
+        = Heated dispute or quarrel
+    }
+}
+
+
+
+VERTO ("to turn") {
+
+    Introvert : {
+        = intro + vert
+        = One who turns inward
+    },
+
+    Extrovert : {
+        = extra + vert
+        = One who turns outward
+    },
+
+    Ambivert : {
+        = ambi + vert
+        = One who turns both inward and outward
+    }
+}
+
+
+
+DEXTER ("right hand") {
+
+    Dexterous : {
+        = dexter + ous
+        = Skillful; expert with hands
+    },
+
+    Dexterity : {
+        = dexter + ity
+        = Skillfulness; manual ability
+    }
+}
+
+
+
+MISOS / MISEIN ("hate") {
+
+    Misanthrope : {
+        = misos + anthropos
+        = One who hates mankind
+    },
+
+    Misogynist : {
+        = misos + gyne
+        = One who hates women
+    },
+
+    Misogamist : {
+        = misos + gamos
+        = One who hates marriage
+    }
+}
+
+
+
+ANTHROPOS ("human being") {
+
+    Anthropology : {
+        = anthropos + logos
+        = Study of human beings
+    },
+
+    Anthropologist : {
+        = anthropology + ist
+        = One who studies humans
+    },
+
+    Philanthropist : {
+        = philos + anthropos
+        = Lover of mankind; humanitarian
+    }
+}
+
+
+
+GAMOS ("marriage") {
+
+    Monogamy : {
+        = mono + gamos
+        = Marriage to one spouse
+    },
+
+    Polygamy : {
+        = poly + gamos
+        = Marriage involving multiple spouses
+    },
+
+    Polygyny : {
+        = poly + gyne
+        = One man with multiple wives
+    },
+
+    Polyandry : {
+        = poly + andros
+        = One woman with multiple husbands
+    },
+
+    Misogamy : {
+        = misos + gamos
+        = Hatred of marriage
+    },
+
+    Bigamy : {
+        = bi + gamos
+        = Marriage to two persons simultaneously
+    }
+}
+
+
+
+AMBI ("both") {
+
+    Ambivert : {
+        = ambi + vert
+        = Both introvert and extrovert
+    },
+
+    Ambidextrous : {
+        = ambi + dexter
+        = Skillful with both hands
+    },
+
+    Ambiguous : {
+        = ambi + agere
+        = Having more than one meaning; unclear
+    }
+}
+
+
+
+ANDROS ("male") {
+
+    Polyandry : {
+        = poly + andros
+        = One woman with many husbands
+    },
+
+    Androgen : {
+        = andros + gen
+        = Male-producing hormone
+    },
+
+    Android : {
+        = andros + oid
+        = Human-like male form
+    }
+}
+
+
+
+ASCETIC ("hermit; self-denying person") {
+
+    Asceticism : {
+        = ascetic + ism
+        = Practice of self-discipline and renunciation
+    }
+}
+
+
+
+PHILOS ("love") {
+
+    Philanthropist : {
+        = philos + anthropos
+        = Lover of humanity
+    },
+
+    Philosophy : {
+        = philos + sophia
+        = Love of wisdom
+    },
+
+    Philology : {
+        = philos + logos
+        = Love and study of language
+    }
+}
+
+
+
+ADROIT ("skillful; right-handed") {
+
+    Adroitness : {
+        = adroit + ness
+        = Skillfulness; cleverness
+    }
+}
+
+
+
+GYNE ("woman") {
+
+    Gynecology : {
+        = gyne + logos
+        = Study of women's health
+    },
+
+    Gynecologist : {
+        = gynecology + ist
+        = Specialist doctor for women's health
+    },
+
+    Gynecological : {
+        = gynecology + al
+        = Related to gynecology
+    }
+}
+
+
+
+LOGOS ("study", "science", "reason") {
+
+    Anthropology : {
+        = anthropos + logos
+        = Study of human beings
+    },
+
+    Gynecology : {
+        = gyne + logos
+        = Study of women's health
+    },
+
+    Chronology : {
+        = chronos + logos
+        = Arrangement or study of time sequence
+    }
+}
+
+
+
+INTERNUS ("inside", "within") {
+
+    Internist : {
+        = internus + ist
+        = Specialist in internal medicine
+    },
+
+    Internal : {
+        = internus + al
+        = Existing within
+    },
+
+    Intern : {
+        = internus
+        = Medical graduate undergoing training
+    }
+}
+
+
+
+OBSTETRIX ("midwife") {
+
+    Obstetrics : {
+        = obstetrix + ics
+        = Science of pregnancy and childbirth
+    },
+
+    Obstetrician : {
+        = obstetrics + ian
+        = Specialist in pregnancy and childbirth
+    },
+
+    Obstetrical : {
+        = obstetrics + al
+        = Related to obstetrics
+    }
+}
