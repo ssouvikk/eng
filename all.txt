@@ -1387,12 +1387,6 @@ GRAPHEIN ("to write") {
 
 KALLOS ("beauty") {
 
-    Calligraphy : {
-        = kallos + graphein
-        = beautiful writing
-        → artistic handwriting
-    },
-
     Calligrapher : {
         = kallos + graphein + er
         = artist of beautiful writing
@@ -1401,26 +1395,35 @@ KALLOS ("beauty") {
     Calligraphic : {
         = calligraphy + ic
         = pertaining to beautiful writing
+        → artistic handwriting
+    },
+
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting / artistic penmanship
     },
 }
 
 
 KAKOS ("bad", "ugly", "harsh") {
 
-    Cacography : {
-        = kakos + graphein
-        = bad writing
-        → illegible handwriting
-    },
-
     Cacographer : {
         = kakos + graphein + er
-        = poor writer of handwriting
+        = writer of bad handwriting
+        → poor writer; one whose handwriting is illegible
     },
 
     Cacographic : {
         = kakos + graphein + ic
-        = pertaining to bad handwriting
+        = pertaining to bad writing
+        → marked by poor or illegible handwriting
+    },
+
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible or poor handwriting
     },
 }
 
@@ -1428,10 +1431,9 @@ KAKOS ("bad", "ugly", "harsh") {
 
 GERAS ("old age") {
 
-    Geriatrics : {
-        = geras + iatreia
-        = medical treatment of old age
-        → care of the elderly
+    Geriatric : {
+        = geras + ic
+        = pertaining to / relating to old age
     },
 
     Geriatrician : {
@@ -1439,9 +1441,10 @@ GERAS ("old age") {
         = physician for the elderly
     },
 
-    Geriatric : {
-        = geras + ic
-        = relating to old age
+    Geriatrics : {
+        = geras + iatreia
+        = medical treatment of old age
+        → care of the elderly
     },
 }
 
@@ -1449,21 +1452,21 @@ GERAS ("old age") {
 
 GERON ("old man") {
 
+    Gerontological : {
+        = gerontology + al
+        = pertaining to aging studies
+    },
+
     Gerontologist : {
         = geron + logos
         = student of old age
-        → specialist in aging problems
+        → specialist in aging / aging problems
     },
 
     Gerontology : {
         = geron + logos
         = study of aging
         → science of old age
-    },
-
-    Gerontological : {
-        = gerontology + al
-        = pertaining to aging studies
     },
 }
 
