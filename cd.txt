@@ -85,6 +85,82 @@ CANIS ("dog") {
 }
 
 
+CAPUT / CAPIT ("head") {
+
+    Capital : {
+        = caput
+        = head
+        → chief
+        → principal
+    },
+
+    Capitol : {
+        = caput
+        = head building
+        → seat of government
+    },
+
+    Capitulate : {
+        = capit
+        = come to terms under headings
+        → surrender
+        → give in
+    },
+
+    Capitulation : {
+        = capitulate + ion
+        = act of surrender
+        → yielding
+    },
+
+    Captain : {
+        = caput
+        = head person
+        → leader
+    },
+
+    Chief : {
+        = caput
+        = head
+        → leader
+        → principal person
+    },
+
+    Decapitate : {
+        = de + capit
+        = remove the head
+        → behead
+    },
+
+    Decapitation : {
+        = decapitate + ion
+        = removal of the head
+        → beheading
+    },
+
+    Recapitulate : {
+        = re + capit
+        = go through the heads again
+        → review main points
+        → summarize
+    },
+
+    Recapitulation : {
+        = recapitulate + ion
+        = act of summarizing
+        → review
+        → summary
+    },
+
+    Recapitulatory : {
+        = recapitulate + ory
+        = intended for summary
+        → summarizing
+        → reviewing
+    },
+}
+
+
 CARO / CARNIS ("flesh", "meat") {
 
     Carnage : {
@@ -143,6 +219,31 @@ CARO / CARNIS ("flesh", "meat") {
         = again into flesh
         → rebirth
         → renewed embodiment
+    },
+}
+
+
+CASTIGARE ("to punish") {
+
+    Castigate : {
+        = castigare
+        = punish
+        → scold severely
+        → criticize harshly
+        → tongue-lash
+    },
+
+    Castigation : {
+        = castigate + ion
+        = act of severe punishment
+        → strong censure
+        → harsh rebuke
+    },
+
+    Castigatory : {
+        = castigate + ory
+        = relating to severe criticism
+        → punitive
     },
 }
 

@@ -623,6 +623,42 @@ MISEIN ("to hate") {
 }
 
 
+MISER ("wretched", "unhappy") {
+
+    Commiserate : {
+        = com + miser
+        = share another's unhappiness
+        → sympathize
+        → feel pity
+    },
+
+    Commiseration : {
+        = commiserate + ion
+        = sharing another's sorrow
+        → sympathy
+        → pity
+    },
+
+    Miser : {
+        = miser
+        = unhappy person
+        → stingy hoarder
+    },
+
+    Miserable : {
+        = miser
+        = unhappy
+        → wretched
+    },
+
+    Misery : {
+        = miser + y
+        = state of unhappiness
+        → suffering
+    },
+}
+
+
 MONO / MONOS ("one") {
 
     Monogamy : {
@@ -700,6 +736,87 @@ NAUTES ("sailor", "navigator") {
     Nautical : {
         = nautes + ical
         = pertaining to sailors or navigation
+    },
+}
+
+
+NEGARE ("to deny") {
+
+    Abnegate : {
+        = ab + negare
+        = deny away
+        → renounce
+        → deny oneself
+        → give up personal desires
+    },
+
+    Deny : {
+        = de + negare
+        = formally refuse
+        → reject
+        → declare untrue
+    },
+
+    Negate : {
+        = negare
+        = deny
+        → nullify
+        → cancel
+        → render ineffective
+    },
+
+    Negative : {
+        = negare + ive
+        = expressing denial
+        → refusal
+        → contradiction
+    },
+
+    Self-Abnegate : {
+        = self + abnegate
+        = deny oneself
+        → self-sacrifice
+        → self-renunciation
+    },
+
+    Self-Abnegation : {
+        = self + abnegation
+        = state of denying oneself
+        → self-denial
+        → self-sacrifice
+    },
+}
+
+
+NERVUS ("nerve") {
+
+    Enervate : {
+        = e(ex) + nervus
+        = take the nerves out
+        → weaken
+        → exhaust
+        → drain vitality
+    },
+
+    Enervation : {
+        = enervate + ion
+        = condition of having nerves taken out
+        → total exhaustion
+        → complete devitalization
+    },
+
+    Nerve : {
+        = nervus
+        = sinew, nerve
+        → source of strength
+        → courage
+    },
+
+    Nervous : {
+        = nervus + ous
+        = relating to nerves
+        → tense
+        → excitable
     },
 }
 

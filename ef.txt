@@ -162,6 +162,47 @@ EQUUS ("horse") {
 }
 
 
+ERGON ("work") {
+
+    Energy : {
+        = en + ergon
+        = work within
+        → active force
+        → capacity for work
+    },
+
+    Erg : {
+        = ergon
+        = work
+        → unit of work or energy in physics
+    },
+
+    Synergism : {
+        = syn + ergon + ism
+        = working together
+        → combined action producing greater effect
+        → cooperative enhancement
+    },
+
+    Synergistic : {
+        = synergy + istic
+        = characterized by joint action
+        → mutually reinforcing
+    },
+
+    Synergistically : {
+        = synergistic + ally
+        = in a mutually reinforcing manner
+    },
+
+    Synergy : {
+        = syn + ergon
+        = joint working
+        → combined power greater than individual sum
+    },
+}
+
+
 EU ("good", "pleasant") {
 
     Eulogistic : {

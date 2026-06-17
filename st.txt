@@ -330,6 +330,69 @@ SENEX ("old") {
 }
 
 
+SIMILIS ("similar", "like") {
+
+    Dissemblance : {
+        = dissemble + ance
+        = act of concealing reality
+        → deception
+    },
+
+    Dissemble : {
+        = dis + similis
+        = disguise reality
+        → conceal intentions
+        → feign ignorance
+    },
+
+    Dissimulate : {
+        = dis + simulate
+        = make falsely unlike true feelings
+        → conceal feelings
+        → pretend opposite emotions
+    },
+
+    Dissimulation : {
+        = dissimulate + ion
+        = concealment by pretense
+        → hypocrisy
+        → deception
+    },
+
+    Dissimulator : {
+        = dissimulate + or
+        = one who conceals true feelings
+        → pretender
+    },
+
+    Similar : {
+        = similis
+        = alike
+        → resembling
+    },
+
+    Simulate : {
+        = similis
+        = make similar
+        → imitate
+        → pretend
+    },
+
+    Simulated : {
+        = simulate + ed
+        = made to resemble
+        → artificial imitation
+    },
+
+    Simulation : {
+        = simulate + ion
+        = act of making similar
+        → imitation
+        → pretense
+    },
+}
+
+
 SOCIUS ("companion", "associate") {
 
     Asocial : {

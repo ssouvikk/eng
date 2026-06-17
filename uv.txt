@@ -124,6 +124,59 @@ UXOR (wife) {
 }
 
 
+VACILLARE ("to sway", "to waver") {
+
+    Vacillate : {
+        = vacillare
+        = sway back and forth
+        → waver
+        → be indecisive
+    },
+
+    Vacillating : {
+        = vacillate + ing
+        = wavering
+        → uncertain
+    },
+
+    Vacillation : {
+        = vacillate + ion
+        = act of wavering
+        → indecision
+    },
+}
+
+
+VEGETARE ("to grow", "to live") {
+
+    Vegetable : {
+        = vegetare + able
+        = growing thing
+        → plant used as food
+    },
+
+    Vegetate : {
+        = vegetare
+        = live like a plant
+        → stagnate mentally
+        → exist without activity
+    },
+
+    Vegetation : {
+        = vegetare + ion
+        = plant growth
+        → plant life
+    },
+
+    Vegetative : {
+        = vegetare + ive
+        = relating to plantlike existence
+        → inactive
+        → stagnant
+    },
+}
+
+
 VENTER / VENTRIS ("belly") {
 
     Ventral : {

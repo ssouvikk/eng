@@ -196,3 +196,33 @@ INTERNUS ("inside") {
         → expert in internal medicine
     },
 }
+
+
+INTIMUS ("innermost") {
+
+    Intimacy : {
+        = intimate + acy
+        = close personal relationship
+        → familiarity
+    },
+
+    Intimate (adjective) : {
+        = intimus
+        = very close
+        → deeply familiar
+    },
+
+    Intimate (verb) : {
+        = intimus
+        = make known from within
+        → hint
+        → suggest indirectly
+    },
+
+    Intimation : {
+        = intimate + ion
+        = slight indication from within
+        → hint
+        → suggestion
+    },
+}

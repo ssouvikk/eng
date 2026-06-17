@@ -248,6 +248,42 @@ LEO ("lion") {
 }
 
 
+LEVIS ("light", "not heavy") {
+
+    Alleviate : {
+        = ad(al) + levis
+        = make lighter
+        → lessen burden
+        → ease suffering
+    },
+
+    Alleviation : {
+        = alleviate + ion
+        = act of making lighter
+        → relief
+        → mitigation
+    },
+
+    Leverage : {
+        = levis
+        = lifting power
+        → mechanical advantage
+    },
+
+    Levitate : {
+        = levis + ate
+        = make light
+        → rise into air
+    },
+
+    Levity : {
+        = levis + ity
+        = lightness
+        → lack of seriousness
+    },
+}
+
+
 LINGUA ("tongue", "language") {
 
     Bilingual : {
