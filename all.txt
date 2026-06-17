@@ -1237,18 +1237,26 @@ CHEIR ("hand") {
         = cheir + praktikos
         = hand practitioner
         → manipulates spinal joints
+        → spinal-joint specialist
     },
 
     Chiropractic : {
         = cheir + praktikos
         = treatment by hand
+        → spinal manipulation therapy
         → manipulation of articulations
     },
 
-    Chiropody : {
-        = cheir + podos
-        = hand-foot treatment
-        → foot care
+    Chirographer : {
+        = cheir + graphein + er
+        = one skilled in handwriting
+        → handwriting expert
+        → penmanship specialist
+    },
+
+    Chirographic : {
+        = cheir + graphein + ic
+        = pertaining to handwriting
     },
 
     Chirography : {
@@ -1257,15 +1265,9 @@ CHEIR ("hand") {
         → handwriting
     },
 
-    Chirographic : {
-        = cheir + graphein + ic
-        = pertaining to handwriting
-    },
-
-    Chirographer : {
-        = cheir + graphein + er
-        = handwriting expert
-        → penmanship specialist
+    Chiromancer : {
+        = cheir + manteia + er
+        = palm reader
     },
 
     Chiromancy : {
@@ -1274,10 +1276,11 @@ CHEIR ("hand") {
         → palm reading
     },
 
-    Chiromancer : {
-        = cheir + manteia + er
-        = palm reader
-    },
+    Chiropody : {
+        = cheir + podos
+        = hand-foot treatment
+        → foot care
+    }
 }
 
 
