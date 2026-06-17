@@ -238,6 +238,7 @@ FATIGUE ("weariness") {
         = indefatigable + ity
         = tirelessness
         → endless persistence
+        → inexhaustible energy
     },
 
     Indefatigable : {

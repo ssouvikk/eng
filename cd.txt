@@ -162,14 +162,18 @@ CHRONOS ("time") {
     Anachronism : {
         = ana + chronos + ism
         = thing out of its proper time
+        = against time
         → historical mismatch
         → temporal inconsistency
+        → something out of its proper period
     },
 
     Anachronistic : {
         = anachronous + tic
         = temporally misplaced
         = out of proper historical time
+        = anachronism + ic
+        = out of historical time
         → outdated
         → historically misplaced
     },
@@ -192,6 +196,7 @@ CHRONOS ("time") {
         → persistent
         → continuing over time
         → recurring repeatedly
+        → long-lasting
     },
 
     Chronicity : {
@@ -200,6 +205,12 @@ CHRONOS ("time") {
         = state of recurring through time
         → persistence
         → long-duration condition
+    },
+
+    Chronicle : {
+        = chronos + icle
+        = record of time
+        → historical account
     },
 
     Chronological : {
@@ -212,9 +223,12 @@ CHRONOS ("time") {
     Chronology : {
         = chronos + logos
         = study/order of time
+        = chronos + logy
+        = study of time order
         → time sequence
         → historical order
         → arrangement of events by dates
+        → arrangement of events by date
     },
 
     Chronometer : {
@@ -228,11 +242,17 @@ CHRONOS ("time") {
         = relating to time measurement
     },
 
+    Synchronization : {
+        = synchronize + ation
+        = coordination in time
+    },
+
     Synchronize : {
         = syn + chronos + ize
         = make time together
         → occur simultaneously
         → coordinate timing
+        → coordinate in time
     },
 
     Synchronous : {
@@ -287,6 +307,84 @@ CORRIGO ("to correct", "to reform", "to set straight") {
     Incorrigibleness : {
         = incorrigible + ness
         = state of being beyond reform
+    },
+}
+
+
+CREDO / CREDERE ("to believe") {
+
+    Credence : {
+        = credere + ence
+        = belief
+        → acceptance as true
+        → trust
+    },
+
+    Credibility : {
+        = credible + ity
+        = believability
+        → trustworthiness
+    },
+
+    Credible : {
+        = credere + ible
+        = able to be believed
+        → believable
+        → trustworthy
+    },
+
+    Credo : {
+        = credo
+        = I believe
+        → personal philosophy
+        → guiding code of life
+    },
+
+    Credulity : {
+        = credulous + ity
+        = excessive willingness to believe
+        → gullibility
+    },
+
+    Credulous : {
+        = credere + ulous
+        = readily believing
+        → too willing to believe
+        → gullible
+    },
+
+    Creed : {
+        = credere + ed
+        = that which is believed
+        → religious belief
+        → doctrine
+    },
+
+    Gullible : {
+        = Latin gullere (to swallow)
+        = one who swallows stories
+        → easily deceived
+        → naïvely believing
+    },
+
+    Incredible : {
+        = in + credible
+        = not believable
+        → unbelievable
+        → astonishing
+    },
+
+    Incredulity : {
+        = incredulous + ity
+        = unwillingness to believe
+        → skepticism
+    },
+
+    Incredulous : {
+        = in + credulous
+        = not believing
+        → skeptical
+        → doubtful
     },
 }
 

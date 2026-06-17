@@ -1,3 +1,29 @@
+ACUO ("to sharpen") {
+
+    Acuity : {
+        = acute + ity
+        = sharpness
+        → keenness of perception
+    },
+
+    Acumen : {
+        = acuo
+        = sharpness
+        → mental keenness
+        → quick insight
+        → sound judgment
+    },
+
+    Acute : {
+        = acuo + te
+        = sharpened
+        → keen
+        → intense
+        → perceptive
+    },
+}
+
+
 ADELPHOS ("brother") {
 
     Philadelphia : {
@@ -354,6 +380,45 @@ ANIMUS ("mind, spirit, soul") {
         = one mind
         → complete agreement
         → all of one opinion
+    },
+}
+
+
+ANNUS ("year") {
+
+    Anniversary : {
+        = annus + versary
+        = yearly return
+        → yearly commemoration
+    },
+
+    Annual : {
+        = annus + al
+        = yearly
+        → occurring every year
+    },
+
+    Biennial : {
+        = bi + annus
+        = every two years
+    },
+
+    Centennial : {
+        = centum + annus
+        = hundred years
+        → hundredth anniversary
+    },
+
+    Perennial : {
+        = per + annus
+        = through the years
+        → lasting many years
+        → recurrent
+    },
+
+    Triennial : {
+        = tri + annus
+        = every three years
     },
 }
 

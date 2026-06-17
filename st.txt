@@ -373,6 +373,120 @@ SOROR (sister) {
 }
 
 
+SPECTO / SPICERE ("to look") {
+
+    Circumspect : {
+        = circum + specto
+        = look around
+        → cautious
+        → careful before acting
+    },
+
+    Circumspection : {
+        = circumspect + ion
+        = caution
+        → prudence
+    },
+
+    Conspicuous : {
+        = con + spicere
+        = easily seen
+        → noticeable
+        → obvious
+    },
+
+    Inspect : {
+        = in + specto
+        = look into
+        → examine carefully
+    },
+
+    Inspection : {
+        = inspect + ion
+        = careful examination
+    },
+
+    Perspicacious : {
+        = per + spicere
+        = look through
+        → mentally sharp
+        → insightful
+        → astute
+    },
+
+    Perspicaciousness : {
+        = perspicacious + ness
+        = quality of keen perception
+        → intellectual insight
+    },
+
+    Perspicacity : {
+        = perspicacious + ity
+        = keen insight
+        → mental sharpness
+    },
+
+    Perspicuity : {
+        = perspicuous + ity
+        = clarity
+        → lucidity
+    },
+
+    Perspicuous : {
+        = per + spicere
+        = seen through clearly
+        → clear
+        → lucid
+        → easily understood
+    },
+
+    Prospect : {
+        = pro + specto
+        = look forward
+        → future outlook
+        → expectation
+    },
+
+    Prospective : {
+        = pro + spective
+        = looking ahead
+        → expected in the future
+    },
+
+    Retrospect : {
+        = retro + specto
+        = look backward
+        → review of the past
+    },
+
+    Retrospection : {
+        = retrospect + ion
+        = act of looking back
+        → reflection on the past
+    },
+
+    Retrospective : {
+        = retro + spective
+        = looking backward
+        → concerned with past events
+    },
+
+    Spectacle : {
+        = specto
+        = something looked at
+        → impressive sight
+        → show
+    },
+
+    Spectator : {
+        = specto + ator
+        = one who looks
+        → observer
+        → onlooker
+    },
+}
+
+
 SPHYGMOS ("pulse") {
 
     Sphygmomanometer : {
@@ -572,6 +686,40 @@ TELE ("distance") {
         = tele + vision
         = distance seeing
         → viewing events from afar
+    },
+}
+
+
+TEMPUS ("time") {
+
+    Contemporaneous : {
+        = con + tempus
+        = occurring at the same time
+        → simultaneous
+    },
+
+    Contemporary : {
+        = con + tempus
+        = with the same time
+        → existing in the same period
+    },
+
+    Temporal : {
+        = tempus + al
+        = relating to time
+    },
+
+    Temporary : {
+        = tempus + ary
+        = lasting for a time
+        → not permanent
+    },
+
+    Temporize : {
+        = tempus + ize
+        = play for time
+        → avoid commitment
+        → delay action
     },
 }
 

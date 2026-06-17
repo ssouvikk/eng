@@ -195,6 +195,20 @@ GENESIS ("birth", "origin", "beginning") {
 
 GENUUS / INGENUUS ("native, natural, frank") {
 
+    Disingenuous : {
+        = dis + ingenuous
+        = not frank
+        → crafty
+        → dishonest
+        → insincere
+    },
+
+    Disingenuousness : {
+        = disingenuous + ness
+        = lack of frankness
+        → deceitfulness
+    },
+
     Ingenious : {
         = ingenium
         = naturally gifted
@@ -211,22 +225,29 @@ GENUUS / INGENUUS ("native, natural, frank") {
     Ingenuity : {
         = ingenious + ity
         = cleverness
+        = inventiveness
         → inventiveness
+        → cleverness
     },
 
     Ingenuous : {
         = ingenuus
         = natural and open
+        = naturally frank
         → simple
         → honest
         → artless
         → frank
+        → open
     },
 
     Ingenuousness : {
         = ingenuous + ness
         = honesty and simplicity
+        = frank honesty
         → frank openness
+        → simplicity
+        → sincerity
     },
 }
 
@@ -605,6 +626,28 @@ HARMONIA ("harmony", "music") {
         = love of harmony
         → devotion to music
         → musical society/orchestra
+    },
+}
+
+
+HORA ("hour") {
+
+    Horologist : {
+        = hora + logist
+        = student of timekeeping
+        → clock expert
+    },
+
+    Horology : {
+        = hora + logy
+        = study of timekeeping
+        → science of clocks and watches
+    },
+
+    Horometer : {
+        = hora + meter
+        = measure of time
+        → time-measuring instrument
     },
 }
 

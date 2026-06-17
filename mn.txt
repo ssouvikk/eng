@@ -664,6 +664,25 @@ MONO / MONOS ("one") {
 }
 
 
+NAIVUS ("natural, unartificial") {
+
+    Naive : {
+        = naivus
+        = natural and unaffected
+        → inexperienced
+        → unsophisticated
+        → innocent
+    },
+
+    Naivete : {
+        = naive + ete
+        = state of being naive
+        → innocence
+        → lack of worldly experience
+    },
+}
+
+
 NAUTES ("sailor", "navigator") {
 
     Astronaut : {
