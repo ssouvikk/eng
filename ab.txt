@@ -188,6 +188,39 @@ AEQUUS / EQU ("equal") {
 }
 
 
+AFFLUERE ("to flow toward") {
+
+    Affluence : {
+        = ad + fluere
+        = flowing toward
+        → abundance of wealth
+        → prosperity
+    },
+
+    Affluent : {
+        = affluence + ent
+        = wealth flowing toward a person
+        → rich
+        → prosperous
+    },
+}
+
+
+ALGIA ("pain") {
+
+    Neuralgia : {
+        = neuron + algia
+        = nerve pain
+    },
+
+    Nostalgia : {
+        = nostos + algia
+        = pain of homecoming desire
+        → homesickness
+    },
+}
+
+
 ALTER ("other") {
 
     Alter Ego : {
@@ -692,6 +725,17 @@ AUTOS ("self") {
 }
 
 
+BADINER ("to joke") {
+
+    Badinage : {
+        = badiner
+        = playful joking
+        → light banter
+        → half-teasing conversation
+    },
+}
+
+
 BANAL ("commonplace") {
 
     Banal : {
@@ -927,5 +971,23 @@ BOTANE ("plant", "herb") {
         = botane
         = study of plants
         → science of plant life
+    },
+}
+
+
+BROMOS ("stench", "bad odor") {
+
+    Bromide : {
+        = bromos
+        = originally chemical salt
+        → trite remark
+        → stale commonplace
+    },
+
+    Bromidic : {
+        = bromide + ic
+        = characterized by clichés
+        → trite
+        → unoriginal
     },
 }

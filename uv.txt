@@ -6,11 +6,6 @@ URBS ("city") {
         → affluent area beyond suburbs
     },
 
-    Exurbs : {
-        = exurb + s
-        = regions beyond suburbs
-    },
-
     Exurban : {
         = ex + urbs + an
         = relating to exurbs
@@ -24,6 +19,11 @@ URBS ("city") {
     Exurbia : {
         = exurb + ia
         = exurban life and culture
+    },
+
+    Exurbs : {
+        = exurb + s
+        = regions beyond suburbs
     },
 
     Interurban : {
@@ -324,6 +324,30 @@ VIA ("road", "way") {
 }
 
 
+VICARIUS ("substitute", "in place of another") {
+
+    Vicar : {
+        = vicarius
+        = substitute
+        → representative
+        → deputy
+    },
+
+    Vicarious : {
+        = vicarius
+        = experienced through another
+        → indirect participation
+        → secondhand emotion
+    },
+
+    Vicariously : {
+        = vicarious + ly
+        = in an indirect manner
+        → through another person's experience
+    },
+}
+
+
 VIR ("man") {
 
     Virago : {
@@ -596,6 +620,34 @@ VOLVO / VOLVERE ("to roll") {
         → rapid speaker
         → fluent in speech
         → talkative
+    },
+}
+
+
+VORARE ("to devour") {
+
+    Carnivore : {
+        = carnis + vorare
+        = flesh devourer
+        → meat-eating animal
+    },
+
+    Carnivorous : {
+        = carnis + vorare
+        = devouring flesh
+        → meat-eating
+    },
+
+    Herbivorous : {
+        = herba + vorare
+        = devouring plants
+        → plant-eating
+    },
+
+    Omnivorous : {
+        = omnis + vorare
+        = devouring everything
+        → eating both plants and animals
     },
 }
 

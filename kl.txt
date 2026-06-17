@@ -17,6 +17,17 @@ KAKOS ("bad", "ugly", "harsh") {
         = bad writing
         → illegible or poor handwriting
     },
+
+    Cacophonous : {
+        = kakos + phone + ous
+        = unpleasant in sound
+    },
+
+    Cacophony : {
+        = kakos + phone
+        = bad sound
+        → harsh noise
+    },
 }
 
 
@@ -319,6 +330,24 @@ LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
     Entomology : {
         = entomon + logos
         = study of insects
+    },
+
+    Eulogistic : {
+        = eu + logos + istic
+        = praising
+        → laudatory
+    },
+
+    Eulogize : {
+        = eu + logos + ize
+        = speak favorably
+        → praise
+    },
+
+    Eulogy : {
+        = eu + logos
+        = good words
+        → formal praise
     },
 
     Geology : {

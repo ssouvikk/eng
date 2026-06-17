@@ -122,6 +122,23 @@ ENNUI ("weariness") {
 }
 
 
+EPHEMEROS ("lasting only a day") {
+
+    Ephemeral : {
+        = epi + hemera
+        = lasting for a day
+        → short-lived
+        → transitory
+    },
+
+    Ephemerality : {
+        = ephemeral + ity
+        = brief duration
+        → impermanence
+    },
+}
+
+
 EQUUS ("horse") {
 
     Equestrian : {
@@ -140,6 +157,107 @@ EQUUS ("horse") {
         = equus + ine
         = horse-like
         → characteristic of a horse
+    },
+}
+
+
+EU ("good", "pleasant") {
+
+    Eulogistic : {
+        = eulogy + istic
+        = characterized by praise
+        → commendatory
+    },
+
+    Eulogize : {
+        = eulogy + ize
+        = speak good words about
+        → praise highly
+    },
+
+    Eulogy : {
+        = eu + logos
+        = good words
+        → formal praise
+        → tribute
+    },
+
+    Euphemism : {
+        = eu + pheme
+        = good speech
+        → pleasant substitute expression
+        → indirect wording for unpleasant idea
+    },
+
+    Euphemistic : {
+        = euphemism + ic
+        = characterized by softened language
+        → indirect
+        → tactful
+    },
+
+    Euphonic : {
+        = euphony + ic
+        = pleasant-sounding
+        → harmonious
+    },
+
+    Euphonious : {
+        = eu + phone + ous
+        = full of pleasant sound
+        → melodious
+    },
+
+    Euphony : {
+        = eu + phone
+        = good sound
+        → pleasant sound
+        → harmonious quality
+    },
+
+    Euphoria : {
+        = eu + phorein
+        = bearing well
+        → feeling of well-being
+        → elation
+    },
+
+    Euphoric : {
+        = euphoria + ic
+        = feeling intense well-being
+        → exhilarated
+    },
+
+    Euthanasia : {
+        = eu + thanatos
+        = good death
+        → mercy killing
+        → painless death
+    },
+}
+
+
+EVANESCERE ("to vanish away") {
+
+    Evanesce : {
+        = evanescence - ence
+        = begin to disappear
+        → fade
+        → vanish gradually
+    },
+
+    Evanescence : {
+        = evanescent + ence
+        = process of fading away
+        → impermanence
+        → disappearance
+    },
+
+    Evanescent : {
+        = e + vanescere
+        = vanishing away
+        → fleeting
+        → short-lived
     },
 }
 

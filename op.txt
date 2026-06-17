@@ -274,6 +274,24 @@ OPSIS / OPTIKOS ("vision", "sight") {
 }
 
 
+OPULUS ("wealthy", "rich") {
+
+    Opulence : {
+        = opulus + ence
+        = state of wealth
+        → luxury
+        → immense riches
+    },
+
+    Opulent : {
+        = opulus + ent
+        = possessing great wealth
+        → luxurious
+        → affluent
+    },
+}
+
+
 OPUS ("work") {
 
     Cooperative : {
@@ -528,6 +546,24 @@ PAR ("equal") {
 }
 
 
+PARSIMONIA ("frugality", "sparingness") {
+
+    Parsimonious : {
+        = parsimony + ous
+        = excessively sparing
+        → stingy
+        → miserly
+    },
+
+    Parsimony : {
+        = parsimonia
+        = excessive economy
+        → stinginess
+        → unwillingness to spend
+    },
+}
+
+
 PATER / PATRIS ("father") {
 
     Paternal : {
@@ -743,6 +779,32 @@ PEJOR ("worse") {
 }
 
 
+PENURIA ("need", "poverty") {
+
+    Penurious : {
+        = penury + ous
+        = characterized by poverty
+        → poverty-stricken
+        → miserly
+        → excessively stingy
+    },
+
+    Penuriousness : {
+        = penurious + ness
+        = quality of being penurious
+        → stinginess
+        → excessive frugality
+    },
+
+    Penury : {
+        = penuria
+        = dire need
+        → abject poverty
+        → extreme financial hardship
+    },
+}
+
+
 PERI ("around", "surrounding") {
 
     Periodontia : {
@@ -760,6 +822,16 @@ PERI ("around", "surrounding") {
         = peri + odontos
         = around the tooth
         → gum specialist
+    },
+}
+
+
+PHEME ("speech") {
+
+    Euphemism : {
+        = eu + pheme
+        = good speech
+        → mild expression replacing offensive one
     },
 }
 
@@ -895,6 +967,37 @@ PHOBIA ("fear") {
 
 PHONE ("sound") {
 
+    Cacophonous : {
+        = cacophony + ous
+        = unpleasant-sounding
+        → harsh
+        → discordant
+    },
+
+    Cacophony : {
+        = kakos + phone
+        = bad sound
+        → harsh noise
+        → discordant sound
+    },
+
+    Euphonic : {
+        = eu + phone + ic
+        = pleasant-sounding
+    },
+
+    Euphonious : {
+        = eu + phone + ous
+        = melodious
+        → agreeable to the ear
+    },
+
+    Euphony : {
+        = eu + phone
+        = pleasant sound
+        → harmony of sound
+    },
+
     Phonograph : {
         = phone + graphein
         = sound writing
@@ -957,6 +1060,24 @@ PLAC ("to please", "to soothe", "to pacify") {
         = make pleasing
         → pacify
         → change hostility into friendliness
+    },
+}
+
+
+PLATYS ("flat", "broad") {
+
+    Platitude : {
+        = platys
+        = flat statement
+        → dull commonplace remark
+        → cliché
+    },
+
+    Platitudinous : {
+        = platitude + inous
+        = full of platitudes
+        → dull
+        → trite
     },
 }
 

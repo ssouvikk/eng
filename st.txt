@@ -729,6 +729,17 @@ TEMPUS ("time") {
 }
 
 
+THANATOS ("death") {
+
+    Euthanasia : {
+        = eu + thanatos
+        = good death
+        → painless death
+        → mercy killing
+    },
+}
+
+
 THEOS ("God") {
 
     Agnostic : {

@@ -69,6 +69,47 @@ CAEDO / CIDE ("to kill") {
 }
 
 
+CARO / CARNIS ("flesh", "meat") {
+
+    Carnage : {
+        = carnis
+        = mass slaughter of flesh
+        → massacre
+    },
+
+    Carnal : {
+        = carnis + al
+        = pertaining to flesh
+        → bodily
+        → sensual
+    },
+
+    Carnivore : {
+        = carnis + vore
+        = meat eater
+        → flesh-eating animal
+    },
+
+    Carnivorous : {
+        = carnis + vorare
+        = flesh-devouring
+        → meat-eating
+    },
+
+    Incarnate : {
+        = in + carnis
+        = in flesh
+        → embodied in human form
+    },
+
+    Reincarnation : {
+        = re + in + carnis
+        = again into flesh
+        → rebirth
+    },
+}
+
+
 CENTRUM ("center") {
 
     Egocentric : {
@@ -263,6 +304,23 @@ CHRONOS ("time") {
 }
 
 
+CLAM ("secretly") {
+
+    Clandestine : {
+        = clam
+        = secret
+        → concealed
+        → hidden from public knowledge
+    },
+
+    Clandestinely : {
+        = clandestine + ly
+        = secretly
+        → covertly
+    },
+}
+
+
 COGO ("to drive together", "to compel") {
 
     Cogency : {
@@ -412,6 +470,24 @@ DERMA ("skin") {
         = epi + derma
         = upon the skin
         → outer layer of skin
+    },
+}
+
+
+DESTITUERE ("to abandon", "leave without") {
+
+    Destitute : {
+        = destitution + e
+        = left without resources
+        → impoverished
+        → lacking necessities of life
+    },
+
+    Destitution : {
+        = de + statuere
+        = left standing alone
+        → total deprivation
+        → extreme poverty
     },
 }
 

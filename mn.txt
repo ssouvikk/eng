@@ -758,6 +758,23 @@ NOMOS ("law", "order", "arrangement") {
 }
 
 
+NOSTOS ("return home") {
+
+    Nostalgia : {
+        = nostos + algia
+        = pain of wishing to return home
+        → homesickness
+        → longing for the past
+    },
+
+    Nostalgic : {
+        = nostalgia + ic
+        = characterized by homesickness
+        → sentimental longing for past times
+    },
+}
+
+
 NOTUS ("known") {
 
     Notable : {

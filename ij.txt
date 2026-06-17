@@ -101,6 +101,24 @@ INCENDO (to set on fire) {
 }
 
 
+INDIGERE ("to be in need") {
+
+    Indigence : {
+        = indigere + ence
+        = state of needing
+        → poverty
+        → reduced circumstances
+    },
+
+    Indigent : {
+        = indigere + ent
+        = one in need
+        → poor
+        → needy
+    },
+}
+
+
 INTERNUS ("inside") {
 
     Intern : {
