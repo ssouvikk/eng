@@ -71,3 +71,32 @@ SESSIONS_4_5_REVISION {
     Psychosomatic   = interaction of mind and body
     Psychopath      = diseased mind
 }
+
+SESSION_6_REVISION {
+
+    Orthopedics     = straight child → correction of skeletal deformities
+    Orthodontia     = straight tooth → correction of tooth alignment
+
+    Kardia          = heart
+    Cardiology      = science of the heart
+    Cardiologist    = heart specialist
+    Cardiac         = relating to the heart
+    Cardiogram      = record of heart activity
+    Cardiograph     = instrument producing heart record
+
+    Neuron          = nerve
+    Neurology       = science of nerves
+    Neurologist     = nerve specialist
+    Neuralgia       = nerve pain
+    Neuritis        = inflammation of nerves
+    Neurosis        = emotional disorder
+    Neurotic        = person suffering neurosis
+
+    Psyche          = mind, soul
+    Psychosis       = severe mental disorder
+    Psychotic       = person suffering psychosis
+
+    Algos           = pain
+    Itis            = inflammation
+    Osis            = abnormal or diseased condition
+}

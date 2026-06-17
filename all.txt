@@ -501,6 +501,11 @@ PAIDOS / PAIS ("child") {
         = specialist correcting skeletal deformities
         → orthopedist
     },
+
+     Pediatric : {
+        = paidos + ic
+        = relating to children
+    },
 }
 
 
@@ -511,11 +516,13 @@ IATREIA ("medical healing", "treatment") {
     Pediatrics : {
         = paidos + iatreia
         = healing of children
+        → medical care of children
     },
 
     Pediatrician : {
         = paidos + iatreia + ian
         = children's physician
+        → pediatrician
     },
 
     Psychiatry : {
@@ -529,6 +536,20 @@ IATREIA ("medical healing", "treatment") {
         = psyche + iatreia + ist
         = physician healing the mind
         → psychiatrist
+    },
+
+    Podiatry : {
+        = podos + iatreia
+        = healing of the foot
+        → treatment of foot ailments
+        → podiatry
+    },
+
+    Geriatrics : {
+        = geras + iatreia
+        = healing of old age
+        → medical care of the elderly
+        → geriatrics
     },
 }
 
@@ -552,6 +573,11 @@ DERMA ("skin") {
         = epi + derma
         = upon the skin
         → outer layer of skin
+    },
+
+    Dermatological : {
+        = dermatology + al
+        = relating to the skin
     },
 }
 
@@ -580,6 +606,13 @@ OPHTHALMOS ("eye") {
 
 
 ORTHOS ("straight", "correct") {
+
+    Orthodontia : {
+        = orthos + odontos
+        = straight tooth
+        → correction of tooth alignment
+        → orthodontia
+    },
 
     Orthopedics : {
         = orthos + pais
@@ -769,6 +802,13 @@ PSYCHE ("mind", "soul", "spirit") {
         = psyche + pathos + ic
         = relating to psychopathy
     },
+
+
+     Psychotic : {
+        = psyche + otic
+        = mentally disordered
+        → suffering severe mental disturbance
+    },
 }
 
 
@@ -801,12 +841,26 @@ PATHOS ("suffering", "disease") {
 
     Psychopathy : {
         = psyche + pathos + y
-        = mental disorder
+        = diseased mind condition
+        → severe mental disorder
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = mentally diseased
+        → relating to psychopathy
     },
 
     Pathology : {
         = pathos + logos
         = study of disease
+    },
+
+    Osteopath : {
+        = osteon + pathos
+        = bone disease / bone suffering
+        → practitioner using manipulative treatment
+        → osteopath
     },
 }
 
@@ -825,6 +879,84 @@ GENESIS ("birth", "origin") {
         = birth
         → origin
         → beginning
+    },
+}
+
+
+
+OBSTETRIX ("midwife") {
+
+    Obstetrics : {
+        = obstetrix
+        = midwifery
+        → branch dealing with pregnancy and childbirth
+        → obstetrics
+    },
+
+    Obstetrician : {
+        = obstetrix + ian
+        = practitioner of midwifery
+        → physician dealing with pregnancy and childbirth
+        → obstetrician
+    },
+
+    Obstetrical : {
+        = obstetrics + al
+        = relating to childbirth and pregnancy
+    },
+}
+
+OCULUS ("eye") {
+
+    Oculist : {
+        = oculus + ist
+        = eye specialist
+        → physician specializing in eye care
+        → oculist
+    },
+
+    Ocular : {
+        = oculus + ar
+        = relating to the eye
+        → visual
+    },
+
+    Inoculate : {
+        = in + oculus
+        = put into an eye/opening
+        → inject through a puncture
+        → vaccinate
+    },
+
+    Binocular : {
+        = bi + oculus
+        = two eyes
+        → using both eyes
+    },
+
+    Monocular : {
+        = mono + oculus
+        = one eye
+        → using one eye
+    },
+}
+
+
+METRON ("measurement") {
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = one who measures vision
+    },
+
+    Metric : {
+        = metron
+        = relating to measurement
     },
 }
 
