@@ -1517,3 +1517,67 @@ PHONE ("sound") {
         → voice communication device
     },
 }
+
+
+PERI ("around", "surrounding") {
+
+    Periodontist : {
+        = peri + odontos
+        = around the tooth
+        → gum specialist
+    },
+
+    Periodontia : {
+        = peri + odontos
+        = treatment around teeth
+        → periodontal specialty
+    },
+
+    Periodontic : {
+        = periodontia + ic
+        = relating to periodontal treatment
+    },
+}
+
+
+ENDON ("within", "inner") {
+
+    Endodontist : {
+        = endon + odontos
+        = inner tooth specialist
+        → root-canal specialist
+    },
+
+    Endodontia : {
+        = endon + odontos
+        = treatment of inner tooth
+        → endodontics
+    },
+
+    Endodontic : {
+        = endodontia + ic
+        = relating to endodontics
+    },
+}
+
+
+
+EX ("out") {
+
+    Exodontist : {
+        = ex + odontos
+        = out tooth specialist
+        → tooth extractor
+    },
+
+    Exodontia : {
+        = ex + odontos
+        = pulling teeth out
+        → tooth extraction
+    },
+
+    Exodontic : {
+        = exodontia + ic
+        = relating to tooth extraction
+    },
+}
