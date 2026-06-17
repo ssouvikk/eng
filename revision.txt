@@ -49,3 +49,25 @@ SESSIONS_3_REVISION {
     Polyandry      = many husbands
     Polygyny       = many wives
 }
+
+
+SESSIONS_4_5_REVISION {
+
+    Internist       = specialist in internal medicine
+    Gynecologist    = specialist in female reproductive organs
+    Obstetrician    = specialist in pregnancy and childbirth
+    Pediatrician    = specialist in children
+    Dermatologist   = specialist in skin diseases
+    Ophthalmologist = eye specialist
+    Orthopedist     = specialist in skeletal deformities
+    Cardiologist    = heart specialist
+    Neurologist     = nerve specialist
+    Psychiatrist    = physician treating mental disorders
+
+    Psychology      = study of the mind
+    Psychiatry      = healing of the mind
+    Psychotherapy   = treatment of the mind
+    Psychogenic     = originating in the mind
+    Psychosomatic   = interaction of mind and body
+    Psychopath      = diseased mind
+}

@@ -332,9 +332,24 @@ GYNE ("woman") {
         = pertaining to hatred of women
     },
 
-    Gynecologist : {
+
+    Gynecology : {
         = gyne + logos
-        = specialist in women's disorders
+        = study/science of women
+        → medical science of female reproductive system
+        → gynecology
+    },
+
+    Gynecologist : {
+        = gyne + logos + ist
+        = specialist in the science of women
+        → physician treating female reproductive organs
+        → gynecologist
+    },
+
+    Gynecological : {
+        = gynecology + al
+        = relating to gynecology
     },
 }
 
@@ -400,4 +415,416 @@ ANDROS ("male", "man") {
     },
 }
 
+
+INTERNUS ("inside") {
+
+    Internal : {
+        = internus
+        = inside
+        → located within
+        → internal
+    },
+
+    Internist : {
+        = internus + ist
+        = specialist of the inside
+        → physician studying internal organs
+        → expert in internal medicine
+    },
+
+    Intern : {
+        = internus
+        = one working inside
+        → medical apprentice in a hospital
+        → intern
+    },
+}
+
+
+
+LOGOS ("study", "science", "knowledge") {
+
+    Gynecology : {
+        = gyne + logos
+        = study of women
+    },
+
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+    },
+
+    Neurology : {
+        = neuron + logos
+        = study of the nervous system
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
+    },
+
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+    },
+}
+
+
+
+
+PAIDOS / PAIS ("child") {
+
+    Pediatrics : {
+        = paidos + iatreia
+        = healing of children
+        → branch of medicine dealing with children
+        → pediatrics
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = physician for children
+        → specialist in childhood diseases and development
+        → pediatrician
+    },
+
+    Orthopedics : {
+        = orthos + pais
+        = straight child
+        → originally correction of deformities in children
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist correcting skeletal deformities
+        → orthopedist
+    },
+}
+
+
+
+
+IATREIA ("medical healing", "treatment") {
+
+    Pediatrics : {
+        = paidos + iatreia
+        = healing of children
+    },
+
+    Pediatrician : {
+        = paidos + iatreia + ian
+        = children's physician
+    },
+
+    Psychiatry : {
+        = psyche + iatreia
+        = healing of the mind
+        → treatment of mental disorders
+        → psychiatry
+    },
+
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician healing the mind
+        → psychiatrist
+    },
+}
+
+
+
+DERMA ("skin") {
+
+    Dermatology : {
+        = derma + logos
+        = study of the skin
+        → medical science of skin diseases
+    },
+
+    Dermatologist : {
+        = derma + logos + ist
+        = skin specialist
+        → dermatologist
+    },
+
+    Epidermis : {
+        = epi + derma
+        = upon the skin
+        → outer layer of skin
+    },
+}
+
+
+
+OPHTHALMOS ("eye") {
+
+    Ophthalmology : {
+        = ophthalmos + logos
+        = study of the eye
+        → medical science of vision and eye diseases
+    },
+
+    Ophthalmologist : {
+        = ophthalmos + logos + ist
+        = eye specialist
+        → ophthalmologist
+    },
+
+    Ophthalmic : {
+        = ophthalmos + ic
+        = relating to the eyes
+    },
+}
+
+
+
+ORTHOS ("straight", "correct") {
+
+    Orthopedics : {
+        = orthos + pais
+        = straight child
+        → correction of deformities
+        → orthopedics
+    },
+
+    Orthopedist : {
+        = orthos + pais + ist
+        = specialist in correcting deformities
+        → orthopedist
+    },
+
+    Orthodontist : {
+        = orthos + odous
+        = straight tooth
+        → specialist who straightens teeth
+        → orthodontist
+    },
+
+    Orthodontics : {
+        = orthos + odous
+        = straightening teeth
+    },
+
+    Orthography : {
+        = orthos + graphein
+        = correct writing
+        → correct spelling
+    },
+}
+
+
+
+ODOUS / ODONT ("tooth") {
+
+    Orthodontist : {
+        = orthos + odont
+        = straight tooth
+        → tooth-straightening specialist
+    },
+
+    Orthodontics : {
+        = orthos + odont
+        = correction of tooth alignment
+    },
+}
+
+
+KARDIA ("heart") {
+
+    Cardiology : {
+        = kardia + logos
+        = study of the heart
+        → science of heart diseases
+    },
+
+    Cardiologist : {
+        = kardia + logos + ist
+        = heart specialist
+        → cardiologist
+    },
+
+    Cardiogram : {
+        = kardia + gramma
+        = heart record
+        → tracing of heart activity
+    },
+
+    Cardiac : {
+        = kardia + ac
+        = relating to the heart
+    },
+}
+
+
+
+NEURON ("nerve") {
+
+    Neurology : {
+        = neuron + logos
+        = study of nerves
+        → science of nervous system disorders
+    },
+
+    Neurologist : {
+        = neuron + logos + ist
+        = nerve specialist
+        → neurologist
+    },
+
+    Neural : {
+        = neuron + al
+        = relating to nerves
+    },
+
+    Neurosis : {
+        = neuron + osis
+        = nervous disorder
+        → neurosis
+    },
+
+    Neurotic : {
+        = neurosis + ic
+        = suffering from nervous disturbance
+    },
+}
+
+
+PSYCHE ("mind", "soul", "spirit") {
+
+    Psychiatry : {
+        = psyche + iatreia
+        = healing of the mind
+        → treatment of mental illness
+    },
+
+    Psychiatrist : {
+        = psyche + iatreia + ist
+        = physician treating mental disorders
+    },
+
+    Psychology : {
+        = psyche + logos
+        = study of the mind
+        → psychology
+    },
+
+    Psychologist : {
+        = psyche + logos + ist
+        = student of the mind
+        → psychologist
+    },
+
+    Psychic : {
+        = psyche + ic
+        = relating to the mind or spirit
+    },
+
+    Psychoanalysis : {
+        = psyche + analysis
+        = analysis of the mind
+        → Freudian exploration of the unconscious
+    },
+
+    Psychoanalytic : {
+        = psychoanalysis + ic
+        = relating to psychoanalysis
+    },
+
+    Psychotherapy : {
+        = psyche + therapeia
+        = treatment of the mind
+        → therapy through psychological methods
+    },
+
+    Psychotherapist : {
+        = psyche + therapeia + ist
+        = practitioner of psychotherapy
+    },
+
+    Psychogenic : {
+        = psyche + genesis
+        = originating in the mind
+        → psychologically caused
+    },
+
+    Psychosomatic : {
+        = psyche + soma
+        = mind-body
+        → physical symptoms influenced by mental causes
+    },
+
+    Psychopath : {
+        = psyche + pathos
+        = diseased mind
+        → person with severe personality disorder
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = mental/personality disorder
+    },
+
+    Psychopathic : {
+        = psyche + pathos + ic
+        = relating to psychopathy
+    },
+}
+
+
+
+SOMA ("body") {
+
+    Psychosomatic : {
+        = psyche + soma
+        = mind-body
+        → condition involving interaction of mind and body
+    },
+
+    Somatic : {
+        = soma + ic
+        = bodily
+        → relating to the body
+    },
+}
+
+
+
+
+PATHOS ("suffering", "disease") {
+
+    Psychopath : {
+        = psyche + pathos
+        = diseased mind
+        → psychopath
+    },
+
+    Psychopathy : {
+        = psyche + pathos + y
+        = mental disorder
+    },
+
+    Pathology : {
+        = pathos + logos
+        = study of disease
+    },
+}
+
+
+
+
+GENESIS ("birth", "origin") {
+
+    Psychogenic : {
+        = psyche + genesis
+        = originating in the mind
+        → mentally produced
+    },
+
+    Genesis : {
+        = birth
+        → origin
+        → beginning
+    },
+}
 
