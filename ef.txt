@@ -155,8 +155,9 @@ EQUUS ("horse") {
 
     Equine : {
         = equus + ine
-        = horse-like
-        → characteristic of a horse
+        = like a horse
+        → horselike
+        → relating to horses
     },
 }
 
@@ -365,6 +366,19 @@ FATIGUE ("weariness") {
         → tireless
         → untiring
         → persistent
+    },
+}
+
+
+FELIS ("cat") {
+
+    Feline : {
+        = felis + ine
+        = like a cat
+        → catlike
+        → graceful
+        → sly
+        → "catty" in temperament
     },
 }
 

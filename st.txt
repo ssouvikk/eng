@@ -1,3 +1,44 @@
+SCIENTIA ("knowledge") {
+
+    Conscience : {
+        = con + scientia
+        = knowledge with oneself
+        → moral awareness
+    },
+
+    Conscious : {
+        = con + scientia
+        = aware with knowledge
+        → aware
+        → alert
+    },
+
+    Omniscience : {
+        = omniscient + ence
+        = complete knowledge
+        → infinite wisdom
+    },
+
+    Omniscient : {
+        = omnis + scientia
+        = all-knowing
+        → possessing complete knowledge
+    },
+
+    Science : {
+        = scientia
+        = knowledge
+        → systematic knowledge
+    },
+
+    Scientific : {
+        = science + ific
+        = relating to knowledge
+        → based on scientific method
+    },
+}
+
+
 SCINTILLA ("spark") {
 
     Scintilla : {

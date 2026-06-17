@@ -94,6 +94,18 @@ URBS ("city") {
 }
 
 
+URSUS ("bear") {
+
+    Ursine : {
+        = ursus + ine
+        = like a bear
+        → bearlike
+        → rough
+        → heavy
+    },
+}
+
+
 UXOR (wife) {
 
     Uxorial : {
@@ -638,16 +650,42 @@ VORARE ("to devour") {
         → meat-eating
     },
 
+    Devour : {
+        = de + vorare
+        = consume completely
+        → eat eagerly
+        → consume rapidly
+    },
+
     Herbivorous : {
         = herba + vorare
         = devouring plants
         → plant-eating
     },
 
+    Omnivore : {
+        = omnis + vorare
+        = eater of everything
+        → animal eating plants and animals
+    },
+
     Omnivorous : {
         = omnis + vorare
         = devouring everything
-        → eating both plants and animals
+        → eating all kinds of food
+    },
+
+    Voracious : {
+        = vorare + ous
+        = inclined to devour
+        → ravenously hungry
+        → greedy
+    },
+
+    Voracity : {
+        = voracious + ity
+        = excessive appetite
+        → greediness
     },
 }
 
@@ -716,5 +754,18 @@ VOX / VOCIS ("voice") {
         → loud
         → noisy
         → clamorous
+    },
+}
+
+
+VULPES ("fox") {
+
+    Vulpine : {
+        = vulpes + ine
+        = like a fox
+        → foxlike
+        → crafty
+        → cunning
+        → shrewd
     },
 }

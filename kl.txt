@@ -235,6 +235,19 @@ LECHER ("lustful person") {
 }
 
 
+LEO ("lion") {
+
+    Leonine : {
+        = leo + ine
+        = like a lion
+        → lionlike in appearance
+        → lionlike in temperament
+        → majestic
+        → powerful
+    },
+}
+
+
 LINGUA ("tongue", "language") {
 
     Bilingual : {
@@ -588,5 +601,17 @@ LUBRICUS ("slippery") {
         = slipperiness
         → sensuality
         → lustfulness
+    },
+}
+
+
+LUPUS ("wolf") {
+
+    Lupine : {
+        = lupus + ine
+        = like a wolf
+        → wolflike
+        → fierce
+        → predatory
     },
 }

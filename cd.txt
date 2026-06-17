@@ -69,11 +69,28 @@ CAEDO / CIDE ("to kill") {
 }
 
 
+CANIS ("dog") {
+
+    Canine : {
+        = canis + ine
+        = like a dog
+        → doglike
+        → relating to dogs
+
+        Canine Tooth : {
+            = dog tooth
+            → pointed tooth resembling a dog's fang
+        }
+    },
+}
+
+
 CARO / CARNIS ("flesh", "meat") {
 
     Carnage : {
         = carnis
-        = mass slaughter of flesh
+        = destruction of flesh
+        → slaughter
         → massacre
     },
 
@@ -82,12 +99,19 @@ CARO / CARNIS ("flesh", "meat") {
         = pertaining to flesh
         → bodily
         → sensual
+        → physical
+    },
+
+    Carnality : {
+        = carnal + ity
+        = condition of being flesh-oriented
+        → sensuality
     },
 
     Carnivore : {
-        = carnis + vore
-        = meat eater
-        → flesh-eating animal
+        = carnis + vorare
+        = flesh eater
+        → meat-eating animal
     },
 
     Carnivorous : {
@@ -102,10 +126,23 @@ CARO / CARNIS ("flesh", "meat") {
         → embodied in human form
     },
 
+    Incarnation : {
+        = incarnate + ion
+        = embodiment in flesh
+        → physical manifestation
+    },
+
+    Reincarnate : {
+        = re + incarnate
+        = again in flesh
+        → be reborn
+    },
+
     Reincarnation : {
         = re + in + carnis
         = again into flesh
         → rebirth
+        → renewed embodiment
     },
 }
 

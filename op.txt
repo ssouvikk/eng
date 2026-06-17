@@ -141,19 +141,55 @@ ODOUS / ODONT / ODONTOS ("tooth") {
 }
 
 
-OMNIS ("all") {
+OMNIS ("all", "every") {
+
+    Omnipotence : {
+        = omnipotent + ence
+        = state of being all-powerful
+        → unlimited power
+    },
+
+    Omnipotent : {
+        = omnis + potens
+        = all-powerful
+        → possessing unlimited power
+    },
+
+    Omnipresence : {
+        = omnipresent + ence
+        = presence everywhere
+        → ubiquity
+    },
+
+    Omnipresent : {
+        = omnis + present
+        = present everywhere
+        → ubiquitous
+        → existing in all places
+    },
 
     Omniscience : {
-        = omnis + scientia
-        = total knowledge
-        = all knowledge
-        → infinite awareness
+        = omniscient + ence
+        = complete knowledge
+        → infinite wisdom
     },
 
     Omniscient : {
-        = omnis + sciens
-        = all knowing
+        = omnis + scientia
+        = all-knowing
         → possessing complete knowledge
+    },
+
+    Omnivore : {
+        = omnis + vorare
+        = one that eats everything
+        → animal feeding on both plant and animal matter
+    },
+
+    Omnivorous : {
+        = omnis + vorare
+        = devouring everything
+        → eating both plants and animals
     },
 }
 
@@ -1053,6 +1089,17 @@ PICERE / SPICERE ("to look") {
 }
 
 
+PISCIS ("fish") {
+
+    Piscine : {
+        = piscis + ine
+        = like a fish
+        → fishlike
+        → relating to fishes
+    },
+}
+
+
 PLAC ("to please", "to soothe", "to pacify") {
 
     Placate : {
@@ -1078,6 +1125,60 @@ PLATYS ("flat", "broad") {
         = full of platitudes
         → dull
         → trite
+    },
+}
+
+
+PORCUS ("pig") {
+
+    Porcine : {
+        = porcus + ine
+        = like a pig
+        → piglike
+        → swinish
+    },
+}
+
+
+POTENS ("powerful") {
+
+    Impotence : {
+        = impotent + ence
+        = lack of power
+        → helplessness
+        → powerlessness
+    },
+
+    Impotent : {
+        = im + potent
+        = not powerful
+        → powerless
+        → incapable
+    },
+
+    Omnipotence : {
+        = potens + ence
+        = power in unlimited degree
+        → supreme power
+    },
+
+    Omnipotent : {
+        = omnis + potens
+        = all-powerful
+        → possessing unlimited power
+    },
+
+    Potency : {
+        = potent + cy
+        = power
+        → effectiveness
+    },
+
+    Potent : {
+        = potens
+        = powerful
+        → effective
+        → influential
     },
 }
 
