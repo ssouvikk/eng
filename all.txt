@@ -693,7 +693,7 @@ ODOUS / ODONT / ODONTOS ("tooth") {
 
     Pedodontic : {
         = pedodontia + ic
-        = relating to children's dentistry
+        = pertaining to / relating to children's dentistry
     },
 
     Periodontist : {
@@ -710,7 +710,7 @@ ODOUS / ODONT / ODONTOS ("tooth") {
 
     Periodontic : {
         = periodontia + ic
-        = relating to gum treatment
+        = pertaining to / relating to gum treatment
     },
 
     Endodontist : {
@@ -727,7 +727,7 @@ ODOUS / ODONT / ODONTOS ("tooth") {
 
     Endodontic : {
         = endodontia + ic
-        = relating to root canal therapy
+        = pertaining to / relating to root canal therapy
     },
 
     Exodontist : {
@@ -744,7 +744,7 @@ ODOUS / ODONT / ODONTOS ("tooth") {
 
     Exodontic : {
         = exodontia + ic
-        = relating to tooth extraction
+        = pertaining to / relating to tooth extraction
     },
 }
 
