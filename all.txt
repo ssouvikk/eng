@@ -960,3 +960,44 @@ METRON ("measurement") {
     },
 }
 
+
+
+OPSIS / OPTIKOS ("vision", "sight") {
+
+    Optometry : {
+        = opsis + metron
+        = measurement of vision
+        → science of measuring eyesight
+        → optometry
+    },
+
+    Optometrist : {
+        = opsis + metron + ist
+        = measurer of vision
+        → specialist who tests eyesight and prescribes glasses
+        → optometrist
+    },
+
+    Optics : {
+        = opsis
+        = science of vision and light
+        → optics
+    },
+
+    Optician : {
+        = opsis + ician
+        = vision expert
+        → grinder and fitter of lenses
+        → optician
+    },
+
+    Optical : {
+        = opsis + al
+        = relating to sight
+    },
+
+    Optometric : {
+        = optometry + ic
+        = relating to measurement of vision
+    },
+}
