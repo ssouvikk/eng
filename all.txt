@@ -1286,37 +1286,27 @@ CHEIR ("hand") {
 
 GRAPHEIN ("to write") {
 
-    Graphologist : {
-        = graphein + logos
-        = student of writing
-        → handwriting analyst
+    Biography : {
+        = bios + graphein
+        = life writing
+        → written account of a life
     },
 
-    Graphology : {
-        = graphein + logos
-        = study of handwriting
-        → handwriting analysis
+    Cacographer : {
+        = kakos + graphein + er
+        = one who writes badly
+        → person with poor handwriting
     },
 
-    Graphological : {
-        = graphology + al
-        = pertaining to handwriting analysis
+    Cacographic : {
+        = kakos + graphein + ic
+        = marked by poor handwriting
     },
 
-    Chirography : {
-        = cheir + graphein
-        = handwriting
-    },
-
-    Chirographer : {
-        = cheir + graphein + er
-        = handwriting expert
-    },
-
-    Calligraphy : {
-        = kallos + graphein
-        = beautiful writing
-        → artistic penmanship
+    Cacography : {
+        = kakos + graphein
+        = bad writing
+        → illegible handwriting
     },
 
     Calligrapher : {
@@ -1329,20 +1319,10 @@ GRAPHEIN ("to write") {
         = pertaining to artistic handwriting
     },
 
-    Cacography : {
-        = kakos + graphein
-        = bad writing
-        → illegible handwriting
-    },
-
-    Cacographer : {
-        = kakos + graphein + er
-        = person with poor handwriting
-    },
-
-    Cacographic : {
-        = kakos + graphein + ic
-        = marked by bad handwriting
+    Calligraphy : {
+        = kallos + graphein
+        = beautiful writing
+        → artistic handwriting
     },
 
     Cardiograph : {
@@ -1351,10 +1331,37 @@ GRAPHEIN ("to write") {
         → heart-recording instrument
     },
 
-    Photograph : {
-        = photos + graphein
-        = light writing
-        → picture produced by light
+    Chirographer : {
+        = cheir + graphein + er
+        = handwriting expert
+    },
+
+    Chirographic : {
+        = chirography + ic
+        = pertaining to handwriting
+    },
+
+    Chirography : {
+        = cheir + graphein
+        = hand writing
+        → handwriting
+    },
+
+    Graphological : {
+        = graphology + al
+        = pertaining to handwriting analysis
+    },
+
+    Graphologist : {
+        = graphein + logos
+        = student of handwriting
+        → handwriting analyst
+    },
+
+    Graphology : {
+        = graphein + logos
+        = study of handwriting
+        → handwriting analysis
     },
 
     Phonograph : {
@@ -1363,17 +1370,17 @@ GRAPHEIN ("to write") {
         → sound-recording device
     },
 
+    Photograph : {
+        = photos + graphein
+        = light writing
+        → image made by light
+    },
+
     Telegraph : {
         = tele + graphein
         = distance writing
         → long-distance communication
-    },
-
-    Biography : {
-        = bios + graphein
-        = life writing
-        → written account of a life
-    },
+    }
 }
 
 
@@ -1628,5 +1635,37 @@ SPHYGMOS ("pulse") {
         = sphygmos + manometer
         = pulse-pressure measure
         → blood-pressure apparatus
+    },
+}
+
+
+
+PRAKTIKOS ("to do", "to practice") {
+
+    Chiropractic : {
+        = cheir + praktikos
+        = treatment by hand
+        → chiropractic therapy
+    },
+
+    Chiropractor : {
+        = cheir + praktikos
+        = practitioner using hands
+        → chiropractor
+    },
+}
+
+
+MANTEIA ("divination", "prophecy" , "predictor") {
+
+    Chiromancy : {
+        = cheir + manteia
+        = divination from the hand
+        → palmistry
+    },
+
+    Chiromancer : {
+        = cheir + manteia + er
+        = one who reads palms
     },
 }
