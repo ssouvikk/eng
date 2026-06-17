@@ -91,20 +91,60 @@ ANDROS ("male", "man") {
 
 ANTHROPOS ("mankind", "human being") {
 
+    Anthropocentric : {
+        = anthropos + centrum
+        = mankind at the center
+        → human-centered viewpoint
+    },
+
+    Anthropoid : {
+        = anthropos + oid
+        = human-like
+        → resembling a human being
+    },
+
+    Anthropological : {
+        = anthropology + ical
+        = pertaining to the study of mankind
+    },
+
+    Anthropologist : {
+        = anthropos + logos + ist
+        = student of mankind
+        → scientist studying human origins and cultures
+    },
+
     Anthropology : {
         = anthropos + logos
         = study of mankind
+        → science of human development, culture, and evolution
+    },
+
+    Anthropomorphic : {
+        = anthropos + morphe
+        = human form
+        → giving human qualities or shape to non-humans
+    },
+
+    Anthropophobia : {
+        = anthropos + phobos
+        = fear of people
+        → abnormal fear of human beings
     },
 
     Misanthrope : {
         = misein + anthropos
         = hater of mankind
+        = misos + anthropos
         → human-hater
+        → person who dislikes people
     },
 
     Misanthropic : {
         = misein + anthropos + ic
         = characterized by hatred of mankind
+        = misanthrope + ic
+        = characterized by hatred of people
     },
 
     Misanthropist : {
@@ -120,6 +160,105 @@ ANTHROPOS ("mankind", "human being") {
     Philanthropist : {
         = philos + anthropos
         = lover of mankind
+        = philein + anthropos
+        → humanitarian; benefactor
+    },
+
+    Philanthropy : {
+        = philein + anthropos
+        = love of humanity
+        → charitable concern for human welfare
+    },
+}
+
+
+ASTRON ("star", "heavenly body") {
+
+    Aster : {
+        = astron
+        = star
+        → star-shaped flower
+    },
+
+    Asterisk : {
+        = aster
+        = little star
+        → star-shaped typographical mark (*)
+    },
+
+    Astrologer : {
+        = astron + logos
+        = interpreter of stars
+        → one who believes stars influence human affairs
+    },
+
+    Astrology : {
+        = astron + logos
+        = study of star influence
+        → system linking celestial motions to human events
+    },
+
+    Astronaut : {
+        = astron + nautes
+        = sailor among the stars
+        → space traveler
+    },
+
+    Astronomer : {
+        = astron + nomos + er
+        = student of the heavens
+        → scientist of celestial bodies
+    },
+
+    Astronomical : {
+        = astronomy + ical
+        = pertaining to the heavens
+        → enormously large in number
+    },
+
+    Astronomy : {
+        = astron + nomos
+        = arrangement/law of stars
+        → science of the heavens
+    },
+
+    Astrophysics : {
+        = astron + physis
+        = physics of stars
+        → branch studying composition and behavior of celestial bodies
+    },
+
+    Disaster : {
+        = dis + astron
+        = against the stars
+        → calamity; great misfortune
+    },
+}
+
+
+AUTOS ("self") {
+
+    Autobiography : {
+        = autos + bios + graphein
+        = self life writing
+        → story of one's own life
+    },
+
+    Autonomous : {
+        = autos + nomos + ous
+        = self-governing
+    },
+
+    Autonomy : {
+        = autos + nomos
+        = self-rule
+        → self-government
+    },
+
+    Autopsy : {
+        = autos + opsis
+        = seeing for oneself
+        → examination of a corpse
     },
 }
 
@@ -139,12 +278,88 @@ BAROS ("weight", "pressure") {
 }
 
 
+BIBLION ("book") {
+
+    Bible : {
+        = biblion
+        = the book
+        → sacred scripture
+    },
+
+    Bibliomaniac : {
+        = biblion + mania
+        = obsessive love of books
+        → compulsive book collector
+    },
+
+    Bibliophile : {
+        = biblion + philein
+        = lover of books
+        → book enthusiast
+    },
+}
+
+
 BIOS ("life") {
+
+    Autobiography : {
+        = autos + bios + graphein
+        = self life writing
+        → story of one's own life
+    },
+
+    Biographical : {
+        = biography + ical
+        = relating to life history
+    },
 
     Biography : {
         = bios + graphein
         = life writing
         → written life story
+        → written account of a person's life
+    },
+
+    Biological : {
+        = biology + ical
+        = pertaining to life sciences
+    },
+
+    Biologist : {
+        = bios + logos + ist
+        = student of living matter
+    },
+
+    Biology : {
+        = bios + logos
+        = study of life
+        → science of living matter
+    },
+
+    Biopsy : {
+        = bios + opsis
+        = viewing living tissue
+        → microscopic examination of living tissue
+    },
+}
+
+
+BOTANE ("plant", "herb") {
+
+    Botanical : {
+        = botany + ical
+        = pertaining to plants
+    },
+
+    Botanist : {
+        = botane + ist
+        = student of plant life
+    },
+
+    Botany : {
+        = botane
+        = study of plants
+        → science of plant life
     },
 }
 
@@ -267,7 +482,7 @@ DEXTER ("right hand") {
 }
 
 
-DROIT ("right", "proper",) {
+DROIT ("right", "proper") {
 
     Adroit : {
         = a + droit
@@ -421,6 +636,54 @@ GAMOS ("marriage") {
     Polygyny : {
         = poly + gyne
         = many wives
+    },
+}
+
+
+GE / GEO ("earth") {
+
+    Geographic : {
+        = geography + ic
+        = pertaining to geography
+    },
+
+    Geographical : {
+        = geography + ical
+        = relating to locations and earth features
+    },
+
+    Geography : {
+        = geo + graphein
+        = earth writing
+        → description and mapping of the earth
+    },
+
+    Geological : {
+        = geology + ical
+        = pertaining to geology
+    },
+
+    Geologist : {
+        = geo + logos + ist
+        = student of the earth
+        → earth scientist
+    },
+
+    Geology : {
+        = geo + logos
+        = study of the earth
+        → science of earth's structure and composition
+    },
+
+    Geometric : {
+        = geometry + ic
+        = pertaining to geometry
+    },
+
+    Geometry : {
+        = geo + metron
+        = earth measurement
+        → science of measuring figures and space
     },
 }
 
@@ -770,7 +1033,66 @@ KARDIA ("heart") {
 }
 
 
-LOGOS ("study", "science", "knowledge") {
+LINGUA ("tongue", "language") {
+
+    Bilingual : {
+        = bi + lingua
+        = two languages
+        → able to use two languages
+    },
+
+    Linguist : {
+        = lingua + ist
+        = language expert
+    },
+
+    Linguistic : {
+        = linguistics + ic
+        = pertaining to language
+    },
+
+    Linguistics : {
+        = lingua + istics
+        = science of language
+        → systematic study of language
+    },
+
+    Monolingual : {
+        = mono + lingua
+        = one language
+        → using only one language
+    },
+
+    Multilingual : {
+        = multi + lingua
+        = many languages
+        → using several languages
+    },
+
+    Trilingual : {
+        = tri + lingua
+        = three languages
+        → able to use three languages
+    },
+}
+
+
+LOGOS ("study", "science", "knowledge", "word", "reason") {
+
+    Anthropology : {
+        = anthropos + logos
+        = study of mankind
+    },
+
+    Astrology : {
+        = astron + logos
+        = interpretation of stars
+    },
+
+    Biology : {
+        = bios + logos
+        = study of life
+    },
 
     Cardiology : {
         = kardia + logos
@@ -780,6 +1102,16 @@ LOGOS ("study", "science", "knowledge") {
     Dermatology : {
         = derma + logos
         = study of the skin
+    },
+
+    Entomology : {
+        = entomon + logos
+        = study of insects
+    },
+
+    Geology : {
+        = geo + logos
+        = study of the earth
     },
 
     Gynecology : {
@@ -792,9 +1124,47 @@ LOGOS ("study", "science", "knowledge") {
         = study of the nervous system
     },
 
+    Philologist : {
+        = philein + logos + ist
+        = student of language
+    },
+
+    Philology : {
+        = philein + logos
+        = love of words
+        → study of language and literature
+    },
+
     Psychology : {
         = psyche + logos
         = study of the mind
+    },
+
+    Semantic : {
+        = semantics + ic
+        = relating to meaning
+    },
+
+    Semantics : {
+        = sema + ntics
+        = study of meaning
+        → science of meanings of words
+    },
+
+    Sociologist : {
+        = socius + logos + ist
+        = student of society
+    },
+
+    Sociology : {
+        = socius + logos
+        = study of society
+        → science of social organization
+    },
+
+    Zoology : {
+        = zoion + logos
+        = study of animals
     },
 }
 
@@ -825,7 +1195,7 @@ MANIA ("madness" or "obsession") {
 }
 
 
-MANTEIA ("divination", "prophecy" , "predictor") {
+MANTEIA ("divination", "prophecy", "predictor") {
 
     Chiromancer : {
         = cheir + manteia + er
@@ -933,6 +1303,27 @@ MONOS ("one") {
 }
 
 
+NAUTES ("sailor", "navigator") {
+
+    Astronaut : {
+        = astron + nautes
+        = star sailor
+        → traveler in outer space
+    },
+
+    Cosmonaut : {
+        = cosmos + nautes
+        = universe sailor
+        → traveler through the universe
+    },
+
+    Nautical : {
+        = nautes + ical
+        = pertaining to sailors or navigation
+    },
+}
+
+
 NEURON ("nerve") {
 
     Neural : {
@@ -961,6 +1352,28 @@ NEURON ("nerve") {
     Neurotic : {
         = neurosis + ic
         = suffering from nervous disturbance
+    },
+}
+
+
+NOMOS ("law", "order", "arrangement") {
+
+    Astronomy : {
+        = astron + nomos
+        = arrangement of stars
+        → science of celestial bodies
+    },
+
+    Autonomy : {
+        = autos + nomos
+        = self-law
+        → self-government
+    },
+
+    Metronome : {
+        = metron + nomos
+        = measure + order
+        → time measurer for music
     },
 }
 
@@ -1348,6 +1761,48 @@ PERI ("around", "surrounding") {
 }
 
 
+PHILEIN ("to love") {
+
+    Anglophile : {
+        = Anglus + philein
+        = lover of England or English culture
+    },
+
+    Bibliophile : {
+        = biblion + philein
+        = lover of books
+    },
+
+    Philanthropy : {
+        = philein + anthropos
+        = love of mankind
+        → humanitarian concern
+    },
+
+    Philologist : {
+        = philein + logos + ist
+        = lover/student of language
+    },
+
+    Philology : {
+        = philein + logos
+        = love of words
+        → study of language
+    },
+
+    Philosopher : {
+        = philein + sophos + er
+        = lover of wisdom
+    },
+
+    Philosophy : {
+        = philein + sophos
+        = love of wisdom
+        → pursuit of knowledge and truth
+    },
+}
+
+
 PHONE ("sound") {
 
     Phonograph : {
@@ -1557,6 +2012,60 @@ PSYCHE ("mind", "soul", "spirit") {
 }
 
 
+SECTUS ("cut") {
+
+    Dissect : {
+        = dis + sectus
+        = cut apart
+        → analyze by separating parts
+    },
+
+    Insect : {
+        = in + sectus
+        = cut into
+        → creature with segmented body
+    },
+
+    Section : {
+        = sectus + ion
+        = part cut off
+        → division or segment
+    },
+}
+
+
+SOCIUS ("companion", "associate") {
+
+    Asocial : {
+        = a + social
+        = not social
+        → avoiding social interaction
+    },
+
+    Associate : {
+        = ad + socius
+        = joined with companions
+        → partner or colleague
+    },
+
+    Social : {
+        = socius + al
+        = relating to companions or society
+    },
+
+    Sociologist : {
+        = socius + logos + ist
+        = student of society
+    },
+
+    Sociology : {
+        = socius + logos
+        = study of society
+        → science of social organization
+    },
+}
+
+
 SOMA ("body") {
 
     Psychosomatic : {
@@ -1621,6 +2130,38 @@ THERME ("heat") {
 }
 
 
+TOME ("a cutting") {
+
+    Anatomy : {
+        = ana + tome
+        = cutting up
+        → dissection; bodily structure
+    },
+
+    Atom : {
+        = a + tome
+        = not cut
+        → indivisible particle
+    },
+
+    Entomological : {
+        = entomology + ical
+        = pertaining to insects
+    },
+
+    Entomologist : {
+        = en + tome + ist
+        = student of insects
+    },
+
+    Entomology : {
+        = en + tome
+        = insect study
+        → science of insects
+    },
+}
+
+
 VERTO ("to turn") {
 
     Ambivert : {
@@ -1642,5 +2183,31 @@ VERTO ("to turn") {
         = turn inward
         → thoughts directed inward
         → self-analytical person
+    },
+}
+
+
+ZOION ("animal") {
+
+    Zodiac : {
+        = zoion
+        = circle of little animals
+        → belt of constellations named after animals
+    },
+
+    Zoological : {
+        = zoology + ical
+        = pertaining to animal science
+    },
+
+    Zoologist : {
+        = zoion + logos + ist
+        = student of animal life
+    },
+
+    Zoology : {
+        = zoion + logos
+        = study of animals
+        → science of animal life
     },
 }
