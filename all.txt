@@ -1138,6 +1138,13 @@ OPSIS / OPTIKOS ("vision", "sight") {
         → optometry
     },
 
+    Optometric : {
+        = optometry + ic
+        = relating to the measurement and testing of vision
+        → pertaining to eyesight measurement
+        → optometric
+    },
+
     Optometrist : {
         = opsis + metron + ist
         = measurer of vision
@@ -1150,6 +1157,7 @@ OPSIS / OPTIKOS ("vision", "sight") {
         = optikos / opsis + ician
         = worker with optical devices
         → grinder, fitter, and dispenser of lenses
+        → lens grinder
         → seller of optical goods
         → optician
     },
@@ -1159,14 +1167,7 @@ OPSIS / OPTIKOS ("vision", "sight") {
         = relating to vision, sight, or light
         → optical
     },
-
-    Optometric : {
-        = optometry + ic
-        = relating to the measurement and testing of vision
-        → optometric
-    },
 }
-
 
 
 POUS / PODOS ("foot") {
