@@ -1,9 +1,105 @@
+CAEDO / CIDE ("to kill") {
+
+    Fratricide : {
+        = frater + cide
+        = brother-killing
+    },
+
+    Genocide : {
+        = genos + cide
+        = race-killing
+        → mass extermination of a people
+    },
+
+    Homicide : {
+        = homo + cide
+        = human-killing
+    },
+
+    Infanticide : {
+        = infans + cide
+        = baby-killing
+    },
+
+    Mariticide : {
+        = maritus + cide
+        = husband-killing
+    },
+
+    Matricide : {
+        = mater + cide
+        = mother-killing
+    },
+
+    Parricide : {
+        = parens + cide
+        = parent-killing
+    },
+
+    Patricide : {
+        = pater + cide
+        = father-killing
+    },
+
+    Regicide : {
+        = rex + cide
+        = king-killing
+    },
+
+    Sororicide : {
+        = soror + cide
+        = sister-killing
+    },
+
+    Suicidal : {
+        = suicide + al
+        = self-destructive
+    },
+
+    Suicide : {
+        = sui + cide
+        = self-killing
+        → self-destruction
+    },
+
+    Uxoricide : {
+        = uxor + cide
+        = wife-killing
+    },
+}
+
+
 CENTRUM ("center") {
 
     Egocentric : {
         = ego + centrum
         = self at the center
         → self-centered person
+    },
+}
+
+
+CHAUVIN ("blind patriot") {
+
+    Chauvinism : {
+        = chauvin + ism
+        = blind patriotism
+        → excessive nationalism
+        → group superiority
+    },
+
+    Chauvinist : {
+        = Nicolas Chauvin
+        = blindly patriotic person
+        → extreme nationalist
+        → superpatriot
+        → believer in superiority of own group
+    },
+
+    Chauvinistic : {
+        = chauvinism + ic
+        = characterized by blind patriotism
+        → fanatically nationalistic
     },
 }
 
@@ -290,6 +386,25 @@ DICO / DICTUS ("to say", "to tell", "to speak") {
         = of cursing
         → cursing
         → curse-like
+    },
+}
+
+
+DILETTARE ("to delight oneself") {
+
+    Dilettante : {
+        = Italian dilettare
+        = one who delights in an activity
+        → amateur enthusiast
+        → superficial participant
+        → dabbler in the arts
+    },
+
+    Dilettantism : {
+        = dilettante + ism
+        = conduct of a dabbler
+        → superficial interest
+        → amateurism
     },
 }
 

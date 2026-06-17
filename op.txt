@@ -158,6 +158,54 @@ OMNIS ("all") {
 }
 
 
+ONYMA ("name") {
+
+    Antonym : {
+        = anti + onyma
+        = opposite name
+        → word with opposite meaning
+    },
+
+    Antonymous : {
+        = antonym + ous
+        = opposite in meaning
+    },
+
+    Homonym : {
+        = homos + onyma
+        = same name
+        → word with same sound or spelling
+    },
+
+    Homonymous : {
+        = homonym + ous
+        = having same name or sound
+    },
+
+    Homophone : {
+        = homos + phone
+        = same sound
+        → same pronunciation, different spelling
+    },
+
+    Homophonous : {
+        = homophone + ous
+        = sounding alike
+    },
+
+    Synonym : {
+        = syn + onyma
+        = same name
+        → word with similar meaning
+    },
+
+    Synonymous : {
+        = synonym + ous
+        = having same meaning
+    },
+}
+
+
 OPHTHALMOS ("eye") {
 
     Ophthalmic : {
@@ -431,6 +479,73 @@ PAR ("equal") {
         = equal
         → one of equal rank
         → social or professional equal
+    },
+}
+
+
+PATER / PATRIS ("father") {
+
+    Paternal : {
+        = pater + al
+        = fatherly
+        → relating to a father
+    },
+
+    Paternalism : {
+        = paternal + ism
+        = father-like control
+        → protective authority
+    },
+
+    Paternalistic : {
+        = paternal + istic
+        = acting like a protective father
+        → controlling for others' supposed good
+    },
+
+    Paternity : {
+        = pater + ity
+        = fatherhood
+    },
+
+    Patriarch : {
+        = pater + archein
+        = father ruler
+        → male head of family
+    },
+
+    Patriarchal : {
+        = patriarch + al
+        = relating to patriarchy
+    },
+
+    Patriarchy : {
+        = patriarch + y
+        = rule by fathers
+        → male-dominated system
+    },
+
+    Patricidal : {
+        = patricide + al
+        = relating to father-killing
+    },
+
+    Patricide : {
+        = pater + cide
+        = father-killing
+        → murder of one's father
+    },
+
+    Patrimony : {
+        = pater + mony
+        = father's property
+        → inherited estate
+    },
+
+    Patronymic : {
+        = pater + onyma
+        = father's name
+        → surname derived from father
     },
 }
 

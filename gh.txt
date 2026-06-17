@@ -465,3 +465,31 @@ HARMONIA ("harmony", "music") {
         → musical society/orchestra
     },
 }
+
+
+HYPO ("under, below") {
+
+    Hypochondria : {
+        = hypo + chondria
+        = morbid anxiety about health
+        → health obsession
+    },
+
+    Hypochondriac : {
+        = hypo + chondros
+        = beneath the cartilage
+        → person obsessed with illness
+        → sufferer of imaginary ailments
+    },
+
+    Hypotension : {
+        = hypo + tension
+        = low pressure
+        → abnormally low blood pressure
+    },
+
+    Hypotensive : {
+        = hypo + tensive
+        = having low blood pressure
+    },
+}

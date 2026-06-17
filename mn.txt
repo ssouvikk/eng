@@ -199,10 +199,85 @@ MALUS ("bad", "evil") {
 
 MANIA ("madness" or "obsession") {
 
+    Dipsomania : {
+        = dipso + mania
+        = obsession with drinking
+        → uncontrollable craving for alcohol
+    },
+
+    Dipsomaniac : {
+        = dipso + maniac
+        = compulsive drinker
+    },
+
+    Egomania : {
+        = ego + mania
+        = obsession with self
+        → pathological self-importance
+    },
+
     Egomaniac : {
         = ego + mania
         = madness about self
+        = ego + maniac
+        = person obsessed with self
         → obsessive self-importance
+    },
+
+    Kleptomania : {
+        = kleptein + mania
+        = obsession with stealing
+        → compulsive theft
+    },
+
+    Kleptomaniac : {
+        = klepto + maniac
+        = compulsive thief
+    },
+
+    Megalomania : {
+        = megas + mania
+        = obsession with greatness
+        → delusions of grandeur
+    },
+
+    Megalomaniac : {
+        = megalo + maniac
+        = person obsessed with greatness
+    },
+
+    Monomania : {
+        = mono + mania
+        = single obsession
+        → fixation
+    },
+
+    Monomaniac : {
+        = mono + mania
+        = one obsession
+        → person obsessed with one idea
+    },
+
+    Nymphomania : {
+        = nymph + mania
+        = excessive female sexual desire
+        → compulsive sexuality
+    },
+
+    Nymphomaniac : {
+        = nympho + maniac
+        = woman with compulsive sexual desire
+    },
+
+    Pyromania : {
+        = pyr + mania
+        = obsession with fire
+        → compulsive fire-setting
+    },
+
+    Pyromaniac : {
+        = pyro + maniac
+        = person obsessed with setting fires
     },
 }
 
@@ -234,6 +309,100 @@ MANUS ("hand") {
         = manus + scriptus
         = handwritten document
         → original text
+    },
+}
+
+
+MARTINET ("strict discipline") {
+
+    Martinet : {
+        = from Jean Martinet (French drillmaster)
+        = person enforcing rigid discipline
+        → strict disciplinarian
+        → slave driver
+        → authoritarian rule-enforcer
+    },
+
+    Martinetish : {
+        = martinet + ish
+        = like a martinet
+        → excessively strict
+        → rigidly disciplinary
+    },
+
+    Martinetism : {
+        = martinet + ism
+        = doctrine or practice of excessive discipline
+        → rigid authoritarianism
+    },
+}
+
+
+MATER / MATRIS ("mother") {
+
+    Alma Mater : {
+        = alma + mater
+        = nourishing mother
+        → one's school or university
+    },
+
+    Maternal : {
+        = mater + al
+        = motherly
+    },
+
+    Maternity : {
+        = mater + ity
+        = motherhood
+    },
+
+    Matriarch : {
+        = mater + archein
+        = mother ruler
+        → female head of family
+    },
+
+    Matriarchal : {
+        = matriarch + al
+        = relating to patriarchy
+    },
+
+    Matriarchy : {
+        = matriarch + y
+        = rule by mothers
+    },
+
+    Matricidal : {
+        = matricide + al
+        = relating to mother-killing
+    },
+
+    Matricide : {
+        = mater + cide
+        = mother-killing
+        → murder of one's mother
+    },
+
+    Matrimonial : {
+        = matrimony + al
+        = relating to marriage
+    },
+
+    Matrimony : {
+        = mater + mony
+        = state of motherhood
+        → marriage
+    },
+
+    Matron : {
+        = mater → matron
+        = mature woman
+        → older woman
+    },
+
+    Matronly : {
+        = matron + ly
+        = dignified like a mature woman
     },
 }
 
@@ -366,11 +535,43 @@ MISEIN ("to hate") {
 }
 
 
-MONOS ("one") {
+MONO / MONOS ("one") {
 
     Monogamy : {
         = monos + gamos
         = one marriage
+        = mono + gamos
+        → marriage to one spouse
+    },
+
+    Monologue : {
+        = mono + logos
+        = one speech
+        → extended speech by one person
+    },
+
+    Monomania : {
+        = mono + mania
+        = obsession with one idea
+        → single-minded fixation
+    },
+
+    Monomaniac : {
+        = mono + mania
+        = one obsession
+        → person with one-track mind
+        → fanatic devoted to one interest
+    },
+
+    Monotheism : {
+        = mono + theos
+        = one god
+        → belief in one God
+    },
+
+    Monotheist : {
+        = mono + theist
+        = believer in one God
     },
 }
 

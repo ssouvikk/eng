@@ -48,6 +48,32 @@ IATREIA ("healing", "medical treatment") {
 }
 
 
+ICON ("image") {
+
+    Iconoclasm : {
+        = icon + clasm
+        = destruction of images
+        → hostility to tradition
+        → rejection of established beliefs
+    },
+
+    Iconoclast : {
+        = icon + klastes
+        = breaker of images
+        → attacker of cherished beliefs
+        → scoffer at tradition
+        → rebel against convention
+    },
+
+    Iconoclastic : {
+        = iconoclast + ic
+        = attacking accepted beliefs
+        → unconventional
+        → anti-traditional
+    },
+}
+
+
 INTERNUS ("inside") {
 
     Intern : {

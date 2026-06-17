@@ -402,6 +402,33 @@ SUMMUS ("highest", "utmost") {
 }
 
 
+SYCOPHANT ("fig-shower" → informer → flatterer) {
+
+    Sycophancy : {
+        = sycophant + y
+        = behavior of a sycophant
+        → servile flattery
+        → toadyism
+    },
+
+    Sycophant : {
+        = sykon (fig) + phanein (to show)
+        = fig-shower
+        → informer
+        → favor-seeker
+        → bootlicker
+        → toady
+    },
+
+    Sycophantic : {
+        = sycophant + ic
+        = characterized by flattery
+        → obsequious
+        → bootlicking
+    },
+}
+
+
 TACEO ("to be silent") {
 
     Reticence : {
@@ -476,6 +503,87 @@ TELE ("distance") {
         = tele + vision
         = distance seeing
         → viewing events from afar
+    },
+}
+
+
+THEOS ("God") {
+
+    Agnostic : {
+        = a + gnostic
+        = one who does not claim knowledge of God
+    },
+
+    Agnosticism : {
+        = a + gnosis
+        = without knowledge
+        → belief that God's existence is unknowable
+    },
+
+    Atheism : {
+        = a + theos + ism
+        = belief that there is no God
+    },
+
+    Atheist : {
+        = a + theos
+        = without God
+        → disbeliever in God
+    },
+
+    Monotheism : {
+        = mono + theos
+        = one God
+        → belief in one God
+    },
+
+    Monotheist : {
+        = mono + theist
+        = believer in one God
+    },
+
+    Pantheism : {
+        = pan + theos
+        = God is everything
+        → God identified with nature
+    },
+
+    Pantheist : {
+        = pan + theist
+        = believer in pantheism
+    },
+
+    Polytheism : {
+        = poly + theos
+        = many gods
+        → belief in many gods
+    },
+
+    Polytheist : {
+        = poly + theist
+        = believer in many gods
+    },
+
+    Theism : {
+        = theos + ism
+        = belief in God
+    },
+
+    Theist : {
+        = theos + ist
+        = believer in God
+    },
+
+    Theologian : {
+        = theology + ian
+        = student of religion
+        → religious scholar
+    },
+
+    Theology : {
+        = theos + logos
+        = study of God
+        → religious studies
     },
 }
 

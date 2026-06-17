@@ -192,6 +192,60 @@ VIA ("road", "way") {
 }
 
 
+VIR ("man") {
+
+    Virago : {
+        = vir + ago
+        = woman acting like a man
+        → domineering woman
+        → loud-mouthed female
+        → shrew
+        → scold
+    },
+
+    Virile : {
+        = vir + ile
+        = manly
+        → masculine
+        → vigorous
+        → strong
+    },
+
+    Virility : {
+        = virile + ity
+        = manliness
+        → masculine strength
+        → vigor
+    },
+
+    Virtue : {
+        = vir → virtus
+        = excellence of a man
+        → moral excellence
+        → goodness
+    },
+
+    Virtuosity : {
+        = virtuoso + ity
+        = exceptional skill
+        → artistic mastery
+    },
+
+    Virtuoso : {
+        = virtus + oso
+        = person of excellence
+        → highly skilled performer
+        → master artist
+    },
+
+    Virtuous : {
+        = virtue + ous
+        = possessing virtue
+        → morally upright
+    },
+}
+
+
 VOLO ("to wish", "to will") {
 
     Benevolence : {

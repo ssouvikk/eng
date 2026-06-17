@@ -127,6 +127,86 @@ LACONIA ("Sparta; region famous for brief speech") {
 }
 
 
+LECHER ("lustful person") {
+
+    Lascivious : {
+        = lascivus
+        = playful with lust
+        → lustful
+        → sensual
+    },
+
+    Lecher : {
+        = lecher
+        = lustful male
+        → sexually aggressive man
+        → libertine
+    },
+
+    Lecherous : {
+        = lecher + ous
+        = full of lust
+        → sexually aggressive
+    },
+
+    Lechery : {
+        = lecher + y
+        = excessive lust
+        → sexual indulgence
+    },
+
+    Lewd : {
+        = lewd
+        = sexually indecent
+        → lustful
+    },
+
+    Libidinous : {
+        = libido
+        = desire
+        → sexually craving
+    },
+
+    Licentious : {
+        = licentia
+        = excessive freedom
+        → sexually immoral
+    },
+
+    Lubricious : {
+        = lubricus
+        = slippery
+        → morally slippery
+        → lustful
+    },
+
+    Lubricity : {
+        = lubricious + ity
+        = lustfulness
+        → sensuality
+    },
+
+    Lustful : {
+        = lust + ful
+        = full of desire
+        → sexually craving
+    },
+
+    Prurient : {
+        = prurire
+        = to itch
+        → itching with desire
+        → sexually eager
+    },
+
+    Satyriasis : {
+        = satyr + iasis
+        = abnormal male sexual craving
+        → male nymphomania
+    },
+}
+
+
 LINGUA ("tongue", "language") {
 
     Bilingual : {
