@@ -1,231 +1,284 @@
 IATREIA ("healing", "medical treatment") {
 
     Geriatrics : {
-        = geras + iatreia
-        = healing of old age
-        → medical care of the elderly
-        → geriatrics
+        Breakdown: Geriatrics = geras (old age) + iatreia (healing, medical treatment)
+        Synthesis: "old age" + "healing" -> "healing of old age" (representing medical care of the elderly, or geriatrics).
+        Literal: healing of old age
+        Semantic:
+            → medical care of the elderly
+            → geriatrics
     },
 
     Pediatrician : {
-        = paidos + iatreia + ian
-        = children's physician
-        → pediatrician
+        Breakdown: Pediatrician = paidos (child) + iatreia (healing, medical treatment) + ian (one who or specialist)
+        Synthesis: "child" + "healing" + "one who or specialist" -> "children's physician" (representing pediatrician).
+        Literal: children's physician
+        Semantic:
+            → pediatrician
     },
 
     Pediatrics : {
-        = paidos + iatreia
-        = healing of children
-        → medical care of children
+        Breakdown: Pediatrics = paidos (child) + iatreia (healing, medical treatment)
+        Synthesis: "child" + "healing" -> "healing of children" (representing medical care of children).
+        Literal: healing of children
+        Semantic:
+            → medical care of children
     },
 
     Podiatrist : {
-        = podos + iatreia + ist
-        = foot healer
-        → foot doctor
-        → podiatrist
+        Breakdown: Podiatrist = podos (foot) + iatreia (healing, medical treatment)
+        Synthesis: "foot" + "healing" -> "foot healer" (representing foot doctor, or podiatrist).
+        Literal: foot healer
+        Semantic:
+            → foot doctor
+            → podiatrist
     },
 
     Podiatry : {
-        = podos + iatreia
-        = healing of the foot
-        → treatment of foot ailments
-        → podiatry
+        Breakdown: Podiatry = podos (foot) + iatreia (healing, medical treatment)
+        Synthesis: "foot" + "healing" -> "healing of the foot" (representing treatment of foot ailments, or podiatry).
+        Literal: healing of the foot
+        Semantic:
+            → treatment of foot ailments
+            → podiatry
     },
 
     Psychiatrist : {
-        = psyche + iatreia + ist
-        = physician healing the mind
-        → psychiatrist
+        Breakdown: Psychiatrist = psyche (mind, soul, spirit) + iatreia (healing, medical treatment) + ist (one who practices or specializes in)
+        Synthesis: "mind" + "healing" + "one who practices or specializes in" -> "physician healing the mind" (representing psychiatrist).
+        Literal: physician healing the mind
+        Semantic:
+            → psychiatrist
     },
 
     Psychiatry : {
-        = psyche + iatreia
-        = healing of the mind
-        → treatment of mental disorders
-        → psychiatry
+        Breakdown: Psychiatry = psyche (mind, soul, spirit) + iatreia (healing, medical treatment)
+        Synthesis: "mind" + "healing" -> "healing of the mind" (representing treatment of mental disorders, or psychiatry).
+        Literal: healing of the mind
+        Semantic:
+            → treatment of mental disorders
+            → psychiatry
     },
-}
 
+}
 
 ICON ("image") {
 
     Iconoclasm : {
-        = icon + clasm
-        = destruction of images
-        = breaking images
-        → hostility to tradition
-        → rejection of established beliefs
-        → rejection of tradition
-        → attack on established beliefs
+        Breakdown: Iconoclasm = icon (image) + clasm
+        Synthesis: "image" + "clasm" -> "destruction of images" (representing breaking images, hostility to tradition, rejection of established beliefs, rejection of tradition, or attack on established beliefs).
+        Literal: destruction of images
+        Semantic:
+            → breaking images
+            → hostility to tradition
+            → rejection of established beliefs
+            → rejection of tradition
+            → attack on established beliefs
     },
 
     Iconoclast : {
-        = icon + klastes
-        = breaker of images
-        = eikon + klastes
-        = image breaker
-        → attacker of cherished beliefs
-        → scoffer at tradition
-        → rebel against convention
-        → destroyer of sacred images
-        → challenger of traditions
-        → attacker of accepted beliefs
+        Breakdown: Iconoclast = icon (image) + klastes (breaker) / eikon + klastes (breaker)
+        Synthesis: "image" + "klastes (breaker) / eikon" + "breaker" -> "breaker of images" (representing eikon + klastes, image breaker, attacker of cherished beliefs, scoffer at tradition, rebel against convention, destroyer of sacred images, challenger of traditions, or attacker of accepted beliefs).
+        Literal: breaker of images
+        Semantic:
+            → eikon + klastes
+            → image breaker
+            → attacker of cherished beliefs
+            → scoffer at tradition
+            → rebel against convention
+            → destroyer of sacred images
+            → challenger of traditions
+            → attacker of accepted beliefs
     },
 
     Iconoclastic : {
-        = iconoclast + ic
-        = attacking accepted beliefs
-        = characterized by attacks on tradition
-        → unconventional
-        → anti-traditional
-        → anti-establishment
+        Breakdown: Iconoclastic = iconoclast (image breaker; attacker of cherished beliefs; scoffer at tradition; rebel against convention; destroyer of sacred images; challenger of traditions; attacker of accepted beliefs) + ic (pertaining to or relating to)
+        Synthesis: "image breaker" + "pertaining to or relating to" -> "attacking accepted beliefs" (representing characterized by attacks on tradition, unconventional, anti-traditional, or anti-establishment).
+        Literal: attacking accepted beliefs
+        Semantic:
+            → characterized by attacks on tradition
+            → unconventional
+            → anti-traditional
+            → anti-establishment
     },
-}
 
+}
 
 INCENDO (to set on fire) {
 
     Incendiarism : {
-        = incendiary + ism
-        = malicious fire-setting
-        → arson for revenge or destruction
+        Breakdown: Incendiarism = incendiary (one who sets fires; fire-setter; arsonist) + ism (philosophy, belief, or system of)
+        Synthesis: "one who sets fires" + "philosophy" -> "malicious fire-setting" (representing arson for revenge or destruction).
+        Literal: malicious fire-setting
+        Semantic:
+            → arson for revenge or destruction
     },
 
     Incendiary : {
-        = incendio + ary
-        = one who sets fires
-        → fire-setter
-        → arsonist
+        Breakdown: Incendiary = incendio + ary
+        Synthesis: "incendio" + "ary" -> "one who sets fires" (representing fire-setter, or arsonist).
+        Literal: one who sets fires
+        Semantic:
+            → fire-setter
+            → arsonist
     },
-}
 
+}
 
 INDIGERE ("to be in need") {
 
     Indigence : {
-        = indigere + ence
-        = state of needing
-        → poverty
-        → reduced circumstances
+        Breakdown: Indigence = indigere (to be in need) + ence (state or quality of)
+        Synthesis: "to be in need" + "state or quality of" -> "state of needing" (representing poverty, or reduced circumstances).
+        Literal: state of needing
+        Semantic:
+            → poverty
+            → reduced circumstances
     },
 
     Indigent : {
-        = indigere + ent
-        = one in need
-        → poor
-        → needy
+        Breakdown: Indigent = indigere (to be in need) + ent
+        Synthesis: "to be in need" + "ent" -> "one in need" (representing poor, or needy).
+        Literal: one in need
+        Semantic:
+            → poor
+            → needy
     },
-}
 
+}
 
 INE ("like", "similar to", "characteristic of") {
 
     Bovine : {
-        = bovis + ine
-        = cowlike
+        Breakdown: Bovine = bovis (ox, cow) + ine (like, similar to, characteristic of)
+        Synthesis: "ox" + "like" -> "cowlike".
+        Literal: cowlike
     },
 
     Canine : {
-        = canis + ine
-        = doglike
+        Breakdown: Canine = canis (dog) + ine (like, similar to, characteristic of)
+        Synthesis: "dog" + "like" -> "doglike".
+        Literal: doglike
     },
 
     Equine : {
-        = equus + ine
-        = horselike
+        Breakdown: Equine = equus (horse) + ine (like, similar to, characteristic of)
+        Synthesis: "horse" + "like" -> "horselike".
+        Literal: horselike
     },
 
     Feline : {
-        = felis + ine
-        = catlike
+        Breakdown: Feline = felis (cat) + ine (like, similar to, characteristic of)
+        Synthesis: "cat" + "like" -> "catlike".
+        Literal: catlike
     },
 
     Leonine : {
-        = leo + ine
-        = lionlike
+        Breakdown: Leonine = leo (lion) + ine (like, similar to, characteristic of)
+        Synthesis: "lion" + "like" -> "lionlike".
+        Literal: lionlike
     },
 
     Lupine : {
-        = lupus + ine
-        = wolflike
+        Breakdown: Lupine = lupus (wolf) + ine (like, similar to, characteristic of)
+        Synthesis: "wolf" + "like" -> "wolflike".
+        Literal: wolflike
     },
 
     Piscine : {
-        = piscis + ine
-        = fishlike
+        Breakdown: Piscine = piscis (fish) + ine (like, similar to, characteristic of)
+        Synthesis: "fish" + "like" -> "fishlike".
+        Literal: fishlike
     },
 
     Porcine : {
-        = porcus + ine
-        = piglike
+        Breakdown: Porcine = porcus (pig) + ine (like, similar to, characteristic of)
+        Synthesis: "pig" + "like" -> "piglike".
+        Literal: piglike
     },
 
     Ursine : {
-        = ursus + ine
-        = bearlike
+        Breakdown: Ursine = ursus (bear) + ine (like, similar to, characteristic of)
+        Synthesis: "bear" + "like" -> "bearlike".
+        Literal: bearlike
     },
 
     Vulpine : {
-        = vulpes + ine
-        = foxlike
+        Breakdown: Vulpine = vulpes (fox) + ine (like, similar to, characteristic of)
+        Synthesis: "fox" + "like" -> "foxlike".
+        Literal: foxlike
     },
-}
 
+}
 
 INTERNUS ("inside") {
 
     Intern : {
-        = internus
-        = one working inside
-        → medical apprentice in a hospital
-        → intern
+        Breakdown: Intern = internus (inside)
+        Synthesis: "inside" -> "one working inside" (representing medical apprentice in a hospital, or intern).
+        Literal: one working inside
+        Semantic:
+            → medical apprentice in a hospital
+            → intern
     },
 
     Internal : {
-        = internus
-        = inside
-        → located within
-        → internal
+        Breakdown: Internal = internus (inside)
+        Synthesis: "inside" -> "inside" (representing located within, or internal).
+        Literal: inside
+        Semantic:
+            → located within
+            → internal
     },
 
     Internist : {
-        = internus + ist
-        = specialist of the inside
-        → physician studying internal organs
-        → expert in internal medicine
+        Breakdown: Internist = internus (inside) + ist (one who practices or specializes in)
+        Synthesis: "inside" + "one who practices or specializes in" -> "specialist of the inside" (representing physician studying internal organs, or expert in internal medicine).
+        Literal: specialist of the inside
+        Semantic:
+            → physician studying internal organs
+            → expert in internal medicine
     },
-}
 
+}
 
 INTIMUS ("innermost", "deep within") {
 
     Intimacy : {
-        = intimate + acy
-        = state of close familiarity
-        → personal closeness
-        → deep relationship
+        Breakdown: Intimacy = intimate + acy
+        Synthesis: "intimate" + "acy" -> "state of close familiarity" (representing personal closeness, or deep relationship).
+        Literal: state of close familiarity
+        Semantic:
+            → personal closeness
+            → deep relationship
     },
 
     Intimate (adjective) : {
-        = intimus
-        = very close
-        → deeply familiar
-        → closely connected
+        Breakdown: Intimate (adjective) = intimus (innermost, deep within)
+        Synthesis: "innermost" -> "very close" (representing deeply familiar, or closely connected).
+        Literal: very close
+        Semantic:
+            → deeply familiar
+            → closely connected
     },
 
     Intimate (verb) : {
-        = intimus
-        = make known from within
-        → hint
-        → suggest indirectly
+        Breakdown: Intimate (verb) = intimus (innermost, deep within)
+        Synthesis: "innermost" -> "make known from within" (representing hint, or suggest indirectly).
+        Literal: make known from within
+        Semantic:
+            → hint
+            → suggest indirectly
     },
 
     Intimation : {
-        = intimate + ion
-        = indication from the innermost part
-        → hint
-        → suggestion
-        → indirect clue
+        Breakdown: Intimation = intimate + ion (act, process, or result of)
+        Synthesis: "intimate" + "act" -> "indication from the innermost part" (representing hint, suggestion, or indirect clue).
+        Literal: indication from the innermost part
+        Semantic:
+            → hint
+            → suggestion
+            → indirect clue
     },
+
 }

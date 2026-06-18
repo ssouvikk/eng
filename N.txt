@@ -1,295 +1,369 @@
 NAIVUS ("natural, unartificial") {
 
     Naive : {
-        = naivus
-        = natural and unaffected
-        → inexperienced
-        → unsophisticated
-        → innocent
+        Breakdown: Naive = naivus (natural, unartificial)
+        Synthesis: "natural" -> "natural and unaffected" (representing inexperienced, unsophisticated, or innocent).
+        Literal: natural and unaffected
+        Semantic:
+            → inexperienced
+            → unsophisticated
+            → innocent
     },
 
     Naivete : {
-        = naive + ete
-        = state of being naive
-        → innocence
-        → lack of worldly experience
+        Breakdown: Naivete = naive (natural and unaffected; inexperienced; unsophisticated; innocent) + ete
+        Synthesis: "natural and unaffected" + "ete" -> "state of being naive" (representing innocence, or lack of worldly experience).
+        Literal: state of being naive
+        Semantic:
+            → innocence
+            → lack of worldly experience
     },
-}
 
+}
 
 NAUTES ("sailor", "navigator") {
 
     Astronaut : {
-        = astron + nautes
-        = star sailor
-        → traveler in outer space
+        Breakdown: Astronaut = astron (star, heavenly body) + nautes (sailor, navigator)
+        Synthesis: "star" + "sailor" -> "star sailor" (representing traveler in outer space).
+        Literal: star sailor
+        Semantic:
+            → traveler in outer space
     },
 
     Cosmonaut : {
-        = cosmos + nautes
-        = universe sailor
-        → traveler through the universe
+        Breakdown: Cosmonaut = cosmos (universe) + nautes (sailor, navigator)
+        Synthesis: "universe" + "sailor" -> "universe sailor" (representing traveler through the universe).
+        Literal: universe sailor
+        Semantic:
+            → traveler through the universe
     },
 
     Nautical : {
-        = nautes + ical
-        = pertaining to sailors or navigation
+        Breakdown: Nautical = nautes (sailor, navigator) + ical (pertaining to or relating to)
+        Synthesis: "sailor" + "pertaining to or relating to" -> "pertaining to sailors or navigation".
+        Literal: pertaining to sailors or navigation
     },
-}
 
+}
 
 NEGARE ("to deny") {
 
     Abnegate : {
-        = ab + negare
-        = deny away
-        → renounce
-        → deny oneself
-        → give up personal desires
+        Breakdown: Abnegate = ab (away, from) + negare (to deny)
+        Synthesis: "away" + "to deny" -> "deny away" (representing renounce, deny oneself, or give up personal desires).
+        Literal: deny away
+        Semantic:
+            → renounce
+            → deny oneself
+            → give up personal desires
     },
 
     Deny : {
-        = de + negare
-        = formally refuse
-        → reject
-        → declare untrue
+        Breakdown: Deny = de (down, away, from) + negare (to deny)
+        Synthesis: "down" + "to deny" -> "formally refuse" (representing reject, or declare untrue).
+        Literal: formally refuse
+        Semantic:
+            → reject
+            → declare untrue
     },
 
     Negate : {
-        = negare
-        = deny
-        → nullify
-        → cancel
-        → render ineffective
+        Breakdown: Negate = negare (to deny)
+        Synthesis: "to deny" -> "deny" (representing nullify, cancel, or render ineffective).
+        Literal: deny
+        Semantic:
+            → nullify
+            → cancel
+            → render ineffective
     },
 
     Negative : {
-        = negare + ive
-        = expressing denial
-        → refusal
-        → contradiction
+        Breakdown: Negative = negare (to deny) + ive (having the nature of or tending to)
+        Synthesis: "to deny" + "having the nature of or tending to" -> "expressing denial" (representing refusal, or contradiction).
+        Literal: expressing denial
+        Semantic:
+            → refusal
+            → contradiction
     },
 
     Self-Abnegate : {
-        = self + abnegate
-        = deny oneself
-        → self-sacrifice
-        → self-renunciation
+        Breakdown: Self-Abnegate = self (self) + abnegate (deny away; renounce; deny oneself; give up personal desires)
+        Synthesis: "self" + "deny away" -> "deny oneself" (representing self-sacrifice, or self-renunciation).
+        Literal: deny oneself
+        Semantic:
+            → self-sacrifice
+            → self-renunciation
     },
 
     Self-Abnegation : {
-        = self + abnegation
-        = state of denying oneself
-        → self-denial
-        → self-sacrifice
+        Breakdown: Self-Abnegation = self (self) + abnegation
+        Synthesis: "self" + "abnegation" -> "state of denying oneself" (representing self-denial, or self-sacrifice).
+        Literal: state of denying oneself
+        Semantic:
+            → self-denial
+            → self-sacrifice
     },
-}
 
+}
 
 NERVUS ("nerve") {
 
     Enervate : {
-        = e(ex) + nervus
-        = take the nerves out
-        → weaken
-        → exhaust
-        → drain vitality
+        Breakdown: Enervate = e(ex) (out, from) + nervus (nerve)
+        Synthesis: "out" + "nerve" -> "take the nerves out" (representing weaken, exhaust, or drain vitality).
+        Literal: take the nerves out
+        Semantic:
+            → weaken
+            → exhaust
+            → drain vitality
     },
 
     Enervation : {
-        = enervate + ion
-        = condition of having nerves taken out
-        → total exhaustion
-        → complete devitalization
+        Breakdown: Enervation = enervate (take the nerves out; weaken; exhaust; drain vitality) + ion (act, process, or result of)
+        Synthesis: "take the nerves out" + "act" -> "condition of having nerves taken out" (representing total exhaustion, or complete devitalization).
+        Literal: condition of having nerves taken out
+        Semantic:
+            → total exhaustion
+            → complete devitalization
     },
 
     Nerve : {
-        = nervus
-        = sinew, nerve
-        → source of strength
-        → courage
+        Breakdown: Nerve = nervus (nerve)
+        Synthesis: "nerve" -> "sinew, nerve" (representing source of strength, or courage).
+        Literal: sinew, nerve
+        Semantic:
+            → source of strength
+            → courage
     },
 
     Nervous : {
-        = nervus + ous
-        = relating to nerves
-        → tense
-        → excitable
+        Breakdown: Nervous = nervus (nerve) + ous (characterized by or full of)
+        Synthesis: "nerve" + "characterized by or full of" -> "relating to nerves" (representing tense, or excitable).
+        Literal: relating to nerves
+        Semantic:
+            → tense
+            → excitable
     },
-}
 
+}
 
 NEURON ("nerve") {
 
     Neural : {
-        = neuron + al
-        = relating to nerves
+        Breakdown: Neural = neuron (nerve) + al (pertaining to or relating to)
+        Synthesis: "nerve" + "pertaining to or relating to" -> "relating to nerves".
+        Literal: relating to nerves
     },
 
     Neurologist : {
-        = neuron + logos + ist
-        = nerve specialist
-        → neurologist
+        Breakdown: Neurologist = neuron (nerve) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "nerve" + "study" + "one who practices or specializes in" -> "nerve specialist" (representing neurologist).
+        Literal: nerve specialist
+        Semantic:
+            → neurologist
     },
 
     Neurology : {
-        = neuron + logos
-        = study of nerves
-        → science of nervous system disorders
+        Breakdown: Neurology = neuron (nerve) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "nerve" + "study" -> "study of nerves" (representing science of nervous system disorders).
+        Literal: study of nerves
+        Semantic:
+            → science of nervous system disorders
     },
 
     Neurosis : {
-        = neuron + osis
-        = nervous disorder
-        → neurosis
+        Breakdown: Neurosis = neuron (nerve) + osis (abnormal or diseased condition)
+        Synthesis: "nerve" + "abnormal or diseased condition" -> "nervous disorder" (representing neurosis).
+        Literal: nervous disorder
+        Semantic:
+            → neurosis
     },
 
     Neurotic : {
-        = neurosis + ic
-        = suffering from nervous disturbance
+        Breakdown: Neurotic = neurosis (nervous disorder; neurosis) + ic (pertaining to or relating to)
+        Synthesis: "nervous disorder" + "pertaining to or relating to" -> "suffering from nervous disturbance".
+        Literal: suffering from nervous disturbance
     },
-}
 
+}
 
 NOCEO ("to injure") {
 
     Innocuous : {
-        = in + noceo + ous
-        = not injuring
-        → harmless
-        → safe
-        → inoffensive
+        Breakdown: Innocuous = in (not, in, on, or into) + noceo (to injure) + ous (characterized by or full of)
+        Synthesis: "not" + "to injure" + "characterized by or full of" -> "not injuring" (representing harmless, safe, or inoffensive).
+        Literal: not injuring
+        Semantic:
+            → harmless
+            → safe
+            → inoffensive
     },
 
     Innocent : {
-        = in + noceo
-        = not harmful
-        → guiltless
-        → blameless
+        Breakdown: Innocent = in (not, in, on, or into) + noceo (to injure)
+        Synthesis: "not" + "to injure" -> "not harmful" (representing guiltless, or blameless).
+        Literal: not harmful
+        Semantic:
+            → guiltless
+            → blameless
     },
 
     Noxious : {
-        = noceo + ious
-        = harmful
-        → poisonous
-        → injurious
-        → unwholesome
+        Breakdown: Noxious = noceo (to injure) + ious
+        Synthesis: "to injure" + "ious" -> "harmful" (representing poisonous, injurious, or unwholesome).
+        Literal: harmful
+        Semantic:
+            → poisonous
+            → injurious
+            → unwholesome
     },
-}
 
+}
 
 NOMOS ("law", "order", "arrangement") {
 
     Astronomy : {
-        = astron + nomos
-        = arrangement of stars
-        → science of celestial bodies
+        Breakdown: Astronomy = astron (star, heavenly body) + nomos (law, order, arrangement)
+        Synthesis: "star" + "law" -> "arrangement of stars" (representing science of celestial bodies).
+        Literal: arrangement of stars
+        Semantic:
+            → science of celestial bodies
     },
 
     Autonomy : {
-        = autos + nomos
-        = self-law
-        → self-government
+        Breakdown: Autonomy = autos (self) + nomos (law, order, arrangement)
+        Synthesis: "self" + "law" -> "self-law" (representing self-government).
+        Literal: self-law
+        Semantic:
+            → self-government
     },
 
     Metronome : {
-        = metron + nomos
-        = measure + order
-        → time measurer for music
+        Breakdown: Metronome = metron (measure, measurement) + nomos (law, order, arrangement) / measure + order
+        Synthesis: "measure" + "nomos (law, order, arrangement) / measure" + "order" -> "measure + order" (representing time measurer for music).
+        Literal: measure + order
+        Semantic:
+            → time measurer for music
     },
-}
 
+}
 
 NOSTOS ("return home") {
 
     Nostalgia : {
-        = nostos + algia
-        = pain of wishing to return home
-        → homesickness
-        → longing for the past
+        Breakdown: Nostalgia = nostos (return home) + algia (pain)
+        Synthesis: "return home" + "pain" -> "pain of wishing to return home" (representing homesickness, or longing for the past).
+        Literal: pain of wishing to return home
+        Semantic:
+            → homesickness
+            → longing for the past
     },
 
     Nostalgic : {
-        = nostalgia + ic
-        = characterized by homesickness
-        → sentimental longing for past times
+        Breakdown: Nostalgic = nostalgia (pain of wishing to return home; homesickness; longing for the past) + ic (pertaining to or relating to)
+        Synthesis: "pain of wishing to return home" + "pertaining to or relating to" -> "characterized by homesickness" (representing sentimental longing for past times).
+        Literal: characterized by homesickness
+        Semantic:
+            → sentimental longing for past times
     },
-}
 
+}
 
 NOTUS ("known") {
 
     Notable : {
-        = notus + able
-        = worthy of being known
-        → distinguished person
-        → noteworthy individual
+        Breakdown: Notable = notus (known) + able (capable of or fit for)
+        Synthesis: "known" + "capable of or fit for" -> "worthy of being known" (representing distinguished person, or noteworthy individual).
+        Literal: worthy of being known
+        Semantic:
+            → distinguished person
+            → noteworthy individual
     },
 
     Noted : {
-        = notus + ed
-        = known
-        → famous
-        → distinguished
+        Breakdown: Noted = notus (known) + ed (past or characterized by)
+        Synthesis: "known" + "past or characterized by" -> "known" (representing famous, or distinguished).
+        Literal: known
+        Semantic:
+            → famous
+            → distinguished
     },
 
     Notice : {
-        = notus + ice
-        = act of knowing
-        → observation
-        → attention
+        Breakdown: Notice = notus (known) + ice
+        Synthesis: "known" + "ice" -> "act of knowing" (representing observation, or attention).
+        Literal: act of knowing
+        Semantic:
+            → observation
+            → attention
     },
 
     Notify : {
-        = notus + fy
-        = make known
-        → inform
-        → give notice
+        Breakdown: Notify = notus (known) + fy
+        Synthesis: "known" + "fy" -> "make known" (representing inform, or give notice).
+        Literal: make known
+        Semantic:
+            → inform
+            → give notice
     },
 
     Notoriety : {
-        = notorious + ity
-        = state of being widely known
-        → unfavorable fame
-        → ill repute
+        Breakdown: Notoriety = notorious (widely known; publicly known for bad reasons; infamous) + ity (state, quality, or condition)
+        Synthesis: "widely known" + "state" -> "state of being widely known" (representing unfavorable fame, or ill repute).
+        Literal: state of being widely known
+        Semantic:
+            → unfavorable fame
+            → ill repute
     },
 
     Notorious : {
-        = notus + orious
-        = widely known
-        → publicly known for bad reasons
-        → infamous
+        Breakdown: Notorious = notus (known) + orious
+        Synthesis: "known" + "orious" -> "widely known" (representing publicly known for bad reasons, or infamous).
+        Literal: widely known
+        Semantic:
+            → publicly known for bad reasons
+            → infamous
     },
-}
 
+}
 
 NOX / NOCTIS ("night") {
 
     Equinoctial : {
-        = equi + noct
-        = relating to equal night
+        Breakdown: Equinoctial = equi (equal) + noct (night)
+        Synthesis: "equal" + "night" -> "relating to equal night".
+        Literal: relating to equal night
     },
 
     Equinox : {
-        = equ + nox
-        = equal night
-        → time when day and night are equal
+        Breakdown: Equinox = equ (equal) + nox (night)
+        Synthesis: "equal" + "night" -> "equal night" (representing time when day and night are equal).
+        Literal: equal night
+        Semantic:
+            → time when day and night are equal
     },
 
     Nocturnal : {
-        = noctis + urnal
-        = of the night
-        → active at night
+        Breakdown: Nocturnal = noctis (night) + urnal
+        Synthesis: "night" + "urnal" -> "of the night" (representing active at night).
+        Literal: of the night
+        Semantic:
+            → active at night
     },
 
     Nocturne : {
-        = noctis + urne
-        = night piece
-        → night music
+        Breakdown: Nocturne = noctis (night) + urne
+        Synthesis: "night" + "urne" -> "night piece" (representing night music).
+        Literal: night piece
+        Semantic:
+            → night music
     },
 
     Nox : {
-        = nox
-        = night
+        Breakdown: Nox = nox (night)
+        Synthesis: "night" -> "night".
+        Literal: night
     },
+
 }

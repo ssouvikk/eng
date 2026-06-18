@@ -1,322 +1,405 @@
 EC / EK ("out") {
 
     Appendectomy : {
-        = appendix + ec + tome
-        = cutting out the appendix
+        Breakdown: Appendectomy = appendix + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "appendix" + "out" + "a cutting" -> "cutting out the appendix".
+        Literal: cutting out the appendix
     },
 
     Eccentric : {
-        = ec + kentron
-        = out of the center
-        → deviating from the norm
-        → unconventional
-        → odd
-        → strange
+        Breakdown: Eccentric = ec (out) + kentron (center, sharp point)
+        Synthesis: "out" + "center" -> "out of the center" (representing deviating from the norm, unconventional, odd, or strange).
+        Literal: out of the center
+        Semantic:
+            → deviating from the norm
+            → unconventional
+            → odd
+            → strange
     },
 
     Eccentricity : {
-        = eccentric + ity
-        = quality of being off-center
-        → oddness
-        → unconventionality
+        Breakdown: Eccentricity = eccentric (out of the center; deviating from normal position; unconventional person) + ity (state, quality, or condition)
+        Synthesis: "out of the center" + "state" -> "quality of being off-center" (representing oddness, or unconventionality).
+        Literal: quality of being off-center
+        Semantic:
+            → oddness
+            → unconventionality
     },
 
     Ectomy : {
-        = ec + tome
-        = cutting out
-        → surgical removal
+        Breakdown: Ectomy = ec (out) + tome (a cutting, cut, section)
+        Synthesis: "out" + "a cutting" -> "cutting out" (representing surgical removal).
+        Literal: cutting out
+        Semantic:
+            → surgical removal
     },
 
     Hysterectomy : {
-        = hystera + ec + tome
-        = cutting out the uterus
+        Breakdown: Hysterectomy = hystera + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "hystera" + "out" + "a cutting" -> "cutting out the uterus".
+        Literal: cutting out the uterus
     },
 
     Mastectomy : {
-        = mastos + ec + tome
-        = cutting out the breast
+        Breakdown: Mastectomy = mastos + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "mastos" + "out" + "a cutting" -> "cutting out the breast".
+        Literal: cutting out the breast
     },
 
     Prostatectomy : {
-        = prostate + ec + tome
-        = cutting out the prostate
+        Breakdown: Prostatectomy = prostate + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "prostate" + "out" + "a cutting" -> "cutting out the prostate".
+        Literal: cutting out the prostate
     },
 
     Tonsillectomy : {
-        = tonsil + ec + tome
-        = cutting out the tonsils
+        Breakdown: Tonsillectomy = tonsil + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "tonsil" + "out" + "a cutting" -> "cutting out the tonsils".
+        Literal: cutting out the tonsils
     },
-}
 
+}
 
 EGO ("I" or "self") {
 
     Egocentric : {
-        = ego + centrum
-        = self at the center
-        → self-centered person
+        Breakdown: Egocentric = ego (I or self) + centrum (center)
+        Synthesis: "I or self" + "center" -> "self at the center" (representing self-centered person).
+        Literal: self at the center
+        Semantic:
+            → self-centered person
     },
 
     Egoism : {
-        = ego + ism
-        = doctrine of self-interest
-        → selfish philosophy
+        Breakdown: Egoism = ego (I or self) + ism (philosophy, belief, or system of)
+        Synthesis: "I or self" + "philosophy" -> "doctrine of self-interest" (representing selfish philosophy).
+        Literal: doctrine of self-interest
+        Semantic:
+            → selfish philosophy
     },
 
     Egoist : {
-        = ego + ist
-        = self-interested person
-        = person concerned with own welfare
+        Breakdown: Egoist = ego (I or self) + ist (one who practices or specializes in)
+        Synthesis: "I or self" + "one who practices or specializes in" -> "self-interested person" (representing person concerned with own welfare).
+        Literal: self-interested person
+        Semantic:
+            → person concerned with own welfare
     },
 
     Egomaniac : {
-        = ego + mania
-        = obsession/madness with self
-        → pathological self-importance
+        Breakdown: Egomaniac = ego (I or self) + mania (madness or obsession) / ego (I or self) + maniac
+        Synthesis: "I or self" + "I or self" + "maniac" -> "obsession/madness with self" (representing pathological self-importance).
+        Literal: obsession/madness with self
+        Semantic:
+            → pathological self-importance
     },
 
     Egotism : {
-        = ego + ism
-        = excessive self-importance
-        → vanity and boastfulness
+        Breakdown: Egotism = ego (I or self) + ism (philosophy, belief, or system of)
+        Synthesis: "I or self" + "philosophy" -> "excessive self-importance" (representing vanity and boastfulness).
+        Literal: excessive self-importance
+        Semantic:
+            → vanity and boastfulness
     },
 
     Egotist : {
-        = ego + tist          // T = Talks
-        = person who constantly talks about self
-        = boastful self-promoter
+        Breakdown: Egotist = ego (I or self) + tist // T = Talks
+        Synthesis: "I or self" + "tist // T = Talks" -> "person who constantly talks about self" (representing boastful self-promoter).
+        Literal: person who constantly talks about self
+        Semantic:
+            → boastful self-promoter
     },
-}
 
+}
 
 ENDON ("within", "inner") {
 
     Endodontia : {
-        = endon + odontos
-        = treatment of inner tooth
-        → endodontics
+        Breakdown: Endodontia = endon (within, inner) + odontos (tooth)
+        Synthesis: "within" + "tooth" -> "treatment of inner tooth" (representing endodontics).
+        Literal: treatment of inner tooth
+        Semantic:
+            → endodontics
     },
 
     Endodontic : {
-        = endodontia + ic
-        = relating to endodontics
+        Breakdown: Endodontic = endodontia (inner teeth) + ic (pertaining to or relating to)
+        Synthesis: "inner teeth" + "pertaining to or relating to" -> "relating to endodontics".
+        Literal: relating to endodontics
     },
 
     Endodontist : {
-        = endon + odontos
-        = inner tooth specialist
-        → root-canal specialist
+        Breakdown: Endodontist = endon (within, inner) + odontos (tooth)
+        Synthesis: "within" + "tooth" -> "inner tooth specialist" (representing root-canal specialist).
+        Literal: inner tooth specialist
+        Semantic:
+            → root-canal specialist
     },
-}
 
+}
 
 ENNUI ("weariness") {
 
     Ennui : {
-        = French ennui
-        = boredom
-        → dissatisfaction
-        → listlessness
-        → tedium
+        Breakdown: Ennui = Ennui (weariness)
+        Synthesis: "weariness" -> "French ennui" (representing dissatisfaction, listlessness, or tedium).
+        Literal: French ennui
+        Semantic:
+            → dissatisfaction
+            → listlessness
+            → tedium
     },
-}
 
+}
 
 EPHEMEROS ("lasting only a day") {
 
     Ephemeral : {
-        = epi + hemera
-        = lasting for a day
-        → short-lived
-        → transitory
+        Breakdown: Ephemeral = epi (upon, over, or near) + hemera
+        Synthesis: "upon" + "hemera" -> "lasting for a day" (representing short-lived, or transitory).
+        Literal: lasting for a day
+        Semantic:
+            → short-lived
+            → transitory
     },
 
     Ephemerality : {
-        = ephemeral + ity
-        = brief duration
-        → impermanence
+        Breakdown: Ephemerality = ephemeral (lasting for a day; short-lived; transitory) + ity (state, quality, or condition)
+        Synthesis: "lasting for a day" + "state" -> "brief duration" (representing impermanence).
+        Literal: brief duration
+        Semantic:
+            → impermanence
     },
-}
 
+}
 
 EQUUS ("horse") {
 
     Equestrian : {
-        = equus + trian
-        = horseman
+        Breakdown: Equestrian = equus (horse) + trian
+        Synthesis: "horse" + "trian" -> "horseman".
+        Literal: horseman
     },
 
     Equestrienne : {
-        = equus + trienne
-        = horsewoman
+        Breakdown: Equestrienne = equus (horse) + trienne
+        Synthesis: "horse" + "trienne" -> "horsewoman".
+        Literal: horsewoman
     },
 
     Equine : {
-        = equus + ine
-        = horse-like
-        → relating to horses
+        Breakdown: Equine = equus (horse) + ine (like, similar to, characteristic of)
+        Synthesis: "horse" + "like" -> "horse-like" (representing relating to horses).
+        Literal: horse-like
+        Semantic:
+            → relating to horses
     },
-}
 
+}
 
 ERGON ("work") {
 
     Energy : {
-        = en + ergon
-        = work within
-        → active force
-        → capacity for work
+        Breakdown: Energy = en + ergon (work)
+        Synthesis: "en" + "work" -> "work within" (representing active force, or capacity for work).
+        Literal: work within
+        Semantic:
+            → active force
+            → capacity for work
     },
 
     Erg : {
-        = ergon
-        = work
-        → unit of work or energy in physics
+        Breakdown: Erg = ergon (work)
+        Synthesis: "work" -> "work" (representing unit of work or energy in physics).
+        Literal: work
+        Semantic:
+            → unit of work or energy in physics
     },
 
     Synergism : {
-        = syn + ergon + ism
-        = working together
-        → combined action producing greater effect
-        → cooperative enhancement
+        Breakdown: Synergism = syn (together, with) + ergon (work) + ism (philosophy, belief, or system of)
+        Synthesis: "together" + "work" + "philosophy" -> "working together" (representing combined action producing greater effect, or cooperative enhancement).
+        Literal: working together
+        Semantic:
+            → combined action producing greater effect
+            → cooperative enhancement
     },
 
     Synergistic : {
-        = synergy + istic
-        = characterized by joint action
-        → mutually reinforcing
+        Breakdown: Synergistic = synergy (joint working; combined power greater than individual sum) + istic
+        Synthesis: "joint working" + "istic" -> "characterized by joint action" (representing mutually reinforcing).
+        Literal: characterized by joint action
+        Semantic:
+            → mutually reinforcing
     },
 
     Synergistically : {
-        = synergistic + ally
-        = in a mutually reinforcing manner
+        Breakdown: Synergistically = synergistic (characterized by joint action; mutually reinforcing) + ally
+        Synthesis: "characterized by joint action" + "ally" -> "in a mutually reinforcing manner".
+        Literal: in a mutually reinforcing manner
     },
 
     Synergy : {
-        = syn + ergon
-        = joint working
-        → combined power greater than individual sum
+        Breakdown: Synergy = syn (together, with) + ergon (work)
+        Synthesis: "together" + "work" -> "joint working" (representing combined power greater than individual sum).
+        Literal: joint working
+        Semantic:
+            → combined power greater than individual sum
     },
-}
 
+}
 
 EU ("good", "pleasant") {
 
     Eulogistic : {
-        = eulogy + istic
-        = characterized by praise
-        → commendatory
+        Breakdown: Eulogistic = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + istic
+        Synthesis: "good" + "study" + "istic" -> "characterized by praise" (representing commendatory).
+        Literal: characterized by praise
+        Semantic:
+            → commendatory
     },
 
     Eulogize : {
-        = eulogy + ize
-        = speak good words about
-        → praise highly
+        Breakdown: Eulogize = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + ize (to make, treat, or combine with)
+        Synthesis: "good" + "study" + "to make" -> "speak good words about" (representing praise highly).
+        Literal: speak good words about
+        Semantic:
+            → praise highly
     },
 
     Eulogy : {
-        = eu + logos
-        = good words
-        → formal praise
-        → tribute
+        Breakdown: Eulogy = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "good" + "study" -> "good words" (representing formal praise, or tribute).
+        Literal: good words
+        Semantic:
+            → formal praise
+            → tribute
     },
 
     Euphemism : {
-        = eu + pheme
-        = good speech
-        → pleasant substitute expression
-        → indirect wording for unpleasant idea
+        Breakdown: Euphemism = eu (good, pleasant) + pheme (speech)
+        Synthesis: "good" + "speech" -> "good speech" (representing pleasant substitute expression, or indirect wording for unpleasant idea).
+        Literal: good speech
+        Semantic:
+            → pleasant substitute expression
+            → indirect wording for unpleasant idea
     },
 
     Euphemistic : {
-        = euphemism + ic
-        = characterized by softened language
-        → indirect
-        → tactful
+        Breakdown: Euphemistic = euphemism (good speech; mild expression replacing offensive one) + ic (pertaining to or relating to)
+        Synthesis: "good speech" + "pertaining to or relating to" -> "characterized by softened language" (representing indirect, or tactful).
+        Literal: characterized by softened language
+        Semantic:
+            → indirect
+            → tactful
     },
 
     Euphonic : {
-        = euphony + ic
-        = pleasant-sounding
-        → harmonious
+        Breakdown: Euphonic = eu (good, pleasant) + phone (sound) + ic (pertaining to or relating to)
+        Synthesis: "good" + "sound" + "pertaining to or relating to" -> "pleasant-sounding" (representing harmonious).
+        Literal: pleasant-sounding
+        Semantic:
+            → harmonious
     },
 
     Euphonious : {
-        = eu + phone + ous
-        = full of pleasant sound
-        → melodious
+        Breakdown: Euphonious = eu (good, pleasant) + phone (sound) + ous (characterized by or full of)
+        Synthesis: "good" + "sound" + "characterized by or full of" -> "full of pleasant sound" (representing melodious).
+        Literal: full of pleasant sound
+        Semantic:
+            → melodious
     },
 
     Euphony : {
-        = eu + phone
-        = good sound
-        → pleasant sound
-        → harmonious quality
+        Breakdown: Euphony = eu (good, pleasant) + phone (sound)
+        Synthesis: "good" + "sound" -> "good sound" (representing pleasant sound, or harmonious quality).
+        Literal: good sound
+        Semantic:
+            → pleasant sound
+            → harmonious quality
     },
 
     Euphoria : {
-        = eu + phorein
-        = bearing well
-        → feeling of well-being
-        → elation
+        Breakdown: Euphoria = eu (good, pleasant) + phorein
+        Synthesis: "good" + "phorein" -> "bearing well" (representing feeling of well-being, or elation).
+        Literal: bearing well
+        Semantic:
+            → feeling of well-being
+            → elation
     },
 
     Euphoric : {
-        = euphoria + ic
-        = feeling intense well-being
-        → exhilarated
+        Breakdown: Euphoric = euphoria (bearing well; feeling of well-being; elation) + ic (pertaining to or relating to)
+        Synthesis: "bearing well" + "pertaining to or relating to" -> "feeling intense well-being" (representing exhilarated).
+        Literal: feeling intense well-being
+        Semantic:
+            → exhilarated
     },
 
     Euthanasia : {
-        = eu + thanatos
-        = good death
-        → mercy killing
-        → painless death
+        Breakdown: Euthanasia = eu (good, pleasant) + thanatos (death)
+        Synthesis: "good" + "death" -> "good death" (representing mercy killing, or painless death).
+        Literal: good death
+        Semantic:
+            → mercy killing
+            → painless death
     },
-}
 
+}
 
 EVANESCERE ("to vanish away") {
 
     Evanesce : {
-        = evanescence - ence
-        = begin to disappear
-        → fade
-        → vanish gradually
+        Breakdown: Evanesce = Evanesce (begin to disappear; fade; vanish gradually)
+        Synthesis: "begin to disappear" -> "evanescence - ence" (representing fade, or vanish gradually).
+        Literal: evanescence - ence
+        Semantic:
+            → fade
+            → vanish gradually
     },
 
     Evanescence : {
-        = evanescent + ence
-        = process of fading away
-        → impermanence
-        → disappearance
+        Breakdown: Evanescence = evanescent (vanishing away; fleeting; short-lived) + ence (state or quality of)
+        Synthesis: "vanishing away" + "state or quality of" -> "process of fading away" (representing impermanence, or disappearance).
+        Literal: process of fading away
+        Semantic:
+            → impermanence
+            → disappearance
     },
 
     Evanescent : {
-        = e + vanescere
-        = vanishing away
-        → fleeting
-        → short-lived
+        Breakdown: Evanescent = e (out, from) + vanescere
+        Synthesis: "out" + "vanescere" -> "vanishing away" (representing fleeting, or short-lived).
+        Literal: vanishing away
+        Semantic:
+            → fleeting
+            → short-lived
     },
-}
 
+}
 
 EX ("out") {
 
     Exodontia : {
-        = ex + odontos
-        = pulling teeth out
-        → tooth extraction
+        Breakdown: Exodontia = ex (out) + odontos (tooth)
+        Synthesis: "out" + "tooth" -> "pulling teeth out" (representing tooth extraction).
+        Literal: pulling teeth out
+        Semantic:
+            → tooth extraction
     },
 
     Exodontic : {
-        = exodontia + ic
-        = relating to tooth extraction
+        Breakdown: Exodontic = exodontia (extraction of teeth) + ic (pertaining to or relating to)
+        Synthesis: "extraction of teeth" + "pertaining to or relating to" -> "relating to tooth extraction".
+        Literal: relating to tooth extraction
     },
 
     Exodontist : {
-        = ex + odontos
-        = out tooth specialist
-        → tooth extractor
+        Breakdown: Exodontist = ex (out) + odontos (tooth)
+        Synthesis: "out" + "tooth" -> "out tooth specialist" (representing tooth extractor).
+        Literal: out tooth specialist
+        Semantic:
+            → tooth extractor
     },
+
 }

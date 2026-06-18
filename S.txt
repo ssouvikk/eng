@@ -1,787 +1,989 @@
 SCIENTIA ("knowledge") {
 
     Conscience : {
-        = con + scientia
-        = knowledge with oneself
-        → moral awareness
+        Breakdown: Conscience = con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)
+        Synthesis: "with" + "with" + "to know" -> "knowledge with oneself" (representing moral awareness).
+        Literal: knowledge with oneself
+        Semantic:
+            → moral awareness
     },
 
     Conscious : {
-        = con + scientia
-        = aware with knowledge
-        → aware
-        → alert
+        Breakdown: Conscious = con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)
+        Synthesis: "with" + "with" + "to know" -> "aware with knowledge" (representing aware, or alert).
+        Literal: aware with knowledge
+        Semantic:
+            → aware
+            → alert
     },
 
     Omniscience : {
-        = omniscient + ence
-        = complete knowledge
-        → infinite wisdom
+        Breakdown: Omniscience = omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)
+        Synthesis: "all-knowing" + "state or quality of" -> "complete knowledge" (representing infinite wisdom).
+        Literal: complete knowledge
+        Semantic:
+            → infinite wisdom
     },
 
     Omniscient : {
-        = omnis + scientia
-        = all-knowing
-        → possessing complete knowledge
+        Breakdown: Omniscient = omnis (all, every) + sciens (to know, knowing)
+        Synthesis: "all" + "to know" -> "all-knowing" (representing possessing complete knowledge).
+        Literal: all-knowing
+        Semantic:
+            → possessing complete knowledge
     },
 
     Science : {
-        = scientia
-        = knowledge
-        → systematic knowledge
+        Breakdown: Science = scientia (knowledge)
+        Synthesis: "knowledge" -> "knowledge" (representing systematic knowledge).
+        Literal: knowledge
+        Semantic:
+            → systematic knowledge
     },
 
     Scientific : {
-        = science + ific
-        = relating to knowledge
-        → based on scientific method
+        Breakdown: Scientific = science (scio; systematic body of knowledge; organized body of knowledge) + ific
+        Synthesis: "scio" + "ific" -> "relating to knowledge" (representing based on scientific method).
+        Literal: relating to knowledge
+        Semantic:
+            → based on scientific method
     },
-}
 
+}
 
 SCINTILLA ("spark") {
 
     Scintilla : {
-        = scintilla
-        = tiny spark
-        → small trace
-        → slightest amount
+        Breakdown: Scintilla = scintilla (spark)
+        Synthesis: "spark" -> "tiny spark" (representing small trace, or slightest amount).
+        Literal: tiny spark
+        Semantic:
+            → small trace
+            → slightest amount
     },
 
     Scintillate : {
-        = scintilla + ate
-        = emit sparks
-        → sparkle
-        → flash with wit
+        Breakdown: Scintillate = scintilla (spark) + ate (to make, cause, or have the state of)
+        Synthesis: "spark" + "to make" -> "emit sparks" (representing sparkle, or flash with wit).
+        Literal: emit sparks
+        Semantic:
+            → sparkle
+            → flash with wit
     },
 
     Scintillating : {
-        = scintillate + ing
-        = sparkling intellectually
-        → brilliant
-        → fascinating
-        → witty
+        Breakdown: Scintillating = scintillate (emit sparks; sparkle; flash with wit) + ing (action or process)
+        Synthesis: "emit sparks" + "action or process" -> "sparkling intellectually" (representing brilliant, fascinating, or witty).
+        Literal: sparkling intellectually
+        Semantic:
+            → brilliant
+            → fascinating
+            → witty
     },
 
     Scintillation : {
-        = scintillate + ion
-        = sparkling
-        → brilliance
-        → clever liveliness
+        Breakdown: Scintillation = scintillate (emit sparks; sparkle; flash with wit) + ion (act, process, or result of)
+        Synthesis: "emit sparks" + "act" -> "sparkling" (representing brilliance, or clever liveliness).
+        Literal: sparkling
+        Semantic:
+            → brilliance
+            → clever liveliness
     },
-}
 
+}
 
 SCIO / SCIENS ("to know", "knowing") {
 
     Conscience : {
-        = con + sciens
-        = con + scio
-        = knowledge with oneself
-        = knowledge within oneself
-        → moral awareness
-        → sense of right and wrong
-        → inner sense of right and wrong
+        Breakdown: Conscience = con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)
+        Synthesis: "with" + "with" + "to know" -> "con + scio" (representing knowledge with oneself, knowledge within oneself, moral awareness, sense of right and wrong, or inner sense of right and wrong).
+        Literal: con + scio
+        Semantic:
+            → knowledge with oneself
+            → knowledge within oneself
+            → moral awareness
+            → sense of right and wrong
+            → inner sense of right and wrong
     },
 
     Conscious : {
-        = con + sciens
-        = con + scio
-        = knowing with oneself
-        → aware
-        → alert
-        → mentally alert
+        Breakdown: Conscious = con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)
+        Synthesis: "with" + "with" + "to know" -> "con + scio" (representing knowing with oneself, aware, alert, or mentally alert).
+        Literal: con + scio
+        Semantic:
+            → knowing with oneself
+            → aware
+            → alert
+            → mentally alert
     },
 
     Nescience : {
-        = nescient + ence
-        = ignorance
-        → lack of knowledge
+        Breakdown: Nescience = nescient (not knowing; ignorant) + ence (state or quality of)
+        Synthesis: "not knowing" + "state or quality of" -> "ignorance" (representing lack of knowledge).
+        Literal: ignorance
+        Semantic:
+            → lack of knowledge
     },
 
     Nescient : {
-        = ne + sciens
-        = not knowing
-        → ignorant
+        Breakdown: Nescient = ne + sciens (to know, knowing)
+        Synthesis: "ne" + "to know" -> "not knowing" (representing ignorant).
+        Literal: not knowing
+        Semantic:
+            → ignorant
     },
 
     Omniscience : {
-        = omniscient + ence
-        = infinite knowledge
-        = total knowledge
+        Breakdown: Omniscience = omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)
+        Synthesis: "all-knowing" + "state or quality of" -> "infinite knowledge" (representing total knowledge).
+        Literal: infinite knowledge
+        Semantic:
+            → total knowledge
     },
 
     Omniscient : {
-        = omnis + sciens
-        = all knowing
-        = all-knowing
-        → possessing complete knowledge
+        Breakdown: Omniscient = omnis (all, every) + sciens (to know, knowing)
+        Synthesis: "all" + "to know" -> "all knowing" (representing all-knowing, or possessing complete knowledge).
+        Literal: all knowing
+        Semantic:
+            → all-knowing
+            → possessing complete knowledge
     },
 
     Prescience : {
-        = prescient + ence
-        = pre + science
-        = foreknowledge
-        → advance awareness
+        Breakdown: Prescience = prescient (knowing beforehand; prophetic; predictive; having foreknowledge) + ence / pre (before) + science (scio; systematic body of knowledge; organized body of knowledge)
+        Synthesis: "knowing beforehand" + "before" + "scio" -> "pre + science" (representing foreknowledge, or advance awareness).
+        Literal: pre + science
+        Semantic:
+            → foreknowledge
+            → advance awareness
     },
 
     Prescient : {
-        = pre + sciens
-        = knowing beforehand
-        → prophetic
-        → predictive
-        → having foreknowledge
+        Breakdown: Prescient = pre (before) + sciens (to know, knowing)
+        Synthesis: "before" + "to know" -> "knowing beforehand" (representing prophetic, predictive, or having foreknowledge).
+        Literal: knowing beforehand
+        Semantic:
+            → prophetic
+            → predictive
+            → having foreknowledge
     },
 
     Science : {
-        = sciens
-        = knowledge
-        = scio
-        → systematic body of knowledge
-        → organized body of knowledge
+        Breakdown: Science = sciens (to know, knowing)
+        Synthesis: "to know" -> "knowledge" (representing scio, systematic body of knowledge, or organized body of knowledge).
+        Literal: knowledge
+        Semantic:
+            → scio
+            → systematic body of knowledge
+            → organized body of knowledge
     },
 
     Unconscionability : {
-        = unconscionable + ity
-        = absence of moral restraint
-        = lack of moral restraint
+        Breakdown: Unconscionability = unconscionable (incapable of moral awareness; morally insensitive; unscrupulous; without conscience) + ity (state, quality, or condition)
+        Synthesis: "incapable of moral awareness" + "state" -> "absence of moral restraint" (representing lack of moral restraint).
+        Literal: absence of moral restraint
+        Semantic:
+            → lack of moral restraint
     },
 
     Unconscionable : {
-        = un + conscience + able
-        = without functioning conscience
-        = incapable of moral awareness
-        → morally insensitive
-        → unscrupulous
-        → without conscience
+        Breakdown: Unconscionable = un (not or opposite) + conscience (knowledge within oneself; moral awareness; sense of right and wrong; inner sense of right and wrong) + able (capable of or fit for)
+        Synthesis: "not or opposite" + "knowledge within oneself" + "capable of or fit for" -> "without functioning conscience" (representing incapable of moral awareness, morally insensitive, unscrupulous, or without conscience).
+        Literal: without functioning conscience
+        Semantic:
+            → incapable of moral awareness
+            → morally insensitive
+            → unscrupulous
+            → without conscience
     },
 
     Unconscionableness : {
-        = unconscionable + ness
-        = lack of conscience
+        Breakdown: Unconscionableness = unconscionable (incapable of moral awareness; morally insensitive; unscrupulous; without conscience) + ness (state or quality of being)
+        Synthesis: "incapable of moral awareness" + "state or quality of being" -> "lack of conscience".
+        Literal: lack of conscience
     },
-}
 
+}
 
 SCRIBO / SCRIPTUS ("to write") {
 
     Describe : {
-        = de + scribo
-        = write down
-        → portray
-        → depict
+        Breakdown: Describe = de (down, away, from) + scribo (to write)
+        Synthesis: "down" + "to write" -> "write down" (representing portray, or depict).
+        Literal: write down
+        Semantic:
+            → portray
+            → depict
     },
 
     Description : {
-        = describe + tion
-        = written account
-        → portrayal
+        Breakdown: Description = describe (write down; portray; depict) + tion
+        Synthesis: "write down" + "tion" -> "written account" (representing portrayal).
+        Literal: written account
+        Semantic:
+            → portrayal
     },
 
     Descriptive : {
-        = describe + ive
-        = characterized by description
+        Breakdown: Descriptive = describe (write down; portray; depict) + ive (having the nature of or tending to)
+        Synthesis: "write down" + "having the nature of or tending to" -> "characterized by description".
+        Literal: characterized by description
     },
 
     Inscribe : {
-        = in + scribo
-        = write in
-        → engrave
-        → enter formally
+        Breakdown: Inscribe = in (not, in, on, or into) + scribo (to write)
+        Synthesis: "not" + "to write" -> "write in" (representing engrave, or enter formally).
+        Literal: write in
+        Semantic:
+            → engrave
+            → enter formally
     },
 
     Inscription : {
-        = inscribe + tion
-        = engraved writing
+        Breakdown: Inscription = inscribe (write in; engrave; enter formally) + tion
+        Synthesis: "write in" + "tion" -> "engraved writing".
+        Literal: engraved writing
     },
 
     Inscriptive : {
-        = inscribe + ive
-        = relating to inscription
+        Breakdown: Inscriptive = inscribe (write in; engrave; enter formally) + ive (having the nature of or tending to)
+        Synthesis: "write in" + "having the nature of or tending to" -> "relating to inscription".
+        Literal: relating to inscription
     },
 
     Manuscript : {
-        = manus + scriptus
-        = handwritten writing
-        → original document
+        Breakdown: Manuscript = manus (hand) + scriptus (to write)
+        Synthesis: "hand" + "to write" -> "handwritten writing" (representing original document).
+        Literal: handwritten writing
+        Semantic:
+            → original document
     },
 
     Postscript : {
-        = post + scriptus
-        = written after
-        → additional note
+        Breakdown: Postscript = post (after) + scriptus (to write)
+        Synthesis: "after" + "to write" -> "written after" (representing additional note).
+        Literal: written after
+        Semantic:
+            → additional note
     },
 
     Proscribe : {
-        = pro + scribo
-        = write publicly against
-        → prohibit
-        → forbid officially
+        Breakdown: Proscribe = pro (forward, before, or in favor of) + scribo (to write)
+        Synthesis: "forward" + "to write" -> "write publicly against" (representing prohibit, or forbid officially).
+        Literal: write publicly against
+        Semantic:
+            → prohibit
+            → forbid officially
     },
 
     Proscription : {
-        = proscribe + tion
-        = official prohibition
-        → ban
+        Breakdown: Proscription = proscribe (write publicly against; prohibit; forbid officially) + tion
+        Synthesis: "write publicly against" + "tion" -> "official prohibition" (representing ban).
+        Literal: official prohibition
+        Semantic:
+            → ban
     },
 
     Proscriptive : {
-        = proscribe + ive
-        = tending to prohibit
-        = prohibiting
-        → restrictive
+        Breakdown: Proscriptive = proscribe (write publicly against; prohibit; forbid officially) + ive (having the nature of or tending to)
+        Synthesis: "write publicly against" + "having the nature of or tending to" -> "tending to prohibit" (representing prohibiting, or restrictive).
+        Literal: tending to prohibit
+        Semantic:
+            → prohibiting
+            → restrictive
     },
 
     Subscribe : {
-        = sub + scribo
-        = write under
-        → sign
-        → support
+        Breakdown: Subscribe = sub (under) + scribo (to write)
+        Synthesis: "under" + "to write" -> "write under" (representing sign, or support).
+        Literal: write under
+        Semantic:
+            → sign
+            → support
     },
 
     Subscription : {
-        = subscribe + tion
-        = act of signing/supporting
+        Breakdown: Subscription = subscribe (write under; sign; support) + tion
+        Synthesis: "write under" + "tion" -> "act of signing/supporting".
+        Literal: act of signing/supporting
     },
 
     Subscriptive : {
-        = subscribe + ive
-        = relating to subscription
+        Breakdown: Subscriptive = subscribe (write under; sign; support) + ive (having the nature of or tending to)
+        Synthesis: "write under" + "having the nature of or tending to" -> "relating to subscription".
+        Literal: relating to subscription
     },
-}
 
+}
 
 SECTUS ("cut", "to cut") {
 
     Dissect : {
-        = dis + sectus
-        = cut apart
-        → analyze by separating parts
+        Breakdown: Dissect = dis (apart, away) + sectus (cut, to cut)
+        Synthesis: "apart" + "cut" -> "cut apart" (representing analyze by separating parts).
+        Literal: cut apart
+        Semantic:
+            → analyze by separating parts
     },
 
     Insect : {
-        = in + sectus
-        = cut into
-        = cut into sections
-        → creature with segmented body
-        → segmented creature
+        Breakdown: Insect = in (not, in, on, or into) + sectus (cut, to cut)
+        Synthesis: "not" + "cut" -> "cut into" (representing cut into sections, creature with segmented body, or segmented creature).
+        Literal: cut into
+        Semantic:
+            → cut into sections
+            → creature with segmented body
+            → segmented creature
     },
 
     Section : {
-        = sectus + ion
-        = part cut off
-        = something cut off
-        → division or segment
-        → division
-        → part
+        Breakdown: Section = sectus (cut, to cut) + ion (act, process, or result of)
+        Synthesis: "cut" + "act" -> "part cut off" (representing something cut off, division or segment, division, or part).
+        Literal: part cut off
+        Semantic:
+            → something cut off
+            → division or segment
+            → division
+            → part
     },
-}
 
+}
 
 SEMA ("sign", "meaning") {
 
     Semantic : {
-        = semantics + ic
-        = pertaining to meaning
+        Breakdown: Semantic = semantics (study of meanings; science of meaning in language) + ic (pertaining to or relating to)
+        Synthesis: "study of meanings" + "pertaining to or relating to" -> "pertaining to meaning".
+        Literal: pertaining to meaning
     },
 
     Semantical : {
-        = semantics + al
-        = relating to meaning
+        Breakdown: Semantical = semantics (study of meanings; science of meaning in language) + al (pertaining to or relating to)
+        Synthesis: "study of meanings" + "pertaining to or relating to" -> "relating to meaning".
+        Literal: relating to meaning
     },
 
     Semanticist : {
-        = semantics + ist
-        = specialist in meanings of words
-        → student of psychological effects of language
+        Breakdown: Semanticist = semantics (study of meanings; science of meaning in language) + ist (one who practices or specializes in)
+        Synthesis: "study of meanings" + "one who practices or specializes in" -> "specialist in meanings of words" (representing student of psychological effects of language).
+        Literal: specialist in meanings of words
+        Semantic:
+            → student of psychological effects of language
     },
 
     Semantics : {
-        = sema + ntics
-        = study of meanings
-        → science of meaning in language
+        Breakdown: Semantics = sema (sign, meaning) + ntics
+        Synthesis: "sign" + "ntics" -> "study of meanings" (representing science of meaning in language).
+        Literal: study of meanings
+        Semantic:
+            → science of meaning in language
     },
-}
 
+}
 
 SENEX ("old") {
 
     Senescence : {
-        = senescent + ence
-        = process of aging
+        Breakdown: Senescence = senescent (growing old; aging) + ence (state or quality of)
+        Synthesis: "growing old" + "state or quality of" -> "process of aging".
+        Literal: process of aging
     },
 
     Senescent : {
-        = senex + escent
-        = growing old
-        → aging
+        Breakdown: Senescent = senex (old) + escent
+        Synthesis: "old" + "escent" -> "growing old" (representing aging).
+        Literal: growing old
+        Semantic:
+            → aging
     },
 
     Senile : {
-        = senex + ile
-        = pertaining to old age
-        → mentally weakened by age
+        Breakdown: Senile = senex (old) + ile
+        Synthesis: "old" + "ile" -> "pertaining to old age" (representing mentally weakened by age).
+        Literal: pertaining to old age
+        Semantic:
+            → mentally weakened by age
     },
 
     Senility : {
-        = senile + ity
-        = condition of old-age decline
+        Breakdown: Senility = senile (pertaining to old age; mentally weakened by age) + ity (state, quality, or condition)
+        Synthesis: "pertaining to old age" + "state" -> "condition of old-age decline".
+        Literal: condition of old-age decline
     },
-}
 
+}
 
 SEQUOR ("to follow") {
 
     Obsequious : {
-        = ob + sequor + ous
-        = full of following
-        = servilely attentive
-        → fawning
-        → submissive
-        → self-ingratiating
+        Breakdown: Obsequious = ob + sequor (to follow) + ous (characterized by or full of)
+        Synthesis: "ob" + "to follow" + "characterized by or full of" -> "full of following" (representing servilely attentive, fawning, submissive, or self-ingratiating).
+        Literal: full of following
+        Semantic:
+            → servilely attentive
+            → fawning
+            → submissive
+            → self-ingratiating
     },
 
     Obsequies : {
-        = ob + sequor
-        = followers after the dead
-        → funeral rites
-        → burial ceremonies
+        Breakdown: Obsequies = ob + sequor (to follow)
+        Synthesis: "ob" + "to follow" -> "followers after the dead" (representing funeral rites, or burial ceremonies).
+        Literal: followers after the dead
+        Semantic:
+            → funeral rites
+            → burial ceremonies
     },
 
     Subsequent : {
-        = sub + sequor
-        = following after
-        → later
-        → coming afterward
+        Breakdown: Subsequent = sub (under) + sequor (to follow)
+        Synthesis: "under" + "to follow" -> "following after" (representing later, or coming afterward).
+        Literal: following after
+        Semantic:
+            → later
+            → coming afterward
     },
 
     Sequel : {
-        = sequor + el
-        = that which follows
-        → continuation
-        → later development
+        Breakdown: Sequel = sequor (to follow) + el
+        Synthesis: "to follow" + "el" -> "that which follows" (representing continuation, or later development).
+        Literal: that which follows
+        Semantic:
+            → continuation
+            → later development
     },
 
     Sequence : {
-        = sequor + ence
-        = act of following
-        → proper order
-        → succession
+        Breakdown: Sequence = sequor (to follow) + ence (state or quality of)
+        Synthesis: "to follow" + "state or quality of" -> "act of following" (representing proper order, or succession).
+        Literal: act of following
+        Semantic:
+            → proper order
+            → succession
     },
-}
 
+}
 
 SIMILIS ("similar", "like") {
 
     Dissemblance : {
-        = dissemble + ance
-        = act of concealing reality
-        → deception
-        → concealment
+        Breakdown: Dissemblance = dissemble (disguise what is true; conceal intentions; pretend ignorance; deceive) + ance (state or quality of)
+        Synthesis: "disguise what is true" + "state or quality of" -> "act of concealing reality" (representing deception, or concealment).
+        Literal: act of concealing reality
+        Semantic:
+            → deception
+            → concealment
     },
 
     Dissemble : {
-        = dis + similis
-        = disguise what is true
-        → conceal intentions
-        → pretend ignorance
-        → deceive
+        Breakdown: Dissemble = dis (apart, away) + similis (similar, like)
+        Synthesis: "apart" + "similar" -> "disguise what is true" (representing conceal intentions, pretend ignorance, or deceive).
+        Literal: disguise what is true
+        Semantic:
+            → conceal intentions
+            → pretend ignorance
+            → deceive
     },
 
     Dissimulate : {
-        = dis + simulate
-        = pretend differently from reality
-        → conceal true feelings
-        → show opposite emotions
-        → deceive by pretense
+        Breakdown: Dissimulate = dis (apart, away) + simulate (make similar; imitate; pretend; feign reality)
+        Synthesis: "apart" + "make similar" -> "pretend differently from reality" (representing conceal true feelings, show opposite emotions, or deceive by pretense).
+        Literal: pretend differently from reality
+        Semantic:
+            → conceal true feelings
+            → show opposite emotions
+            → deceive by pretense
     },
 
     Dissimulation : {
-        = dissimulate + ion
-        = act of concealing real feelings
-        → hypocrisy
-        → emotional deception
+        Breakdown: Dissimulation = dissimulate (pretend differently from reality; conceal true feelings; show opposite emotions; deceive by pretense) + ion (act, process, or result of)
+        Synthesis: "pretend differently from reality" + "act" -> "act of concealing real feelings" (representing hypocrisy, or emotional deception).
+        Literal: act of concealing real feelings
+        Semantic:
+            → hypocrisy
+            → emotional deception
     },
 
     Dissimulator : {
-        = dissimulate + or
-        = one who hides true feelings
-        → pretender
-        → deceiver
+        Breakdown: Dissimulator = dissimulate (pretend differently from reality; conceal true feelings; show opposite emotions; deceive by pretense) + or
+        Synthesis: "pretend differently from reality" + "or" -> "one who hides true feelings" (representing pretender, or deceiver).
+        Literal: one who hides true feelings
+        Semantic:
+            → pretender
+            → deceiver
     },
 
     Similar : {
-        = similis
-        = alike
-        → resembling
+        Breakdown: Similar = similis (similar, like)
+        Synthesis: "similar" -> "alike" (representing resembling).
+        Literal: alike
+        Semantic:
+            → resembling
     },
 
     Similarity : {
-        = similis + ity
-        = state of being alike
-        → resemblance
+        Breakdown: Similarity = similis (similar, like) + ity (state, quality, or condition)
+        Synthesis: "similar" + "state" -> "state of being alike" (representing resemblance).
+        Literal: state of being alike
+        Semantic:
+            → resemblance
     },
 
     Simulate : {
-        = simulo ← similis
-        = make similar
-        → imitate
-        → pretend
-        → feign reality
+        Breakdown: Simulate = Simulate (make similar; imitate; pretend; feign reality)
+        Synthesis: "make similar" -> "simulo ← similis" (representing imitate, pretend, or feign reality).
+        Literal: simulo ← similis
+        Semantic:
+            → imitate
+            → pretend
+            → feign reality
     },
 
     Simulated : {
-        = simulate + ed
-        = made to resemble the real thing
-        → artificial imitation
+        Breakdown: Simulated = simulate (make similar; imitate; pretend; feign reality) + ed (past or characterized by)
+        Synthesis: "make similar" + "past or characterized by" -> "made to resemble the real thing" (representing artificial imitation).
+        Literal: made to resemble the real thing
+        Semantic:
+            → artificial imitation
     },
 
     Simulation : {
-        = simulate + ion
-        = act of making something similar
-        → imitation of reality
-        → pretense
-        → counterfeit appearance
+        Breakdown: Simulation = simulate (make similar; imitate; pretend; feign reality) + ion (act, process, or result of)
+        Synthesis: "make similar" + "act" -> "act of making something similar" (representing imitation of reality, pretense, or counterfeit appearance).
+        Literal: act of making something similar
+        Semantic:
+            → imitation of reality
+            → pretense
+            → counterfeit appearance
     },
-}
 
+}
 
 SOCIUS ("companion", "associate") {
 
     Asocial : {
-        = a + social
-        = not social
-        → avoiding social interaction
+        Breakdown: Asocial = a (not, without) + social (relating to society)
+        Synthesis: "not" + "relating to society" -> "not social" (representing avoiding social interaction).
+        Literal: not social
+        Semantic:
+            → avoiding social interaction
     },
 
     Associate : {
-        = ad + socius
-        = joined with companions
-        → partner or colleague
+        Breakdown: Associate = ad (to, toward) + socius (companion, associate)
+        Synthesis: "to" + "companion" -> "joined with companions" (representing partner or colleague).
+        Literal: joined with companions
+        Semantic:
+            → partner or colleague
     },
 
     Social : {
-        = socius + al
-        = relating to companions or society
-        = relating to society
+        Breakdown: Social = socius (companion, associate) + al (pertaining to or relating to)
+        Synthesis: "companion" + "pertaining to or relating to" -> "relating to companions or society" (representing relating to society).
+        Literal: relating to companions or society
+        Semantic:
+            → relating to society
     },
 
     Society : {
-        = socius + ety
-        = organized companionship
-        → community of people
+        Breakdown: Society = socius (companion, associate) + ety
+        Synthesis: "companion" + "ety" -> "organized companionship" (representing community of people).
+        Literal: organized companionship
+        Semantic:
+            → community of people
     },
 
     Sociological : {
-        = sociology + ical
-        = pertaining to social organization
+        Breakdown: Sociological = sociology (study of society; science of social organization; science of social relationships) + ical (pertaining to or relating to)
+        Synthesis: "study of society" + "pertaining to or relating to" -> "pertaining to social organization".
+        Literal: pertaining to social organization
     },
 
     Sociologist : {
-        = socius + logos + ist
-        = student of society
+        Breakdown: Sociologist = socius (companion, associate) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "companion" + "study" + "one who practices or specializes in" -> "student of society".
+        Literal: student of society
     },
 
     Sociology : {
-        = socius + logos
-        = study of society
-        → science of social organization
-        → science of social relationships
+        Breakdown: Sociology = socius (companion, associate) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "companion" + "study" -> "study of society" (representing science of social organization, or science of social relationships).
+        Literal: study of society
+        Semantic:
+            → science of social organization
+            → science of social relationships
     },
-}
 
+}
 
 SOMA ("body") {
 
     Psychosomatic : {
-        = psyche + soma
-        = mind-body
-        → condition involving interaction of mind and body
+        Breakdown: Psychosomatic = psyche (mind, soul, spirit) + soma (body)
+        Synthesis: "mind" + "body" -> "mind-body" (representing condition involving interaction of mind and body).
+        Literal: mind-body
+        Semantic:
+            → condition involving interaction of mind and body
     },
 
     Somatic : {
-        = soma + ic
-        = bodily
-        → relating to the body
+        Breakdown: Somatic = soma (body) + ic (pertaining to or relating to)
+        Synthesis: "body" + "pertaining to or relating to" -> "bodily" (representing relating to the body).
+        Literal: bodily
+        Semantic:
+            → relating to the body
     },
-}
 
+}
 
 SOPHOS ("wise", "wisdom") {
 
     Philosopher : {
-        = philein + sophos + er
-        = lover of wisdom
-        → thinker
+        Breakdown: Philosopher = philein (to love) + sophos (wise, wisdom) + er (one who or person/thing that does)
+        Synthesis: "to love" + "wise" + "one who or person/thing that does" -> "lover of wisdom" (representing thinker).
+        Literal: lover of wisdom
+        Semantic:
+            → thinker
     },
 
     Philosophy : {
-        = philein + sophos
-        = love of wisdom
-        → pursuit of knowledge and truth
+        Breakdown: Philosophy = philein (to love) + sophos (wise, wisdom)
+        Synthesis: "to love" + "wise" -> "love of wisdom" (representing pursuit of knowledge and truth).
+        Literal: love of wisdom
+        Semantic:
+            → pursuit of knowledge and truth
     },
-}
 
+}
 
 SOROR (sister) {
 
     Sorority : {
-        = soror + ity
-        = sisterhood
-        → women's association
-        → women's social organization
-        → women's organization
-        → women's social club
+        Breakdown: Sorority = soror (sister) + ity (state, quality, or condition)
+        Synthesis: "sister" + "state" -> "sisterhood" (representing women's association, women's social organization, women's organization, or women's social club).
+        Literal: sisterhood
+        Semantic:
+            → women's association
+            → women's social organization
+            → women's organization
+            → women's social club
     },
-}
 
+}
 
 SPECTO / SPICERE ("to look") {
 
     Circumspect : {
-        = circum + specto
-        = look around
-        → cautious
-        → careful before acting
+        Breakdown: Circumspect = circum (around) + specto (to look)
+        Synthesis: "around" + "to look" -> "look around" (representing cautious, or careful before acting).
+        Literal: look around
+        Semantic:
+            → cautious
+            → careful before acting
     },
 
     Circumspection : {
-        = circumspect + ion
-        = caution
-        → prudence
+        Breakdown: Circumspection = circumspect (look around; cautious; careful before acting) + ion (act, process, or result of)
+        Synthesis: "look around" + "act" -> "caution" (representing prudence).
+        Literal: caution
+        Semantic:
+            → prudence
     },
 
     Conspicuous : {
-        = con + spicere
-        = easily seen
-        → noticeable
-        → obvious
+        Breakdown: Conspicuous = con (with, together) + spicere (to look)
+        Synthesis: "with" + "to look" -> "easily seen" (representing noticeable, or obvious).
+        Literal: easily seen
+        Semantic:
+            → noticeable
+            → obvious
     },
 
     Inspect : {
-        = in + specto
-        = look into
-        → examine carefully
+        Breakdown: Inspect = in (not, in, on, or into) + specto (to look)
+        Synthesis: "not" + "to look" -> "look into" (representing examine carefully).
+        Literal: look into
+        Semantic:
+            → examine carefully
     },
 
     Inspection : {
-        = inspect + ion
-        = careful examination
+        Breakdown: Inspection = inspect (look into; examine carefully) + ion (act, process, or result of)
+        Synthesis: "look into" + "act" -> "careful examination".
+        Literal: careful examination
     },
 
     Perspicacious : {
-        = per + spicere
-        = look through
-        → mentally sharp
-        → insightful
-        → astute
+        Breakdown: Perspicacious = per (through or thoroughly) + spicere (to look)
+        Synthesis: "through or thoroughly" + "to look" -> "look through" (representing mentally sharp, insightful, or astute).
+        Literal: look through
+        Semantic:
+            → mentally sharp
+            → insightful
+            → astute
     },
 
     Perspicaciousness : {
-        = perspicacious + ness
-        = quality of keen perception
-        → intellectual insight
+        Breakdown: Perspicaciousness = perspicacious (look through; mentally sharp; insightful; astute) + ness (state or quality of being)
+        Synthesis: "look through" + "state or quality of being" -> "quality of keen perception" (representing intellectual insight).
+        Literal: quality of keen perception
+        Semantic:
+            → intellectual insight
     },
 
     Perspicacity : {
-        = perspicacious + ity
-        = keen insight
-        → mental sharpness
+        Breakdown: Perspicacity = perspicacious (look through; mentally sharp; insightful; astute) + ity (state, quality, or condition)
+        Synthesis: "look through" + "state" -> "keen insight" (representing mental sharpness).
+        Literal: keen insight
+        Semantic:
+            → mental sharpness
     },
 
     Perspicuity : {
-        = perspicuous + ity
-        = clarity
-        → lucidity
+        Breakdown: Perspicuity = perspicuous (seen through clearly; clear; lucid; easily understood) + ity (state, quality, or condition)
+        Synthesis: "seen through clearly" + "state" -> "clarity" (representing lucidity).
+        Literal: clarity
+        Semantic:
+            → lucidity
     },
 
     Perspicuous : {
-        = per + spicere
-        = seen through clearly
-        → clear
-        → lucid
-        → easily understood
+        Breakdown: Perspicuous = per (through or thoroughly) + spicere (to look)
+        Synthesis: "through or thoroughly" + "to look" -> "seen through clearly" (representing clear, lucid, or easily understood).
+        Literal: seen through clearly
+        Semantic:
+            → clear
+            → lucid
+            → easily understood
     },
 
     Prospect : {
-        = pro + specto
-        = look forward
-        → future outlook
-        → expectation
+        Breakdown: Prospect = pro (forward, before, or in favor of) + specto (to look)
+        Synthesis: "forward" + "to look" -> "look forward" (representing future outlook, or expectation).
+        Literal: look forward
+        Semantic:
+            → future outlook
+            → expectation
     },
 
     Prospective : {
-        = pro + spective
-        = looking ahead
-        → expected in the future
+        Breakdown: Prospective = pro (forward, before, or in favor of) + spective
+        Synthesis: "forward" + "spective" -> "looking ahead" (representing expected in the future).
+        Literal: looking ahead
+        Semantic:
+            → expected in the future
     },
 
     Retrospect : {
-        = retro + specto
-        = look backward
-        → review of the past
+        Breakdown: Retrospect = retro (backward) + specto (to look)
+        Synthesis: "backward" + "to look" -> "look backward" (representing review of the past).
+        Literal: look backward
+        Semantic:
+            → review of the past
     },
 
     Retrospection : {
-        = retrospect + ion
-        = act of looking back
-        → reflection on the past
+        Breakdown: Retrospection = retrospect (look backward; review of the past) + ion (act, process, or result of)
+        Synthesis: "look backward" + "act" -> "act of looking back" (representing reflection on the past).
+        Literal: act of looking back
+        Semantic:
+            → reflection on the past
     },
 
     Retrospective : {
-        = retro + spective
-        = looking backward
-        → concerned with past events
+        Breakdown: Retrospective = retro (backward) + spective
+        Synthesis: "backward" + "spective" -> "looking backward" (representing concerned with past events).
+        Literal: looking backward
+        Semantic:
+            → concerned with past events
     },
 
     Spectacle : {
-        = specto
-        = something looked at
-        → impressive sight
-        → show
+        Breakdown: Spectacle = specto (to look)
+        Synthesis: "to look" -> "something looked at" (representing impressive sight, or show).
+        Literal: something looked at
+        Semantic:
+            → impressive sight
+            → show
     },
 
     Spectator : {
-        = specto + ator
-        = one who looks
-        → observer
-        → onlooker
+        Breakdown: Spectator = specto (to look) + ator
+        Synthesis: "to look" + "ator" -> "one who looks" (representing observer, or onlooker).
+        Literal: one who looks
+        Semantic:
+            → observer
+            → onlooker
     },
-}
 
+}
 
 SPHYGMOS ("pulse") {
 
     Sphygmomanometer : {
-        = sphygmos + manometer
-        = pulse-pressure measure
-        → blood-pressure apparatus
+        Breakdown: Sphygmomanometer = sphygmos (pulse) + manometer
+        Synthesis: "pulse" + "manometer" -> "pulse-pressure measure" (representing blood-pressure apparatus).
+        Literal: pulse-pressure measure
+        Semantic:
+            → blood-pressure apparatus
     },
-}
 
+}
 
 STOA ("porch") {
 
     Stoic : {
-        = stoa
-        = follower of the Stoic school
-        → emotionally controlled person
+        Breakdown: Stoic = stoa (porch)
+        Synthesis: "porch" -> "follower of the Stoic school" (representing emotionally controlled person).
+        Literal: follower of the Stoic school
+        Semantic:
+            → emotionally controlled person
     },
 
     Stoical : {
-        = stoic + al
-        = characterized by emotional control
-        → enduring hardship calmly
+        Breakdown: Stoical = stoic (follower of the Stoic school; emotionally controlled person) + al (pertaining to or relating to)
+        Synthesis: "follower of the Stoic school" + "pertaining to or relating to" -> "characterized by emotional control" (representing enduring hardship calmly).
+        Literal: characterized by emotional control
+        Semantic:
+            → enduring hardship calmly
     },
 
     Stoically : {
-        = stoical + ly
-        = without complaint
-        → with endurance
+        Breakdown: Stoically = stoical (characterized by emotional control; enduring hardship calmly) + ly (in the manner of)
+        Synthesis: "characterized by emotional control" + "in the manner of" -> "without complaint" (representing with endurance).
+        Literal: without complaint
+        Semantic:
+            → with endurance
     },
 
     Stoicism : {
-        = stoic + ism
-        = philosophy of self-control
-        → endurance without complaint
+        Breakdown: Stoicism = stoic (follower of the Stoic school; emotionally controlled person) + ism (philosophy, belief, or system of)
+        Synthesis: "follower of the Stoic school" + "philosophy" -> "philosophy of self-control" (representing endurance without complaint).
+        Literal: philosophy of self-control
+        Semantic:
+            → endurance without complaint
     },
-}
 
+}
 
 STREPO ("to make a noise") {
 
     Obstreperous : {
-        = ob + strepo + ous
-        = full of noisy opposition
-        → unruly
-        → boisterous
-        → troublesome
-        → unmanageable
+        Breakdown: Obstreperous = ob + strepo (to make a noise) + ous (characterized by or full of)
+        Synthesis: "ob" + "to make a noise" + "characterized by or full of" -> "full of noisy opposition" (representing unruly, boisterous, troublesome, or unmanageable).
+        Literal: full of noisy opposition
+        Semantic:
+            → unruly
+            → boisterous
+            → troublesome
+            → unmanageable
     },
-}
 
+}
 
 SUMMUS ("highest", "utmost") {
 
     Consummacy : {
-        = consummate + acy
-        = highest degree of excellence
-        = state of highest excellence
-        → perfection
-        → mastery
-        → artistry
+        Breakdown: Consummacy = consummate + acy
+        Synthesis: "consummate" + "acy" -> "highest degree of excellence" (representing state of highest excellence, perfection, mastery, or artistry).
+        Literal: highest degree of excellence
+        Semantic:
+            → state of highest excellence
+            → perfection
+            → mastery
+            → artistry
     },
 
     Consummate (adj.) : {
-        = con + summus + ate
-        = brought to the highest point
-        = brought to highest point
-        → perfect
-        → supremely skillful
+        Breakdown: Consummate (adj.) = con (with or together) + summus (highest, utmost) + ate (to make, cause, or have the state of)
+        Synthesis: "with or together" + "highest" + "to make" -> "brought to the highest point" (representing brought to highest point, perfect, or supremely skillful).
+        Literal: brought to the highest point
+        Semantic:
+            → brought to highest point
+            → perfect
+            → supremely skillful
     },
 
     Consummate (v.) : {
-        = con + summus + ate
-        = bring to completion
-        = bring to highest completion
-        → finish
-        → fulfill
-        → complete
+        Breakdown: Consummate (v.) = con (with or together) + summus (highest, utmost) + ate (to make, cause, or have the state of)
+        Synthesis: "with or together" + "highest" + "to make" -> "bring to completion" (representing bring to highest completion, finish, fulfill, or complete).
+        Literal: bring to completion
+        Semantic:
+            → bring to highest completion
+            → finish
+            → fulfill
+            → complete
     },
 
     Consummateness : {
-        = consummate + ness
-        = quality of complete skill
-        = quality of complete perfection
-        → artistry
-        → perfection
-        → mastery
+        Breakdown: Consummateness = consummate + ness (state or quality of being)
+        Synthesis: "consummate" + "state or quality of being" -> "quality of complete skill" (representing quality of complete perfection, artistry, perfection, or mastery).
+        Literal: quality of complete skill
+        Semantic:
+            → quality of complete perfection
+            → artistry
+            → perfection
+            → mastery
     },
 
     Consummation : {
-        = consummate + ion
-        = act of completing
-        → completion
-        → fulfillment
+        Breakdown: Consummation = consummate + ion (act, process, or result of)
+        Synthesis: "consummate" + "act" -> "act of completing" (representing completion, or fulfillment).
+        Literal: act of completing
+        Semantic:
+            → completion
+            → fulfillment
     },
 
     Sum : {
-        = summus
-        = total brought to highest whole
-        → total amount
+        Breakdown: Sum = summus (highest, utmost)
+        Synthesis: "highest" -> "total brought to highest whole" (representing total amount).
+        Literal: total brought to highest whole
+        Semantic:
+            → total amount
     },
 
     Summit : {
-        = summus
-        = highest point
-        → peak
-        → top
+        Breakdown: Summit = summus (highest, utmost)
+        Synthesis: "highest" -> "highest point" (representing peak, or top).
+        Literal: highest point
+        Semantic:
+            → peak
+            → top
     },
-}
 
+}
 
 SYCOPHANT ("fig-shower" → informer → flatterer) {
 
     Sycophancy : {
-        = sycophant + y
-        = behavior of a sycophant
-        → servile flattery
-        → toadyism
+        Breakdown: Sycophancy = sycophant (fig-shower → informer → flatterer) + y (state, quality, or condition)
+        Synthesis: "fig-shower → informer → flatterer" + "state" -> "behavior of a sycophant" (representing servile flattery, or toadyism).
+        Literal: behavior of a sycophant
+        Semantic:
+            → servile flattery
+            → toadyism
     },
 
     Sycophant : {
-        = sykon (fig) + phanein (to show)
-        = fig-shower
-        → informer
-        → favor-seeker
-        → bootlicker
-        → toady
+        Breakdown: Sycophant = sykon (fig) + phanein (to show)
+        Synthesis: "fig" + "to show" -> "fig-shower" (representing informer, favor-seeker, bootlicker, or toady).
+        Literal: fig-shower
+        Semantic:
+            → informer
+            → favor-seeker
+            → bootlicker
+            → toady
     },
 
     Sycophantic : {
-        = sycophant + ic
-        = characterized by flattery
-        → obsequious
-        → bootlicking
+        Breakdown: Sycophantic = sycophant (fig-shower → informer → flatterer) + ic (pertaining to or relating to)
+        Synthesis: "fig-shower → informer → flatterer" + "pertaining to or relating to" -> "characterized by flattery" (representing obsequious, or bootlicking).
+        Literal: characterized by flattery
+        Semantic:
+            → obsequious
+            → bootlicking
     },
+
 }

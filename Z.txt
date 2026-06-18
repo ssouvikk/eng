@@ -1,24 +1,31 @@
 ZOION ("animal") {
 
     Zodiac : {
-        = zoion
-        = circle of little animals
-        → belt of constellations named after animals
+        Breakdown: Zodiac = zoion (animal)
+        Synthesis: "animal" -> "circle of little animals" (representing belt of constellations named after animals).
+        Literal: circle of little animals
+        Semantic:
+            → belt of constellations named after animals
     },
 
     Zoological : {
-        = zoology + ical
-        = pertaining to animal science
+        Breakdown: Zoological = zoology (study of animals; science of animal life) + ical (pertaining to or relating to)
+        Synthesis: "study of animals" + "pertaining to or relating to" -> "pertaining to animal science".
+        Literal: pertaining to animal science
     },
 
     Zoologist : {
-        = zoion + logos + ist
-        = student of animal life
+        Breakdown: Zoologist = zoion (animal) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "animal" + "study" + "one who practices or specializes in" -> "student of animal life".
+        Literal: student of animal life
     },
 
     Zoology : {
-        = zoion + logos
-        = study of animals
-        → science of animal life
+        Breakdown: Zoology = zoion (animal) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "animal" + "study" -> "study of animals" (representing science of animal life).
+        Literal: study of animals
+        Semantic:
+            → science of animal life
     },
+
 }

@@ -1,180 +1,229 @@
 FACIO / FACTUS ("to do", "to make") {
 
     Benefaction : {
-        = bene + faction
-        = good deed
-        → charitable gift
+        Breakdown: Benefaction = bene (good, well) + faction
+        Synthesis: "good" + "faction" -> "good deed" (representing charitable gift).
+        Literal: good deed
+        Semantic:
+            → charitable gift
     },
 
     Benefactor : {
-        = bene + factor
-        = one who does good
-        → helper
-        → patron
+        Breakdown: Benefactor = bene (good, well) + factor
+        Synthesis: "good" + "factor" -> "one who does good" (representing helper, or patron).
+        Literal: one who does good
+        Semantic:
+            → helper
+            → patron
     },
 
     Beneficence : {
-        = beneficent + ence
-        = active goodness
-        → charity
+        Breakdown: Beneficence = beneficent (doing good; charitable; helpful) + ence (state or quality of)
+        Synthesis: "doing good" + "state or quality of" -> "active goodness" (representing charity).
+        Literal: active goodness
+        Semantic:
+            → charity
     },
 
     Beneficent : {
-        = bene + facio
-        = doing good
-        → charitable
-        → helpful
+        Breakdown: Beneficent = bene (good, well) + facio (to do, to make)
+        Synthesis: "good" + "to do" -> "doing good" (representing charitable, or helpful).
+        Literal: doing good
+        Semantic:
+            → charitable
+            → helpful
     },
 
     Beneficiary : {
-        = bene + ficiary
-        = one who receives benefit
-        → recipient
+        Breakdown: Beneficiary = bene (good, well) + ficiary
+        Synthesis: "good" + "ficiary" -> "one who receives benefit" (representing recipient).
+        Literal: one who receives benefit
+        Semantic:
+            → recipient
     },
 
     Malecent : {
-        = mal + facio + ent
-        = doing evil
-        → harmful
+        Breakdown: Malecent = mal (bad, evil) + facio (to do, to make) + ent
+        Synthesis: "bad" + "to do" + "ent" -> "doing evil" (representing harmful).
+        Literal: doing evil
+        Semantic:
+            → harmful
     },
 
     Malefaction : {
-        = mal + facio + tion
-        = mal + faction
-        = evil deed
-        → wrongdoing
+        Breakdown: Malefaction = mal (bad, evil) + facio (to do, to make) + tion
+        Synthesis: "bad" + "to do" + "tion" -> "mal + faction" (representing evil deed, or wrongdoing).
+        Literal: mal + faction
+        Semantic:
+            → evil deed
+            → wrongdoing
     },
 
     Malefactor : {
-        = mal + facio
-        = doer of evil
-        → criminal
+        Breakdown: Malefactor = mal (bad, evil) + facio (to do, to make)
+        Synthesis: "bad" + "to do" -> "doer of evil" (representing criminal).
+        Literal: doer of evil
+        Semantic:
+            → criminal
     },
 
     Maleficent : {
-        = mal + facio + ent
-        = doing evil
-        → harmful
+        Breakdown: Maleficent = mal (bad, evil) + facio (to do, to make) + ent
+        Synthesis: "bad" + "to do" + "ent" -> "doing evil" (representing harmful).
+        Literal: doing evil
+        Semantic:
+            → harmful
     },
-}
 
+}
 
 FATIGUE ("weariness") {
 
     Fatigue : {
-        = fatigue
-        = weariness
-        → exhaustion
+        Breakdown: Fatigue = fatigue (weariness)
+        Synthesis: "weariness" -> "weariness" (representing exhaustion).
+        Literal: weariness
+        Semantic:
+            → exhaustion
     },
 
     Indefatigability : {
-        = indefatigable + ity
-        = tirelessness
-        → endless persistence
-        → inexhaustible energy
+        Breakdown: Indefatigability = indefatigable (unable to be fatigued; tireless; untiring; persistent) + ity (state, quality, or condition)
+        Synthesis: "unable to be fatigued" + "state" -> "tirelessness" (representing endless persistence, or inexhaustible energy).
+        Literal: tirelessness
+        Semantic:
+            → endless persistence
+            → inexhaustible energy
     },
 
     Indefatigable : {
-        = in + de + fatigue + able
-        = unable to be fatigued
-        → tireless
-        → untiring
-        → persistent
+        Breakdown: Indefatigable = in (not, in, on, or into) + de (down, away, from) + fatigue (weariness) + able (capable of or fit for)
+        Synthesis: "not" + "down" + "weariness" + "capable of or fit for" -> "unable to be fatigued" (representing tireless, untiring, or persistent).
+        Literal: unable to be fatigued
+        Semantic:
+            → tireless
+            → untiring
+            → persistent
     },
-}
 
+}
 
 FELIS ("cat") {
 
     Feline : {
-        = felis + ine
-        = like a cat
-        → catlike
-        → graceful
-        → sly
-        → "catty" in temperament
+        Breakdown: Feline = felis (cat) + ine (like, similar to, characteristic of)
+        Synthesis: "cat" + "like" -> "like a cat" (representing catlike, graceful, sly, or "catty" in temperament).
+        Literal: like a cat
+        Semantic:
+            → catlike
+            → graceful
+            → sly
+            → "catty" in temperament
     },
-}
 
+}
 
 FIDES ("faith", "trust") {
 
     Bona Fide : {
-        = bona + fide
-        = in good faith
-        → genuine
-        → authentic
+        Breakdown: Bona Fide = bona + fide
+        Synthesis: "bona" + "fide" -> "in good faith" (representing genuine, or authentic).
+        Literal: in good faith
+        Semantic:
+            → genuine
+            → authentic
     },
 
     Confidant : {
-        = confide + ant
-        = trusted person
-        → intimate adviser
+        Breakdown: Confidant = confide (trust with; reveal in confidence; trust another) + ant
+        Synthesis: "trust with" + "ant" -> "trusted person" (representing intimate adviser).
+        Literal: trusted person
+        Semantic:
+            → intimate adviser
     },
 
     Confide : {
-        = con + fides
-        = trust with
-        → reveal in confidence
-        → trust another
+        Breakdown: Confide = con (with, together) + fides (faith, trust)
+        Synthesis: "with" + "faith" -> "trust with" (representing reveal in confidence, or trust another).
+        Literal: trust with
+        Semantic:
+            → reveal in confidence
+            → trust another
     },
 
     Confidence : {
-        = con + fides + ence
-        = state of trust
-        → self-assurance
-        → faith
+        Breakdown: Confidence = con (with, together) + fides (faith, trust) + ence (state or quality of)
+        Synthesis: "with" + "faith" + "state or quality of" -> "state of trust" (representing self-assurance, or faith).
+        Literal: state of trust
+        Semantic:
+            → self-assurance
+            → faith
     },
 
     Confidential : {
-        = confidence + ial
-        = entrusted in confidence
-        → secret
-        → private
+        Breakdown: Confidential = confidence (state of trust; self-assurance; faith) + ial (pertaining to or relating to)
+        Synthesis: "state of trust" + "pertaining to or relating to" -> "entrusted in confidence" (representing secret, or private).
+        Literal: entrusted in confidence
+        Semantic:
+            → secret
+            → private
     },
 
     Fidelity : {
-        = fides + ity
-        = faithfulness
-        → loyalty
-        → devotion
+        Breakdown: Fidelity = fides (faith, trust) + ity (state, quality, or condition)
+        Synthesis: "faith" + "state" -> "faithfulness" (representing loyalty, or devotion).
+        Literal: faithfulness
+        Semantic:
+            → loyalty
+            → devotion
     },
 
     Infidelity : {
-        = in + fidelity
-        = lack of faithfulness
-        → disloyalty
-        → unfaithfulness
+        Breakdown: Infidelity = in (not, in, on, or into) + fidelity (faithfulness; loyalty; devotion)
+        Synthesis: "not" + "faithfulness" -> "lack of faithfulness" (representing disloyalty, or unfaithfulness).
+        Literal: lack of faithfulness
+        Semantic:
+            → disloyalty
+            → unfaithfulness
     },
-}
 
+}
 
 FRATER (brother) {
 
     Fraternal : {
-        = frater + al
-        = brotherly
-        → friendly
-        → relating to brothers
+        Breakdown: Fraternal = frater (brother) + al (pertaining to or relating to)
+        Synthesis: "brother" + "pertaining to or relating to" -> "brotherly" (representing friendly, or relating to brothers).
+        Literal: brotherly
+        Semantic:
+            → friendly
+            → relating to brothers
     },
 
     Fraternity : {
-        = frater + ity
-        = brotherhood
-        → men's association
-        → group united by common interests
+        Breakdown: Fraternity = frater (brother) + ity (state, quality, or condition)
+        Synthesis: "brother" + "state" -> "brotherhood" (representing men's association, or group united by common interests).
+        Literal: brotherhood
+        Semantic:
+            → men's association
+            → group united by common interests
     },
 
     Fraternization : {
-        = fraternize + ation
-        = brotherly association
-        → friendly social intercourse
+        Breakdown: Fraternization = fraternize (act as a brother; socialize warmly; associate on friendly terms) + ation (act, process, or result of)
+        Synthesis: "act as a brother" + "act" -> "brotherly association" (representing friendly social intercourse).
+        Literal: brotherly association
+        Semantic:
+            → friendly social intercourse
     },
 
     Fraternize : {
-        = frater + ize
-        = act as a brother
-        → socialize warmly
-        → associate on friendly terms
+        Breakdown: Fraternize = frater (brother) + ize (to make, treat, or combine with)
+        Synthesis: "brother" + "to make" -> "act as a brother" (representing socialize warmly, or associate on friendly terms).
+        Literal: act as a brother
+        Semantic:
+            → socialize warmly
+            → associate on friendly terms
     },
+
 }

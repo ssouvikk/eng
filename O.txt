@@ -1,500 +1,635 @@
 OBSTETRIX ("midwife") {
 
     Obstetrical : {
-        = obstetrics + al
-        = relating to childbirth and pregnancy
+        Breakdown: Obstetrical = obstetrics (midwifery; branch dealing with pregnancy and childbirth; obstetrics) + al (pertaining to or relating to)
+        Synthesis: "midwifery" + "pertaining to or relating to" -> "relating to childbirth and pregnancy".
+        Literal: relating to childbirth and pregnancy
     },
 
     Obstetrician : {
-        = obstetrix + ian
-        = practitioner of midwifery
-        → physician dealing with pregnancy and childbirth
-        → obstetrician
+        Breakdown: Obstetrician = obstetrix (midwife) + ian (one who or specialist)
+        Synthesis: "midwife" + "one who or specialist" -> "practitioner of midwifery" (representing physician dealing with pregnancy and childbirth, or obstetrician).
+        Literal: practitioner of midwifery
+        Semantic:
+            → physician dealing with pregnancy and childbirth
+            → obstetrician
     },
 
     Obstetrics : {
-        = obstetrix
-        = midwifery
-        → branch dealing with pregnancy and childbirth
-        → obstetrics
+        Breakdown: Obstetrics = obstetrix (midwife)
+        Synthesis: "midwife" -> "midwifery" (representing branch dealing with pregnancy and childbirth, or obstetrics).
+        Literal: midwifery
+        Semantic:
+            → branch dealing with pregnancy and childbirth
+            → obstetrics
     },
-}
 
+}
 
 OCULUS ("eye") {
 
     Binocular : {
-        = bi + oculus
-        = two eyes
-        → using both eyes
+        Breakdown: Binocular = bi (two) + oculus (eye)
+        Synthesis: "two" + "eye" -> "two eyes" (representing using both eyes).
+        Literal: two eyes
+        Semantic:
+            → using both eyes
     },
 
     Inoculate : {
-        = in + oculus
-        = put into an eye/opening
-        → inject through a puncture
-        → vaccinate
+        Breakdown: Inoculate = in (not, in, on, or into) + oculus (eye)
+        Synthesis: "not" + "eye" -> "put into an eye/opening" (representing inject through a puncture, or vaccinate).
+        Literal: put into an eye/opening
+        Semantic:
+            → inject through a puncture
+            → vaccinate
     },
 
     Monocular : {
-        = mono + oculus
-        = one eye
-        → using one eye
+        Breakdown: Monocular = mono (one) + oculus (eye)
+        Synthesis: "one" + "eye" -> "one eye" (representing using one eye).
+        Literal: one eye
+        Semantic:
+            → using one eye
     },
 
     Ocular : {
-        = oculus + ar
-        = relating to the eye
-        → visual
+        Breakdown: Ocular = oculus (eye) + ar (relating to, like, or pertaining to)
+        Synthesis: "eye" + "relating to" -> "relating to the eye" (representing visual).
+        Literal: relating to the eye
+        Semantic:
+            → visual
     },
 
     Oculist : {
-        = oculus + ist
-        = eye specialist
-        → physician specializing in eye care
-        → oculist
+        Breakdown: Oculist = oculus (eye) + ist (one who practices or specializes in)
+        Synthesis: "eye" + "one who practices or specializes in" -> "eye specialist" (representing physician specializing in eye care, or oculist).
+        Literal: eye specialist
+        Semantic:
+            → physician specializing in eye care
+            → oculist
     },
-}
 
+}
 
 ODOUS / ODONT / ODONTOS ("tooth") {
 
     Endodontia : {
-        = endon + odontos
-        = treatment of inner tooth structures
-        → root canal specialty
+        Breakdown: Endodontia = endon (within, inner) + odontos (tooth)
+        Synthesis: "within" + "tooth" -> "treatment of inner tooth structures" (representing root canal specialty).
+        Literal: treatment of inner tooth structures
+        Semantic:
+            → root canal specialty
     },
 
     Endodontic : {
-        = endodontia + ic
-        = pertaining to / relating to root canal therapy
+        Breakdown: Endodontic = endodontia (inner teeth) + ic (pertaining to or relating to)
+        Synthesis: "inner teeth" + "pertaining to or relating to" -> "pertaining to / relating to root canal therapy".
+        Literal: pertaining to / relating to root canal therapy
     },
 
     Endodontist : {
-        = endon + odontos
-        = inner-tooth specialist
-        → root canal specialist
+        Breakdown: Endodontist = endon (within, inner) + odontos (tooth)
+        Synthesis: "within" + "tooth" -> "inner-tooth specialist" (representing root canal specialist).
+        Literal: inner-tooth specialist
+        Semantic:
+            → root canal specialist
     },
 
     Exodontia : {
-        = ex + odontos
-        = removal of teeth
-        → tooth extraction specialty
+        Breakdown: Exodontia = ex (out) + odontos (tooth)
+        Synthesis: "out" + "tooth" -> "removal of teeth" (representing tooth extraction specialty).
+        Literal: removal of teeth
+        Semantic:
+            → tooth extraction specialty
     },
 
     Exodontic : {
-        = exodontia + ic
-        = pertaining to / relating to tooth extraction
+        Breakdown: Exodontic = exodontia (extraction of teeth) + ic (pertaining to or relating to)
+        Synthesis: "extraction of teeth" + "pertaining to or relating to" -> "pertaining to / relating to tooth extraction".
+        Literal: pertaining to / relating to tooth extraction
     },
 
     Exodontist : {
-        = ex + odontos
-        = out-tooth specialist
-        → tooth extraction specialist
+        Breakdown: Exodontist = ex (out) + odontos (tooth)
+        Synthesis: "out" + "tooth" -> "out-tooth specialist" (representing tooth extraction specialist).
+        Literal: out-tooth specialist
+        Semantic:
+            → tooth extraction specialist
     },
 
     Orthodontics / Orthodontia : {
-        = orthos + odontos
-        = straightening and correction of tooth alignment
-        → branch of dentistry concerned with aligned teeth and jaws
+        Breakdown: Orthodontics / Orthodontia = orthos (straight, correct) + odontos (tooth)
+        Synthesis: "straight" + "tooth" -> "straightening and correction of tooth alignment" (representing branch of dentistry concerned with aligned teeth and jaws).
+        Literal: straightening and correction of tooth alignment
+        Semantic:
+            → branch of dentistry concerned with aligned teeth and jaws
     },
 
     Orthodontist : {
-        = orthos + odontos
-        = straight tooth specialist
-        → dentist who straightens teeth
+        Breakdown: Orthodontist = orthos (straight, correct) + odontos (tooth) + ist (one who practices or specializes in)
+        Synthesis: "straight" + "tooth" + "one who practices or specializes in" -> "straight tooth specialist" (representing dentist who straightens teeth).
+        Literal: straight tooth specialist
+        Semantic:
+            → dentist who straightens teeth
     },
 
     Pedodontia : {
-        = paidos + odontos
-        = care of children's teeth
-        → pediatric dentistry
+        Breakdown: Pedodontia = paidos (child) + odontos (tooth)
+        Synthesis: "child" + "tooth" -> "care of children's teeth" (representing pediatric dentistry).
+        Literal: care of children's teeth
+        Semantic:
+            → pediatric dentistry
     },
 
     Pedodontic : {
-        = pedodontia + ic
-        = pertaining to / relating to children's dentistry
+        Breakdown: Pedodontic = pedodontia (child teeth) + ic (pertaining to or relating to)
+        Synthesis: "child teeth" + "pertaining to or relating to" -> "pertaining to / relating to children's dentistry".
+        Literal: pertaining to / relating to children's dentistry
     },
 
     Pedodontist : {
-        = paidos + odontos
-        = child tooth specialist
-        → children's dentist
+        Breakdown: Pedodontist = paidos (child) + odontos (tooth)
+        Synthesis: "child" + "tooth" -> "child tooth specialist" (representing children's dentist).
+        Literal: child tooth specialist
+        Semantic:
+            → children's dentist
     },
 
     Periodontia : {
-        = peri + odontos
-        = treatment of tissues around teeth
-        → gum specialty
+        Breakdown: Periodontia = peri (around, surrounding) + odontos (tooth)
+        Synthesis: "around" + "tooth" -> "treatment of tissues around teeth" (representing gum specialty).
+        Literal: treatment of tissues around teeth
+        Semantic:
+            → gum specialty
     },
 
     Periodontic : {
-        = periodontia + ic
-        = pertaining to / relating to gum treatment
+        Breakdown: Periodontic = periodontia (around teeth) + ic (pertaining to or relating to)
+        Synthesis: "around teeth" + "pertaining to or relating to" -> "pertaining to / relating to gum treatment".
+        Literal: pertaining to / relating to gum treatment
     },
 
     Periodontist : {
-        = peri + odontos
-        = around-the-tooth specialist
-        → gum specialist
+        Breakdown: Periodontist = peri (around, surrounding) + odontos (tooth)
+        Synthesis: "around" + "tooth" -> "around-the-tooth specialist" (representing gum specialist).
+        Literal: around-the-tooth specialist
+        Semantic:
+            → gum specialist
     },
-}
 
+}
 
 OMNIS ("all", "every") {
 
     Omnipotence : {
-        = omnipotent + ence
-        = state of being all-powerful
-        → unlimited power
+        Breakdown: Omnipotence = potens (powerful) + ence (state or quality of)
+        Synthesis: "powerful" + "state or quality of" -> "state of being all-powerful" (representing unlimited power).
+        Literal: state of being all-powerful
+        Semantic:
+            → unlimited power
     },
 
     Omnipotent : {
-        = omnis + potens
-        = all-powerful
-        → possessing unlimited power
+        Breakdown: Omnipotent = omnis (all, every) + potens (powerful)
+        Synthesis: "all" + "powerful" -> "all-powerful" (representing possessing unlimited power).
+        Literal: all-powerful
+        Semantic:
+            → possessing unlimited power
     },
 
     Omnipresence : {
-        = omnipresent + ence
-        = presence everywhere
-        → ubiquity
+        Breakdown: Omnipresence = omnipresent (present everywhere; ubiquitous; existing in all places) + ence (state or quality of)
+        Synthesis: "present everywhere" + "state or quality of" -> "presence everywhere" (representing ubiquity).
+        Literal: presence everywhere
+        Semantic:
+            → ubiquity
     },
 
     Omnipresent : {
-        = omnis + present
-        = present everywhere
-        → ubiquitous
-        → existing in all places
+        Breakdown: Omnipresent = omnis (all, every) + present
+        Synthesis: "all" + "present" -> "present everywhere" (representing ubiquitous, or existing in all places).
+        Literal: present everywhere
+        Semantic:
+            → ubiquitous
+            → existing in all places
     },
 
     Omniscience : {
-        = omniscient + ence
-        = complete knowledge
-        → infinite wisdom
+        Breakdown: Omniscience = omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)
+        Synthesis: "all-knowing" + "state or quality of" -> "complete knowledge" (representing infinite wisdom).
+        Literal: complete knowledge
+        Semantic:
+            → infinite wisdom
     },
 
     Omniscient : {
-        = omnis + scientia
-        = all-knowing
-        → possessing complete knowledge
+        Breakdown: Omniscient = omnis (all, every) + sciens (to know, knowing)
+        Synthesis: "all" + "to know" -> "all-knowing" (representing possessing complete knowledge).
+        Literal: all-knowing
+        Semantic:
+            → possessing complete knowledge
     },
 
     Omnivore : {
-        = omnis + vorare
-        = one that eats everything
-        → animal feeding on both plant and animal matter
+        Breakdown: Omnivore = omnis (all, every) + vorare (to devour)
+        Synthesis: "all" + "to devour" -> "one that eats everything" (representing animal feeding on both plant and animal matter).
+        Literal: one that eats everything
+        Semantic:
+            → animal feeding on both plant and animal matter
     },
 
     Omnivorous : {
-        = omnis + vorare
-        = devouring everything
-        → eating both plants and animals
+        Breakdown: Omnivorous = omnis (all, every) + vorare (to devour)
+        Synthesis: "all" + "to devour" -> "devouring everything" (representing eating both plants and animals).
+        Literal: devouring everything
+        Semantic:
+            → eating both plants and animals
     },
-}
 
+}
 
 ONYMA ("name") {
 
     Antonym : {
-        = anti + onyma
-        = opposite name
-        → word with opposite meaning
+        Breakdown: Antonym = anti (against, opposite) + onyma (name)
+        Synthesis: "against" + "name" -> "opposite name" (representing word with opposite meaning).
+        Literal: opposite name
+        Semantic:
+            → word with opposite meaning
     },
 
     Antonymous : {
-        = antonym + ous
-        = opposite in meaning
+        Breakdown: Antonymous = antonym (opposite name; word with opposite meaning) + ous (characterized by or full of)
+        Synthesis: "opposite name" + "characterized by or full of" -> "opposite in meaning".
+        Literal: opposite in meaning
     },
 
     Homonym : {
-        = homos + onyma
-        = same name
-        → word with same sound or spelling
+        Breakdown: Homonym = homos + onyma (name)
+        Synthesis: "homos" + "name" -> "same name" (representing word with same sound or spelling).
+        Literal: same name
+        Semantic:
+            → word with same sound or spelling
     },
 
     Homonymous : {
-        = homonym + ous
-        = having same name or sound
+        Breakdown: Homonymous = homonym (same name; word with same sound or spelling) + ous (characterized by or full of)
+        Synthesis: "same name" + "characterized by or full of" -> "having same name or sound".
+        Literal: having same name or sound
     },
 
     Homophone : {
-        = homos + phone
-        = same sound
-        → same pronunciation, different spelling
+        Breakdown: Homophone = homos + phone (sound)
+        Synthesis: "homos" + "sound" -> "same sound" (representing same pronunciation, different spelling).
+        Literal: same sound
+        Semantic:
+            → same pronunciation, different spelling
     },
 
     Homophonous : {
-        = homophone + ous
-        = sounding alike
+        Breakdown: Homophonous = homophone (same sound; same pronunciation, different spelling) + ous (characterized by or full of)
+        Synthesis: "same sound" + "characterized by or full of" -> "sounding alike".
+        Literal: sounding alike
     },
 
     Synonym : {
-        = syn + onyma
-        = same name
-        → word with similar meaning
+        Breakdown: Synonym = syn (together, with) + onyma (name)
+        Synthesis: "together" + "name" -> "same name" (representing word with similar meaning).
+        Literal: same name
+        Semantic:
+            → word with similar meaning
     },
 
     Synonymous : {
-        = synonym + ous
-        = having same meaning
+        Breakdown: Synonymous = synonym (same name; word with similar meaning) + ous (characterized by or full of)
+        Synthesis: "same name" + "characterized by or full of" -> "having same meaning".
+        Literal: having same meaning
     },
-}
 
+}
 
 OPHTHALMOS ("eye") {
 
     Ophthalmic : {
-        = ophthalmos + ic
-        = relating to the eyes
+        Breakdown: Ophthalmic = ophthalmos (eye) + ic (pertaining to or relating to)
+        Synthesis: "eye" + "pertaining to or relating to" -> "relating to the eyes".
+        Literal: relating to the eyes
     },
 
     Ophthalmologist : {
-        = ophthalmos + logos + ist
-        = eye specialist
-        → ophthalmologist
+        Breakdown: Ophthalmologist = ophthalmos (eye) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "eye" + "study" + "one who practices or specializes in" -> "eye specialist" (representing ophthalmologist).
+        Literal: eye specialist
+        Semantic:
+            → ophthalmologist
     },
 
     Ophthalmology : {
-        = ophthalmos + logos
-        = study of the eye
-        → medical science of vision and eye diseases
+        Breakdown: Ophthalmology = ophthalmos (eye) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "eye" + "study" -> "study of the eye" (representing medical science of vision and eye diseases).
+        Literal: study of the eye
+        Semantic:
+            → medical science of vision and eye diseases
     },
-}
 
+}
 
 OPSIS / OPTIKOS ("vision", "sight") {
 
     Optical : {
-        = optikos + al
-        = relating to vision, sight, or light
-        → optical
+        Breakdown: Optical = optikos (vision, sight) + al (pertaining to or relating to)
+        Synthesis: "vision" + "pertaining to or relating to" -> "relating to vision, sight, or light" (representing optical).
+        Literal: relating to vision, sight, or light
+        Semantic:
+            → optical
     },
 
     Optician : {
-        = optikos / opsis + ician
-        = worker with optical devices
-        → grinder, fitter, and dispenser of lenses
-        → lens grinder
-        → seller of optical goods
-        → optician
+        Breakdown: Optician = optikos / opsis + ician
+        Synthesis: "optikos / opsis" + "ician" -> "worker with optical devices" (representing grinder, fitter, and dispenser of lenses, lens grinder, seller of optical goods, or optician).
+        Literal: worker with optical devices
+        Semantic:
+            → grinder, fitter, and dispenser of lenses
+            → lens grinder
+            → seller of optical goods
+            → optician
     },
 
     Optics : {
-        = opsis
-        = science of vision and light
-        → optics
+        Breakdown: Optics = opsis (vision, sight)
+        Synthesis: "vision" -> "science of vision and light" (representing optics).
+        Literal: science of vision and light
+        Semantic:
+            → optics
     },
 
     Optometric : {
-        = optometry + ic
-        = relating to the measurement and testing of vision
-        → pertaining to eyesight measurement
-        → optometric
+        Breakdown: Optometric = optometry (measurement of vision; science of measuring/testing eyesight; optometry) + ic (pertaining to or relating to)
+        Synthesis: "measurement of vision" + "pertaining to or relating to" -> "relating to the measurement and testing of vision" (representing pertaining to eyesight measurement, or optometric).
+        Literal: relating to the measurement and testing of vision
+        Semantic:
+            → pertaining to eyesight measurement
+            → optometric
     },
 
     Optometrist : {
-        = opsis + metron + ist
-        = measurer of vision
-        → eyesight specialist who tests vision
-        → prescribes glasses and contact lenses
-        → optometrist
+        Breakdown: Optometrist = opsis (vision, sight) + metron (measure, measurement) + ist (one who practices or specializes in)
+        Synthesis: "vision" + "measure" + "one who practices or specializes in" -> "measurer of vision" (representing eyesight specialist who tests vision, prescribes glasses and contact lenses, or optometrist).
+        Literal: measurer of vision
+        Semantic:
+            → eyesight specialist who tests vision
+            → prescribes glasses and contact lenses
+            → optometrist
     },
 
     Optometry : {
-        = opsis + metron
-        = measurement of vision
-        → science of measuring/testing eyesight
-        → optometry
+        Breakdown: Optometry = opsis (vision, sight) + metron (measure, measurement)
+        Synthesis: "vision" + "measure" -> "measurement of vision" (representing science of measuring/testing eyesight, or optometry).
+        Literal: measurement of vision
+        Semantic:
+            → science of measuring/testing eyesight
+            → optometry
     },
-}
 
+}
 
 OPULUS ("wealthy", "rich") {
 
     Opulence : {
-        = opulus + ence
-        = state of wealth
-        → luxury
-        → immense riches
+        Breakdown: Opulence = opulus (wealthy, rich) + ence (state or quality of)
+        Synthesis: "wealthy" + "state or quality of" -> "state of wealth" (representing luxury, or immense riches).
+        Literal: state of wealth
+        Semantic:
+            → luxury
+            → immense riches
     },
 
     Opulent : {
-        = opulus + ent
-        = possessing great wealth
-        → luxurious
-        → affluent
+        Breakdown: Opulent = opulus (wealthy, rich) + ent
+        Synthesis: "wealthy" + "ent" -> "possessing great wealth" (representing luxurious, or affluent).
+        Literal: possessing great wealth
+        Semantic:
+            → luxurious
+            → affluent
     },
-}
 
+}
 
 OPUS ("work") {
 
     Cooperative : {
-        = co + oper + ative
-        = working together
-        → collaborative
+        Breakdown: Cooperative = co (with, together) + oper + ative
+        Synthesis: "with" + "oper" + "ative" -> "working together" (representing collaborative).
+        Literal: working together
+        Semantic:
+            → collaborative
     },
 
     Magnum Opus : {
-        = magnus + opus
-        = great work
-        → masterpiece
-        → greatest achievement
+        Breakdown: Magnum Opus = magnus (great, large) + opus (work)
+        Synthesis: "great" + "work" -> "great work" (representing masterpiece, or greatest achievement).
+        Literal: great work
+        Semantic:
+            → masterpiece
+            → greatest achievement
     },
 
     Operate : {
-        = opus → oper
-        = perform work
-        → function
-        → carry out action
+        Breakdown: Operate = Operate (perform work; function; carry out action)
+        Synthesis: "perform work" -> "opus → oper" (representing function, or carry out action).
+        Literal: opus → oper
+        Semantic:
+            → function
+            → carry out action
     },
 
     Operation : {
-        = operate + ion
-        = act of working
-        → procedure
-        → performance
+        Breakdown: Operation = operate (perform work; function; carry out action) + ion (act, process, or result of)
+        Synthesis: "perform work" + "act" -> "act of working" (representing procedure, or performance).
+        Literal: act of working
+        Semantic:
+            → procedure
+            → performance
     },
 
     Operator : {
-        = operate + or
-        = one who works
-        → performer
-        → controller of operations
+        Breakdown: Operator = operate (perform work; function; carry out action) + or
+        Synthesis: "perform work" + "or" -> "one who works" (representing performer, or controller of operations).
+        Literal: one who works
+        Semantic:
+            → performer
+            → controller of operations
     },
 
     Opus : {
-        = opus
-        = work
-        → artistic composition
+        Breakdown: Opus = opus (work)
+        Synthesis: "work" -> "work" (representing artistic composition).
+        Literal: work
+        Semantic:
+            → artistic composition
     },
-}
 
+}
 
 ORTHOS ("straight", "correct") {
 
     Orthodontia / Orthodontics : {
-        = orthos + odontos (tooth)
-        = making teeth straight
-        → correction of tooth alignment
-        → orthodontia / orthodontics
+        Breakdown: Orthodontia / Orthodontics = orthos (straight, correct) + odontos (tooth)
+        Synthesis: "straight" + "tooth" -> "making teeth straight" (representing correction of tooth alignment, or orthodontia / orthodontics).
+        Literal: making teeth straight
+        Semantic:
+            → correction of tooth alignment
+            → orthodontia / orthodontics
     },
 
     Orthodontist : {
-        = orthos + odontos + ist
-        = straight-tooth specialist
-        → specialist who corrects tooth alignment
-        → orthodontist
+        Breakdown: Orthodontist = orthos (straight, correct) + odontos (tooth) + ist (one who practices or specializes in)
+        Synthesis: "straight" + "tooth" + "one who practices or specializes in" -> "straight-tooth specialist" (representing specialist who corrects tooth alignment, or orthodontist).
+        Literal: straight-tooth specialist
+        Semantic:
+            → specialist who corrects tooth alignment
+            → orthodontist
     },
 
     Orthography : {
-        = orthos + graphein (to write)
-        = correct writing
-        → correct spelling and writing
-        → orthography
+        Breakdown: Orthography = orthos (straight, correct) + graphein (to write) (to write)
+        Synthesis: "straight" + "to write" -> "correct writing" (representing correct spelling and writing, or orthography).
+        Literal: correct writing
+        Semantic:
+            → correct spelling and writing
+            → orthography
     },
 
     Orthopedics : {
-        = orthos + pais (child)
-        = straight child
-        → correction of bodily deformities
-        → orthopedics
+        Breakdown: Orthopedics = orthos (straight, correct) + pais (child)
+        Synthesis: "straight" + "child" -> "straight child" (representing correction of bodily deformities, or orthopedics).
+        Literal: straight child
+        Semantic:
+            → correction of bodily deformities
+            → orthopedics
     },
 
     Orthopedist : {
-        = orthos + pais + ist
-        = specialist in correcting deformities
-        → orthopedist
+        Breakdown: Orthopedist = orthos (straight, correct) + pais (child) + ist (one who practices or specializes in)
+        Synthesis: "straight" + "child" + "one who practices or specializes in" -> "specialist in correcting deformities" (representing orthopedist).
+        Literal: specialist in correcting deformities
+        Semantic:
+            → orthopedist
     },
-}
 
+}
 
 OSCILLUM ("swing", "little swing") {
 
     Oscillate : {
-        = oscillum + ate
-        = swing like a pendulum
-        → move back and forth
-        → fluctuate
+        Breakdown: Oscillate = oscillum (swing, little swing) + ate (to make, cause, or have the state of)
+        Synthesis: "swing" + "to make" -> "swing like a pendulum" (representing move back and forth, or fluctuate).
+        Literal: swing like a pendulum
+        Semantic:
+            → move back and forth
+            → fluctuate
     },
 
     Oscillation : {
-        = oscillate + ion
-        = repeated swinging movement
-        → fluctuation
-        → back-and-forth motion
+        Breakdown: Oscillation = oscillate (swing like a pendulum; move back and forth; fluctuate) + ion (act, process, or result of)
+        Synthesis: "swing like a pendulum" + "act" -> "repeated swinging movement" (representing fluctuation, or back-and-forth motion).
+        Literal: repeated swinging movement
+        Semantic:
+            → fluctuation
+            → back-and-forth motion
     },
 
     Oscillatory : {
-        = oscillate + ory
-        = characterized by repeated swinging
-        → fluctuating
+        Breakdown: Oscillatory = oscillate (swing like a pendulum; move back and forth; fluctuate) + ory (relating to, serving for, or place for)
+        Synthesis: "swing like a pendulum" + "relating to" -> "characterized by repeated swinging" (representing fluctuating).
+        Literal: characterized by repeated swinging
+        Semantic:
+            → fluctuating
     },
-}
 
+}
 
 OSTEON ("bone") {
 
     Osteopath : {
-        = osteon + pathos
-        = bone disease specialist
-        → practitioner using manipulation and massage
+        Breakdown: Osteopath = osteon (bone) + pathos (suffering, disease, feeling)
+        Synthesis: "bone" + "suffering" -> "bone disease specialist" (representing practitioner using manipulation and massage).
+        Literal: bone disease specialist
+        Semantic:
+            → practitioner using manipulation and massage
     },
 
     Osteopathic : {
-        = osteopathy + ic
-        = relating to osteopathy
+        Breakdown: Osteopathic = osteopathy (bone-related disease/suffering condition; osteopathic medicine) + ic (pertaining to or relating to)
+        Synthesis: "bone-related disease/suffering condition" + "pertaining to or relating to" -> "relating to osteopathy".
+        Literal: relating to osteopathy
     },
 
     Osteopathy : {
-        = osteon + pathos
-        = treatment based on skeletal relationships
-        → osteopathic medicine
+        Breakdown: Osteopathy = osteon (bone) + pathos (suffering, disease, feeling) + y (state, quality, or condition)
+        Synthesis: "bone" + "suffering" + "state" -> "treatment based on skeletal relationships" (representing osteopathic medicine).
+        Literal: treatment based on skeletal relationships
+        Semantic:
+            → osteopathic medicine
     },
-}
 
+}
 
 OVUM ("egg") {
 
     Oval : {
-        = ovum + al
-        = egg-shaped
-        → elliptical
+        Breakdown: Oval = ovum (egg) + al (pertaining to or relating to)
+        Synthesis: "egg" + "pertaining to or relating to" -> "egg-shaped" (representing elliptical).
+        Literal: egg-shaped
+        Semantic:
+            → elliptical
     },
 
     Ovarian : {
-        = ovary + an
-        = relating to the ovary
+        Breakdown: Ovarian = ovary (egg-producing organ; female reproductive gland) + an (not, without)
+        Synthesis: "egg-producing organ" + "not" -> "relating to the ovary".
+        Literal: relating to the ovary
     },
 
     Ovary : {
-        = ovum + ary
-        = egg-producing organ
-        → female reproductive gland
+        Breakdown: Ovary = ovum (egg) + ary
+        Synthesis: "egg" + "ary" -> "egg-producing organ" (representing female reproductive gland).
+        Literal: egg-producing organ
+        Semantic:
+            → female reproductive gland
     },
 
     Oviparous : {
-        = ovum + parous
-        = producing eggs
-        → laying eggs
+        Breakdown: Oviparous = ovum (egg) + parous
+        Synthesis: "egg" + "parous" -> "producing eggs" (representing laying eggs).
+        Literal: producing eggs
+        Semantic:
+            → laying eggs
     },
 
     Ovoid : {
-        = ovum + oid
-        = resembling an egg
-        → egg-shaped form
+        Breakdown: Ovoid = ovum (egg) + oid (resembling or like)
+        Synthesis: "egg" + "resembling or like" -> "resembling an egg" (representing egg-shaped form).
+        Literal: resembling an egg
+        Semantic:
+            → egg-shaped form
     },
 
     Ovulation : {
-        = ovule + ation
-        = release of an egg
-        → egg production cycle
+        Breakdown: Ovulation = ovule (little egg; immature egg cell) + ation (act, process, or result of)
+        Synthesis: "little egg" + "act" -> "release of an egg" (representing egg production cycle).
+        Literal: release of an egg
+        Semantic:
+            → egg production cycle
     },
 
     Ovule : {
-        = ovum + ule
-        = little egg
-        → immature egg cell
+        Breakdown: Ovule = ovum (egg) + ule
+        Synthesis: "egg" + "ule" -> "little egg" (representing immature egg cell).
+        Literal: little egg
+        Semantic:
+            → immature egg cell
     },
+
 }

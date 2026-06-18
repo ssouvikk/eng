@@ -1,96 +1,122 @@
 KAKOS ("bad", "ugly", "harsh") {
 
     Cacographer : {
-        = kakos + graphein + er
-        = writer of bad handwriting
-        → poor writer; one whose handwriting is illegible
+        Breakdown: Cacographer = kakos (bad, ugly, harsh) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "bad" + "to write" + "one who or person/thing that does" -> "writer of bad handwriting" (representing poor writer; one whose handwriting is illegible).
+        Literal: writer of bad handwriting
+        Semantic:
+            → poor writer; one whose handwriting is illegible
     },
 
     Cacographic : {
-        = kakos + graphein + ic
-        = pertaining to bad writing
-        → marked by poor or illegible handwriting
+        Breakdown: Cacographic = kakos (bad, ugly, harsh) + graphein (to write) + ic (pertaining to or relating to)
+        Synthesis: "bad" + "to write" + "pertaining to or relating to" -> "pertaining to bad writing" (representing marked by poor or illegible handwriting).
+        Literal: pertaining to bad writing
+        Semantic:
+            → marked by poor or illegible handwriting
     },
 
     Cacography : {
-        = kakos + graphein
-        = bad writing
-        → illegible or poor handwriting
+        Breakdown: Cacography = kakos (bad, ugly, harsh) + graphein (to write)
+        Synthesis: "bad" + "to write" -> "bad writing" (representing illegible or poor handwriting).
+        Literal: bad writing
+        Semantic:
+            → illegible or poor handwriting
     },
 
     Cacophonous : {
-        = kakos + phone + ous
-        = unpleasant in sound
+        Breakdown: Cacophonous = cacophony (bad sound; harsh noise; discordant sound) + ous (characterized by or full of)
+        Synthesis: "bad sound" + "characterized by or full of" -> "unpleasant in sound".
+        Literal: unpleasant in sound
     },
 
     Cacophony : {
-        = kakos + phone
-        = bad sound
-        → harsh noise
+        Breakdown: Cacophony = kakos (bad, ugly, harsh) + phone (sound)
+        Synthesis: "bad" + "sound" -> "bad sound" (representing harsh noise).
+        Literal: bad sound
+        Semantic:
+            → harsh noise
     },
-}
 
+}
 
 KALLOS ("beauty") {
 
     Calligrapher : {
-        = kallos + graphein + er
-        = artist of beautiful writing
+        Breakdown: Calligrapher = kallos (beauty) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "beauty" + "to write" + "one who or person/thing that does" -> "artist of beautiful writing".
+        Literal: artist of beautiful writing
     },
 
     Calligraphic : {
-        = calligraphy + ic
-        = pertaining to beautiful writing
-        → artistic handwriting
+        Breakdown: Calligraphic = calligraphy (beautiful writing; artistic handwriting / artistic penmanship) + ic (pertaining to or relating to)
+        Synthesis: "beautiful writing" + "pertaining to or relating to" -> "pertaining to beautiful writing" (representing artistic handwriting).
+        Literal: pertaining to beautiful writing
+        Semantic:
+            → artistic handwriting
     },
 
     Calligraphy : {
-        = kallos + graphein
-        = beautiful writing
-        → artistic handwriting / artistic penmanship
+        Breakdown: Calligraphy = kallos (beauty) + graphein (to write)
+        Synthesis: "beauty" + "to write" -> "beautiful writing" (representing artistic handwriting / artistic penmanship).
+        Literal: beautiful writing
+        Semantic:
+            → artistic handwriting / artistic penmanship
     },
-}
 
+}
 
 KARDIA ("heart") {
 
     Cardiac : {
-        = kardia + ac
-        = relating to the heart
+        Breakdown: Cardiac = kardia (heart) + ac (to or toward)
+        Synthesis: "heart" + "to or toward" -> "relating to the heart".
+        Literal: relating to the heart
     },
 
     Cardiogram : {
-        = kardia + gramma
-        = heart record
-        → tracing of heart activity
+        Breakdown: Cardiogram = kardia (heart) + gramma
+        Synthesis: "heart" + "gramma" -> "heart record" (representing tracing of heart activity).
+        Literal: heart record
+        Semantic:
+            → tracing of heart activity
     },
 
     Cardiologist : {
-        = kardia + logos + ist
-        = heart specialist
-        → cardiologist
+        Breakdown: Cardiologist = kardia (heart) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "heart" + "study" + "one who practices or specializes in" -> "heart specialist" (representing cardiologist).
+        Literal: heart specialist
+        Semantic:
+            → cardiologist
     },
 
     Cardiology : {
-        = kardia + logos
-        = study of the heart
-        → science of heart diseases
+        Breakdown: Cardiology = kardia (heart) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "heart" + "study" -> "study of the heart" (representing science of heart diseases).
+        Literal: study of the heart
+        Semantic:
+            → science of heart diseases
     },
-}
 
+}
 
 KENTRON ("center", "sharp point") {
 
     Eccentric : {
-        = ec + kentron
-        = out of the center
-        → deviating from normal position
-        → unconventional person
+        Breakdown: Eccentric = ec (out) + kentron (center, sharp point)
+        Synthesis: "out" + "center" -> "out of the center" (representing deviating from normal position, or unconventional person).
+        Literal: out of the center
+        Semantic:
+            → deviating from normal position
+            → unconventional person
     },
 
     Eccentricity : {
-        = eccentric + ity
-        = state of being off-center
-        → odd behavior
+        Breakdown: Eccentricity = eccentric (out of the center; deviating from normal position; unconventional person) + ity (state, quality, or condition)
+        Synthesis: "out of the center" + "state" -> "state of being off-center" (representing odd behavior).
+        Literal: state of being off-center
+        Semantic:
+            → odd behavior
     },
+
 }

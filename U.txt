@@ -1,124 +1,154 @@
 URBS ("city") {
 
     Exurb : {
-        = ex + urbs
-        = outside the city
-        → affluent area beyond suburbs
+        Breakdown: Exurb = ex (out) + urbs (city)
+        Synthesis: "out" + "city" -> "outside the city" (representing affluent area beyond suburbs).
+        Literal: outside the city
+        Semantic:
+            → affluent area beyond suburbs
     },
 
     Exurban : {
-        = ex + urbs + an
-        = relating to exurbs
+        Breakdown: Exurban = ex (out) + urbs (city) + an (not, without)
+        Synthesis: "out" + "city" + "not" -> "relating to exurbs".
+        Literal: relating to exurbs
     },
 
     Exurbanite : {
-        = exurban + ite
-        = resident of an exurb
+        Breakdown: Exurbanite = exurban (relating to exurbs) + ite
+        Synthesis: "relating to exurbs" + "ite" -> "resident of an exurb".
+        Literal: resident of an exurb
     },
 
     Exurbia : {
-        = exurb + ia
-        = exurban life and culture
+        Breakdown: Exurbia = exurb (outside the city; affluent area beyond suburbs) + ia
+        Synthesis: "outside the city" + "ia" -> "exurban life and culture".
+        Literal: exurban life and culture
     },
 
     Exurbs : {
-        = exurb + s
-        = regions beyond suburbs
+        Breakdown: Exurbs = exurb (outside the city; affluent area beyond suburbs) + s
+        Synthesis: "outside the city" + "s" -> "regions beyond suburbs".
+        Literal: regions beyond suburbs
     },
 
     Interurban : {
-        = inter + urbs + an
-        = between cities
+        Breakdown: Interurban = inter + urbs (city) + an (not, without)
+        Synthesis: "inter" + "city" + "not" -> "between cities".
+        Literal: between cities
     },
 
     Intraurban : {
-        = intra + urbs + an
-        = within a city
+        Breakdown: Intraurban = intra (inside, within) + urbs (city) + an (not, without)
+        Synthesis: "inside" + "city" + "not" -> "within a city".
+        Literal: within a city
     },
 
     Suburb : {
-        = sub + urbs
-        = near-city settlement
-        → residential community near a city
+        Breakdown: Suburb = sub (under) + urbs (city)
+        Synthesis: "under" + "city" -> "near-city settlement" (representing residential community near a city).
+        Literal: near-city settlement
+        Semantic:
+            → residential community near a city
     },
 
     Suburban : {
-        = sub + urbs + an
-        = near the city
-        → relating to suburbs
+        Breakdown: Suburban = sub (under) + urbs (city) + an (not, without)
+        Synthesis: "under" + "city" + "not" -> "near the city" (representing relating to suburbs).
+        Literal: near the city
+        Semantic:
+            → relating to suburbs
     },
 
     Suburbanite : {
-        = suburban + ite
-        = resident of a suburb
+        Breakdown: Suburbanite = suburban (near the city; relating to suburbs) + ite
+        Synthesis: "near the city" + "ite" -> "resident of a suburb".
+        Literal: resident of a suburb
     },
 
     Suburbia : {
-        = suburb + ia
-        = collective suburbs
-        → suburban life and culture
+        Breakdown: Suburbia = suburb (near-city settlement; residential community near a city) + ia
+        Synthesis: "near-city settlement" + "ia" -> "collective suburbs" (representing suburban life and culture).
+        Literal: collective suburbs
+        Semantic:
+            → suburban life and culture
     },
 
     Urban : {
-        = urbs + an
-        = relating to a city
+        Breakdown: Urban = urbs (city) + an (not, without)
+        Synthesis: "city" + "not" -> "relating to a city".
+        Literal: relating to a city
     },
 
     Urbane : {
-        = urbs + ane
-        = of the city
-        → refined
-        → polished
-        → courteous
-        → sophisticated
+        Breakdown: Urbane = urbs (city) + ane
+        Synthesis: "city" + "ane" -> "of the city" (representing refined, polished, courteous, or sophisticated).
+        Literal: of the city
+        Semantic:
+            → refined
+            → polished
+            → courteous
+            → sophisticated
     },
 
     Urbanity : {
-        = urbane + ity
-        = city-bred polish
-        → sophistication
-        → courtesy
-        → cultivation
+        Breakdown: Urbanity = urbane (of the city; refined; polished; courteous; sophisticated) + ity (state, quality, or condition)
+        Synthesis: "of the city" + "state" -> "city-bred polish" (representing sophistication, courtesy, or cultivation).
+        Literal: city-bred polish
+        Semantic:
+            → sophistication
+            → courtesy
+            → cultivation
     },
 
     Urbanization : {
-        = urbanize + ation
-        = process of becoming urban
+        Breakdown: Urbanization = urbanize (make city-like; develop urban characteristics) + ation (act, process, or result of)
+        Synthesis: "make city-like" + "act" -> "process of becoming urban".
+        Literal: process of becoming urban
     },
 
     Urbanize : {
-        = urban + ize
-        = make city-like
-        → develop urban characteristics
+        Breakdown: Urbanize = urban (city) + ize (to make, treat, or combine with)
+        Synthesis: "city" + "to make" -> "make city-like" (representing develop urban characteristics).
+        Literal: make city-like
+        Semantic:
+            → develop urban characteristics
     },
-}
 
+}
 
 URSUS ("bear") {
 
     Ursine : {
-        = ursus + ine
-        = like a bear
-        → bearlike
-        → rough
-        → heavy
+        Breakdown: Ursine = ursus (bear) + ine (like, similar to, characteristic of)
+        Synthesis: "bear" + "like" -> "like a bear" (representing bearlike, rough, or heavy).
+        Literal: like a bear
+        Semantic:
+            → bearlike
+            → rough
+            → heavy
     },
-}
 
+}
 
 UXOR (wife) {
 
     Uxorial : {
-        = uxor + ial
-        = pertaining to a wife
-        → wife-related
+        Breakdown: Uxorial = uxor (wife) + ial (pertaining to or relating to)
+        Synthesis: "wife" + "pertaining to or relating to" -> "pertaining to a wife" (representing wife-related).
+        Literal: pertaining to a wife
+        Semantic:
+            → wife-related
     },
 
     Uxorious : {
-        = uxor + ious
-        = wife-oriented
-        → excessively devoted to wife
-        → foolishly doting husband
-        → doting husband
+        Breakdown: Uxorious = uxor (wife) + ious
+        Synthesis: "wife" + "ious" -> "wife-oriented" (representing excessively devoted to wife, foolishly doting husband, or doting husband).
+        Literal: wife-oriented
+        Semantic:
+            → excessively devoted to wife
+            → foolishly doting husband
+            → doting husband
     },
+
 }
