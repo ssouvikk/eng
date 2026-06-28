@@ -3,20 +3,39 @@ GEN / GNAT / GON (birth, origin, production, race, kind, lineage)
 =================================================================
 
 gene → unit of inheritance
-genesis → beginning
+genus → kind
+genesis → beginning, origin
 generate → produce
-generation → produced group
+generation → production; produced group
+generator → one who produces
 genetic → relating to inheritance
+genetics → study of inheritance
+geneticist → one who studies inheritance
 genealogy → study of lineage
-congenital → born with
-indigenous → born in a place
-homogeneous → same kind
-heterogeneous → different kinds
-regenerate → produce again
-ingenious / genius → inborn talent
+genealogist → one who studies lineage
+progenitor → ancestor
+progeny → offspring
+congenital → existing from birth; born with
+genital → relating to reproduction
+genitourinary → relating to reproduction and urinary organs
+genitive → relating to birth or origin
+indigenous → born in a place; native
 genuine → true to its original nature
-
-
+regenerate → renew, restore, produce again, grow again
+progenerate → produce from one's ancestors
+homogeneous → of the same kind
+heterogeneous → of different kinds
+degenerate → become worse, decay
+genius / ingenious → inborn talent; naturally clever
+genial → cheerful and friendly
+geniality → cheerfulness and friendliness
+genteel → polite and well-bred
+indignation → resentment
+generation gap → gap between generations
+generations → groups of people born during the same period
+generational → relating to generations
+agnate → one who is related by blood through the male line
+cognate → one who is related by blood through the female line
 
 =================================================================
 
@@ -140,3 +159,9 @@ congenital : {
 },
 
 
+genus : {
+    gen (birth, origin, production)
+    "birth/origin"
+        → literal: unit of origin or production
+        → actual: group of related organisms
+}
