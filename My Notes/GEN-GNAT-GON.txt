@@ -1,5 +1,7 @@
 =================================================================
-GEN / GNAT / GON (birth, origin, production, race, kind, lineage)
+GEN → birth, produce, kind (generate, genesis, genetics)
+GENIT → birth, beget (genital, congenital, progenitor)
+GNAT / GNOS → born, known by birth/kinship (agnate, cognate)
 =================================================================
 
 gene → unit of inheritance
@@ -57,9 +59,6 @@ agnate → relative through the male line
 agnatic → relating to male-line descent
 cognate → related by common origin
 cognation → blood relationship; kinship
-
-gonad → reproductive organ
-gonadal → relating to reproductive organs
 
 =================================================================
 
@@ -349,17 +348,3 @@ cognation : {
         → literal: state of shared descent
         → actual: kinship; blood relationship
 },
-
-gonad : {
-    gon (seed, generation, reproduction) + ad
-    "generation"
-        → literal: organ of reproduction
-        → actual: ovary or testis
-},
-
-gonadal : {
-    gonad + al
-    "reproductive organ"
-        → literal: relating to gonads
-        → actual: concerning ovaries or testes
-}
