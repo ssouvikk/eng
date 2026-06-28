@@ -28,9 +28,10 @@ victuals → provisions
 
 invincible : {
     in (not) + vinc (conquer) + ible (able)
-    "not able to be conquered"
-        → literal: impossible to defeat
-        → actual: unconquerable; unbeatable
+    semantic :
+        → not able to be conquered
+        → impossible to defeat
+        → unconquerable; unbeatable
 }
 
 invincibility : {
