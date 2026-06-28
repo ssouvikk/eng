@@ -25,7 +25,6 @@ victuals → provisions
 
 ==========================================================================
 
-
 invincible : {
     in (not) + vinc (conquer) + ible (able)
     semantic :
@@ -36,136 +35,154 @@ invincible : {
 
 invincibility : {
     invincible + ity (state/quality)
-    "state of being unconquerable"
-        → literal: quality of being impossible to defeat
-        → actual: unconquerable nature
+    semantic :
+        → state of not being conquerable
+        → condition of being impossible to defeat
+        → unconquerable nature
 }
 
 conquer : {
-    from Latin conquirere
-    con (thoroughly) + querere (seek, obtain)
-    "gain completely"
-        → literal: obtain by overcoming resistance
-        → actual: defeat; overcome by force
+    con (thoroughly) + querere (seek, gain)
+    semantic :
+        → gain completely
+        → gain by overcoming resistance
+        → defeat and take control
+    → overcome by force or victory
 }
 
 conqueror : {
     conquer + or (one who)
-    "one who conquers"
-        → literal: one who defeats others
-        → actual: conqueror; winner
+    semantic :
+        → one who conquers
+        → one who defeats opponents
+        → winner; conqueror
 }
 
 conquerable : {
     conquer + able (capable of)
-    "capable of being conquered"
-        → literal: able to be defeated
-        → actual: capable of being overcome
+    semantic :
+        → capable of being conquered
+        → able to be defeated
+        → capable of being overcome
 }
 
 conquered : {
     conquer + ed (past participle)
-    "was conquered"
-        → literal: was defeated
-        → actual: overcome by force
+    semantic :
+        → was conquered
+        → was defeated
+        → overcome by force
 }
 
 evince : {
-    e/ex (out) + vinc (conquer, prove)
-    "bring out by proof"
-        → literal: show clearly through evidence
-        → actual: reveal; demonstrate
+    e/ex (out) + vinc (prove, overcome doubt)
+    semantic :
+        → bring out by proof
+        → show clearly through evidence
+        → reveal; demonstrate
 }
 
 evident : {
-    from Latin evidens
     e/ex (out) + vid (see)
-    "seen clearly"
-        → literal: plainly visible
-        → actual: obvious; apparent
+    semantic :
+        → seen clearly
+        → plainly visible
+        → obvious; apparent
 }
 
 victor : {
     vict (conquer) + or (one who)
-    "one who conquers"
-        → literal: one who defeats others
-        → actual: winner
+    semantic :
+        → one who conquers
+        → one who defeats others
+        → winner
 }
 
 victorious : {
     victor (winner) + ious (full of)
-    "full of victory"
-        → literal: characterized by winning
-        → actual: triumphant
+    semantic :
+        → full of victory
+        → characterized by success in battle or contest
+        → triumphant
 }
 
 victory : {
     vict (conquer) + ory (state/result)
-    "state of having conquered"
-        → literal: result of winning
-        → actual: triumph
+    semantic :
+        → state of having conquered
+        → successful defeat of an opponent
+        → triumph
 }
 
 victimize : {
     victim + ize (make)
-    "make a victim"
-        → literal: cause someone to suffer
-        → actual: make a victim of
+    semantic :
+        → make into a victim
+        → cause to suffer harm or injustice
+        → make a victim of
 }
 
 victim : {
-    from Latin victima (sacrificial victim)
-    "one sacrificed or harmed"
-        → literal: one subjected to suffering
-        → actual: sufferer
+    Latin victima (sacrificial offering)
+    semantic :
+        → sacrificial being
+        → one subjected to harm or loss
+        → sufferer
 }
 
 convince : {
     con (thoroughly) + vinc (conquer)
-    "conquer thoroughly"
-        → literal: overcome someone's doubts
-        → actual: persuade strongly
+    semantic :
+        → conquer thoroughly
+        → overcome resistance or doubt
+        → persuade strongly
 }
 
 convincing : {
     convince + ing (causing)
-    "causing conviction"
-        → literal: causing someone to be persuaded
-        → actual: persuasive
+    semantic :
+        → causing someone to be convinced
+        → overcoming doubt
+        → persuasive
 }
 
 conviction : {
     convince + tion (state/act)
-    "state of being convinced"
-        → literal: condition of being persuaded
-        → actual: firm belief
+    semantic :
+        → state of being convinced
+        → settled belief after persuasion
+        → firm belief
 }
 
 convict : {
     con (thoroughly) + vict (prove, conquer)
-    "prove thoroughly guilty"
-        → literal: overcome with evidence
-        → actual: find guilty; criminal
+    semantic :
+        → prove thoroughly guilty
+        → establish guilt by evidence
+        → find guilty of a crime
+        → person found guilty of a crime
 }
 
 vanquish : {
-    from Old French vainquiss-
-    ultimately from Latin vincere (conquer)
-    "conquer completely"
-        → literal: defeat decisively
-        → actual: vanquish; overcome
+    from Latin vincere (conquer)
+    semantic :
+        → conquer completely
+        → defeat thoroughly
+        → defeat decisively
 }
 
 victual : {
     from Latin victus (food, nourishment)
-    "that which sustains life"
-        → literal: food supply
-        → actual: provision of food
+    semantic :
+        → that which sustains life
+        → food supply
+        → provision of food
 }
 
 victuals : {
     victual + s
-    "food provisions"
-        → literal: supplies for nourishment
-        → actual: provisions
+    semantic :
+        → food supplies
+        → provisions for sustenance
+        → provisions
 }
