@@ -1,0 +1,142 @@
+=================================================================
+GEN / GNAT / GON (birth, origin, production, race, kind, lineage)
+=================================================================
+
+gene → unit of inheritance
+genesis → beginning
+generate → produce
+generation → produced group
+genetic → relating to inheritance
+genealogy → study of lineage
+congenital → born with
+indigenous → born in a place
+homogeneous → same kind
+heterogeneous → different kinds
+regenerate → produce again
+ingenious / genius → inborn talent
+genuine → true to its original nature
+
+
+
+=================================================================
+
+genea : {
+    gene (birth/origin) + a (ancestry/lineage)
+    "birth/origin" + "ancestry"
+        → literal: ancestry traced to an origin
+        → actual: ancestry; family descent
+},
+
+genealogy : {
+    genea (ancestry) + logy (study of)
+    "ancestry" + "study of"
+        → literal: study of ancestry
+        → actual: study of family history and descent
+},
+
+genealogical : {
+    genealogy + ical (relating to)
+    "study of ancestry" + "relating to"
+        → literal: relating to the study of ancestry
+        → actual: relating to family lineage or genealogy
+},
+
+generate : {
+    gen (produce, bring forth) + ate (make/do)
+    "produce" + "make"
+        → literal: to bring forth or produce
+        → actual: to create, produce, or cause to exist
+},
+
+genesis : {
+    gen (birth/origin) + sis (state, process, result)
+    "birth" + "state/process"
+        → literal: state or process of coming into being
+        → actual: origin, beginning, creation
+},
+
+generation : {
+    gener (produce, beget) + ation (act/process/result)
+    "produce" + "act/process"
+        → literal: act or process of producing
+        → actual: production; a group born during the same period
+},
+
+genius : {
+    gen (be born, bring forth) + ius
+    "birth/origin"
+        → literal: an inborn guiding spirit
+        → actual: exceptional natural ability or intellect
+},
+
+congenital : {
+    con (with) + genit (birth) + al (relating to)
+    "with" + "birth" + "relating to"
+        → literal: relating to something present at birth
+        → actual: existing from birth
+},
+
+genetic : {
+    genet (origin, production) + ic (relating to)
+    "origin" + "relating to"
+        → literal: relating to origin or inheritance
+        → actual: relating to genes and heredity
+},
+
+gene : {
+    gene (birth, origin, production)
+    "birth/origin"
+        → literal: unit of origin or inheritance
+        → actual: basic unit of heredity
+},
+
+homogeneous : {
+    homo (same) + gen (kind, race) + eous (characterized by)
+    "same" + "kind"
+        → literal: of the same kind
+        → actual: uniform throughout
+},
+
+heterogeneous : {
+    hetero (different) + gen (kind, race) + eous (characterized by)
+    "different" + "kind"
+        → literal: of different kinds
+        → actual: composed of unlike elements
+},
+
+indigenous : {
+    indi (in, within) + gen (born) + ous (characterized by)
+    "born within"
+        → literal: born in a place
+        → actual: native to a particular region
+},
+
+regenerate : {
+    re (again) + generate (produce)
+    "again" + "produce"
+        → literal: produce again
+        → actual: renew, restore, or grow again
+},
+
+ingenious : {
+    in + gen (inborn, natural) + ious (characterized by)
+    "inborn" + "characterized by"
+        → literal: characterized by natural talent
+        → actual: clever, inventive, resourceful
+},
+
+genuine : {
+    genuinus (native, natural, authentic)
+    "native/original"
+        → literal: true to its origin
+        → actual: authentic; real; not counterfeit
+}
+
+congenital : {
+    con (with) + genit (birth) + al (relating to)
+    "with" + "birth" + "relating to"
+        → literal: relating to something present at birth
+        → actual: existing from birth
+},
+
+
