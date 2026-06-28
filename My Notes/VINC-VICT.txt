@@ -1,5 +1,5 @@
 ==========================================================================
-VINC/VICT → conquer, overcome (conquer, victor, overcome, defeat, victory)
+VINC / VICT → conquer, overcome, defeat, win
 ==========================================================================
 
 invincible → unconquerable; unbeatable
@@ -23,6 +23,8 @@ vanquish → conquer or defeat
 victual → provision of food
 victuals → provisions
 
+==========================================================================
+
 
 invincible : {
     in (not) + vinc (conquer) + ible (able)
@@ -39,17 +41,18 @@ invincibility : {
 }
 
 conquer : {
-    con (thoroughly) + quer (seek out/attack)
-    "attack thoroughly"
-        → literal: seek out and overcome
+    from Latin conquirere
+    con (thoroughly) + querere (seek, obtain)
+    "gain completely"
+        → literal: obtain by overcoming resistance
         → actual: defeat; overcome by force
 }
 
 conqueror : {
     conquer + or (one who)
     "one who conquers"
-        → literal: one who thoroughly defeats
-        → actual: winner; conqueror
+        → literal: one who defeats others
+        → actual: conqueror; winner
 }
 
 conquerable : {
@@ -60,16 +63,31 @@ conquerable : {
 }
 
 conquered : {
-    conquer + ed (past tense)
+    conquer + ed (past participle)
     "was conquered"
         → literal: was defeated
         → actual: overcome by force
 }
 
+evince : {
+    e/ex (out) + vinc (conquer, prove)
+    "bring out by proof"
+        → literal: show clearly through evidence
+        → actual: reveal; demonstrate
+}
+
+evident : {
+    from Latin evidens
+    e/ex (out) + vid (see)
+    "seen clearly"
+        → literal: plainly visible
+        → actual: obvious; apparent
+}
+
 victor : {
     vict (conquer) + or (one who)
     "one who conquers"
-        → literal: one who defeats
+        → literal: one who defeats others
         → actual: winner
 }
 
@@ -81,71 +99,72 @@ victorious : {
 }
 
 victory : {
-    vict (conquer) + ory (result/state)
+    vict (conquer) + ory (state/result)
     "state of having conquered"
-        → literal: result of conquest
+        → literal: result of winning
         → actual: triumph
 }
 
 victimize : {
-    victim (one who suffers) + ize (make)
+    victim + ize (make)
     "make a victim"
-        → literal: make someone suffer
+        → literal: cause someone to suffer
         → actual: make a victim of
 }
 
 victim : {
-    vict (conquer) + im
-    "one who is conquered"
-        → literal: one who is defeated
+    from Latin victima (sacrificial victim)
+    "one sacrificed or harmed"
+        → literal: one subjected to suffering
         → actual: sufferer
 }
 
 convince : {
-    con (thoroughly) + vinc (conquer) + e
-    "thoroughly overcome by argument"
-        → literal: conquer with reasoning
+    con (thoroughly) + vinc (conquer)
+    "conquer thoroughly"
+        → literal: overcome someone's doubts
         → actual: persuade strongly
 }
 
 convincing : {
     convince + ing (causing)
-    "causing to be conquered"
-        → literal: causing to be persuaded
+    "causing conviction"
+        → literal: causing someone to be persuaded
         → actual: persuasive
 }
 
 conviction : {
     convince + tion (state/act)
     "state of being convinced"
-        → literal: state of being persuaded
+        → literal: condition of being persuaded
         → actual: firm belief
 }
 
 convict : {
-    con (thoroughly) + vict (conquer/prove guilty)
+    con (thoroughly) + vict (prove, conquer)
     "prove thoroughly guilty"
-        → literal: overcome with proof of guilt
-        → actual: find guilty
+        → literal: overcome with evidence
+        → actual: find guilty; criminal
 }
 
 vanquish : {
-    van (empty) + quish (conquer) → from OF 
-    "conquer and empty"
-        → literal: conquer to the point of emptiness
-        → actual: defeat decisively
+    from Old French vainquiss-
+    ultimately from Latin vincere (conquer)
+    "conquer completely"
+        → literal: defeat decisively
+        → actual: vanquish; overcome
 }
 
 victual : {
-    vinc (nourish) + ual
-    "that which nourishes"
-        → literal: provider of food
-        → actual: food provision
+    from Latin victus (food, nourishment)
+    "that which sustains life"
+        → literal: food supply
+        → actual: provision of food
 }
 
 victuals : {
     victual + s
-    "provisions"
-        → literal: food supplies
+    "food provisions"
+        → literal: supplies for nourishment
         → actual: provisions
 }

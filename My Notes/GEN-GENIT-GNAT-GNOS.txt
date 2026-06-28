@@ -1,7 +1,7 @@
 =================================================================
-GEN → birth, produce, kind (generate, genesis, genetics)
-GENIT → birth, beget (genital, congenital, progenitor)
-GNAT / GNOS → born, known by birth/kinship (agnate, cognate)
+GEN → birth, produce, kind
+GENIT → birth, beget
+GNAT / GNOS → born, known by birth/kinship
 =================================================================
 
 gene → unit of inheritance
