@@ -1,0 +1,878 @@
+CADO ("to fall") {
+
+    Cadaverous : {
+        Breakdown: Cadaverous = cado (to fall) + aver + ous (characterized by or full of)
+        Synthesis: "to fall" + "aver" + "characterized by or full of" -> "like one who has fallen in death" (representing corpse-like, gaunt, haggard, or pale).
+        Literal: like one who has fallen in death
+        Semantic:
+            → corpse-like
+            → gaunt
+            → haggard
+            → pale
+    },
+
+    Cadaver : {
+        Breakdown: Cadaver = cado (to fall) + aver
+        Synthesis: "to fall" + "aver" -> "fallen body" (representing corpse).
+        Literal: fallen body
+        Semantic:
+            → corpse
+    },
+
+    Decadent : {
+        Breakdown: Decadent = de (down, away, from) + cado (to fall)
+        Synthesis: "down" + "to fall" -> "falling down" (representing morally declining, corrupt, or deteriorating).
+        Literal: falling down
+        Semantic:
+            → morally declining
+            → corrupt
+            → deteriorating
+    },
+
+    Decadence : {
+        Breakdown: Decadence = de (down, away, from) + cado (to fall) + ence (state or quality of)
+        Synthesis: "down" + "to fall" + "state or quality of" -> "state of falling down" (representing moral decay, or spiritual decline).
+        Literal: state of falling down
+        Semantic:
+            → moral decay
+            → spiritual decline
+    },
+
+    Cadence : {
+        Breakdown: Cadence = cado (to fall) + ence (state or quality of)
+        Synthesis: "to fall" + "state or quality of" -> "falling movement" (representing rhythmic fall, or modulation of sound).
+        Literal: falling movement
+        Semantic:
+            → rhythmic fall
+            → modulation of sound
+    },
+
+}
+
+CAEDO / CIDE ("to kill") {
+
+    Fratricide : {
+        Breakdown: Fratricide = frater (brother) + cide (to kill)
+        Synthesis: "brother" + "to kill" -> "brother-killing".
+        Literal: brother-killing
+    },
+
+    Genocide : {
+        Breakdown: Genocide = genos + cide (to kill)
+        Synthesis: "genos" + "to kill" -> "race-killing" (representing mass extermination of a people).
+        Literal: race-killing
+        Semantic:
+            → mass extermination of a people
+    },
+
+    Homicide : {
+        Breakdown: Homicide = homo + cide (to kill)
+        Synthesis: "homo" + "to kill" -> "human-killing".
+        Literal: human-killing
+    },
+
+    Infanticide : {
+        Breakdown: Infanticide = infans + cide (to kill)
+        Synthesis: "infans" + "to kill" -> "baby-killing".
+        Literal: baby-killing
+    },
+
+    Mariticide : {
+        Breakdown: Mariticide = maritus (husband; marriage) + cide (to kill)
+        Synthesis: "husband" + "to kill" -> "husband-killing".
+        Literal: husband-killing
+    },
+
+    Matricide : {
+        Breakdown: Matricide = mater (mother) + cide (to kill)
+        Synthesis: "mother" + "to kill" -> "mother-killing".
+        Literal: mother-killing
+    },
+
+    Parricide : {
+        Breakdown: Parricide = parens + cide (to kill)
+        Synthesis: "parens" + "to kill" -> "parent-killing".
+        Literal: parent-killing
+    },
+
+    Patricide : {
+        Breakdown: Patricide = pater (father) + cide (to kill)
+        Synthesis: "father" + "to kill" -> "father-killing".
+        Literal: father-killing
+    },
+
+    Regicide : {
+        Breakdown: Regicide = rex (king) + cide (to kill)
+        Synthesis: "king" + "to kill" -> "king-killing".
+        Literal: king-killing
+    },
+
+    Sororicide : {
+        Breakdown: Sororicide = soror (sister) + cide (to kill)
+        Synthesis: "sister" + "to kill" -> "sister-killing".
+        Literal: sister-killing
+    },
+
+    Suicidal : {
+        Breakdown: Suicidal = suicide (self-killing) + al (pertaining to or relating to)
+        Synthesis: "self-killing" + "pertaining to or relating to" -> "self-destructive".
+        Literal: self-destructive
+    },
+
+    Suicide : {
+        Breakdown: Suicide = sui (self) + cide (to kill)
+        Synthesis: "self" + "to kill" -> "self-killing" (representing self-destruction).
+        Literal: self-killing
+        Semantic:
+            → self-destruction
+    },
+
+    Uxoricide : {
+        Breakdown: Uxoricide = uxor (wife) + cide (to kill)
+        Synthesis: "wife" + "to kill" -> "wife-killing".
+        Literal: wife-killing
+    },
+
+}
+
+CANIS ("dog") {
+
+    Canine : {
+        Breakdown: Canine = canis (dog) + ine (like, similar to, characteristic of)
+        Synthesis: "dog" + "like" -> "like a dog" (representing doglike, or relating to dogs).
+        Literal: like a dog
+        Semantic:
+            → doglike
+            → relating to dogs
+        Canine Tooth : {
+            Breakdown: Canine Tooth = Canine Tooth (dog tooth; pointed tooth resembling a dog's fang)
+            Synthesis: "dog tooth" -> "dog tooth" (representing pointed tooth resembling a dog's fang).
+            Literal: dog tooth
+            Semantic:
+                → pointed tooth resembling a dog's fang
+        },
+    },
+
+}
+
+CAPUT / CAPIT ("head") {
+
+    Capital : {
+        Breakdown: Capital = caput (head)
+        Synthesis: "head" -> "head" (representing chief, or principal).
+        Literal: head
+        Semantic:
+            → chief
+            → principal
+    },
+
+    Capitol : {
+        Breakdown: Capitol = caput (head)
+        Synthesis: "head" -> "head building" (representing seat of government).
+        Literal: head building
+        Semantic:
+            → seat of government
+    },
+
+    Capitulate : {
+        Breakdown: Capitulate = capit (head)
+        Synthesis: "head" -> "come to terms under headings" (representing surrender, or give in).
+        Literal: come to terms under headings
+        Semantic:
+            → surrender
+            → give in
+    },
+
+    Capitulation : {
+        Breakdown: Capitulation = capitulate (come to terms under headings; surrender; give in) + ion (act, process, or result of)
+        Synthesis: "come to terms under headings" + "act" -> "act of surrender" (representing yielding).
+        Literal: act of surrender
+        Semantic:
+            → yielding
+    },
+
+    Captain : {
+        Breakdown: Captain = caput (head)
+        Synthesis: "head" -> "head person" (representing leader).
+        Literal: head person
+        Semantic:
+            → leader
+    },
+
+    Chief : {
+        Breakdown: Chief = caput (head)
+        Synthesis: "head" -> "head" (representing leader, or principal person).
+        Literal: head
+        Semantic:
+            → leader
+            → principal person
+    },
+
+    Decapitate : {
+        Breakdown: Decapitate = de (down, away, from) + capit (head)
+        Synthesis: "down" + "head" -> "remove the head" (representing behead).
+        Literal: remove the head
+        Semantic:
+            → behead
+    },
+
+    Decapitation : {
+        Breakdown: Decapitation = decapitate (remove the head; behead) + ion (act, process, or result of)
+        Synthesis: "remove the head" + "act" -> "removal of the head" (representing beheading).
+        Literal: removal of the head
+        Semantic:
+            → beheading
+    },
+
+    Recapitulate : {
+        Breakdown: Recapitulate = re (again or back) + capit (head)
+        Synthesis: "again or back" + "head" -> "go through the heads again" (representing review main points, or summarize).
+        Literal: go through the heads again
+        Semantic:
+            → review main points
+            → summarize
+    },
+
+    Recapitulation : {
+        Breakdown: Recapitulation = recapitulate (go through the heads again; review main points; summarize) + ion (act, process, or result of)
+        Synthesis: "go through the heads again" + "act" -> "act of summarizing" (representing review, or summary).
+        Literal: act of summarizing
+        Semantic:
+            → review
+            → summary
+    },
+
+    Recapitulatory : {
+        Breakdown: Recapitulatory = recapitulate (go through the heads again; review main points; summarize) + ory (relating to, serving for, or place for)
+        Synthesis: "go through the heads again" + "relating to" -> "intended for summary" (representing summarizing, or reviewing).
+        Literal: intended for summary
+        Semantic:
+            → summarizing
+            → reviewing
+    },
+
+}
+
+CARO / CARNIS ("flesh", "meat") {
+
+    Carnage : {
+        Breakdown: Carnage = carnis (flesh, meat)
+        Synthesis: "flesh" -> "destruction of flesh" (representing slaughter, or massacre).
+        Literal: destruction of flesh
+        Semantic:
+            → slaughter
+            → massacre
+    },
+
+    Carnal : {
+        Breakdown: Carnal = carnis (flesh, meat) + al (pertaining to or relating to)
+        Synthesis: "flesh" + "pertaining to or relating to" -> "pertaining to flesh" (representing bodily, sensual, or physical).
+        Literal: pertaining to flesh
+        Semantic:
+            → bodily
+            → sensual
+            → physical
+    },
+
+    Carnality : {
+        Breakdown: Carnality = carnal (pertaining to flesh; bodily; sensual; physical) + ity (state, quality, or condition)
+        Synthesis: "pertaining to flesh" + "state" -> "condition of being flesh-oriented" (representing sensuality).
+        Literal: condition of being flesh-oriented
+        Semantic:
+            → sensuality
+    },
+
+    Carnivore : {
+        Breakdown: Carnivore = carnis (flesh, meat) + vorare (to devour)
+        Synthesis: "flesh" + "to devour" -> "flesh eater" (representing meat-eating animal).
+        Literal: flesh eater
+        Semantic:
+            → meat-eating animal
+    },
+
+    Carnivorous : {
+        Breakdown: Carnivorous = carnis (flesh, meat) + vorare (to devour)
+        Synthesis: "flesh" + "to devour" -> "flesh-devouring" (representing meat-eating).
+        Literal: flesh-devouring
+        Semantic:
+            → meat-eating
+    },
+
+    Incarnate : {
+        Breakdown: Incarnate = in (not, in, on, or into) + carnis (flesh, meat)
+        Synthesis: "not" + "flesh" -> "in flesh" (representing embodied in human form).
+        Literal: in flesh
+        Semantic:
+            → embodied in human form
+    },
+
+    Incarnation : {
+        Breakdown: Incarnation = incarnate (in flesh; embodied in human form) + ion (act, process, or result of)
+        Synthesis: "in flesh" + "act" -> "embodiment in flesh" (representing physical manifestation).
+        Literal: embodiment in flesh
+        Semantic:
+            → physical manifestation
+    },
+
+    Reincarnate : {
+        Breakdown: Reincarnate = re (again or back) + incarnate (in flesh; embodied in human form)
+        Synthesis: "again or back" + "in flesh" -> "again in flesh" (representing be reborn).
+        Literal: again in flesh
+        Semantic:
+            → be reborn
+    },
+
+    Reincarnation : {
+        Breakdown: Reincarnation = re (again or back) + in (not, in, on, or into) + carnis (flesh, meat)
+        Synthesis: "again or back" + "not" + "flesh" -> "again into flesh" (representing rebirth, or renewed embodiment).
+        Literal: again into flesh
+        Semantic:
+            → rebirth
+            → renewed embodiment
+    },
+
+}
+
+CASTIGARE ("to punish") {
+
+    Castigate : {
+        Breakdown: Castigate = castigare (to punish)
+        Synthesis: "to punish" -> "punish" (representing scold severely, criticize harshly, or tongue-lash).
+        Literal: punish
+        Semantic:
+            → scold severely
+            → criticize harshly
+            → tongue-lash
+    },
+
+    Castigation : {
+        Breakdown: Castigation = castigate (punish; scold severely; criticize harshly; tongue-lash) + ion (act, process, or result of)
+        Synthesis: "punish" + "act" -> "act of severe punishment" (representing strong censure, or harsh rebuke).
+        Literal: act of severe punishment
+        Semantic:
+            → strong censure
+            → harsh rebuke
+    },
+
+    Castigatory : {
+        Breakdown: Castigatory = castigate (punish; scold severely; criticize harshly; tongue-lash) + ory (relating to, serving for, or place for)
+        Synthesis: "punish" + "relating to" -> "relating to severe criticism" (representing punitive).
+        Literal: relating to severe criticism
+        Semantic:
+            → punitive
+    },
+
+}
+
+CENTRUM ("center") {
+
+    Egocentric : {
+        Breakdown: Egocentric = ego (I or self) + centrum (center)
+        Synthesis: "I or self" + "center" -> "self at the center" (representing self-centered person).
+        Literal: self at the center
+        Semantic:
+            → self-centered person
+    },
+
+}
+
+CHAUVIN ("blind patriot") {
+
+    Chauvinism : {
+        Breakdown: Chauvinism = chauvin (blind patriot) + ism (philosophy, belief, or system of)
+        Synthesis: "blind patriot" + "philosophy" -> "blind patriotism" (representing excessive nationalism, or group superiority).
+        Literal: blind patriotism
+        Semantic:
+            → excessive nationalism
+            → group superiority
+    },
+
+    Chauvinist : {
+        Breakdown: Chauvinist = Chauvinist (blindly patriotic person; extreme nationalist; superpatriot; believer in superiority of own group)
+        Synthesis: "blindly patriotic person" -> "Nicolas Chauvin" (representing extreme nationalist, superpatriot, or believer in superiority of own group).
+        Literal: Nicolas Chauvin
+        Semantic:
+            → extreme nationalist
+            → superpatriot
+            → believer in superiority of own group
+    },
+
+    Chauvinistic : {
+        Breakdown: Chauvinistic = chauvinism (blind patriotism; excessive nationalism; group superiority) + ic (pertaining to or relating to)
+        Synthesis: "blind patriotism" + "pertaining to or relating to" -> "characterized by blind patriotism" (representing fanatically nationalistic).
+        Literal: characterized by blind patriotism
+        Semantic:
+            → fanatically nationalistic
+    },
+
+}
+
+CHEIR ("hand") {
+
+    Chirographer : {
+        Breakdown: Chirographer = cheir (hand) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "hand" + "to write" + "one who or person/thing that does" -> "one skilled in handwriting" (representing handwriting expert, or penmanship specialist).
+        Literal: one skilled in handwriting
+        Semantic:
+            → handwriting expert
+            → penmanship specialist
+    },
+
+    Chirographic : {
+        Breakdown: Chirographic = chirography (hand writing; handwriting) + ic (pertaining to or relating to)
+        Synthesis: "hand writing" + "pertaining to or relating to" -> "pertaining to handwriting".
+        Literal: pertaining to handwriting
+    },
+
+    Chirography : {
+        Breakdown: Chirography = cheir (hand) + graphein (to write)
+        Synthesis: "hand" + "to write" -> "hand writing" (representing handwriting).
+        Literal: hand writing
+        Semantic:
+            → handwriting
+    },
+
+    Chiromancer : {
+        Breakdown: Chiromancer = cheir (hand) + manteia (divination, prophecy, predictor) + er (one who or person/thing that does)
+        Synthesis: "hand" + "divination" + "one who or person/thing that does" -> "palm reader".
+        Literal: palm reader
+    },
+
+    Chiromancy : {
+        Breakdown: Chiromancy = cheir (hand) + manteia (divination, prophecy, predictor)
+        Synthesis: "hand" + "divination" -> "hand divination" (representing palm reading).
+        Literal: hand divination
+        Semantic:
+            → palm reading
+    },
+
+    Chiropody : {
+        Breakdown: Chiropody = cheir (hand) + podos (foot)
+        Synthesis: "hand" + "foot" -> "hand-foot treatment" (representing foot care).
+        Literal: hand-foot treatment
+        Semantic:
+            → foot care
+    },
+
+    Chiropractic : {
+        Breakdown: Chiropractic = cheir (hand) + praktikos (to do, to practice)
+        Synthesis: "hand" + "to do" -> "treatment by hand" (representing spinal manipulation therapy, or manipulation of articulations).
+        Literal: treatment by hand
+        Semantic:
+            → spinal manipulation therapy
+            → manipulation of articulations
+    },
+
+    Chiropractor : {
+        Breakdown: Chiropractor = cheir (hand) + praktikos (to do, to practice)
+        Synthesis: "hand" + "to do" -> "hand practitioner" (representing manipulates spinal joints, or spinal-joint specialist).
+        Literal: hand practitioner
+        Semantic:
+            → manipulates spinal joints
+            → spinal-joint specialist
+    },
+
+}
+
+CHEVAL ("horse") / CABALLUS ("horse") {
+
+    Chivalrous : {
+        Breakdown: Chivalrous = cheval + rous
+        Synthesis: "cheval" + "rous" -> "full of knightly horsemanship" (representing courteous to women, gallant, or protective).
+        Literal: full of knightly horsemanship
+        Semantic:
+            → courteous to women
+            → gallant
+            → protective
+    },
+
+    Chivalry : {
+        Breakdown: Chivalry = cheval + ry
+        Synthesis: "cheval" + "ry" -> "knightly code" (representing gallantry, or courtesy to women).
+        Literal: knightly code
+        Semantic:
+            → gallantry
+            → courtesy to women
+    },
+
+    Chivalric : {
+        Breakdown: Chivalric = cheval + ic (pertaining to or relating to)
+        Synthesis: "cheval" + "pertaining to or relating to" -> "pertaining to chivalry" (representing knightly, or gallant).
+        Literal: pertaining to chivalry
+        Semantic:
+            → knightly
+            → gallant
+    },
+
+    Cavalcade : {
+        Breakdown: Cavalcade = caval + cade
+        Synthesis: "caval" + "cade" -> "horse procession" (representing parade of riders).
+        Literal: horse procession
+        Semantic:
+            → parade of riders
+    },
+
+    Cavalier : {
+        Breakdown: Cavalier = caval + ier
+        Synthesis: "caval" + "ier" -> "horseman/soldier" (representing mounted soldier, haughty, offhand, or highhanded).
+        Literal: horseman/soldier
+        Semantic:
+            → mounted soldier
+            → haughty
+            → offhand
+            → highhanded
+        (adj.)
+    },
+
+    Cavalry : {
+        Breakdown: Cavalry = caval + ry
+        Synthesis: "caval" + "ry" -> "horse soldiers" (representing mounted military force).
+        Literal: horse soldiers
+        Semantic:
+            → mounted military force
+    },
+
+}
+
+CHRONOS ("time") {
+
+    Anachronism : {
+        Breakdown: Anachronism = ana (up, through, apart) + chronos (time) + ism (philosophy, belief, or system of)
+        Synthesis: "up" + "time" + "philosophy" -> "thing out of its proper time" (representing against time, historical mismatch, temporal inconsistency, or something out of its proper period).
+        Literal: thing out of its proper time
+        Semantic:
+            → against time
+            → historical mismatch
+            → temporal inconsistency
+            → something out of its proper period
+    },
+
+    Anachronistic : {
+        Breakdown: Anachronistic = anachronous (against/out of time; belonging to another period; out of time; belonging to another era; temporally misplaced) + tic / anachronism + ic (pertaining to or relating to)
+        Synthesis: "against/out of time" + "tic / anachronism" + "pertaining to or relating to" -> "temporally misplaced" (representing out of proper historical time, anachronism + ic, out of historical time, outdated, or historically misplaced).
+        Literal: temporally misplaced
+        Semantic:
+            → out of proper historical time
+            → anachronism + ic
+            → out of historical time
+            → outdated
+            → historically misplaced
+    },
+
+    Anachronous : {
+        Breakdown: Anachronous = ana (up, through, apart) + chronos (time)
+        Synthesis: "up" + "time" -> "against time" (representing against/out of time, belonging to another period, out of time, belonging to another era, or temporally misplaced).
+        Literal: against time
+        Semantic:
+            → against/out of time
+            → belonging to another period
+            → out of time
+            → belonging to another era
+            → temporally misplaced
+    },
+
+    Chronic : {
+        Breakdown: Chronic = chronos (time) + ic (pertaining to or relating to)
+        Synthesis: "time" + "pertaining to or relating to" -> "continuing through time" (representing pertaining to time, recurring, persistent, continuing over time, recurring repeatedly, or long-lasting).
+        Literal: continuing through time
+        Semantic:
+            → pertaining to time
+            → recurring
+            → persistent
+            → continuing over time
+            → recurring repeatedly
+            → long-lasting
+    },
+
+    Chronicity : {
+        Breakdown: Chronicity = chronic (pertaining to time; recurring; persistent; continuing over time; recurring repeatedly; long-lasting) + ity (state, quality, or condition)
+        Synthesis: "pertaining to time" + "state" -> "state of recurring over time" (representing state of recurring through time, persistence, or long-duration condition).
+        Literal: state of recurring over time
+        Semantic:
+            → state of recurring through time
+            → persistence
+            → long-duration condition
+    },
+
+    Chronicle : {
+        Breakdown: Chronicle = chronos (time) + icle
+        Synthesis: "time" + "icle" -> "record of time" (representing historical account).
+        Literal: record of time
+        Semantic:
+            → historical account
+    },
+
+    Chronological : {
+        Breakdown: Chronological = chronology (study of time order; time sequence; historical order; arrangement of events by dates; arrangement of events by date) + ical (pertaining to or relating to)
+        Synthesis: "study of time order" + "pertaining to or relating to" -> "arranged by time sequence" (representing relating to time sequence, or arranged in historical order).
+        Literal: arranged by time sequence
+        Semantic:
+            → relating to time sequence
+            → arranged in historical order
+    },
+
+    Chronology : {
+        Breakdown: Chronology = chronos (time) + logos (study, science, knowledge, word, reason, speech) / chronos (time) + logy (study, science, knowledge, word, reason, speech)
+        Synthesis: "time" + "time" + "study" -> "study/order of time" (representing chronos + logy, study of time order, time sequence, historical order, arrangement of events by dates, or arrangement of events by date).
+        Literal: study/order of time
+        Semantic:
+            → chronos + logy
+            → study of time order
+            → time sequence
+            → historical order
+            → arrangement of events by dates
+            → arrangement of events by date
+    },
+
+    Chronometer : {
+        Breakdown: Chronometer = chronos (time) + metron (measure, measurement)
+        Synthesis: "time" + "measure" -> "measurer of time" (representing accurate timepiece).
+        Literal: measurer of time
+        Semantic:
+            → accurate timepiece
+    },
+
+    Chronometric : {
+        Breakdown: Chronometric = chronos (time) + metron (measure, measurement) + ic (pertaining to or relating to)
+        Synthesis: "time" + "measure" + "pertaining to or relating to" -> "relating to time measurement".
+        Literal: relating to time measurement
+    },
+
+    Synchronization : {
+        Breakdown: Synchronization = synchronize (make time together; occur simultaneously; coordinate timing; coordinate in time) + ation (act, process, or result of)
+        Synthesis: "make time together" + "act" -> "coordination in time".
+        Literal: coordination in time
+    },
+
+    Synchronize : {
+        Breakdown: Synchronize = syn (together, with) + chronos (time) + ize (to make, treat, or combine with)
+        Synthesis: "together" + "time" + "to make" -> "make time together" (representing occur simultaneously, coordinate timing, or coordinate in time).
+        Literal: make time together
+        Semantic:
+            → occur simultaneously
+            → coordinate timing
+            → coordinate in time
+    },
+
+    Synchronous : {
+        Breakdown: Synchronous = syn (together, with) + chronos (time) + ous (characterized by or full of)
+        Synthesis: "together" + "time" + "characterized by or full of" -> "happening at the same time" (representing simultaneous).
+        Literal: happening at the same time
+        Semantic:
+            → simultaneous
+    },
+
+}
+
+CILIUM ("eyelid") + SUPER ("above") {
+
+    Supercilious : {
+        Breakdown: Supercilious = super (above or over) + cilium + ous (characterized by or full of)
+        Synthesis: "above or over" + "cilium" + "characterized by or full of" -> "eyebrows raised above eyelids" (representing looking down on others, haughty, arrogant, or contemptuous).
+        Literal: eyebrows raised above eyelids
+        Semantic:
+            → looking down on others
+            → haughty
+            → arrogant
+            → contemptuous
+    },
+
+    Super : {
+        Breakdown: Super = Super (above or over)
+        Synthesis: "above or over" -> "above" (representing higher, or superior).
+        Literal: above
+        Semantic:
+            → higher
+            → superior
+    },
+
+    Superior : {
+        Breakdown: Superior = super (above or over) + ior
+        Synthesis: "above or over" + "ior" -> "higher above" (representing better, or higher in rank).
+        Literal: higher above
+        Semantic:
+            → better
+            → higher in rank
+    },
+
+}
+
+CLAM ("secretly") {
+
+    Clandestine : {
+        Breakdown: Clandestine = clam (secretly)
+        Synthesis: "secretly" -> "secret" (representing concealed, or hidden from public knowledge).
+        Literal: secret
+        Semantic:
+            → concealed
+            → hidden from public knowledge
+    },
+
+    Clandestinely : {
+        Breakdown: Clandestinely = clandestine (secret; concealed; hidden from public knowledge) + ly (in the manner of)
+        Synthesis: "secret" + "in the manner of" -> "secretly" (representing covertly).
+        Literal: secretly
+        Semantic:
+            → covertly
+    },
+
+}
+
+COGO ("to drive together", "to compel") {
+
+    Cogency : {
+        Breakdown: Cogency = cogent (compelling; convincing; logically persuasive) + y (state, quality, or condition)
+        Synthesis: "compelling" + "state" -> "force of argument" (representing compelling force, logical persuasiveness, or force of argument).
+        Literal: force of argument
+        Semantic:
+            → compelling force
+            → logical persuasiveness
+            → force of argument
+    },
+
+    Cogent : {
+        Breakdown: Cogent = cogo (to drive together, to compel) + ent
+        Synthesis: "to drive together" + "ent" -> "compelling" (representing convincing, or logically persuasive).
+        Literal: compelling
+        Semantic:
+            → convincing
+            → logically persuasive
+    },
+
+}
+
+CORRIGO ("to correct", "to reform", "to set straight") {
+
+    Corrigible : {
+        Breakdown: Corrigible = corrigo (to correct, to reform, to set straight) + ible (capable of or fit for)
+        Synthesis: "to correct" + "capable of or fit for" -> "capable of being corrected" (representing capable of correction, or reformable).
+        Literal: capable of being corrected
+        Semantic:
+            → capable of correction
+            → reformable
+    },
+
+    Incorrigibility : {
+        Breakdown: Incorrigibility = incorrigible (not capable of correction; beyond reform; irredeemable) + ity (state, quality, or condition)
+        Synthesis: "not capable of correction" + "state" -> "inability to be corrected" (representing unreformable nature).
+        Literal: inability to be corrected
+        Semantic:
+            → unreformable nature
+    },
+
+    Incorrigible : {
+        Breakdown: Incorrigible = in (not, in, on, or into) + corrigible (capable of correction; reformable)
+        Synthesis: "not" + "capable of correction" -> "not capable of correction" (representing beyond reform, or irredeemable).
+        Literal: not capable of correction
+        Semantic:
+            → beyond reform
+            → irredeemable
+    },
+
+    Incorrigibleness : {
+        Breakdown: Incorrigibleness = incorrigible (not capable of correction; beyond reform; irredeemable) + ness (state or quality of being)
+        Synthesis: "not capable of correction" + "state or quality of being" -> "state of being beyond reform".
+        Literal: state of being beyond reform
+    },
+
+}
+
+CREDO / CREDERE ("to believe") {
+
+    Credence : {
+        Breakdown: Credence = credere (to believe) + ence (state or quality of)
+        Synthesis: "to believe" + "state or quality of" -> "belief" (representing acceptance as true, or trust).
+        Literal: belief
+        Semantic:
+            → acceptance as true
+            → trust
+    },
+
+    Credibility : {
+        Breakdown: Credibility = credible (able to be believed; believable; trustworthy) + ity (state, quality, or condition)
+        Synthesis: "able to be believed" + "state" -> "believability" (representing trustworthiness).
+        Literal: believability
+        Semantic:
+            → trustworthiness
+    },
+
+    Credible : {
+        Breakdown: Credible = credere (to believe) + ible (capable of or fit for)
+        Synthesis: "to believe" + "capable of or fit for" -> "able to be believed" (representing believable, or trustworthy).
+        Literal: able to be believed
+        Semantic:
+            → believable
+            → trustworthy
+    },
+
+    Credo : {
+        Breakdown: Credo = credo (to believe)
+        Synthesis: "to believe" -> "I believe" (representing personal philosophy, or guiding code of life).
+        Literal: I believe
+        Semantic:
+            → personal philosophy
+            → guiding code of life
+    },
+
+    Credulity : {
+        Breakdown: Credulity = credulous (readily believing; too willing to believe; gullible) + ity (state, quality, or condition)
+        Synthesis: "readily believing" + "state" -> "excessive willingness to believe" (representing gullibility).
+        Literal: excessive willingness to believe
+        Semantic:
+            → gullibility
+    },
+
+    Credulous : {
+        Breakdown: Credulous = credere (to believe) + ulous
+        Synthesis: "to believe" + "ulous" -> "readily believing" (representing too willing to believe, or gullible).
+        Literal: readily believing
+        Semantic:
+            → too willing to believe
+            → gullible
+    },
+
+    Creed : {
+        Breakdown: Creed = credere (to believe) + ed (past or characterized by)
+        Synthesis: "to believe" + "past or characterized by" -> "that which is believed" (representing religious belief, or doctrine).
+        Literal: that which is believed
+        Semantic:
+            → religious belief
+            → doctrine
+    },
+
+    Gullible : {
+        Breakdown: Gullible = Gullible (one who swallows stories; easily deceived; naïvely believing)
+        Synthesis: "one who swallows stories" -> "Latin gullere (to swallow)" (representing easily deceived, or naïvely believing).
+        Literal: Latin gullere (to swallow)
+        Semantic:
+            → easily deceived
+            → naïvely believing
+    },
+
+    Incredible : {
+        Breakdown: Incredible = in (not, in, on, or into) + credible (able to be believed; believable; trustworthy)
+        Synthesis: "not" + "able to be believed" -> "not believable" (representing unbelievable, or astonishing).
+        Literal: not believable
+        Semantic:
+            → unbelievable
+            → astonishing
+    },
+
+    Incredulity : {
+        Breakdown: Incredulity = incredulous (not believing; skeptical; doubtful) + ity (state, quality, or condition)
+        Synthesis: "not believing" + "state" -> "unwillingness to believe" (representing skepticism).
+        Literal: unwillingness to believe
+        Semantic:
+            → skepticism
+    },
+
+    Incredulous : {
+        Breakdown: Incredulous = in (not, in, on, or into) + credulous (readily believing; too willing to believe; gullible)
+        Synthesis: "not" + "readily believing" -> "not believing" (representing skeptical, or doubtful).
+        Literal: not believing
+        Semantic:
+            → skeptical
+            → doubtful
+    },
+
+}

@@ -1,0 +1,380 @@
+BADINER ("to joke") {
+
+    Badinage : {
+        Breakdown: Badinage = badiner (to joke)
+        Synthesis: "to joke" -> "playful joking" (representing light banter, or half-teasing conversation).
+        Literal: playful joking
+        Semantic:
+            → light banter
+            → half-teasing conversation
+    },
+
+}
+
+BANAL ("commonplace") {
+
+    Banal : {
+        Breakdown: Banal = banal (commonplace)
+        Synthesis: "commonplace" -> "common and overused" (representing trite, hackneyed, or unoriginal).
+        Literal: common and overused
+        Semantic:
+            → trite
+            → hackneyed
+            → unoriginal
+    },
+
+    Banality : {
+        Breakdown: Banality = banal (commonplace) + ity (state, quality, or condition)
+        Synthesis: "commonplace" + "state" -> "triteness" (representing lack of originality).
+        Literal: triteness
+        Semantic:
+            → lack of originality
+    },
+
+    Banalness : {
+        Breakdown: Banalness = banal (commonplace) + ness (state or quality of being)
+        Synthesis: "commonplace" + "state or quality of being" -> "state of being commonplace" (representing dull conventionality).
+        Literal: state of being commonplace
+        Semantic:
+            → dull conventionality
+    },
+
+}
+
+BAROS ("weight", "pressure") {
+
+    Barometer : {
+        Breakdown: Barometer = baros (weight, pressure) + metron (measure, measurement)
+        Synthesis: "weight" + "measure" -> "pressure measure" (representing instrument measuring atmospheric pressure).
+        Literal: pressure measure
+        Semantic:
+            → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        Breakdown: Barometric = barometer (pressure/weight measure; instrument measuring atmospheric pressure) + ic (pertaining to or relating to)
+        Synthesis: "pressure/weight measure" + "pertaining to or relating to" -> "pertaining to atmospheric pressure".
+        Literal: pertaining to atmospheric pressure
+    },
+
+}
+
+BIBLION ("book") {
+
+    Bible : {
+        Breakdown: Bible = biblion (book)
+        Synthesis: "book" -> "the book" (representing sacred scripture).
+        Literal: the book
+        Semantic:
+            → sacred scripture
+    },
+
+    Bibliomaniac : {
+        Breakdown: Bibliomaniac = biblion (book) + mania (madness or obsession)
+        Synthesis: "book" + "madness or obsession" -> "obsessive love of books" (representing compulsive book collector).
+        Literal: obsessive love of books
+        Semantic:
+            → compulsive book collector
+    },
+
+    Bibliophile : {
+        Breakdown: Bibliophile = biblion (book) + philein (to love)
+        Synthesis: "book" + "to love" -> "lover of books" (representing book enthusiast, or book collector).
+        Literal: lover of books
+        Semantic:
+            → book enthusiast
+            → book collector
+    },
+
+}
+
+BIBO ("to drink") {
+
+    Bibulous : {
+        Breakdown: Bibulous = bibo (to drink) + ulous
+        Synthesis: "to drink" + "ulous" -> "full of drinking" (representing fond of liquor, alcoholic, or prone to overdrinking).
+        Literal: full of drinking
+        Semantic:
+            → fond of liquor
+            → alcoholic
+            → prone to overdrinking
+    },
+
+    Imbibe : {
+        Breakdown: Imbibe = im (not, in, on, or into) + bibo (to drink)
+        Synthesis: "not" + "to drink" -> "drink into" (representing absorb, soak up, or take in knowledge).
+        Literal: drink into
+        Semantic:
+            → absorb
+            → soak up
+            → take in knowledge
+    },
+
+    Bib : {
+        Breakdown: Bib = Bib (protective cloth; catches spills while eating/drinking)
+        Synthesis: "protective cloth" -> "from drinking" (representing catches spills while eating/drinking).
+        Literal: from drinking
+        Semantic:
+            → catches spills while eating/drinking
+    },
+
+}
+
+BIOS ("life") {
+
+    Autobiography : {
+        Breakdown: Autobiography = autos (self) + bios (life) + graphein (to write)
+        Synthesis: "self" + "life" + "to write" -> "self life writing" (representing story of one's own life).
+        Literal: self life writing
+        Semantic:
+            → story of one's own life
+    },
+
+    Biographical : {
+        Breakdown: Biographical = biography (life writing; written account of a life) + ical (pertaining to or relating to)
+        Synthesis: "life writing" + "pertaining to or relating to" -> "relating to life history".
+        Literal: relating to life history
+    },
+
+    Biography : {
+        Breakdown: Biography = bios (life) + graphein (to write)
+        Synthesis: "life" + "to write" -> "life writing" (representing written life story, or written account of a person's life).
+        Literal: life writing
+        Semantic:
+            → written life story
+            → written account of a person's life
+    },
+
+    Biological : {
+        Breakdown: Biological = biology (study of life) + ical (pertaining to or relating to)
+        Synthesis: "study of life" + "pertaining to or relating to" -> "pertaining to life sciences".
+        Literal: pertaining to life sciences
+    },
+
+    Biologist : {
+        Breakdown: Biologist = bios (life) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "life" + "study" + "one who practices or specializes in" -> "student of living matter".
+        Literal: student of living matter
+    },
+
+    Biology : {
+        Breakdown: Biology = bios (life) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "life" + "study" -> "study of life" (representing science of living matter).
+        Literal: study of life
+        Semantic:
+            → science of living matter
+    },
+
+    Biopsy : {
+        Breakdown: Biopsy = bios (life) + opsis (vision, sight)
+        Synthesis: "life" + "vision" -> "viewing living tissue" (representing microscopic examination of living tissue).
+        Literal: viewing living tissue
+        Semantic:
+            → microscopic examination of living tissue
+    },
+
+}
+
+BON VIVANT ("one who lives well") {
+
+    Bon Vivant : {
+        Breakdown: Bon Vivant = bon (good) + vivant (living)
+        Synthesis: "good" + "living" -> "one who lives well" (representing pleasure-loving person, or sophisticated enjoyer of life).
+        Literal: one who lives well
+        Semantic:
+            → pleasure-loving person
+            → sophisticated enjoyer of life
+    },
+
+}
+
+BONUS / BENE ("good", "well") {
+
+    Benediction : {
+        Breakdown: Benediction = bene (good, well) + dico (to say, to tell, to speak)
+        Synthesis: "good" + "to say" -> "speaking good" (representing blessing, or expression of good wishes).
+        Literal: speaking good
+        Semantic:
+            → blessing
+            → expression of good wishes
+    },
+
+    Benedictory : {
+        Breakdown: Benedictory = bene (good, well) + dict + ory (relating to, serving for, or place for)
+        Synthesis: "good" + "dict" + "relating to" -> "relating to blessing" (representing blessing-like).
+        Literal: relating to blessing
+        Semantic:
+            → blessing-like
+    },
+
+    Benefaction : {
+        Breakdown: Benefaction = bene (good, well) + faction
+        Synthesis: "good" + "faction" -> "act of doing good" (representing charitable gift, or donation).
+        Literal: act of doing good
+        Semantic:
+            → charitable gift
+            → donation
+    },
+
+    Benefactor : {
+        Breakdown: Benefactor = bene (good, well) + factor
+        Synthesis: "good" + "factor" -> "doer of good" (representing helper, patron, or donor).
+        Literal: doer of good
+        Semantic:
+            → helper
+            → patron
+            → donor
+    },
+
+    Benefactress : {
+        Breakdown: Benefactress = benefactor (one who does good; helper; patron) + ess (female)
+        Synthesis: "one who does good" + "female" -> "female benefactor" (representing woman who does good).
+        Literal: female benefactor
+        Semantic:
+            → woman who does good
+    },
+
+    Beneficence : {
+        Breakdown: Beneficence = beneficent (doing good; charitable; helpful) + ence (state or quality of)
+        Synthesis: "doing good" + "state or quality of" -> "act of doing good" (representing charity, or generosity).
+        Literal: act of doing good
+        Semantic:
+            → charity
+            → generosity
+    },
+
+    Beneficent : {
+        Breakdown: Beneficent = bene (good, well) + facio (to do, to make)
+        Synthesis: "good" + "to do" -> "doing good" (representing charitable, helpful, or kind).
+        Literal: doing good
+        Semantic:
+            → charitable
+            → helpful
+            → kind
+    },
+
+    Beneficiary : {
+        Breakdown: Beneficiary = bene (good, well) + ficiary
+        Synthesis: "good" + "ficiary" -> "receiver of good" (representing recipient of aid, or recipient of benefits).
+        Literal: receiver of good
+        Semantic:
+            → recipient of aid
+            → recipient of benefits
+    },
+
+    Benevolence : {
+        Breakdown: Benevolence = benevolent (wishing good; kind-hearted; charitable) + ence (state or quality of)
+        Synthesis: "wishing good" + "state or quality of" -> "goodwill toward others" (representing kindness, or generosity).
+        Literal: goodwill toward others
+        Semantic:
+            → kindness
+            → generosity
+    },
+
+    Benevolent : {
+        Breakdown: Benevolent = bene (good, well) + volo (to wish, to will)
+        Synthesis: "good" + "to wish" -> "wishing good" (representing kind-hearted, or well-disposed).
+        Literal: wishing good
+        Semantic:
+            → kind-hearted
+            → well-disposed
+    },
+
+    Benign : {
+        Breakdown: Benign = bene (good, well) + ign
+        Synthesis: "good" + "ign" -> "good in nature" (representing kindly, gentle, or harmless).
+        Literal: good in nature
+        Semantic:
+            → kindly
+            → gentle
+            → harmless
+    },
+
+    Benignancy : {
+        Breakdown: Benignancy = benignant (actively good-natured; kindly disposed; benevolent) + cy (state, quality, or condition)
+        Synthesis: "actively good-natured" + "state" -> "state of kindness" (representing goodwill).
+        Literal: state of kindness
+        Semantic:
+            → goodwill
+    },
+
+    Benignant : {
+        Breakdown: Benignant = bene (good, well) + gnant
+        Synthesis: "good" + "gnant" -> "actively good-natured" (representing kindly disposed, or benevolent).
+        Literal: actively good-natured
+        Semantic:
+            → kindly disposed
+            → benevolent
+    },
+
+    Benignity : {
+        Breakdown: Benignity = benign (good in nature; kindly; gentle; harmless) + ity (state, quality, or condition)
+        Synthesis: "good in nature" + "state" -> "quality of being kind and harmless" (representing kindness, or gentleness).
+        Literal: quality of being kind and harmless
+        Semantic:
+            → kindness
+            → gentleness
+    },
+
+}
+
+BOTANE ("plant", "herb") {
+
+    Botanical : {
+        Breakdown: Botanical = botany (study of plants; science of plant life) + ical (pertaining to or relating to)
+        Synthesis: "study of plants" + "pertaining to or relating to" -> "pertaining to plants".
+        Literal: pertaining to plants
+    },
+
+    Botanist : {
+        Breakdown: Botanist = botane (plant, herb) + ist (one who practices or specializes in)
+        Synthesis: "plant" + "one who practices or specializes in" -> "student of plant life".
+        Literal: student of plant life
+    },
+
+    Botany : {
+        Breakdown: Botany = botane (plant, herb)
+        Synthesis: "plant" -> "study of plants" (representing science of plant life).
+        Literal: study of plants
+        Semantic:
+            → science of plant life
+    },
+
+}
+
+BOVIS ("ox", "cow") {
+
+    Bovine : {
+        Breakdown: Bovine = bovis (ox, cow) + ine (like, similar to, characteristic of)
+        Synthesis: "ox" + "like" -> "like a cow" (representing placid, stolid, unexcitable, or sluggish in temperament).
+        Literal: like a cow
+        Semantic:
+            → placid
+            → stolid
+            → unexcitable
+            → sluggish in temperament
+    },
+
+}
+
+BROMOS ("stench", "bad odor") {
+
+    Bromide : {
+        Breakdown: Bromide = bromos (stench, bad odor)
+        Synthesis: "stench" -> "originally chemical salt" (representing trite remark, or stale commonplace).
+        Literal: originally chemical salt
+        Semantic:
+            → trite remark
+            → stale commonplace
+    },
+
+    Bromidic : {
+        Breakdown: Bromidic = bromide (originally chemical salt; trite remark; stale commonplace) + ic (pertaining to or relating to)
+        Synthesis: "originally chemical salt" + "pertaining to or relating to" -> "characterized by clichés" (representing trite, or unoriginal).
+        Literal: characterized by clichés
+        Semantic:
+            → trite
+            → unoriginal
+    },
+
+}

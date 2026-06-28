@@ -1,0 +1,754 @@
+LACONIA ("Sparta; region famous for brief speech") {
+
+    Laconic : {
+        Breakdown: Laconic = Laconia (Sparta; region famous for brief speech) + ic (pertaining to or relating to)
+        Synthesis: "Sparta" + "pertaining to or relating to" -> "speaking like a Spartan" (representing brief, concise, or meaningful in few words).
+        Literal: speaking like a Spartan
+        Semantic:
+            → brief
+            → concise
+            → meaningful in few words
+    },
+
+    Laconicism : {
+        Breakdown: Laconicism = laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ism (philosophy, belief, or system of)
+        Synthesis: "speaking like a Spartan" + "philosophy" -> "habitual brevity" (representing habit of brevity, concise mode of speech, or concise mode of expression).
+        Literal: habitual brevity
+        Semantic:
+            → habit of brevity
+            → concise mode of speech
+            → concise mode of expression
+    },
+
+    Laconicity : {
+        Breakdown: Laconicity = laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ity (state, quality, or condition)
+        Synthesis: "speaking like a Spartan" + "state" -> "brevity of expression" (representing brevity, or economy of words).
+        Literal: brevity of expression
+        Semantic:
+            → brevity
+            → economy of words
+    },
+
+    Laconicness : {
+        Breakdown: Laconicness = laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ness (state or quality of being)
+        Synthesis: "speaking like a Spartan" + "state or quality of being" -> "quality of brevity" (representing quality of being concise, concise speech, or terseness).
+        Literal: quality of brevity
+        Semantic:
+            → quality of being concise
+            → concise speech
+            → terseness
+    },
+
+    Laconism : {
+        Breakdown: Laconism = laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ism (philosophy, belief, or system of)
+        Synthesis: "speaking like a Spartan" + "philosophy" -> "concise statement" (representing pithy expression, or brevity).
+        Literal: concise statement
+        Semantic:
+            → pithy expression
+            → brevity
+    },
+
+}
+
+LASCIVUS ("playful, lustful") {
+
+    Lascivious : {
+        Breakdown: Lascivious = lascivus (playful, lustful) + ious
+        Synthesis: "playful" + "ious" -> "lustful" (representing sexually unrestrained, or sensual).
+        Literal: lustful
+        Semantic:
+            → sexually unrestrained
+            → sensual
+    },
+
+    Lasciviousness : {
+        Breakdown: Lasciviousness = lascivious (playful with lust; lustful; sensual) + ness (state or quality of being)
+        Synthesis: "playful with lust" + "state or quality of being" -> "lustfulness" (representing sexual wantonness).
+        Literal: lustfulness
+        Semantic:
+            → sexual wantonness
+    },
+
+}
+
+LECHER ("lustful person") {
+
+    Lascivious : {
+        Breakdown: Lascivious = lascivus (playful, lustful) + ious
+        Synthesis: "playful" + "ious" -> "playful with lust" (representing lustful, or sensual).
+        Literal: playful with lust
+        Semantic:
+            → lustful
+            → sensual
+    },
+
+    Lecher : {
+        Breakdown: Lecher = lecher (lustful person)
+        Synthesis: "lustful person" -> "lustful male" (representing sexually aggressive man, or libertine).
+        Literal: lustful male
+        Semantic:
+            → sexually aggressive man
+            → libertine
+    },
+
+    Lecherous : {
+        Breakdown: Lecherous = lecher (lustful person) + ous (characterized by or full of)
+        Synthesis: "lustful person" + "characterized by or full of" -> "full of lust" (representing sexually aggressive).
+        Literal: full of lust
+        Semantic:
+            → sexually aggressive
+    },
+
+    Lechery : {
+        Breakdown: Lechery = lecher (lustful person) + y (state, quality, or condition)
+        Synthesis: "lustful person" + "state" -> "excessive lust" (representing sexual indulgence).
+        Literal: excessive lust
+        Semantic:
+            → sexual indulgence
+    },
+
+    Lewd : {
+        Breakdown: Lewd = lewd (sexually indecent; lustful)
+        Synthesis: "sexually indecent" -> "sexually indecent" (representing lustful).
+        Literal: sexually indecent
+        Semantic:
+            → lustful
+    },
+
+    Libidinous : {
+        Breakdown: Libidinous = Libidinous (desire; sexually craving)
+        Synthesis: "desire" -> "libido" (representing sexually craving).
+        Literal: libido
+        Semantic:
+            → sexually craving
+    },
+
+    Licentious : {
+        Breakdown: Licentious = Licentious (excessive freedom; sexually immoral)
+        Synthesis: "excessive freedom" -> "licentia" (representing sexually immoral).
+        Literal: licentia
+        Semantic:
+            → sexually immoral
+    },
+
+    Lubricious : {
+        Breakdown: Lubricious = lubricus (slippery) + ious
+        Synthesis: "slippery" + "ious" -> "slippery" (representing morally slippery, or lustful).
+        Literal: slippery
+        Semantic:
+            → morally slippery
+            → lustful
+    },
+
+    Lubricity : {
+        Breakdown: Lubricity = lubricious (slippery; morally slippery; lustful; sexually immoral) + ity (state, quality, or condition)
+        Synthesis: "slippery" + "state" -> "lustfulness" (representing sensuality).
+        Literal: lustfulness
+        Semantic:
+            → sensuality
+    },
+
+    Lustful : {
+        Breakdown: Lustful = lust + ful
+        Synthesis: "lust" + "ful" -> "full of desire" (representing sexually craving).
+        Literal: full of desire
+        Semantic:
+            → sexually craving
+    },
+
+    Prurient : {
+        Breakdown: Prurient = prurire (to itch) + ent
+        Synthesis: "to itch" + "ent" -> "to itch" (representing itching with desire, or sexually eager).
+        Literal: to itch
+        Semantic:
+            → itching with desire
+            → sexually eager
+    },
+
+    Satyriasis : {
+        Breakdown: Satyriasis = satyr + iasis
+        Synthesis: "satyr" + "iasis" -> "abnormal male sexual craving" (representing male nymphomania).
+        Literal: abnormal male sexual craving
+        Semantic:
+            → male nymphomania
+    },
+
+}
+
+LEO ("lion") {
+
+    Leonine : {
+        Breakdown: Leonine = leo (lion) + ine (like, similar to, characteristic of)
+        Synthesis: "lion" + "like" -> "like a lion" (representing lionlike in appearance, lionlike in temperament, majestic, or powerful).
+        Literal: like a lion
+        Semantic:
+            → lionlike in appearance
+            → lionlike in temperament
+            → majestic
+            → powerful
+    },
+
+}
+
+LEVIS ("light", "not heavy") {
+
+    Alleviate : {
+        Breakdown: Alleviate = ad(al) (to, toward) + levis (light, not heavy) + ate (to make, cause, or have the state of)
+        Synthesis: "to" + "light" + "to make" -> "make lighter" (representing lessen burden, ease pain, or provide temporary relief).
+        Literal: make lighter
+        Semantic:
+            → lessen burden
+            → ease pain
+            → provide temporary relief
+    },
+
+    Alleviating : {
+        Breakdown: Alleviating = alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ing (action or process)
+        Synthesis: "make lighter" + "action or process" -> "producing relief" (representing easing).
+        Literal: producing relief
+        Semantic:
+            → easing
+    },
+
+    Alleviation : {
+        Breakdown: Alleviation = alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ion (act, process, or result of)
+        Synthesis: "make lighter" + "act" -> "act of making lighter" (representing relief, or mitigation).
+        Literal: act of making lighter
+        Semantic:
+            → relief
+            → mitigation
+    },
+
+    Alleviative : {
+        Breakdown: Alleviative = alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ive (having the nature of or tending to)
+        Synthesis: "make lighter" + "having the nature of or tending to" -> "tending to lighten suffering" (representing soothing, or relieving).
+        Literal: tending to lighten suffering
+        Semantic:
+            → soothing
+            → relieving
+    },
+
+    Elevate : {
+        Breakdown: Elevate = e(ex) (out, from) + levis (light, not heavy) + ate (to make, cause, or have the state of)
+        Synthesis: "out" + "light" + "to make" -> "raise up" (representing lift, raise to higher position, or uplift spirits).
+        Literal: raise up
+        Semantic:
+            → lift
+            → raise to higher position
+            → uplift spirits
+    },
+
+    Elevation : {
+        Breakdown: Elevation = elevate (raise up; lift; raise to higher position; uplift spirits) + ion (act, process, or result of)
+        Synthesis: "raise up" + "act" -> "act of raising" (representing upliftment, or height).
+        Literal: act of raising
+        Semantic:
+            → upliftment
+            → height
+    },
+
+    Leverage : {
+        Breakdown: Leverage = levis (light, not heavy)
+        Synthesis: "light" -> "lifting power" (representing mechanical advantage).
+        Literal: lifting power
+        Semantic:
+            → mechanical advantage
+    },
+
+    Levitate : {
+        Breakdown: Levitate = levis (light, not heavy) + ate (to make, cause, or have the state of)
+        Synthesis: "light" + "to make" -> "become light" (representing rise into air, or float upward).
+        Literal: become light
+        Semantic:
+            → rise into air
+            → float upward
+    },
+
+    Levitation : {
+        Breakdown: Levitation = levitate (become light; rise into air; float upward) + ion (act, process, or result of)
+        Synthesis: "become light" + "act" -> "act of floating upward" (representing apparent rising without support).
+        Literal: act of floating upward
+        Semantic:
+            → apparent rising without support
+    },
+
+    Levity : {
+        Breakdown: Levity = levis (light, not heavy) + ity (state, quality, or condition)
+        Synthesis: "light" + "state" -> "lightness" (representing frivolity, joking attitude, or lack of seriousness).
+        Literal: lightness
+        Semantic:
+            → frivolity
+            → joking attitude
+            → lack of seriousness
+    },
+
+    Relieve : {
+        Breakdown: Relieve = re (again or back) + levis (light, not heavy)
+        Synthesis: "again or back" + "light" -> "make light again" (representing ease, or reduce burden).
+        Literal: make light again
+        Semantic:
+            → ease
+            → reduce burden
+    },
+
+}
+
+LINGUA ("tongue", "language") {
+
+    Bilingual : {
+        Breakdown: Bilingual = bi (two) + lingua (tongue, language)
+        Synthesis: "two" + "tongue" -> "two languages" (representing able to use two languages).
+        Literal: two languages
+        Semantic:
+            → able to use two languages
+    },
+
+    Linguist : {
+        Breakdown: Linguist = lingua (tongue, language) + ist (one who practices or specializes in)
+        Synthesis: "tongue" + "one who practices or specializes in" -> "language expert".
+        Literal: language expert
+    },
+
+    Linguistic : {
+        Breakdown: Linguistic = linguistics (science of language; systematic study of language) + ic (pertaining to or relating to)
+        Synthesis: "science of language" + "pertaining to or relating to" -> "pertaining to language" (representing relating to language).
+        Literal: pertaining to language
+        Semantic:
+            → relating to language
+    },
+
+    Linguistics : {
+        Breakdown: Linguistics = lingua (tongue, language) + istics
+        Synthesis: "tongue" + "istics" -> "science of language" (representing systematic study of language).
+        Literal: science of language
+        Semantic:
+            → systematic study of language
+    },
+
+    Monolingual : {
+        Breakdown: Monolingual = mono (one) + lingua (tongue, language)
+        Synthesis: "one" + "tongue" -> "one language" (representing using only one language).
+        Literal: one language
+        Semantic:
+            → using only one language
+    },
+
+    Multilingual : {
+        Breakdown: Multilingual = multi (many) + lingua (tongue, language)
+        Synthesis: "many" + "tongue" -> "many languages" (representing using several languages).
+        Literal: many languages
+        Semantic:
+            → using several languages
+    },
+
+    Trilingual : {
+        Breakdown: Trilingual = tri (three) + lingua (tongue, language)
+        Synthesis: "three" + "tongue" -> "three languages" (representing able to use three languages).
+        Literal: three languages
+        Semantic:
+            → able to use three languages
+    },
+
+}
+
+LOCUS ("place") {
+
+    Incongruity : {
+        Breakdown: Incongruity = incongruous (not fitting in place; inappropriate; out of place) + ity (state, quality, or condition)
+        Synthesis: "not fitting in place" + "state" -> "state of not fitting" (representing state of being out of place, mismatch, impropriety, or inconsistency).
+        Literal: state of not fitting
+        Semantic:
+            → state of being out of place
+            → mismatch
+            → impropriety
+            → inconsistency
+    },
+
+    Incongruous : {
+        Breakdown: Incongruous = in (not, in, on, or into) + congruous
+        Synthesis: "not" + "congruous" -> "not fitting in place" (representing inappropriate, or out of place).
+        Literal: not fitting in place
+        Semantic:
+            → inappropriate
+            → out of place
+    },
+
+}
+
+LOGOS ("study", "science", "knowledge", "word", "reason", "speech") {
+
+    Anthropology : {
+        Breakdown: Anthropology = anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "mankind" + "study" -> "study of mankind".
+        Literal: study of mankind
+    },
+
+    Astrology : {
+        Breakdown: Astrology = astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "star" + "study" -> "interpretation of stars".
+        Literal: interpretation of stars
+    },
+
+    Biology : {
+        Breakdown: Biology = bios (life) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "life" + "study" -> "study of life".
+        Literal: study of life
+    },
+
+    Cardiology : {
+        Breakdown: Cardiology = kardia (heart) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "heart" + "study" -> "study of the heart".
+        Literal: study of the heart
+    },
+
+    Dermatology : {
+        Breakdown: Dermatology = derma (skin) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "skin" + "study" -> "study of the skin".
+        Literal: study of the skin
+    },
+
+    Entomology : {
+        Breakdown: Entomology = en + tome (a cutting, cut, section) / en + tome (a cutting, cut, section) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "en" + "tome (a cutting, cut, section) / en" + "a cutting" + "study" -> "study of insects".
+        Literal: study of insects
+    },
+
+    Eulogistic : {
+        Breakdown: Eulogistic = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + istic
+        Synthesis: "good" + "study" + "istic" -> "praising" (representing laudatory).
+        Literal: praising
+        Semantic:
+            → laudatory
+    },
+
+    Eulogize : {
+        Breakdown: Eulogize = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + ize (to make, treat, or combine with)
+        Synthesis: "good" + "study" + "to make" -> "speak favorably" (representing praise).
+        Literal: speak favorably
+        Semantic:
+            → praise
+    },
+
+    Eulogy : {
+        Breakdown: Eulogy = eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "good" + "study" -> "good words" (representing formal praise).
+        Literal: good words
+        Semantic:
+            → formal praise
+    },
+
+    Geology : {
+        Breakdown: Geology = geo (earth) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "earth" + "study" -> "study of the earth".
+        Literal: study of the earth
+    },
+
+    Gynecology : {
+        Breakdown: Gynecology = gyne (woman) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "woman" + "study" -> "study of women".
+        Literal: study of women
+    },
+
+    Neurology : {
+        Breakdown: Neurology = neuron (nerve) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "nerve" + "study" -> "study of the nervous system".
+        Literal: study of the nervous system
+    },
+
+    Philologist : {
+        Breakdown: Philologist = philein (to love) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "to love" + "study" + "one who practices or specializes in" -> "student of language".
+        Literal: student of language
+    },
+
+    Philology : {
+        Breakdown: Philology = philein (to love) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "to love" + "study" -> "love of words" (representing study of language and literature, study of language, or linguistics).
+        Literal: love of words
+        Semantic:
+            → study of language and literature
+            → study of language
+            → linguistics
+    },
+
+    Philosophy : {
+        Breakdown: Philosophy = philein (to love) + sophos (wise, wisdom)
+        Synthesis: "to love" + "wise" -> "love of wisdom" (representing pursuit of truth and wisdom).
+        Literal: love of wisdom
+        Semantic:
+            → pursuit of truth and wisdom
+    },
+
+    Psychology : {
+        Breakdown: Psychology = psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "mind" + "study" -> "study of the mind".
+        Literal: study of the mind
+    },
+
+    Semantic : {
+        Breakdown: Semantic = semantics (study of meanings; science of meaning in language) + ic (pertaining to or relating to)
+        Synthesis: "study of meanings" + "pertaining to or relating to" -> "relating to meaning".
+        Literal: relating to meaning
+    },
+
+    Semanticist : {
+        Breakdown: Semanticist = semantics (study of meanings; science of meaning in language) + ist (one who practices or specializes in)
+        Synthesis: "study of meanings" + "one who practices or specializes in" -> "student of meaning" (representing specialist in semantics).
+        Literal: student of meaning
+        Semantic:
+            → specialist in semantics
+    },
+
+    Semantics : {
+        Breakdown: Semantics = sema (sign, meaning) + ntics
+        Synthesis: "sign" + "ntics" -> "study of meaning" (representing science of meanings of words).
+        Literal: study of meaning
+        Semantic:
+            → science of meanings of words
+    },
+
+    Sociologist : {
+        Breakdown: Sociologist = socius (companion, associate) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "companion" + "study" + "one who practices or specializes in" -> "student of society".
+        Literal: student of society
+    },
+
+    Sociology : {
+        Breakdown: Sociology = socius (companion, associate) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "companion" + "study" -> "study of society" (representing science of social organization).
+        Literal: study of society
+        Semantic:
+            → science of social organization
+    },
+
+    Zoology : {
+        Breakdown: Zoology = zoion (animal) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "animal" + "study" -> "study of animals".
+        Literal: study of animals
+    },
+
+}
+
+LOQUOR ("to speak") {
+
+    Circumlocution : {
+        Breakdown: Circumlocution = circum (around) + locution
+        Synthesis: "around" + "locution" -> "speaking around" (representing roundabout expression, indirect speech, indirect expression, or roundabout speech).
+        Literal: speaking around
+        Semantic:
+            → roundabout expression
+            → indirect speech
+            → indirect expression
+            → roundabout speech
+    },
+
+    Circumlocutory : {
+        Breakdown: Circumlocutory = circum (around) + locutory
+        Synthesis: "around" + "locutory" -> "characterized by talking around" (representing indirect, or evasive).
+        Literal: characterized by talking around
+        Semantic:
+            → indirect
+            → evasive
+    },
+
+    Colloquial : {
+        Breakdown: Colloquial = col (with, together) + loquor (to speak) / com (with, together) + loquor (to speak)
+        Synthesis: "with" + "with" + "to speak" -> "speaking together" (representing com + loquor, conversational, or informal).
+        Literal: speaking together
+        Semantic:
+            → com + loquor
+            → conversational
+            → informal
+    },
+
+    Colloquialism : {
+        Breakdown: Colloquialism = colloquial (speaking together; conversational; informal) + ism (philosophy, belief, or system of)
+        Synthesis: "speaking together" + "philosophy" -> "conversational expression" (representing everyday spoken phrase).
+        Literal: conversational expression
+        Semantic:
+            → everyday spoken phrase
+    },
+
+    Eloquence : {
+        Breakdown: Eloquence = eloquent (speak out; expressive; persuasive; moving in speech; forceful in speech) + ence (state or quality of)
+        Synthesis: "speak out" + "state or quality of" -> "power of expression" (representing expressiveness, or persuasive speech).
+        Literal: power of expression
+        Semantic:
+            → expressiveness
+            → persuasive speech
+    },
+
+    Eloquent : {
+        Breakdown: Eloquent = e (out) (out, from) + loquor (to speak) / e (out, from) + loquor (to speak)
+        Synthesis: "out" + "out" + "to speak" -> "speaking out" (representing e + loquor, speak out, expressive, persuasive, moving in speech, or forceful in speech).
+        Literal: speaking out
+        Semantic:
+            → e + loquor
+            → speak out
+            → expressive
+            → persuasive
+            → moving in speech
+            → forceful in speech
+    },
+
+    Grandiloquence : {
+        Breakdown: Grandiloquence = grandiloquent (speaking grandly; bombastic; high-flown) + ence (state or quality of)
+        Synthesis: "speaking grandly" + "state or quality of" -> "pompous expression" (representing pompous language, inflated language, or inflated speech).
+        Literal: pompous expression
+        Semantic:
+            → pompous language
+            → inflated language
+            → inflated speech
+    },
+
+    Grandiloquent : {
+        Breakdown: Grandiloquent = grandis + loquor (to speak)
+        Synthesis: "grandis" + "to speak" -> "speaking grandly" (representing bombastic, or high-flown).
+        Literal: speaking grandly
+        Semantic:
+            → bombastic
+            → high-flown
+    },
+
+    Loquacious : {
+        Breakdown: Loquacious = loquor (to speak) + acious
+        Synthesis: "to speak" + "acious" -> "fond of speaking" (representing talkative, or given to conversation).
+        Literal: fond of speaking
+        Semantic:
+            → talkative
+            → given to conversation
+    },
+
+    Loquaciousness : {
+        Breakdown: Loquaciousness = loquacious (fond of speaking; talkative; given to conversation) + ness (state or quality of being)
+        Synthesis: "fond of speaking" + "state or quality of being" -> "quality of being talkative" (representing excessive talking).
+        Literal: quality of being talkative
+        Semantic:
+            → excessive talking
+    },
+
+    Loquacity : {
+        Breakdown: Loquacity = loquor (to speak) + acity
+        Synthesis: "to speak" + "acity" -> "talkativeness" (representing tendency to speak much).
+        Literal: talkativeness
+        Semantic:
+            → tendency to speak much
+    },
+
+    Magniloquence : {
+        Breakdown: Magniloquence = magniloquent (speaking greatly; grandiloquent; lofty in speech; pompously expressive) + ence (state or quality of)
+        Synthesis: "speaking greatly" + "state or quality of" -> "grand style of speech" (representing grand speech, or lofty language).
+        Literal: grand style of speech
+        Semantic:
+            → grand speech
+            → lofty language
+    },
+
+    Magniloquent : {
+        Breakdown: Magniloquent = magnus (great, large) + loquor (to speak)
+        Synthesis: "great" + "to speak" -> "speaking greatly" (representing pompous, grandly expressive, or lofty).
+        Literal: speaking greatly
+        Semantic:
+            → pompous
+            → grandly expressive
+            → lofty
+    },
+
+    Soliloquist : {
+        Breakdown: Soliloquist = soliloquy (speaking alone; talking to oneself; dramatic self-speech; monologue) + ist (one who practices or specializes in)
+        Synthesis: "speaking alone" + "one who practices or specializes in" -> "one who talks to oneself" (representing speaker of a monologue).
+        Literal: one who talks to oneself
+        Semantic:
+            → speaker of a monologue
+    },
+
+    Soliloquize : {
+        Breakdown: Soliloquize = soliloquy (speaking alone; talking to oneself; dramatic self-speech; monologue) + ize (to make, treat, or combine with)
+        Synthesis: "speaking alone" + "to make" -> "to speak to oneself" (representing to talk to oneself, or think aloud).
+        Literal: to speak to oneself
+        Semantic:
+            → to talk to oneself
+            → think aloud
+    },
+
+    Soliloquy : {
+        Breakdown: Soliloquy = soli + loquor (to speak) / solus (alone) + loquor (to speak)
+        Synthesis: "soli" + "alone" + "to speak" -> "speaking alone" (representing solus + loquor, talking to oneself, dramatic self-speech, or monologue).
+        Literal: speaking alone
+        Semantic:
+            → solus + loquor
+            → talking to oneself
+            → dramatic self-speech
+            → monologue
+    },
+
+    Ventriloquism : {
+        Breakdown: Ventriloquism = venter (belly) + loquor (to speak) + ism (philosophy, belief, or system of)
+        Synthesis: "belly" + "to speak" + "philosophy" -> "art of belly-speaking" (representing venter + loquor + ism, art of belly speaking, or voice projection illusion).
+        Literal: art of belly-speaking
+        Semantic:
+            → venter + loquor + ism
+            → art of belly speaking
+            → voice projection illusion
+    },
+
+    Ventriloquist : {
+        Breakdown: Ventriloquist = venter (belly) + loquor (to speak) + ist (one who practices or specializes in)
+        Synthesis: "belly" + "to speak" + "one who practices or specializes in" -> "belly speaker" (representing venter + loquor + ist, one who throws voice, or voice thrower).
+        Literal: belly speaker
+        Semantic:
+            → venter + loquor + ist
+            → one who throws voice
+            → voice thrower
+    },
+
+    Ventriloquistic : {
+        Breakdown: Ventriloquistic = ventriloquism (art of belly-speaking; voice illusion) + ic (pertaining to or relating to)
+        Synthesis: "art of belly-speaking" + "pertaining to or relating to" -> "relating to ventriloquism".
+        Literal: relating to ventriloquism
+    },
+
+    Ventriloquize : {
+        Breakdown: Ventriloquize = ventriloquy + ize (to make, treat, or combine with)
+        Synthesis: "ventriloquy" + "to make" -> "to perform ventriloquism".
+        Literal: to perform ventriloquism
+    },
+
+}
+
+LUBRICUS ("slippery") {
+
+    Lubricious : {
+        Breakdown: Lubricious = lubricus (slippery) + ious
+        Synthesis: "slippery" + "ious" -> "slippery" (representing morally slippery, lustful, or sexually immoral).
+        Literal: slippery
+        Semantic:
+            → morally slippery
+            → lustful
+            → sexually immoral
+    },
+
+    Lubricity : {
+        Breakdown: Lubricity = lubricious (slippery; morally slippery; lustful; sexually immoral) + ity (state, quality, or condition)
+        Synthesis: "slippery" + "state" -> "slipperiness" (representing sensuality, or lustfulness).
+        Literal: slipperiness
+        Semantic:
+            → sensuality
+            → lustfulness
+    },
+
+}
+
+LUPUS ("wolf") {
+
+    Lupine : {
+        Breakdown: Lupine = lupus (wolf) + ine (like, similar to, characteristic of)
+        Synthesis: "wolf" + "like" -> "like a wolf" (representing wolflike, fierce, or predatory).
+        Literal: like a wolf
+        Semantic:
+            → wolflike
+            → fierce
+            → predatory
+    },
+
+}

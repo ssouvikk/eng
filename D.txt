@@ -1,0 +1,329 @@
+DERMA ("skin") {
+
+    Dermatological : {
+        Breakdown: Dermatological = dermatology (study of the skin) + al (pertaining to or relating to)
+        Synthesis: "study of the skin" + "pertaining to or relating to" -> "relating to the skin".
+        Literal: relating to the skin
+    },
+
+    Dermatologist : {
+        Breakdown: Dermatologist = derma (skin) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "skin" + "study" + "one who practices or specializes in" -> "skin specialist" (representing dermatologist).
+        Literal: skin specialist
+        Semantic:
+            → dermatologist
+    },
+
+    Dermatology : {
+        Breakdown: Dermatology = derma (skin) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "skin" + "study" -> "study of the skin" (representing medical science of skin diseases).
+        Literal: study of the skin
+        Semantic:
+            → medical science of skin diseases
+    },
+
+    Epidermis : {
+        Breakdown: Epidermis = epi (upon, over, or near) + derma (skin)
+        Synthesis: "upon" + "skin" -> "upon the skin" (representing outer layer of skin).
+        Literal: upon the skin
+        Semantic:
+            → outer layer of skin
+    },
+
+}
+
+DESTITUERE ("to abandon", "leave without") {
+
+    Destitute : {
+        Breakdown: Destitute = destitution (left standing alone; total deprivation; extreme poverty) + e (out, from)
+        Synthesis: "left standing alone" + "out" -> "left without resources" (representing impoverished, or lacking necessities of life).
+        Literal: left without resources
+        Semantic:
+            → impoverished
+            → lacking necessities of life
+    },
+
+    Destitution : {
+        Breakdown: Destitution = de (down, away, from) + statuere
+        Synthesis: "down" + "statuere" -> "left standing alone" (representing total deprivation, or extreme poverty).
+        Literal: left standing alone
+        Semantic:
+            → total deprivation
+            → extreme poverty
+    },
+
+}
+
+DEXTER ("right hand") {
+
+    Ambidexterity : {
+        Breakdown: Ambidexterity = ambi (both, on both sides) + dexter (right hand) + ity (state, quality, or condition)
+        Synthesis: "both" + "right hand" + "state" -> "equal skill with both hands".
+        Literal: equal skill with both hands
+    },
+
+    Ambidextrous : {
+        Breakdown: Ambidextrous = ambi (both, on both sides) + dexter (right hand)
+        Synthesis: "both" + "right hand" -> "both hands function like right hands" (representing equal skill in both hands).
+        Literal: both hands function like right hands
+        Semantic:
+            → equal skill in both hands
+    },
+
+    Dexterity : {
+        Breakdown: Dexterity = dexter (right hand) + ity (state, quality, or condition)
+        Synthesis: "right hand" + "state" -> "skill" (representing manual skill, or general competence).
+        Literal: skill
+        Semantic:
+            → manual skill
+            → general competence
+    },
+
+    Dexterous : {
+        Breakdown: Dexterous = dexter (right hand) + ous (characterized by or full of)
+        Synthesis: "right hand" + "characterized by or full of" -> "having the skill of the right hand" (representing skillful).
+        Literal: having the skill of the right hand
+        Semantic:
+            → skillful
+    },
+
+}
+
+DICHA ("in two") {
+
+    Dichotomy : {
+        Breakdown: Dichotomy = dicha (in two) + tome (a cutting, cut, section)
+        Synthesis: "in two" + "a cutting" -> "cut in two" (representing division into two branches, or separation into two categories).
+        Literal: cut in two
+        Semantic:
+            → division into two branches
+            → separation into two categories
+    },
+
+}
+
+DICO / DICTUS ("to say", "to tell", "to speak") {
+
+    Benediction : {
+        Breakdown: Benediction = bene (good, well) + dico (to say, to tell, to speak)
+        Synthesis: "good" + "to say" -> "saying good" (representing blessing).
+        Literal: saying good
+        Semantic:
+            → blessing
+    },
+
+    Benedictory : {
+        Breakdown: Benedictory = bene (good, well) + dict + ory (relating to, serving for, or place for)
+        Synthesis: "good" + "dict" + "relating to" -> "relating to blessings" (representing blessing-like).
+        Literal: relating to blessings
+        Semantic:
+            → blessing-like
+    },
+
+    Malediction : {
+        Breakdown: Malediction = mal (bad, evil) + dico (to say, to tell, to speak)
+        Synthesis: "bad" + "to say" -> "speak evil" (representing speaking evil, saying evil, or curse).
+        Literal: speak evil
+        Semantic:
+            → speaking evil
+            → saying evil
+            → curse
+    },
+
+    Maledictory : {
+        Breakdown: Maledictory = mal (bad, evil) + dico (to say, to tell, to speak) + ory (relating to, serving for, or place for)
+        Synthesis: "bad" + "to say" + "relating to" -> "mal + dict + ory" (representing relating to curses, of cursing, cursing, or curse-like).
+        Literal: mal + dict + ory
+        Semantic:
+            → relating to curses
+            → of cursing
+            → cursing
+            → curse-like
+    },
+
+}
+
+DILETTARE ("to delight oneself") {
+
+    Dilettante : {
+        Breakdown: Dilettante = Dilettante (one who delights in an activity; amateur enthusiast; superficial participant; dabbler in the arts)
+        Synthesis: "one who delights in an activity" -> "Italian dilettare" (representing amateur enthusiast, superficial participant, or dabbler in the arts).
+        Literal: Italian dilettare
+        Semantic:
+            → amateur enthusiast
+            → superficial participant
+            → dabbler in the arts
+    },
+
+    Dilettantism : {
+        Breakdown: Dilettantism = dilettante (one who delights in an activity; amateur enthusiast; superficial participant; dabbler in the arts) + ism (philosophy, belief, or system of)
+        Synthesis: "one who delights in an activity" + "philosophy" -> "conduct of a dabbler" (representing superficial interest, or amateurism).
+        Literal: conduct of a dabbler
+        Semantic:
+            → superficial interest
+            → amateurism
+    },
+
+}
+
+DOLEO ("to suffer", "to grieve") {
+
+    Dolorous : {
+        Breakdown: Dolorous = doleo (to suffer, to grieve) + ous (characterized by or full of)
+        Synthesis: "to suffer" + "characterized by or full of" -> "full of grief" (representing sorrowful, melancholy, or mournful).
+        Literal: full of grief
+        Semantic:
+            → sorrowful
+            → melancholy
+            → mournful
+    },
+
+    Dolor : {
+        Breakdown: Dolor = doleo (to suffer, to grieve)
+        Synthesis: "to suffer" -> "grief" (representing sorrow, or suffering).
+        Literal: grief
+        Semantic:
+            → sorrow
+            → suffering
+    },
+
+    Doleful : {
+        Breakdown: Doleful = doleo (to suffer, to grieve) + ful
+        Synthesis: "to suffer" + "ful" -> "full of sorrow" (representing gloomy, or exaggerated sadness).
+        Literal: full of sorrow
+        Semantic:
+            → gloomy
+            → exaggerated sadness
+    },
+
+    Condole : {
+        Breakdown: Condole = con (with, together) + doleo (to suffer, to grieve)
+        Synthesis: "with" + "to suffer" -> "grieve together" (representing sympathize, or mourn with another).
+        Literal: grieve together
+        Semantic:
+            → sympathize
+            → mourn with another
+    },
+
+    Condolence : {
+        Breakdown: Condolence = con (with, together) + doleo (to suffer, to grieve) + ence (state or quality of)
+        Synthesis: "with" + "to suffer" + "state or quality of" -> "expression of shared grief" (representing sympathy after loss).
+        Literal: expression of shared grief
+        Semantic:
+            → sympathy after loss
+    },
+
+    Dolores : {
+        Breakdown: Dolores = Dolores (sorrows; grief)
+        Synthesis: "sorrows" -> "from dolor" (representing grief).
+        Literal: from dolor
+        Semantic:
+            → grief
+    },
+
+    Indolent : {
+        Breakdown: Indolent = in (not, in, on, or into) + doleo (to suffer, to grieve)
+        Synthesis: "not" + "to suffer" -> "not suffering" (representing avoiding effort, lazy, or inactive).
+        Literal: not suffering
+        Semantic:
+            → avoiding effort
+            → lazy
+            → inactive
+    },
+
+    Indolence : {
+        Breakdown: Indolence = in (not, in, on, or into) + doleo (to suffer, to grieve) + ence (state or quality of)
+        Synthesis: "not" + "to suffer" + "state or quality of" -> "absence of effort" (representing laziness, or idleness).
+        Literal: absence of effort
+        Semantic:
+            → laziness
+            → idleness
+    },
+
+}
+
+DONO ("to give") {
+
+    Condonation : {
+        Breakdown: Condonation = condone (completely give away; forgive; overlook an offense) + ation (act, process, or result of)
+        Synthesis: "completely give away" + "act" -> "act of forgiving" (representing overlooking wrongdoing).
+        Literal: act of forgiving
+        Semantic:
+            → overlooking wrongdoing
+    },
+
+    Condone : {
+        Breakdown: Condone = con (with, together) + dono (to give)
+        Synthesis: "with" + "to give" -> "completely give away" (representing forgive, or overlook an offense).
+        Literal: completely give away
+        Semantic:
+            → forgive
+            → overlook an offense
+    },
+
+    Donate : {
+        Breakdown: Donate = dono (to give) + ate (to make, cause, or have the state of)
+        Synthesis: "to give" + "to make" -> "give" (representing contribute voluntarily).
+        Literal: give
+        Semantic:
+            → contribute voluntarily
+    },
+
+    Donation : {
+        Breakdown: Donation = dono (to give) + ation (act, process, or result of)
+        Synthesis: "to give" + "act" -> "act of giving" (representing gift, or contribution).
+        Literal: act of giving
+        Semantic:
+            → gift
+            → contribution
+    },
+
+    Donor : {
+        Breakdown: Donor = dono (to give) + or
+        Synthesis: "to give" + "or" -> "giver" (representing contributor).
+        Literal: giver
+        Semantic:
+            → contributor
+    },
+
+}
+
+DROIT ("right", "proper") {
+
+    Adroit : {
+        Breakdown: Adroit = a (not, without) + droit (right, proper)
+        Synthesis: "not" + "right" -> "to the right way" (representing skillful, or clever).
+        Literal: to the right way
+        Semantic:
+            → skillful
+            → clever
+    },
+
+    Adroitness : {
+        Breakdown: Adroitness = adroit (to the right way; skillful; clever) + ness (state or quality of being)
+        Synthesis: "to the right way" + "state or quality of being" -> "skill" (representing cleverness, or dexterity).
+        Literal: skill
+        Semantic:
+            → cleverness
+            → dexterity
+    },
+
+    Maladroit : {
+        Breakdown: Maladroit = mal (bad, evil) + adroit (to the right way; skillful; clever)
+        Synthesis: "bad" + "to the right way" -> "badly right" (representing lacking skill, awkward, or clumsy).
+        Literal: badly right
+        Semantic:
+            → lacking skill
+            → awkward
+            → clumsy
+    },
+
+    Maladroitness : {
+        Breakdown: Maladroitness = mal (bad, evil) + adroit (to the right way; skillful; clever) + ness (state or quality of being)
+        Synthesis: "bad" + "to the right way" + "state or quality of being" -> "awkwardness" (representing clumsiness).
+        Literal: awkwardness
+        Semantic:
+            → clumsiness
+    },
+
+}

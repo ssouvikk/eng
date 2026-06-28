@@ -1,0 +1,772 @@
+GAMOS ("marriage") {
+
+    Bigamy : {
+        Breakdown: Bigamy = bi (two) + gamos (marriage)
+        Synthesis: "two" + "marriage" -> "two marriages".
+        Literal: two marriages
+    },
+
+    Misogamist : {
+        Breakdown: Misogamist = misein (to hate) + gamos (marriage)
+        Synthesis: "to hate" + "marriage" -> "hater of marriage".
+        Literal: hater of marriage
+    },
+
+    Misogamous : {
+        Breakdown: Misogamous = misein (to hate) + gamos (marriage) + ous (characterized by or full of)
+        Synthesis: "to hate" + "marriage" + "characterized by or full of" -> "pertaining to hatred of marriage".
+        Literal: pertaining to hatred of marriage
+    },
+
+    Misogamy : {
+        Breakdown: Misogamy = misein (to hate) + gamos (marriage) + y (state, quality, or condition)
+        Synthesis: "to hate" + "marriage" + "state" -> "hatred of marriage".
+        Literal: hatred of marriage
+    },
+
+    Monogamy : {
+        Breakdown: Monogamy = monos (one) + gamos (marriage) / mono (one) + gamos (marriage)
+        Synthesis: "one" + "one" + "marriage" -> "one marriage".
+        Literal: one marriage
+    },
+
+    Polyandry : {
+        Breakdown: Polyandry = poly (many, plural) + andros (male, man)
+        Synthesis: "many" + "male" -> "many husbands".
+        Literal: many husbands
+    },
+
+    Polygamy : {
+        Breakdown: Polygamy = poly (many, plural) + gamos (marriage)
+        Synthesis: "many" + "marriage" -> "many marriages".
+        Literal: many marriages
+    },
+
+    Polygyny : {
+        Breakdown: Polygyny = poly (many, plural) + gyne (woman)
+        Synthesis: "many" + "woman" -> "many wives".
+        Literal: many wives
+    },
+
+}
+
+GARRIRE ("to chatter") {
+
+    Garrulity : {
+        Breakdown: Garrulity = garrulous (chatter) + ity (state, quality, or condition)
+        Synthesis: "chatter" + "state" -> "incessant chatter" (representing tendency to chatter, or meaningless talkativeness).
+        Literal: incessant chatter
+        Semantic:
+            → tendency to chatter
+            → meaningless talkativeness
+    },
+
+    Garrulous : {
+        Breakdown: Garrulous = garrire (to chatter) + ulous
+        Synthesis: "to chatter" + "ulous" -> "chattering" (representing talking constantly, rambling talk, excessively talkative, or rambling).
+        Literal: chattering
+        Semantic:
+            → talking constantly
+            → rambling talk
+            → excessively talkative
+            → rambling
+    },
+
+}
+
+GE / GEO ("earth") {
+
+    Geographic : {
+        Breakdown: Geographic = geography (earth writing; description and mapping of the earth) + ic (pertaining to or relating to)
+        Synthesis: "earth writing" + "pertaining to or relating to" -> "pertaining to geography".
+        Literal: pertaining to geography
+    },
+
+    Geographical : {
+        Breakdown: Geographical = geography (earth writing; description and mapping of the earth) + ical (pertaining to or relating to)
+        Synthesis: "earth writing" + "pertaining to or relating to" -> "relating to locations and earth features".
+        Literal: relating to locations and earth features
+    },
+
+    Geography : {
+        Breakdown: Geography = geo (earth) + graphein (to write)
+        Synthesis: "earth" + "to write" -> "earth writing" (representing description and mapping of the earth).
+        Literal: earth writing
+        Semantic:
+            → description and mapping of the earth
+    },
+
+    Geological : {
+        Breakdown: Geological = geology (study of the earth) + ical (pertaining to or relating to)
+        Synthesis: "study of the earth" + "pertaining to or relating to" -> "pertaining to geology".
+        Literal: pertaining to geology
+    },
+
+    Geologist : {
+        Breakdown: Geologist = geo (earth) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "earth" + "study" + "one who practices or specializes in" -> "student of the earth" (representing earth scientist).
+        Literal: student of the earth
+        Semantic:
+            → earth scientist
+    },
+
+    Geology : {
+        Breakdown: Geology = geo (earth) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "earth" + "study" -> "study of the earth" (representing science of earth's structure and composition).
+        Literal: study of the earth
+        Semantic:
+            → science of earth's structure and composition
+    },
+
+    Geometric : {
+        Breakdown: Geometric = geometry (earth measurement; science of measuring figures and space) + ic (pertaining to or relating to)
+        Synthesis: "earth measurement" + "pertaining to or relating to" -> "pertaining to geometry".
+        Literal: pertaining to geometry
+    },
+
+    Geometry : {
+        Breakdown: Geometry = geo (earth) + metron (measure, measurement)
+        Synthesis: "earth" + "measure" -> "earth measurement" (representing science of measuring figures and space).
+        Literal: earth measurement
+        Semantic:
+            → science of measuring figures and space
+    },
+
+}
+
+GENESIS ("birth", "origin", "beginning") {
+
+    Congenital : {
+        Breakdown: Congenital = con (with, together) + genesis (birth, origin, beginning)
+        Synthesis: "with" + "birth" -> "born with" (representing existing from birth, or inborn).
+        Literal: born with
+        Semantic:
+            → existing from birth
+            → inborn
+    },
+
+    Gene : {
+        Breakdown: Gene = genesis (birth, origin, beginning)
+        Synthesis: "birth" -> "unit of origin/birth traits" (representing unit of inherited origin, or hereditary factor).
+        Literal: unit of origin/birth traits
+        Semantic:
+            → unit of inherited origin
+            → hereditary factor
+    },
+
+    Genealogical : {
+        Breakdown: Genealogical = genealogy (study of family origins; tracing ancestry; family history) + ical (pertaining to or relating to)
+        Synthesis: "study of family origins" + "pertaining to or relating to" -> "relating to ancestry".
+        Literal: relating to ancestry
+    },
+
+    Genealogist : {
+        Breakdown: Genealogist = genealogy (study of family origins; tracing ancestry; family history) + ist (one who practices or specializes in)
+        Synthesis: "study of family origins" + "one who practices or specializes in" -> "student of family origins" (representing student of family history, or ancestry researcher).
+        Literal: student of family origins
+        Semantic:
+            → student of family history
+            → ancestry researcher
+    },
+
+    Genealogy : {
+        Breakdown: Genealogy = genea + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "genea" + "study" -> "study of origins/family birth lines" (representing study of family origins, tracing ancestry, or family history).
+        Literal: study of origins/family birth lines
+        Semantic:
+            → study of family origins
+            → tracing ancestry
+            → family history
+    },
+
+    Genesis : {
+        Breakdown: Genesis = Genesis (birth, origin, beginning)
+        Synthesis: "birth" -> "birth" (representing beginning, origin, beginning, or source).
+        Literal: birth
+        Semantic:
+            → beginning
+            → origin
+            → beginning
+            → source
+    },
+
+    Genetic : {
+        Breakdown: Genetic = gene (unit of inherited origin; hereditary factor) + tic
+        Synthesis: "unit of inherited origin" + "tic" -> "relating to heredity" (representing inherited).
+        Literal: relating to heredity
+        Semantic:
+            → inherited
+    },
+
+    Geneticist : {
+        Breakdown: Geneticist = genetic (relating to heredity; inherited) + ist (one who practices or specializes in)
+        Synthesis: "relating to heredity" + "one who practices or specializes in" -> "specialist in heredity".
+        Literal: specialist in heredity
+    },
+
+    Genetics : {
+        Breakdown: Genetics = gene (unit of inherited origin; hereditary factor) + tics
+        Synthesis: "unit of inherited origin" + "tics" -> "science of heredity" (representing study of inheritance, or study of inherited traits).
+        Literal: science of heredity
+        Semantic:
+            → study of inheritance
+            → study of inherited traits
+    },
+
+    Genital : {
+        Breakdown: Genital = genesis (birth, origin, beginning) + al (pertaining to or relating to)
+        Synthesis: "birth" + "pertaining to or relating to" -> "relating to generation/birth" (representing reproductive organs).
+        Literal: relating to generation/birth
+        Semantic:
+            → reproductive organs
+    },
+
+    Hereditary : {
+        Breakdown: Hereditary = Hereditary (inherited from parents; transmitted genetically)
+        Synthesis: "inherited from parents" -> "hereditas" (representing transmitted genetically).
+        Literal: hereditas
+        Semantic:
+            → transmitted genetically
+    },
+
+    Psychogenic : {
+        Breakdown: Psychogenic = psyche (mind, soul, spirit) + genesis (birth, origin, beginning)
+        Synthesis: "mind" + "birth" -> "originating in the mind" (representing mentally produced).
+        Literal: originating in the mind
+        Semantic:
+            → mentally produced
+    },
+
+}
+
+GENUUS / INGENUUS ("native, natural, frank") {
+
+    Disingenuous : {
+        Breakdown: Disingenuous = dis (apart, away) + ingenuous (naturally frank; simple; honest; artless; frank; open)
+        Synthesis: "apart" + "naturally frank" -> "not frank" (representing crafty, dishonest, or insincere).
+        Literal: not frank
+        Semantic:
+            → crafty
+            → dishonest
+            → insincere
+    },
+
+    Disingenuousness : {
+        Breakdown: Disingenuousness = disingenuous (not frank; crafty; dishonest; insincere) + ness (state or quality of being)
+        Synthesis: "not frank" + "state or quality of being" -> "lack of frankness" (representing deceitfulness).
+        Literal: lack of frankness
+        Semantic:
+            → deceitfulness
+    },
+
+    Ingenious : {
+        Breakdown: Ingenious = Ingenious (naturally gifted; clever; inventive; resourceful)
+        Synthesis: "naturally gifted" -> "ingenium" (representing clever, inventive, or resourceful).
+        Literal: ingenium
+        Semantic:
+            → clever
+            → inventive
+            → resourceful
+    },
+
+    Ingeniousness : {
+        Breakdown: Ingeniousness = ingenious (naturally gifted; clever; inventive; resourceful) + ness (state or quality of being)
+        Synthesis: "naturally gifted" + "state or quality of being" -> "quality of being inventive".
+        Literal: quality of being inventive
+    },
+
+    Ingenuity : {
+        Breakdown: Ingenuity = ingenious (naturally gifted; clever; inventive; resourceful) + ity (state, quality, or condition)
+        Synthesis: "naturally gifted" + "state" -> "cleverness" (representing inventiveness, inventiveness, or cleverness).
+        Literal: cleverness
+        Semantic:
+            → inventiveness
+            → inventiveness
+            → cleverness
+    },
+
+    Ingenuous : {
+        Breakdown: Ingenuous = ingenuus (native, natural, frank)
+        Synthesis: "native" -> "natural and open" (representing naturally frank, simple, honest, artless, frank, or open).
+        Literal: natural and open
+        Semantic:
+            → naturally frank
+            → simple
+            → honest
+            → artless
+            → frank
+            → open
+    },
+
+    Ingenuousness : {
+        Breakdown: Ingenuousness = ingenuous (naturally frank; simple; honest; artless; frank; open) + ness (state or quality of being)
+        Synthesis: "naturally frank" + "state or quality of being" -> "honesty and simplicity" (representing frank honesty, frank openness, simplicity, or sincerity).
+        Literal: honesty and simplicity
+        Semantic:
+            → frank honesty
+            → frank openness
+            → simplicity
+            → sincerity
+    },
+
+}
+
+GERAS ("old age") {
+
+    Geriatric : {
+        Breakdown: Geriatric = geras (old age) + ic (pertaining to or relating to)
+        Synthesis: "old age" + "pertaining to or relating to" -> "pertaining to / relating to old age".
+        Literal: pertaining to / relating to old age
+    },
+
+    Geriatrician : {
+        Breakdown: Geriatrician = geras (old age) + iatreia (healing, medical treatment) + ian (one who or specialist)
+        Synthesis: "old age" + "healing" + "one who or specialist" -> "physician for the elderly".
+        Literal: physician for the elderly
+    },
+
+    Geriatrics : {
+        Breakdown: Geriatrics = geras (old age) + iatreia (healing, medical treatment)
+        Synthesis: "old age" + "healing" -> "medical treatment of old age" (representing care of the elderly).
+        Literal: medical treatment of old age
+        Semantic:
+            → care of the elderly
+    },
+
+}
+
+GERON ("old man") {
+
+    Gerontological : {
+        Breakdown: Gerontological = gerontology (study of aging; science of old age) + al (pertaining to or relating to)
+        Synthesis: "study of aging" + "pertaining to or relating to" -> "pertaining to aging studies".
+        Literal: pertaining to aging studies
+    },
+
+    Gerontologist : {
+        Breakdown: Gerontologist = geron (old man) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "old man" + "study" -> "student of old age" (representing specialist in aging / aging problems).
+        Literal: student of old age
+        Semantic:
+            → specialist in aging / aging problems
+    },
+
+    Gerontology : {
+        Breakdown: Gerontology = geron (old man) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "old man" + "study" -> "study of aging" (representing science of old age).
+        Literal: study of aging
+        Semantic:
+            → science of old age
+    },
+
+}
+
+GLIB ("smooth") {
+
+    Glib : {
+        Breakdown: Glib = glib (smooth)
+        Synthesis: "smooth" -> "smooth-tongued" (representing fluent but insincere, or suspiciously smooth).
+        Literal: smooth-tongued
+        Semantic:
+            → fluent but insincere
+            → suspiciously smooth
+    },
+
+    Glibness : {
+        Breakdown: Glibness = glib (smooth) + ness (state or quality of being)
+        Synthesis: "smooth" + "state or quality of being" -> "excessive smooth fluency" (representing slick talk).
+        Literal: excessive smooth fluency
+        Semantic:
+            → slick talk
+    },
+
+}
+
+GLUTTIRE ("to swallow greedily") {
+
+    Glutton : {
+        Breakdown: Glutton = gluttire (to swallow greedily)
+        Synthesis: "to swallow greedily" -> "one who swallows excessively" (representing overeater, or piggish eater).
+        Literal: one who swallows excessively
+        Semantic:
+            → overeater
+            → piggish eater
+    },
+
+    Gluttonize : {
+        Breakdown: Gluttonize = glutton (one who swallows excessively; overeater; piggish eater) + ize (to make, treat, or combine with)
+        Synthesis: "one who swallows excessively" + "to make" -> "eat excessively" (representing stuff oneself greedily).
+        Literal: eat excessively
+        Semantic:
+            → stuff oneself greedily
+    },
+
+    Gluttonous : {
+        Breakdown: Gluttonous = glutton (one who swallows excessively; overeater; piggish eater) + ous (characterized by or full of)
+        Synthesis: "one who swallows excessively" + "characterized by or full of" -> "characterized by overeating" (representing greedy for food).
+        Literal: characterized by overeating
+        Semantic:
+            → greedy for food
+    },
+
+    Gluttony : {
+        Breakdown: Gluttony = glutton (one who swallows excessively; overeater; piggish eater) + y (state, quality, or condition)
+        Synthesis: "one who swallows excessively" + "state" -> "excessive eating" (representing greed in consumption).
+        Literal: excessive eating
+        Semantic:
+            → greed in consumption
+    },
+
+}
+
+GNOSIS (knowledge) {
+
+    Diagnosis : {
+        Breakdown: Diagnosis = dia (through, across) + gnosis (knowledge)
+        Synthesis: "through" + "knowledge" -> "knowledge through examination" (representing determination of a condition, or identification after investigation).
+        Literal: knowledge through examination
+        Semantic:
+            → determination of a condition
+            → identification after investigation
+    },
+
+    Diagnostic : {
+        Breakdown: Diagnostic = diagnosis (knowledge through examination; determination of a condition; identification after investigation) + tic
+        Synthesis: "knowledge through examination" + "tic" -> "relating to identification or examination".
+        Literal: relating to identification or examination
+    },
+
+    Prognosis : {
+        Breakdown: Prognosis = pro (forward, before, or in favor of) + gnosis (knowledge)
+        Synthesis: "forward" + "knowledge" -> "knowledge beforehand" (representing prediction of future course, or forecast of outcome).
+        Literal: knowledge beforehand
+        Semantic:
+            → prediction of future course
+            → forecast of outcome
+    },
+
+    Prognostic : {
+        Breakdown: Prognostic = prognosis (knowledge beforehand; prediction of future course; forecast of outcome) + tic
+        Synthesis: "knowledge beforehand" + "tic" -> "predictive" (representing foretelling future developments).
+        Literal: predictive
+        Semantic:
+            → foretelling future developments
+    },
+
+    Prognosticate : {
+        Breakdown: Prognosticate = pro (forward, before, or in favor of) + gnosticate
+        Synthesis: "forward" + "gnosticate" -> "know beforehand" (representing predict, or forecast).
+        Literal: know beforehand
+        Semantic:
+            → predict
+            → forecast
+    },
+
+}
+
+GNOSTOS (known) {
+
+    Agnostic : {
+        Breakdown: Agnostic = a (not, without) + gnostic
+        Synthesis: "not" + "gnostic" -> "not knowing" (representing one who claims ultimate reality is unknowable).
+        Literal: not knowing
+        Semantic:
+            → one who claims ultimate reality is unknowable
+    },
+
+    Agnosticism : {
+        Breakdown: Agnosticism = a (not, without) + gnosis (knowledge)
+        Synthesis: "not" + "knowledge" -> "doctrine of unknowability" (representing belief that God cannot be known with certainty).
+        Literal: doctrine of unknowability
+        Semantic:
+            → belief that God cannot be known with certainty
+    },
+
+}
+
+GOURMET ("connoisseur of food") {
+
+    Gourmand : {
+        Breakdown: Gourmand = Gourmand (lover of food; hearty eater; sensual enjoyer of food)
+        Synthesis: "lover of food" -> "French gourmand" (representing hearty eater, or sensual enjoyer of food).
+        Literal: French gourmand
+        Semantic:
+            → hearty eater
+            → sensual enjoyer of food
+    },
+
+    Gourmandize : {
+        Breakdown: Gourmandize = gourmand (lover of food; hearty eater; sensual enjoyer of food) + ize (to make, treat, or combine with)
+        Synthesis: "lover of food" + "to make" -> "eat luxuriously" (representing indulge in food pleasures).
+        Literal: eat luxuriously
+        Semantic:
+            → indulge in food pleasures
+    },
+
+    Gourmet : {
+        Breakdown: Gourmet = Gourmet (connoisseur of food)
+        Synthesis: "connoisseur of food" -> "French gourmet" (representing connoisseur of fine cuisine).
+        Literal: French gourmet
+        Semantic:
+            → connoisseur of fine cuisine
+    },
+
+}
+
+GRAPHEIN ("to write") {
+
+    Biography : {
+        Breakdown: Biography = bios (life) + graphein (to write)
+        Synthesis: "life" + "to write" -> "life writing" (representing written account of a life).
+        Literal: life writing
+        Semantic:
+            → written account of a life
+    },
+
+    Cacographer : {
+        Breakdown: Cacographer = kakos (bad, ugly, harsh) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "bad" + "to write" + "one who or person/thing that does" -> "one who writes badly" (representing person with poor handwriting).
+        Literal: one who writes badly
+        Semantic:
+            → person with poor handwriting
+    },
+
+    Cacographic : {
+        Breakdown: Cacographic = kakos (bad, ugly, harsh) + graphein (to write) + ic (pertaining to or relating to)
+        Synthesis: "bad" + "to write" + "pertaining to or relating to" -> "marked by poor handwriting".
+        Literal: marked by poor handwriting
+    },
+
+    Cacography : {
+        Breakdown: Cacography = kakos (bad, ugly, harsh) + graphein (to write)
+        Synthesis: "bad" + "to write" -> "bad writing" (representing illegible handwriting).
+        Literal: bad writing
+        Semantic:
+            → illegible handwriting
+    },
+
+    Calligrapher : {
+        Breakdown: Calligrapher = kallos (beauty) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "beauty" + "to write" + "one who or person/thing that does" -> "artist of beautiful writing".
+        Literal: artist of beautiful writing
+    },
+
+    Calligraphic : {
+        Breakdown: Calligraphic = calligraphy (beautiful writing; artistic handwriting / artistic penmanship) + ic (pertaining to or relating to)
+        Synthesis: "beautiful writing" + "pertaining to or relating to" -> "pertaining to artistic handwriting".
+        Literal: pertaining to artistic handwriting
+    },
+
+    Calligraphy : {
+        Breakdown: Calligraphy = kallos (beauty) + graphein (to write)
+        Synthesis: "beauty" + "to write" -> "beautiful writing" (representing artistic handwriting).
+        Literal: beautiful writing
+        Semantic:
+            → artistic handwriting
+    },
+
+    Cardiograph : {
+        Breakdown: Cardiograph = kardia (heart) + graphein (to write)
+        Synthesis: "heart" + "to write" -> "heart writer" (representing heart-recording instrument).
+        Literal: heart writer
+        Semantic:
+            → heart-recording instrument
+    },
+
+    Chirographer : {
+        Breakdown: Chirographer = cheir (hand) + graphein (to write) + er (one who or person/thing that does)
+        Synthesis: "hand" + "to write" + "one who or person/thing that does" -> "handwriting expert".
+        Literal: handwriting expert
+    },
+
+    Chirographic : {
+        Breakdown: Chirographic = chirography (hand writing; handwriting) + ic (pertaining to or relating to)
+        Synthesis: "hand writing" + "pertaining to or relating to" -> "pertaining to handwriting".
+        Literal: pertaining to handwriting
+    },
+
+    Chirography : {
+        Breakdown: Chirography = cheir (hand) + graphein (to write)
+        Synthesis: "hand" + "to write" -> "hand writing" (representing handwriting).
+        Literal: hand writing
+        Semantic:
+            → handwriting
+    },
+
+    Graphological : {
+        Breakdown: Graphological = graphology (study of handwriting; handwriting analysis) + al (pertaining to or relating to)
+        Synthesis: "study of handwriting" + "pertaining to or relating to" -> "pertaining to handwriting analysis".
+        Literal: pertaining to handwriting analysis
+    },
+
+    Graphologist : {
+        Breakdown: Graphologist = graphein (to write) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "to write" + "study" -> "student of handwriting" (representing handwriting analyst).
+        Literal: student of handwriting
+        Semantic:
+            → handwriting analyst
+    },
+
+    Graphology : {
+        Breakdown: Graphology = graphein (to write) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "to write" + "study" -> "study of handwriting" (representing handwriting analysis).
+        Literal: study of handwriting
+        Semantic:
+            → handwriting analysis
+    },
+
+    Phonograph : {
+        Breakdown: Phonograph = phone (sound) + graphein (to write)
+        Synthesis: "sound" + "to write" -> "sound writing" (representing sound-recording device).
+        Literal: sound writing
+        Semantic:
+            → sound-recording device
+    },
+
+    Photograph : {
+        Breakdown: Photograph = photos (light) + graphein (to write)
+        Synthesis: "light" + "to write" -> "light writing" (representing image made by light).
+        Literal: light writing
+        Semantic:
+            → image made by light
+    },
+
+    Telegraph : {
+        Breakdown: Telegraph = tele (distance) + graphein (to write)
+        Synthesis: "distance" + "to write" -> "distance writing" (representing long-distance communication).
+        Literal: distance writing
+        Semantic:
+            → long-distance communication
+    },
+
+}
+
+GREX, GREGIS ("flock", "herd", "group") {
+
+    Aggregate : {
+        Breakdown: Aggregate = ad (to, toward) + grex (flock, herd, group)
+        Synthesis: "to" + "flock" -> "brought into a group" (representing brought into a flock/group, total mass, or collection).
+        Literal: brought into a group
+        Semantic:
+            → brought into a flock/group
+            → total mass
+            → collection
+    },
+
+    Aggregation : {
+        Breakdown: Aggregation = aggregate (brought into a flock/group; total mass; collection) + ion (act, process, or result of)
+        Synthesis: "brought into a flock/group" + "act" -> "act of collecting together" (representing gathering together, or accumulation).
+        Literal: act of collecting together
+        Semantic:
+            → gathering together
+            → accumulation
+    },
+
+    Congregate : {
+        Breakdown: Congregate = con (with, together) + grex (flock, herd, group)
+        Synthesis: "with" + "flock" -> "gather into a flock" (representing assemble, or come together).
+        Literal: gather into a flock
+        Semantic:
+            → assemble
+            → come together
+    },
+
+    Congregation : {
+        Breakdown: Congregation = congregate (gather into a flock; assemble; come together) + ion (act, process, or result of)
+        Synthesis: "gather into a flock" + "act" -> "gathered group" (representing assembly).
+        Literal: gathered group
+        Semantic:
+            → assembly
+    },
+
+    Egregious : {
+        Breakdown: Egregious = e (out, from) + grex (flock, herd, group)
+        Synthesis: "out" + "flock" -> "standing out from the flock" (representing conspicuously bad, outstandingly wrong, conspicuously different, outstandingly bad, or remarkably vicious).
+        Literal: standing out from the flock
+        Semantic:
+            → conspicuously bad
+            → outstandingly wrong
+            → conspicuously different
+            → outstandingly bad
+            → remarkably vicious
+    },
+
+    Gregarious : {
+        Breakdown: Gregarious = grex (flock, herd, group) + arious
+        Synthesis: "flock" + "arious" -> "belonging to a flock" (representing sociable, or fond of company).
+        Literal: belonging to a flock
+        Semantic:
+            → sociable
+            → fond of company
+    },
+
+    Segregate : {
+        Breakdown: Segregate = se (apart or aside) + grex (flock, herd, group)
+        Synthesis: "apart or aside" + "flock" -> "separate from the flock" (representing isolate, or set apart).
+        Literal: separate from the flock
+        Semantic:
+            → isolate
+            → set apart
+    },
+
+    Segregation : {
+        Breakdown: Segregation = segregate (separate from the flock; isolate; set apart) + ion (act, process, or result of)
+        Synthesis: "separate from the flock" + "act" -> "act of separation" (representing isolation of groups).
+        Literal: act of separation
+        Semantic:
+            → isolation of groups
+    },
+
+}
+
+GYNE ("woman") {
+
+    Gynecological : {
+        Breakdown: Gynecological = gynecology (study of women) + al (pertaining to or relating to)
+        Synthesis: "study of women" + "pertaining to or relating to" -> "relating to gynecology".
+        Literal: relating to gynecology
+    },
+
+    Gynecologist : {
+        Breakdown: Gynecologist = gyne (woman) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "woman" + "study" + "one who practices or specializes in" -> "specialist in the science of women" (representing physician treating female reproductive organs, or gynecologist).
+        Literal: specialist in the science of women
+        Semantic:
+            → physician treating female reproductive organs
+            → gynecologist
+    },
+
+    Gynecology : {
+        Breakdown: Gynecology = gyne (woman) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "woman" + "study" -> "study/science of women" (representing medical science of female reproductive system, or gynecology).
+        Literal: study/science of women
+        Semantic:
+            → medical science of female reproductive system
+            → gynecology
+    },
+
+    Misogynist : {
+        Breakdown: Misogynist = misein (to hate) + gyne (woman)
+        Synthesis: "to hate" + "woman" -> "hater of women".
+        Literal: hater of women
+    },
+
+    Misogynistic : {
+        Breakdown: Misogynistic = misogynist (hater of women) + ic (pertaining to or relating to)
+        Synthesis: "hater of women" + "pertaining to or relating to" -> "pertaining to hatred of women".
+        Literal: pertaining to hatred of women
+    },
+
+    Misogynous : {
+        Breakdown: Misogynous = misein (to hate) + gyne (woman) + ous (characterized by or full of)
+        Synthesis: "to hate" + "woman" + "characterized by or full of" -> "characterized by hatred of women".
+        Literal: characterized by hatred of women
+    },
+
+    Misogyny : {
+        Breakdown: Misogyny = misein (to hate) + gyne (woman) + y (state, quality, or condition)
+        Synthesis: "to hate" + "woman" + "state" -> "hatred of women".
+        Literal: hatred of women
+    },
+
+}

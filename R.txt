@@ -1,0 +1,78 @@
+REX / REGIS ("king") {
+
+    Regal : {
+        Breakdown: Regal = rex (king) + al (pertaining to or relating to)
+        Synthesis: "king" + "pertaining to or relating to" -> "kingly" (representing royal, magnificent, or majestic).
+        Literal: kingly
+        Semantic:
+            → royal
+            → magnificent
+            → majestic
+    },
+
+    Regalia : {
+        Breakdown: Regalia = rex (king) + alia
+        Synthesis: "king" + "alia" -> "things belonging to a king" (representing royal insignia, badges of office, or ceremonial dress).
+        Literal: things belonging to a king
+        Semantic:
+            → royal insignia
+            → badges of office
+            → ceremonial dress
+    },
+
+    Regicide : {
+        Breakdown: Regicide = rex (king) + cide (to kill)
+        Synthesis: "king" + "to kill" -> "king-killing" (representing murder of a ruler).
+        Literal: king-killing
+        Semantic:
+            → murder of a ruler
+    },
+
+}
+
+RUS / RURIS ("country", "farmland") {
+
+    Rural : {
+        Breakdown: Rural = rus (country, farmland) + al (pertaining to or relating to)
+        Synthesis: "country" + "pertaining to or relating to" -> "relating to the countryside" (representing agricultural, or country-based).
+        Literal: relating to the countryside
+        Semantic:
+            → agricultural
+            → country-based
+    },
+
+    Rustic : {
+        Breakdown: Rustic = rus (country, farmland) + tic
+        Synthesis: "country" + "tic" -> "country person" (representing unsophisticated, uncultured, or rough-hewn).
+        Literal: country person
+        Semantic:
+            → unsophisticated
+            → uncultured
+            → rough-hewn
+    },
+
+    Rusticate : {
+        Breakdown: Rusticate = rustic (country person; unsophisticated; uncultured; rough-hewn) + ate (to make, cause, or have the state of)
+        Synthesis: "country person" + "to make" -> "become country-oriented" (representing spend time in the countryside).
+        Literal: become country-oriented
+        Semantic:
+            → spend time in the countryside
+    },
+
+    Rustication : {
+        Breakdown: Rustication = rusticate (become country-oriented; spend time in the countryside) + ion (act, process, or result of)
+        Synthesis: "become country-oriented" + "act" -> "act of living in the countryside" (representing country retreat).
+        Literal: act of living in the countryside
+        Semantic:
+            → country retreat
+    },
+
+    Rusticity : {
+        Breakdown: Rusticity = rustic (country person; unsophisticated; uncultured; rough-hewn) + ity (state, quality, or condition)
+        Synthesis: "country person" + "state" -> "quality of being rustic" (representing lack of refinement).
+        Literal: quality of being rustic
+        Semantic:
+            → lack of refinement
+    },
+
+}

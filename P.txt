@@ -1,0 +1,1189 @@
+PAIDOS / PAIS ("child") {
+
+    Orthopedics : {
+        Breakdown: Orthopedics = orthos (straight, correct) + pais (child)
+        Synthesis: "straight" + "child" -> "straight child" (representing originally correction of deformities in children, or orthopedics).
+        Literal: straight child
+        Semantic:
+            → originally correction of deformities in children
+            → orthopedics
+    },
+
+    Orthopedist : {
+        Breakdown: Orthopedist = orthos (straight, correct) + pais (child) + ist (one who practices or specializes in)
+        Synthesis: "straight" + "child" + "one who practices or specializes in" -> "specialist correcting skeletal deformities" (representing orthopedist).
+        Literal: specialist correcting skeletal deformities
+        Semantic:
+            → orthopedist
+    },
+
+    Pediatric : {
+        Breakdown: Pediatric = paidos (child) + ic (pertaining to or relating to)
+        Synthesis: "child" + "pertaining to or relating to" -> "relating to children".
+        Literal: relating to children
+    },
+
+    Pediatrician : {
+        Breakdown: Pediatrician = paidos (child) + iatreia (healing, medical treatment) + ian (one who or specialist)
+        Synthesis: "child" + "healing" + "one who or specialist" -> "physician for children" (representing specialist in childhood diseases and development, or pediatrician).
+        Literal: physician for children
+        Semantic:
+            → specialist in childhood diseases and development
+            → pediatrician
+    },
+
+    Pediatrics : {
+        Breakdown: Pediatrics = paidos (child) + iatreia (healing, medical treatment)
+        Synthesis: "child" + "healing" -> "healing of children" (representing branch of medicine dealing with children, or pediatrics).
+        Literal: healing of children
+        Semantic:
+            → branch of medicine dealing with children
+            → pediatrics
+    },
+
+    Pedodontia : {
+        Breakdown: Pedodontia = paidos (child) + odontos (tooth)
+        Synthesis: "child" + "tooth" -> "care of children's teeth" (representing pediatric dentistry).
+        Literal: care of children's teeth
+        Semantic:
+            → pediatric dentistry
+    },
+
+    Pedodontic : {
+        Breakdown: Pedodontic = pedodontia (child teeth) + ic (pertaining to or relating to)
+        Synthesis: "child teeth" + "pertaining to or relating to" -> "relating to child dentistry".
+        Literal: relating to child dentistry
+    },
+
+    Pedodontist : {
+        Breakdown: Pedodontist = paidos (child) + odontos (tooth)
+        Synthesis: "child" + "tooth" -> "child tooth specialist" (representing children's dentist).
+        Literal: child tooth specialist
+        Semantic:
+            → children's dentist
+    },
+
+}
+
+PAR ("equal") {
+
+    Disparage : {
+        Breakdown: Disparage = dis (apart, away) + par (equal)
+        Synthesis: "apart" + "equal" -> "lower another's equality/status" (representing belittle, or speak slightingly of).
+        Literal: lower another's equality/status
+        Semantic:
+            → belittle
+            → speak slightingly of
+    },
+
+    Disparagement : {
+        Breakdown: Disparagement = disparage (lower another's equality/status; belittle; speak slightingly of) + ment
+        Synthesis: "lower another's equality/status" + "ment" -> "act of belittling" (representing depreciation, or ridicule).
+        Literal: act of belittling
+        Semantic:
+            → depreciation
+            → ridicule
+    },
+
+    Disparate : {
+        Breakdown: Disparate = dis (apart, away) + par (equal)
+        Synthesis: "apart" + "equal" -> "unequal" (representing essentially different, or fundamentally unlike).
+        Literal: unequal
+        Semantic:
+            → essentially different
+            → fundamentally unlike
+    },
+
+    Disparity : {
+        Breakdown: Disparity = dis (apart, away) + parity (equality; equivalence; equal status)
+        Synthesis: "apart" + "equality" -> "lack of equality" (representing inequality, or difference in status or amount).
+        Literal: lack of equality
+        Semantic:
+            → inequality
+            → difference in status or amount
+    },
+
+    Par : {
+        Breakdown: Par = par (equal)
+        Synthesis: "equal" -> "equal standard" (representing expected level, or average performance benchmark).
+        Literal: equal standard
+        Semantic:
+            → expected level
+            → average performance benchmark
+    },
+
+    Parity : {
+        Breakdown: Parity = par (equal) + ity (state, quality, or condition)
+        Synthesis: "equal" + "state" -> "equality" (representing equivalence, or equal status).
+        Literal: equality
+        Semantic:
+            → equivalence
+            → equal status
+    },
+
+    Peer : {
+        Breakdown: Peer = par (equal)
+        Synthesis: "equal" -> "equal" (representing one of equal rank, or social or professional equal).
+        Literal: equal
+        Semantic:
+            → one of equal rank
+            → social or professional equal
+    },
+
+}
+
+PARSIMONIA ("frugality", "sparingness") {
+
+    Parsimonious : {
+        Breakdown: Parsimonious = parsimony (excessive economy; stinginess; unwillingness to spend) + ous (characterized by or full of)
+        Synthesis: "excessive economy" + "characterized by or full of" -> "excessively sparing" (representing stingy, or miserly).
+        Literal: excessively sparing
+        Semantic:
+            → stingy
+            → miserly
+    },
+
+    Parsimony : {
+        Breakdown: Parsimony = parsimonia (frugality, sparingness)
+        Synthesis: "frugality" -> "excessive economy" (representing stinginess, or unwillingness to spend).
+        Literal: excessive economy
+        Semantic:
+            → stinginess
+            → unwillingness to spend
+    },
+
+}
+
+PATER / PATRIS ("father") {
+
+    Paternal : {
+        Breakdown: Paternal = pater (father) + al (pertaining to or relating to)
+        Synthesis: "father" + "pertaining to or relating to" -> "fatherly" (representing relating to a father).
+        Literal: fatherly
+        Semantic:
+            → relating to a father
+    },
+
+    Paternalism : {
+        Breakdown: Paternalism = paternal (fatherly; relating to a father) + ism (philosophy, belief, or system of)
+        Synthesis: "fatherly" + "philosophy" -> "father-like control" (representing protective authority).
+        Literal: father-like control
+        Semantic:
+            → protective authority
+    },
+
+    Paternalistic : {
+        Breakdown: Paternalistic = paternal (fatherly; relating to a father) + istic
+        Synthesis: "fatherly" + "istic" -> "acting like a protective father" (representing controlling for others' supposed good).
+        Literal: acting like a protective father
+        Semantic:
+            → controlling for others' supposed good
+    },
+
+    Paternity : {
+        Breakdown: Paternity = pater (father) + ity (state, quality, or condition)
+        Synthesis: "father" + "state" -> "fatherhood".
+        Literal: fatherhood
+    },
+
+    Patriarch : {
+        Breakdown: Patriarch = pater (father) + archein
+        Synthesis: "father" + "archein" -> "father ruler" (representing male head of family).
+        Literal: father ruler
+        Semantic:
+            → male head of family
+    },
+
+    Patriarchal : {
+        Breakdown: Patriarchal = patriarch (father ruler; male head of family) + al (pertaining to or relating to)
+        Synthesis: "father ruler" + "pertaining to or relating to" -> "relating to patriarchy".
+        Literal: relating to patriarchy
+    },
+
+    Patriarchy : {
+        Breakdown: Patriarchy = patriarch (father ruler; male head of family) + y (state, quality, or condition)
+        Synthesis: "father ruler" + "state" -> "rule by fathers" (representing male-dominated system).
+        Literal: rule by fathers
+        Semantic:
+            → male-dominated system
+    },
+
+    Patricidal : {
+        Breakdown: Patricidal = patricide (father-killing) + al (pertaining to or relating to)
+        Synthesis: "father-killing" + "pertaining to or relating to" -> "relating to father-killing".
+        Literal: relating to father-killing
+    },
+
+    Patricide : {
+        Breakdown: Patricide = pater (father) + cide (to kill)
+        Synthesis: "father" + "to kill" -> "father-killing" (representing murder of one's father).
+        Literal: father-killing
+        Semantic:
+            → murder of one's father
+    },
+
+    Patrimony : {
+        Breakdown: Patrimony = pater (father) + mony
+        Synthesis: "father" + "mony" -> "father's property" (representing inherited estate).
+        Literal: father's property
+        Semantic:
+            → inherited estate
+    },
+
+    Patronymic : {
+        Breakdown: Patronymic = pater (father) + onyma (name)
+        Synthesis: "father" + "name" -> "father's name" (representing surname derived from father).
+        Literal: father's name
+        Semantic:
+            → surname derived from father
+    },
+
+}
+
+PATHOS ("suffering", "disease", "feeling") {
+
+    Antipathetic : {
+        Breakdown: Antipathetic = antipathy (feeling against; dislike; hostility) + etic
+        Synthesis: "feeling against" + "etic" -> "showing hostility" (representing opposed in feeling).
+        Literal: showing hostility
+        Semantic:
+            → opposed in feeling
+    },
+
+    Antipathy : {
+        Breakdown: Antipathy = anti (against, opposite) + pathos (suffering, disease, feeling)
+        Synthesis: "against" + "suffering" -> "feeling against" (representing dislike, or hostility).
+        Literal: feeling against
+        Semantic:
+            → dislike
+            → hostility
+    },
+
+    Apathetic : {
+        Breakdown: Apathetic = apathy (without feeling; indifference; lack of interest; lack of concern) + etic
+        Synthesis: "without feeling" + "etic" -> "emotionally indifferent".
+        Literal: emotionally indifferent
+    },
+
+    Apathy : {
+        Breakdown: Apathy = a (not, without) + pathos (suffering, disease, feeling)
+        Synthesis: "not" + "suffering" -> "without feeling" (representing indifference, lack of interest, or lack of concern).
+        Literal: without feeling
+        Semantic:
+            → indifference
+            → lack of interest
+            → lack of concern
+    },
+
+    Empathic : {
+        Breakdown: Empathic = empathy (feeling in; identification with another's feelings; emotional participation) + ic (pertaining to or relating to)
+        Synthesis: "feeling in" + "pertaining to or relating to" -> "relating to empathy".
+        Literal: relating to empathy
+    },
+
+    Empathize : {
+        Breakdown: Empathize = empathy (feeling in; identification with another's feelings; emotional participation) + ize (to make, treat, or combine with)
+        Synthesis: "feeling in" + "to make" -> "enter another's feelings" (representing emotionally identify).
+        Literal: enter another's feelings
+        Semantic:
+            → emotionally identify
+    },
+
+    Empathy : {
+        Breakdown: Empathy = en + pathos (suffering, disease, feeling)
+        Synthesis: "en" + "suffering" -> "feeling in" (representing identification with another's feelings, or emotional participation).
+        Literal: feeling in
+        Semantic:
+            → identification with another's feelings
+            → emotional participation
+    },
+
+    Osteopath : {
+        Breakdown: Osteopath = osteon (bone) + pathos (suffering, disease, feeling)
+        Synthesis: "bone" + "suffering" -> "bone suffering/disease" (representing osteopathic practitioner).
+        Literal: bone suffering/disease
+        Semantic:
+            → osteopathic practitioner
+    },
+
+    Osteopathy : {
+        Breakdown: Osteopathy = osteon (bone) + pathos (suffering, disease, feeling) + y (state, quality, or condition)
+        Synthesis: "bone" + "suffering" + "state" -> "bone-related disease/suffering condition" (representing osteopathic medicine).
+        Literal: bone-related disease/suffering condition
+        Semantic:
+            → osteopathic medicine
+    },
+
+    Pathetic : {
+        Breakdown: Pathetic = pathos (suffering, disease, feeling) + etic
+        Synthesis: "suffering" + "etic" -> "full of feeling" (representing full of feeling/suffering, evoking pity, or sorrowful).
+        Literal: full of feeling
+        Semantic:
+            → full of feeling/suffering
+            → evoking pity
+            → sorrowful
+    },
+
+    Pathological : {
+        Breakdown: Pathological = pathos (suffering, disease, feeling) + logos (study, science, knowledge, word, reason, speech) + ical (pertaining to or relating to)
+        Synthesis: "suffering" + "study" + "pertaining to or relating to" -> "relating to disease" (representing diseased, or abnormal).
+        Literal: relating to disease
+        Semantic:
+            → diseased
+            → abnormal
+    },
+
+    Pathologist : {
+        Breakdown: Pathologist = pathology (study of disease; science of disease) + ist (one who practices or specializes in)
+        Synthesis: "study of disease" + "one who practices or specializes in" -> "specialist in disease diagnosis" (representing specialist in disease study, or disease diagnostician).
+        Literal: specialist in disease diagnosis
+        Semantic:
+            → specialist in disease study
+            → disease diagnostician
+    },
+
+    Pathology : {
+        Breakdown: Pathology = pathos (suffering, disease, feeling) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "suffering" + "study" -> "study of disease" (representing science of disease).
+        Literal: study of disease
+        Semantic:
+            → science of disease
+    },
+
+    Psychopath : {
+        Breakdown: Psychopath = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling)
+        Synthesis: "mind" + "suffering" -> "person with a diseased/suffering mind" (representing diseased mind, psychopath, or person with severe personality disorder).
+        Literal: person with a diseased/suffering mind
+        Semantic:
+            → diseased mind
+            → psychopath
+            → person with severe personality disorder
+    },
+
+    Psychopathic : {
+        Breakdown: Psychopathic = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + ic (pertaining to or relating to)
+        Synthesis: "mind" + "suffering" + "pertaining to or relating to" -> "mentally diseased" (representing relating to psychopathy).
+        Literal: mentally diseased
+        Semantic:
+            → relating to psychopathy
+    },
+
+    Psychopathy : {
+        Breakdown: Psychopathy = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + y (state, quality, or condition)
+        Synthesis: "mind" + "suffering" + "state" -> "diseased mind condition" (representing mental disorder, disorder of personality, severe personality disorder, or diseased mental condition).
+        Literal: diseased mind condition
+        Semantic:
+            → mental disorder
+            → disorder of personality
+            → severe personality disorder
+            → diseased mental condition
+    },
+
+    Sympathetic : {
+        Breakdown: Sympathetic = sympathy (feeling with; compassion; understanding another's suffering; sharing another's feelings) + etic
+        Synthesis: "feeling with" + "etic" -> "characterized by compassion".
+        Literal: characterized by compassion
+    },
+
+    Sympathy : {
+        Breakdown: Sympathy = syn (together, with) + pathos (suffering, disease, feeling)
+        Synthesis: "together" + "suffering" -> "feeling with" (representing compassion, understanding another's suffering, or sharing another's feelings).
+        Literal: feeling with
+        Semantic:
+            → compassion
+            → understanding another's suffering
+            → sharing another's feelings
+    },
+
+    Telepathic : {
+        Breakdown: Telepathic = telepathy (feeling at a distance; thought transference; extrasensory communication) + ic (pertaining to or relating to)
+        Synthesis: "feeling at a distance" + "pertaining to or relating to" -> "relating to thought transference".
+        Literal: relating to thought transference
+    },
+
+    Telepathy : {
+        Breakdown: Telepathy = tele (distance) + pathos (suffering, disease, feeling)
+        Synthesis: "distance" + "suffering" -> "feeling at a distance" (representing thought transference, or extrasensory communication).
+        Literal: feeling at a distance
+        Semantic:
+            → thought transference
+            → extrasensory communication
+    },
+
+}
+
+PECUS ("cattle", ancient wealth) {
+
+    Impecunious : {
+        Breakdown: Impecunious = im (not, in, on, or into) + pecus (cattle, ancient wealth) + ious
+        Synthesis: "not" + "cattle" + "ious" -> "without cattle/wealth" (representing short of money, lacking cash, or financially embarrassed).
+        Literal: without cattle/wealth
+        Semantic:
+            → short of money
+            → lacking cash
+            → financially embarrassed
+    },
+
+    Pecuniary : {
+        Breakdown: Pecuniary = pecus (cattle, ancient wealth) + ary
+        Synthesis: "cattle" + "ary" -> "relating to wealth" (representing monetary, or financial).
+        Literal: relating to wealth
+        Semantic:
+            → monetary
+            → financial
+    },
+
+    Penury : {
+        Breakdown: Penury = Penury (dire need; abject poverty; extreme financial hardship)
+        Synthesis: "dire need" -> "related wealth-poverty concept" (representing extreme poverty, or destitution).
+        Literal: related wealth-poverty concept
+        Semantic:
+            → extreme poverty
+            → destitution
+    },
+
+}
+
+PEJOR ("worse") {
+
+    Pejorative : {
+        Breakdown: Pejorative = pejor (worse) + ative
+        Synthesis: "worse" + "ative" -> "expressing something worse" (representing derogatory, insulting, or disparaging).
+        Literal: expressing something worse
+        Semantic:
+            → derogatory
+            → insulting
+            → disparaging
+    },
+
+}
+
+PENURIA ("need", "poverty") {
+
+    Penurious : {
+        Breakdown: Penurious = penury (dire need; abject poverty; extreme financial hardship) + ous (characterized by or full of)
+        Synthesis: "dire need" + "characterized by or full of" -> "characterized by poverty" (representing poverty-stricken, miserly, or excessively stingy).
+        Literal: characterized by poverty
+        Semantic:
+            → poverty-stricken
+            → miserly
+            → excessively stingy
+    },
+
+    Penuriousness : {
+        Breakdown: Penuriousness = penurious (characterized by poverty; poverty-stricken; miserly; excessively stingy) + ness (state or quality of being)
+        Synthesis: "characterized by poverty" + "state or quality of being" -> "quality of being penurious" (representing stinginess, or excessive frugality).
+        Literal: quality of being penurious
+        Semantic:
+            → stinginess
+            → excessive frugality
+    },
+
+    Penury : {
+        Breakdown: Penury = penuria (need, poverty)
+        Synthesis: "need" -> "dire need" (representing abject poverty, or extreme financial hardship).
+        Literal: dire need
+        Semantic:
+            → abject poverty
+            → extreme financial hardship
+    },
+
+}
+
+PERI ("around", "surrounding") {
+
+    Periodontia : {
+        Breakdown: Periodontia = peri (around, surrounding) + odontos (tooth)
+        Synthesis: "around" + "tooth" -> "treatment around teeth" (representing periodontal specialty).
+        Literal: treatment around teeth
+        Semantic:
+            → periodontal specialty
+    },
+
+    Periodontic : {
+        Breakdown: Periodontic = periodontia (around teeth) + ic (pertaining to or relating to)
+        Synthesis: "around teeth" + "pertaining to or relating to" -> "relating to periodontal treatment".
+        Literal: relating to periodontal treatment
+    },
+
+    Periodontist : {
+        Breakdown: Periodontist = peri (around, surrounding) + odontos (tooth)
+        Synthesis: "around" + "tooth" -> "around the tooth" (representing gum specialist).
+        Literal: around the tooth
+        Semantic:
+            → gum specialist
+    },
+
+}
+
+PHEME ("speech") {
+
+    Euphemism : {
+        Breakdown: Euphemism = eu (good, pleasant) + pheme (speech)
+        Synthesis: "good" + "speech" -> "good speech" (representing mild expression replacing offensive one).
+        Literal: good speech
+        Semantic:
+            → mild expression replacing offensive one
+    },
+
+}
+
+PHILEIN ("to love") {
+
+    Anglophile : {
+        Breakdown: Anglophile = Anglus (English, England) + philein (to love)
+        Synthesis: "English" + "to love" -> "lover of England or English culture".
+        Literal: lover of England or English culture
+    },
+
+    Bibliophile : {
+        Breakdown: Bibliophile = biblion (book) + philein (to love)
+        Synthesis: "book" + "to love" -> "lover of books" (representing book collector).
+        Literal: lover of books
+        Semantic:
+            → book collector
+    },
+
+    Philadelphia : {
+        Breakdown: Philadelphia = philein (to love) + adelphos (brother)
+        Synthesis: "to love" + "brother" -> "brotherly love" (representing city of brotherly love).
+        Literal: brotherly love
+        Semantic:
+            → city of brotherly love
+    },
+
+    Philander : {
+        Breakdown: Philander = philein (to love) + andros (male, man)
+        Synthesis: "to love" + "male" -> "love of men/women" (representing engage in casual love affairs, or be sexually promiscuous).
+        Literal: love of men/women
+        Semantic:
+            → engage in casual love affairs
+            → be sexually promiscuous
+    },
+
+    Philanderer : {
+        Breakdown: Philanderer = philander (love of men/women; engage in casual love affairs; be sexually promiscuous) + er (one who or person/thing that does)
+        Synthesis: "love of men/women" + "one who or person/thing that does" -> "person who engages in love affairs".
+        Literal: person who engages in love affairs
+    },
+
+    Philanthropic : {
+        Breakdown: Philanthropic = philanthropy (love of humanity) + ic (pertaining to or relating to)
+        Synthesis: "love of humanity" + "pertaining to or relating to" -> "characterized by concern for humanity".
+        Literal: characterized by concern for humanity
+    },
+
+    Philanthropist : {
+        Breakdown: Philanthropist = philein (to love) + anthropos (mankind, human being) + ist (one who practices or specializes in)
+        Synthesis: "to love" + "mankind" + "one who practices or specializes in" -> "lover of mankind" (representing charitable person).
+        Literal: lover of mankind
+        Semantic:
+            → charitable person
+    },
+
+    Philanthropy : {
+        Breakdown: Philanthropy = philein (to love) + anthropos (mankind, human being)
+        Synthesis: "to love" + "mankind" -> "love of mankind" (representing humanitarian concern, or charity).
+        Literal: love of mankind
+        Semantic:
+            → humanitarian concern
+            → charity
+    },
+
+    Philharmonic : {
+        Breakdown: Philharmonic = philein (to love) + harmonia (harmony, music)
+        Synthesis: "to love" + "harmony" -> "love of harmony" (representing devotion to music).
+        Literal: love of harmony
+        Semantic:
+            → devotion to music
+    },
+
+    Philological : {
+        Breakdown: Philological = philology (love of words; study of language; linguistics) + ical (pertaining to or relating to)
+        Synthesis: "love of words" + "pertaining to or relating to" -> "pertaining to language study".
+        Literal: pertaining to language study
+    },
+
+    Philologist : {
+        Breakdown: Philologist = philein (to love) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "to love" + "study" + "one who practices or specializes in" -> "lover/student of language".
+        Literal: lover/student of language
+    },
+
+    Philology : {
+        Breakdown: Philology = philein (to love) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "to love" + "study" -> "love of words" (representing study of language, or linguistics).
+        Literal: love of words
+        Semantic:
+            → study of language
+            → linguistics
+    },
+
+    Philosopher : {
+        Breakdown: Philosopher = philein (to love) + sophos (wise, wisdom) + er (one who or person/thing that does)
+        Synthesis: "to love" + "wise" + "one who or person/thing that does" -> "lover of wisdom".
+        Literal: lover of wisdom
+    },
+
+    Philosophy : {
+        Breakdown: Philosophy = philein (to love) + sophos (wise, wisdom)
+        Synthesis: "to love" + "wise" -> "love of wisdom" (representing pursuit of knowledge and truth, or search for truth and knowledge).
+        Literal: love of wisdom
+        Semantic:
+            → pursuit of knowledge and truth
+            → search for truth and knowledge
+    },
+
+    Philter : {
+        Breakdown: Philter = philein (to love)
+        Synthesis: "to love" -> "love potion" (representing magical drink intended to inspire love).
+        Literal: love potion
+        Semantic:
+            → magical drink intended to inspire love
+    },
+
+}
+
+PHOBIA ("fear") {
+
+    Acrophobia : {
+        Breakdown: Acrophobia = acro (height) (high, height) + phobia (fear)
+        Synthesis: "high" + "fear" -> "fear of heights" (representing morbid dread of high places).
+        Literal: fear of heights
+        Semantic:
+            → morbid dread of high places
+    },
+
+    Acrophobic : {
+        Breakdown: Acrophobic = acrophobia (fear of heights; morbid dread of high places) + ic (pertaining to or relating to)
+        Synthesis: "fear of heights" + "pertaining to or relating to" -> "suffering fear of heights".
+        Literal: suffering fear of heights
+    },
+
+    Agoraphobia : {
+        Breakdown: Agoraphobia = agora (open place) (market, open space) + phobia (fear)
+        Synthesis: "market" + "fear" -> "fear of open spaces" (representing dread of wide-open places).
+        Literal: fear of open spaces
+        Semantic:
+            → dread of wide-open places
+    },
+
+    Agoraphobic : {
+        Breakdown: Agoraphobic = agoraphobia (fear of open spaces; dread of wide-open places) + ic (pertaining to or relating to)
+        Synthesis: "fear of open spaces" + "pertaining to or relating to" -> "suffering fear of open spaces".
+        Literal: suffering fear of open spaces
+    },
+
+    Claustrophobia : {
+        Breakdown: Claustrophobia = claustrum (closed place) (closed place) + phobia (fear)
+        Synthesis: "closed place" + "fear" -> "fear of confinement" (representing dread of enclosed spaces).
+        Literal: fear of confinement
+        Semantic:
+            → dread of enclosed spaces
+    },
+
+    Claustrophobic : {
+        Breakdown: Claustrophobic = claustrophobia (fear of confinement; dread of enclosed spaces) + ic (pertaining to or relating to)
+        Synthesis: "fear of confinement" + "pertaining to or relating to" -> "suffering fear of enclosed places".
+        Literal: suffering fear of enclosed places
+    },
+
+}
+
+PHONE ("sound") {
+
+    Cacophonous : {
+        Breakdown: Cacophonous = cacophony (bad sound; harsh noise; discordant sound) + ous (characterized by or full of)
+        Synthesis: "bad sound" + "characterized by or full of" -> "unpleasant-sounding" (representing harsh, or discordant).
+        Literal: unpleasant-sounding
+        Semantic:
+            → harsh
+            → discordant
+    },
+
+    Cacophony : {
+        Breakdown: Cacophony = kakos (bad, ugly, harsh) + phone (sound)
+        Synthesis: "bad" + "sound" -> "bad sound" (representing harsh noise, or discordant sound).
+        Literal: bad sound
+        Semantic:
+            → harsh noise
+            → discordant sound
+    },
+
+    Euphonic : {
+        Breakdown: Euphonic = eu (good, pleasant) + phone (sound) + ic (pertaining to or relating to)
+        Synthesis: "good" + "sound" + "pertaining to or relating to" -> "pleasant-sounding".
+        Literal: pleasant-sounding
+    },
+
+    Euphonious : {
+        Breakdown: Euphonious = eu (good, pleasant) + phone (sound) + ous (characterized by or full of)
+        Synthesis: "good" + "sound" + "characterized by or full of" -> "melodious" (representing agreeable to the ear).
+        Literal: melodious
+        Semantic:
+            → agreeable to the ear
+    },
+
+    Euphony : {
+        Breakdown: Euphony = eu (good, pleasant) + phone (sound)
+        Synthesis: "good" + "sound" -> "pleasant sound" (representing harmony of sound).
+        Literal: pleasant sound
+        Semantic:
+            → harmony of sound
+    },
+
+    Phonograph : {
+        Breakdown: Phonograph = phone (sound) + graphein (to write)
+        Synthesis: "sound" + "to write" -> "sound writing" (representing sound recording device).
+        Literal: sound writing
+        Semantic:
+            → sound recording device
+    },
+
+    Telephone : {
+        Breakdown: Telephone = tele (distance) + phone (sound)
+        Synthesis: "distance" + "sound" -> "sound over distance" (representing voice communication device).
+        Literal: sound over distance
+        Semantic:
+            → voice communication device
+    },
+
+}
+
+PHOTOS ("light") {
+
+    Photograph : {
+        Breakdown: Photograph = photos (light) + graphein (to write)
+        Synthesis: "light" + "to write" -> "writing by light" (representing image produced through light).
+        Literal: writing by light
+        Semantic:
+            → image produced through light
+    },
+
+}
+
+PICERE / SPICERE ("to look") {
+
+    Perspicacious : {
+        Breakdown: Perspicacious = per (through or thoroughly) + spicere (to look)
+        Synthesis: "through or thoroughly" + "to look" -> "look through" (representing see clearly, mentally keen, or insightful).
+        Literal: look through
+        Semantic:
+            → see clearly
+            → mentally keen
+            → insightful
+    },
+
+    Perspicacity : {
+        Breakdown: Perspicacity = perspicacious (look through; mentally sharp; insightful; astute) + ity (state, quality, or condition)
+        Synthesis: "look through" + "state" -> "mental sharpness" (representing keen understanding).
+        Literal: mental sharpness
+        Semantic:
+            → keen understanding
+    },
+
+    Perspicuity : {
+        Breakdown: Perspicuity = perspicuous (seen through clearly; clear; lucid; easily understood) + ity (state, quality, or condition)
+        Synthesis: "seen through clearly" + "state" -> "clarity" (representing lucidity).
+        Literal: clarity
+        Semantic:
+            → lucidity
+    },
+
+    Perspicuous : {
+        Breakdown: Perspicuous = per (through or thoroughly) + spicere (to look)
+        Synthesis: "through or thoroughly" + "to look" -> "clearly seen through" (representing clear, or easily understood).
+        Literal: clearly seen through
+        Semantic:
+            → clear
+            → easily understood
+    },
+
+}
+
+PISCIS ("fish") {
+
+    Piscine : {
+        Breakdown: Piscine = piscis (fish) + ine (like, similar to, characteristic of)
+        Synthesis: "fish" + "like" -> "like a fish" (representing fishlike, or relating to fishes).
+        Literal: like a fish
+        Semantic:
+            → fishlike
+            → relating to fishes
+    },
+
+}
+
+PLAC ("to please", "to soothe", "to pacify") {
+
+    Placate : {
+        Breakdown: Placate = plac (to please, to soothe, to pacify) + ate (to make, cause, or have the state of)
+        Synthesis: "to please" + "to make" -> "make pleasing" (representing pacify, or change hostility into friendliness).
+        Literal: make pleasing
+        Semantic:
+            → pacify
+            → change hostility into friendliness
+    },
+
+}
+
+PLATYS ("flat", "broad") {
+
+    Platitude : {
+        Breakdown: Platitude = platys (flat, broad)
+        Synthesis: "flat" -> "flat statement" (representing dull commonplace remark, or cliché).
+        Literal: flat statement
+        Semantic:
+            → dull commonplace remark
+            → cliché
+    },
+
+    Platitudinous : {
+        Breakdown: Platitudinous = platitude (flat statement; dull commonplace remark; cliché) + inous
+        Synthesis: "flat statement" + "inous" -> "full of platitudes" (representing dull, or trite).
+        Literal: full of platitudes
+        Semantic:
+            → dull
+            → trite
+    },
+
+}
+
+PORCUS ("pig") {
+
+    Porcine : {
+        Breakdown: Porcine = porcus (pig) + ine (like, similar to, characteristic of)
+        Synthesis: "pig" + "like" -> "like a pig" (representing piglike, or swinish).
+        Literal: like a pig
+        Semantic:
+            → piglike
+            → swinish
+    },
+
+}
+
+POTENS ("powerful") {
+
+    Impotence : {
+        Breakdown: Impotence = impotent (not powerful; powerless; incapable) + ence (state or quality of)
+        Synthesis: "not powerful" + "state or quality of" -> "lack of power" (representing helplessness, or powerlessness).
+        Literal: lack of power
+        Semantic:
+            → helplessness
+            → powerlessness
+    },
+
+    Impotent : {
+        Breakdown: Impotent = im (not, in, on, or into) + potent (powerful; effective; influential)
+        Synthesis: "not" + "powerful" -> "not powerful" (representing powerless, or incapable).
+        Literal: not powerful
+        Semantic:
+            → powerless
+            → incapable
+    },
+
+    Omnipotence : {
+        Breakdown: Omnipotence = potens (powerful) + ence (state or quality of)
+        Synthesis: "powerful" + "state or quality of" -> "power in unlimited degree" (representing supreme power).
+        Literal: power in unlimited degree
+        Semantic:
+            → supreme power
+    },
+
+    Omnipotent : {
+        Breakdown: Omnipotent = omnis (all, every) + potens (powerful)
+        Synthesis: "all" + "powerful" -> "all-powerful" (representing possessing unlimited power).
+        Literal: all-powerful
+        Semantic:
+            → possessing unlimited power
+    },
+
+    Potency : {
+        Breakdown: Potency = potent (powerful; effective; influential) + cy (state, quality, or condition)
+        Synthesis: "powerful" + "state" -> "power" (representing effectiveness).
+        Literal: power
+        Semantic:
+            → effectiveness
+    },
+
+    Potent : {
+        Breakdown: Potent = potens (powerful)
+        Synthesis: "powerful" -> "powerful" (representing effective, or influential).
+        Literal: powerful
+        Semantic:
+            → effective
+            → influential
+    },
+
+}
+
+POUS / PODOS ("foot") {
+
+    Chiropody : {
+        Breakdown: Chiropody = cheir (hand) + podos (foot)
+        Synthesis: "hand" + "foot" -> "hand-foot treatment" (representing treatment of foot ailments, or older term for podiatry).
+        Literal: hand-foot treatment
+        Semantic:
+            → treatment of foot ailments
+            → older term for podiatry
+    },
+
+    Octopus : {
+        Breakdown: Octopus = okto (eight) + pous (foot)
+        Synthesis: "eight" + "foot" -> "eight-footed" (representing eight-armed sea creature).
+        Literal: eight-footed
+        Semantic:
+            → eight-armed sea creature
+    },
+
+    Platypus : {
+        Breakdown: Platypus = platys (flat, broad) + pous (foot)
+        Synthesis: "flat" + "foot" -> "broad-footed" (representing egg-laying mammal).
+        Literal: broad-footed
+        Semantic:
+            → egg-laying mammal
+    },
+
+    Podiatric : {
+        Breakdown: Podiatric = podiatry (treatment of foot ailments; podiatry) + ic (pertaining to or relating to)
+        Synthesis: "treatment of foot ailments" + "pertaining to or relating to" -> "relating to / pertaining to foot treatment".
+        Literal: relating to / pertaining to foot treatment
+    },
+
+    Podiatrist : {
+        Breakdown: Podiatrist = podos (foot) + iatreia (healing, medical treatment)
+        Synthesis: "foot" + "healing" -> "foot healer" (representing foot specialist).
+        Literal: foot healer
+        Semantic:
+            → foot specialist
+    },
+
+    Podiatry : {
+        Breakdown: Podiatry = podos (foot) + iatreia (healing, medical treatment)
+        Synthesis: "foot" + "healing" -> "treatment of foot ailments" (representing podiatry).
+        Literal: treatment of foot ailments
+        Semantic:
+            → podiatry
+    },
+
+    Podium : {
+        Breakdown: Podium = podos (foot)
+        Synthesis: "foot" -> "foot support" (representing speaker's platform).
+        Literal: foot support
+        Semantic:
+            → speaker's platform
+    },
+
+    Tripod : {
+        Breakdown: Tripod = tri (three) + podos (foot)
+        Synthesis: "three" + "foot" -> "three-footed" (representing three-legged stand).
+        Literal: three-footed
+        Semantic:
+            → three-legged stand
+    },
+
+}
+
+PRAKTIKOS ("to do", "to practice") {
+
+    Chiropractic : {
+        Breakdown: Chiropractic = cheir (hand) + praktikos (to do, to practice)
+        Synthesis: "hand" + "to do" -> "treatment by hand" (representing chiropractic therapy).
+        Literal: treatment by hand
+        Semantic:
+            → chiropractic therapy
+    },
+
+    Chiropractor : {
+        Breakdown: Chiropractor = cheir (hand) + praktikos (to do, to practice)
+        Synthesis: "hand" + "to do" -> "practitioner using hands" (representing chiropractor).
+        Literal: practitioner using hands
+        Semantic:
+            → chiropractor
+    },
+
+}
+
+PRURIRE ("to itch") {
+
+    Prurience : {
+        Breakdown: Prurience = prurient (itching; sexually curious; lustful) + ence (state or quality of)
+        Synthesis: "itching" + "state or quality of" -> "sexual longing" (representing excessive curiosity about sex).
+        Literal: sexual longing
+        Semantic:
+            → excessive curiosity about sex
+    },
+
+    Pruriency : {
+        Breakdown: Pruriency = prurient (itching; sexually curious; lustful) + ency (state or quality of)
+        Synthesis: "itching" + "state or quality of" -> "lustfulness" (representing erotic curiosity).
+        Literal: lustfulness
+        Semantic:
+            → erotic curiosity
+    },
+
+    Prurient : {
+        Breakdown: Prurient = prurire (to itch) + ent
+        Synthesis: "to itch" + "ent" -> "itching" (representing sexually curious, or lustful).
+        Literal: itching
+        Semantic:
+            → sexually curious
+            → lustful
+    },
+
+    Pruritus : {
+        Breakdown: Pruritus = prurire (to itch) + itus
+        Synthesis: "to itch" + "itus" -> "itching" (representing persistent itch).
+        Literal: itching
+        Semantic:
+            → persistent itch
+    },
+
+}
+
+PSYCHE ("mind", "soul", "spirit") {
+
+    Psyche : {
+        Breakdown: Psyche = Psyche (mind, soul, or spirit)
+        Synthesis: "mind" -> "Greek psyche" (representing mental life, inner self, or self-image).
+        Literal: Greek psyche
+        Semantic:
+            → mental life
+            → inner self
+            → self-image
+    },
+
+    Psychiatrist : {
+        Breakdown: Psychiatrist = psyche (mind, soul, spirit) + iatreia (healing, medical treatment) + ist (one who practices or specializes in)
+        Synthesis: "mind" + "healing" + "one who practices or specializes in" -> "physician treating mental disorders".
+        Literal: physician treating mental disorders
+    },
+
+    Psychiatry : {
+        Breakdown: Psychiatry = psyche (mind, soul, spirit) + iatreia (healing, medical treatment)
+        Synthesis: "mind" + "healing" -> "healing of the mind" (representing medical treatment of mental illness).
+        Literal: healing of the mind
+        Semantic:
+            → medical treatment of mental illness
+    },
+
+    Psychic : {
+        Breakdown: Psychic = psyche (mind, soul, spirit) + ic (pertaining to or relating to)
+        Synthesis: "mind" + "pertaining to or relating to" -> "relating to the mind or spirit" (representing mentally produced, or extrasensory or mysterious mental powers).
+        Literal: relating to the mind or spirit
+        Semantic:
+            → mentally produced
+            → extrasensory or mysterious mental powers
+    },
+
+    Psychoanalysis : {
+        Breakdown: Psychoanalysis = psyche (mind, soul, spirit) + analysis (loosening, separating)
+        Synthesis: "mind" + "loosening" -> "analysis of the mind" (representing Freudian exploration of the unconscious, or psychoanalytic therapy).
+        Literal: analysis of the mind
+        Semantic:
+            → Freudian exploration of the unconscious
+            → psychoanalytic therapy
+    },
+
+    Psychoanalyst : {
+        Breakdown: Psychoanalyst = psyche (mind, soul, spirit) + analysis (loosening, separating) + ist (one who practices or specializes in)
+        Synthesis: "mind" + "loosening" + "one who practices or specializes in" -> "analyzer of the mind" (representing practitioner of psychoanalysis).
+        Literal: analyzer of the mind
+        Semantic:
+            → practitioner of psychoanalysis
+    },
+
+    Psychoanalytic : {
+        Breakdown: Psychoanalytic = psychoanalysis (analysis of the mind; Freudian exploration of the unconscious; psychoanalytic therapy) + ic (pertaining to or relating to)
+        Synthesis: "analysis of the mind" + "pertaining to or relating to" -> "relating to psychoanalysis".
+        Literal: relating to psychoanalysis
+    },
+
+    Psychogenic : {
+        Breakdown: Psychogenic = psyche (mind, soul, spirit) + genesis (birth, origin, beginning)
+        Synthesis: "mind" + "birth" -> "originating in the mind" (representing psychologically caused, or of emotional origin).
+        Literal: originating in the mind
+        Semantic:
+            → psychologically caused
+            → of emotional origin
+    },
+
+    Psychological : {
+        Breakdown: Psychological = psychology (study of the mind; science of behavior and mental processes) + al (pertaining to or relating to)
+        Synthesis: "study of the mind" + "pertaining to or relating to" -> "relating to the study of the mind".
+        Literal: relating to the study of the mind
+    },
+
+    Psychologist : {
+        Breakdown: Psychologist = psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "mind" + "study" + "one who practices or specializes in" -> "student/specialist of the mind" (representing expert in human behavior and mental processes).
+        Literal: student/specialist of the mind
+        Semantic:
+            → expert in human behavior and mental processes
+    },
+
+    Psychology : {
+        Breakdown: Psychology = psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "mind" + "study" -> "study of the mind" (representing science of behavior and mental processes).
+        Literal: study of the mind
+        Semantic:
+            → science of behavior and mental processes
+    },
+
+    Psychopath : {
+        Breakdown: Psychopath = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling)
+        Synthesis: "mind" + "suffering" -> "person with a diseased mind" (representing individual with severe antisocial personality traits).
+        Literal: person with a diseased mind
+        Semantic:
+            → individual with severe antisocial personality traits
+    },
+
+    Psychopathic : {
+        Breakdown: Psychopathic = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + ic (pertaining to or relating to)
+        Synthesis: "mind" + "suffering" + "pertaining to or relating to" -> "relating to psychopathy" (representing mentally or emotionally disturbed).
+        Literal: relating to psychopathy
+        Semantic:
+            → mentally or emotionally disturbed
+    },
+
+    Psychopathy : {
+        Breakdown: Psychopathy = psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + y (state, quality, or condition)
+        Synthesis: "mind" + "suffering" + "state" -> "diseased mind" (representing severe personality disorder).
+        Literal: diseased mind
+        Semantic:
+            → severe personality disorder
+    },
+
+    Psychosomatic : {
+        Breakdown: Psychosomatic = psyche (mind, soul, spirit) + soma (body)
+        Synthesis: "mind" + "body" -> "mind-body relationship" (representing physical symptoms or illness influenced by mental factors).
+        Literal: mind-body relationship
+        Semantic:
+            → physical symptoms or illness influenced by mental factors
+    },
+
+    Psychotherapist : {
+        Breakdown: Psychotherapist = psyche (mind, soul, spirit) + therapeia (treatment, therapy) + ist (one who practices or specializes in)
+        Synthesis: "mind" + "treatment" + "one who practices or specializes in" -> "practitioner of psychotherapy".
+        Literal: practitioner of psychotherapy
+    },
+
+    Psychotherapy : {
+        Breakdown: Psychotherapy = psyche (mind, soul, spirit) + therapeia (treatment, therapy)
+        Synthesis: "mind" + "treatment" -> "treatment of the mind" (representing therapy through psychological methods, or treatment of emotional and mental disorders).
+        Literal: treatment of the mind
+        Semantic:
+            → therapy through psychological methods
+            → treatment of emotional and mental disorders
+    },
+
+    Psychotic : {
+        Breakdown: Psychotic = psyche (mind, soul, spirit) + otic
+        Synthesis: "mind" + "otic" -> "mentally disordered" (representing suffering severe mental disturbance, or loss of contact with reality).
+        Literal: mentally disordered
+        Semantic:
+            → suffering severe mental disturbance
+            → loss of contact with reality
+    },
+
+}

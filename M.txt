@@ -1,0 +1,891 @@
+MAGNUS ("great, large") {
+
+    Magnanimity : {
+        Breakdown: Magnanimity = magnanimous (great soul; noble; generous; forgiving) + ity (state, quality, or condition)
+        Synthesis: "great soul" + "state" -> "greatness of spirit" (representing generosity, or nobility).
+        Literal: greatness of spirit
+        Semantic:
+            → generosity
+            → nobility
+    },
+
+    Magnanimous : {
+        Breakdown: Magnanimous = magnus (great, large) + animus (mind, soul, spirit, life principle)
+        Synthesis: "great" + "mind" -> "great soul" (representing noble, generous, or forgiving).
+        Literal: great soul
+        Semantic:
+            → noble
+            → generous
+            → forgiving
+    },
+
+    Magnate : {
+        Breakdown: Magnate = magnus (great, large)
+        Synthesis: "great" -> "great person" (representing powerful leader, or influential figure).
+        Literal: great person
+        Semantic:
+            → powerful leader
+            → influential figure
+    },
+
+    Magnificent : {
+        Breakdown: Magnificent = magnus (great, large) + facere
+        Synthesis: "great" + "facere" -> "made great" (representing splendid, or grand).
+        Literal: made great
+        Semantic:
+            → splendid
+            → grand
+    },
+
+    Magnify : {
+        Breakdown: Magnify = magnus (great, large) + facere
+        Synthesis: "great" + "facere" -> "make great" (representing enlarge, or glorify).
+        Literal: make great
+        Semantic:
+            → enlarge
+            → glorify
+    },
+
+    Magniloquence : {
+        Breakdown: Magniloquence = magniloquent (speaking greatly; grandiloquent; lofty in speech; pompously expressive) + ence (state or quality of)
+        Synthesis: "speaking greatly" + "state or quality of" -> "grand style of speaking" (representing lofty language, or verbal magnificence).
+        Literal: grand style of speaking
+        Semantic:
+            → lofty language
+            → verbal magnificence
+    },
+
+    Magniloquent : {
+        Breakdown: Magniloquent = magnus (great, large) + loquor (to speak)
+        Synthesis: "great" + "to speak" -> "speaking greatly" (representing grandiloquent, lofty in speech, or pompously expressive).
+        Literal: speaking greatly
+        Semantic:
+            → grandiloquent
+            → lofty in speech
+            → pompously expressive
+    },
+
+    Magnum Opus : {
+        Breakdown: Magnum Opus = magnus (great, large) + opus (work)
+        Synthesis: "great" + "work" -> "great work" (representing masterpiece, or greatest achievement).
+        Literal: great work
+        Semantic:
+            → masterpiece
+            → greatest achievement
+    },
+
+}
+
+MALUS ("bad", "evil") {
+
+    Maladjusted : {
+        Breakdown: Maladjusted = mal (bad, evil) + adjusted
+        Synthesis: "bad" + "adjusted" -> "badly adjusted" (representing psychologically troubled).
+        Literal: badly adjusted
+        Semantic:
+            → psychologically troubled
+    },
+
+    Maladroit : {
+        Breakdown: Maladroit = mal (bad, evil) + adroit (to the right way; skillful; clever)
+        Synthesis: "bad" + "to the right way" -> "badly skilled" (representing badly skillful, awkward, or clumsy).
+        Literal: badly skilled
+        Semantic:
+            → badly skillful
+            → awkward
+            → clumsy
+    },
+
+    Maladroitness : {
+        Breakdown: Maladroitness = mal (bad, evil) + adroit (to the right way; skillful; clever) + ness (state or quality of being)
+        Synthesis: "bad" + "to the right way" + "state or quality of being" -> "awkwardness".
+        Literal: awkwardness
+    },
+
+    Malady : {
+        Breakdown: Malady = mal (bad, evil) + ady
+        Synthesis: "bad" + "ady" -> "bad condition" (representing illness).
+        Literal: bad condition
+        Semantic:
+            → illness
+    },
+
+    Malaise : {
+        Breakdown: Malaise = mal (bad, evil) + aise
+        Synthesis: "bad" + "aise" -> "bad ease" (representing vague discomfort, feeling of illness, or feeling unwell).
+        Literal: bad ease
+        Semantic:
+            → vague discomfort
+            → feeling of illness
+            → feeling unwell
+    },
+
+    Malcontent : {
+        Breakdown: Malcontent = mal (bad, evil) + content
+        Synthesis: "bad" + "content" -> "badly contented" (representing dissatisfied person).
+        Literal: badly contented
+        Semantic:
+            → dissatisfied person
+    },
+
+    Malecent : {
+        Breakdown: Malecent = mal (bad, evil) + facio (to do, to make) + ent
+        Synthesis: "bad" + "to do" + "ent" -> "doing evil" (representing harmful, or hurtful).
+        Literal: doing evil
+        Semantic:
+            → harmful
+            → hurtful
+    },
+
+    Malediction : {
+        Breakdown: Malediction = mal (bad, evil) + dico (to say, to tell, to speak)
+        Synthesis: "bad" + "to say" -> "speaking evil" (representing curse).
+        Literal: speaking evil
+        Semantic:
+            → curse
+    },
+
+    Maledictory : {
+        Breakdown: Maledictory = mal (bad, evil) + dico (to say, to tell, to speak) + ory (relating to, serving for, or place for)
+        Synthesis: "bad" + "to say" + "relating to" -> "relating to curses" (representing cursing).
+        Literal: relating to curses
+        Semantic:
+            → cursing
+    },
+
+    Malefaction : {
+        Breakdown: Malefaction = mal (bad, evil) + facio (to do, to make) + tion
+        Synthesis: "bad" + "to do" + "tion" -> "evil deed" (representing evil act, crime, or wrongdoing).
+        Literal: evil deed
+        Semantic:
+            → evil act
+            → crime
+            → wrongdoing
+    },
+
+    Malefactor : {
+        Breakdown: Malefactor = mal (bad, evil) + facio (to do, to make)
+        Synthesis: "bad" + "to do" -> "doer of evil" (representing criminal, or wrongdoer).
+        Literal: doer of evil
+        Semantic:
+            → criminal
+            → wrongdoer
+    },
+
+    Maleficent : {
+        Breakdown: Maleficent = mal (bad, evil) + facio (to do, to make) + ent
+        Synthesis: "bad" + "to do" + "ent" -> "doing evil" (representing harmful, or hurtful).
+        Literal: doing evil
+        Semantic:
+            → harmful
+            → hurtful
+    },
+
+    Malevolent : {
+        Breakdown: Malevolent = mal (bad, evil) + volo (to wish, to will)
+        Synthesis: "bad" + "to wish" -> "wishing evil" (representing ill-disposed, or wishing harm).
+        Literal: wishing evil
+        Semantic:
+            → ill-disposed
+            → wishing harm
+    },
+
+    Malice : {
+        Breakdown: Malice = mal (bad, evil) + ice
+        Synthesis: "bad" + "ice" -> "evil intention" (representing spite).
+        Literal: evil intention
+        Semantic:
+            → spite
+    },
+
+    Malicious : {
+        Breakdown: Malicious = mal (bad, evil) + ice
+        Synthesis: "bad" + "ice" -> "full of evil intent" (representing spiteful).
+        Literal: full of evil intent
+        Semantic:
+            → spiteful
+    },
+
+    Malign : {
+        Breakdown: Malign = malus (bad, evil)
+        Synthesis: "bad" -> "think or speak evil" (representing slander, or defame).
+        Literal: think or speak evil
+        Semantic:
+            → slander
+            → defame
+    },
+
+    Malign (adj.) : {
+        Breakdown: Malign (adj.) = malus (bad, evil)
+        Synthesis: "bad" -> "evil" (representing harmful, or malevolent).
+        Literal: evil
+        Semantic:
+            → harmful
+            → malevolent
+    },
+
+    Malignancy : {
+        Breakdown: Malignancy = malignant (harmful; dangerously evil; cancerous) + cy (state, quality, or condition)
+        Synthesis: "harmful" + "state" -> "state of harmfulness" (representing harmful condition, cancerous condition, or cancerous growth).
+        Literal: state of harmfulness
+        Semantic:
+            → harmful condition
+            → cancerous condition
+            → cancerous growth
+    },
+
+    Malignant : {
+        Breakdown: Malignant = malus (bad, evil)
+        Synthesis: "bad" -> "harmful" (representing dangerously evil, or cancerous).
+        Literal: harmful
+        Semantic:
+            → dangerously evil
+            → cancerous
+    },
+
+    Malignity : {
+        Breakdown: Malignity = malign (think or speak evil; slander; defame) + ity (state, quality, or condition)
+        Synthesis: "think or speak evil" + "state" -> "evil nature" (representing malevolence).
+        Literal: evil nature
+        Semantic:
+            → malevolence
+    },
+
+    Malnutrition : {
+        Breakdown: Malnutrition = mal (bad, evil) + nutrition
+        Synthesis: "bad" + "nutrition" -> "bad nourishment" (representing poor nutrition).
+        Literal: bad nourishment
+        Semantic:
+            → poor nutrition
+    },
+
+    Malpractice : {
+        Breakdown: Malpractice = mal (bad, evil) + practice
+        Synthesis: "bad" + "practice" -> "bad professional conduct" (representing professional wrongdoing).
+        Literal: bad professional conduct
+        Semantic:
+            → professional wrongdoing
+    },
+
+}
+
+MANIA ("madness" or "obsession") {
+
+    Dipsomania : {
+        Breakdown: Dipsomania = dipso (thirst) + mania (madness or obsession) / dipso (thirst) (thirst) + mania (madness or obsession)
+        Synthesis: "thirst" + "thirst" + "madness or obsession" -> "obsession with drinking" (representing dipso (thirst) + mania, obsessive thirst, uncontrollable craving for alcohol, or alcoholism).
+        Literal: obsession with drinking
+        Semantic:
+            → dipso (thirst) + mania
+            → obsessive thirst
+            → uncontrollable craving for alcohol
+            → alcoholism
+    },
+
+    Dipsomaniac : {
+        Breakdown: Dipsomaniac = dipso (thirst) + maniac
+        Synthesis: "thirst" + "maniac" -> "compulsive drinker".
+        Literal: compulsive drinker
+    },
+
+    Egomania : {
+        Breakdown: Egomania = ego (I or self) + mania (madness or obsession)
+        Synthesis: "I or self" + "madness or obsession" -> "obsession with self" (representing pathological self-importance).
+        Literal: obsession with self
+        Semantic:
+            → pathological self-importance
+    },
+
+    Egomaniac : {
+        Breakdown: Egomaniac = ego (I or self) + mania (madness or obsession) / ego (I or self) + maniac
+        Synthesis: "I or self" + "I or self" + "maniac" -> "madness about self" (representing ego + maniac, person obsessed with self, or obsessive self-importance).
+        Literal: madness about self
+        Semantic:
+            → ego + maniac
+            → person obsessed with self
+            → obsessive self-importance
+    },
+
+    Kleptomania : {
+        Breakdown: Kleptomania = kleptein + mania (madness or obsession)
+        Synthesis: "kleptein" + "madness or obsession" -> "obsession with stealing" (representing compulsive theft).
+        Literal: obsession with stealing
+        Semantic:
+            → compulsive theft
+    },
+
+    Kleptomaniac : {
+        Breakdown: Kleptomaniac = klepto (thief, steal) + maniac
+        Synthesis: "thief" + "maniac" -> "compulsive thief".
+        Literal: compulsive thief
+    },
+
+    Kleptomaniacal : {
+        Breakdown: Kleptomaniacal = kleptomania (obsession with stealing; compulsive theft) + al (pertaining to or relating to)
+        Synthesis: "obsession with stealing" + "pertaining to or relating to" -> "characterized by compulsive stealing".
+        Literal: characterized by compulsive stealing
+    },
+
+    Megalomania : {
+        Breakdown: Megalomania = megas + mania (madness or obsession)
+        Synthesis: "megas" + "madness or obsession" -> "obsession with greatness" (representing delusions of grandeur, or craving for power).
+        Literal: obsession with greatness
+        Semantic:
+            → delusions of grandeur
+            → craving for power
+    },
+
+    Megalomaniac : {
+        Breakdown: Megalomaniac = megalo + maniac
+        Synthesis: "megalo" + "maniac" -> "person obsessed with greatness".
+        Literal: person obsessed with greatness
+    },
+
+    Megalomaniacal : {
+        Breakdown: Megalomaniacal = megalomania (obsession with greatness; delusions of grandeur; craving for power) + al (pertaining to or relating to)
+        Synthesis: "obsession with greatness" + "pertaining to or relating to" -> "characterized by grandiose delusions".
+        Literal: characterized by grandiose delusions
+    },
+
+    Monomania : {
+        Breakdown: Monomania = mono (one) + mania (madness or obsession)
+        Synthesis: "one" + "madness or obsession" -> "single obsession" (representing one obsession, fixation, single fixed idea, or one-track fixation).
+        Literal: single obsession
+        Semantic:
+            → one obsession
+            → fixation
+            → single fixed idea
+            → one-track fixation
+    },
+
+    Monomaniac : {
+        Breakdown: Monomaniac = mono (one) + mania (madness or obsession)
+        Synthesis: "one" + "madness or obsession" -> "one obsession" (representing mono + maniac, person obsessed with one thing, person obsessed with one idea, or one-track-minded individual).
+        Literal: one obsession
+        Semantic:
+            → mono + maniac
+            → person obsessed with one thing
+            → person obsessed with one idea
+            → one-track-minded individual
+    },
+
+    Monomaniacal : {
+        Breakdown: Monomaniacal = monomania (obsession with one idea; single-minded fixation) + al (pertaining to or relating to)
+        Synthesis: "obsession with one idea" + "pertaining to or relating to" -> "characterized by one obsession".
+        Literal: characterized by one obsession
+    },
+
+    Nymphomania : {
+        Breakdown: Nymphomania = nymph (bride, maiden) + mania (madness or obsession)
+        Synthesis: "bride" + "madness or obsession" -> "excessive female sexual desire" (representing excessive female sexual craving, compulsive sexuality, or compulsive sexual desire).
+        Literal: excessive female sexual desire
+        Semantic:
+            → excessive female sexual craving
+            → compulsive sexuality
+            → compulsive sexual desire
+    },
+
+    Nymphomaniac : {
+        Breakdown: Nymphomaniac = nympho (bride, maiden) + maniac
+        Synthesis: "bride" + "maniac" -> "woman with compulsive sexual desire" (representing woman with obsessive sexual desire).
+        Literal: woman with compulsive sexual desire
+        Semantic:
+            → woman with obsessive sexual desire
+    },
+
+    Nymphomaniacal : {
+        Breakdown: Nymphomaniacal = nymphomania (excessive female sexual craving; compulsive sexuality; compulsive sexual desire) + al (pertaining to or relating to)
+        Synthesis: "excessive female sexual craving" + "pertaining to or relating to" -> "characterized by excessive sexual craving".
+        Literal: characterized by excessive sexual craving
+    },
+
+    Pyromania : {
+        Breakdown: Pyromania = pyr (fire) + mania (madness or obsession) / pyr (fire) (fire) + mania (madness or obsession)
+        Synthesis: "fire" + "fire" + "madness or obsession" -> "obsession with fire" (representing pyr (fire) + mania, or compulsive fire-setting).
+        Literal: obsession with fire
+        Semantic:
+            → pyr (fire) + mania
+            → compulsive fire-setting
+    },
+
+    Pyromaniac : {
+        Breakdown: Pyromaniac = pyro (fire) + maniac
+        Synthesis: "fire" + "maniac" -> "person obsessed with setting fires".
+        Literal: person obsessed with setting fires
+    },
+
+    Pyromaniacal : {
+        Breakdown: Pyromaniacal = pyromania (obsession with fire; compulsive fire-setting) + al (pertaining to or relating to)
+        Synthesis: "obsession with fire" + "pertaining to or relating to" -> "characterized by fire-setting obsession".
+        Literal: characterized by fire-setting obsession
+    },
+
+    Satyriasis : {
+        Breakdown: Satyriasis = satyr + iasis
+        Synthesis: "satyr" + "iasis" -> "pathological male sexual desire" (representing male nymphomania).
+        Literal: pathological male sexual desire
+        Semantic:
+            → male nymphomania
+    },
+
+    Satyromania : {
+        Breakdown: Satyromania = satyr + mania (madness or obsession)
+        Synthesis: "satyr" + "madness or obsession" -> "excessive male sexual craving" (representing compulsive male sexuality).
+        Literal: excessive male sexual craving
+        Semantic:
+            → compulsive male sexuality
+    },
+
+}
+
+MANTEIA ("divination", "prophecy", "predictor") {
+
+    Chiromancer : {
+        Breakdown: Chiromancer = cheir (hand) + manteia (divination, prophecy, predictor) + er (one who or person/thing that does)
+        Synthesis: "hand" + "divination" + "one who or person/thing that does" -> "one who reads palms".
+        Literal: one who reads palms
+    },
+
+    Chiromancy : {
+        Breakdown: Chiromancy = cheir (hand) + manteia (divination, prophecy, predictor)
+        Synthesis: "hand" + "divination" -> "divination from the hand" (representing palmistry).
+        Literal: divination from the hand
+        Semantic:
+            → palmistry
+    },
+
+}
+
+MANUS ("hand") {
+
+    Manual : {
+        Breakdown: Manual = manus (hand) + al (pertaining to or relating to)
+        Synthesis: "hand" + "pertaining to or relating to" -> "relating to the hand" (representing done by hand).
+        Literal: relating to the hand
+        Semantic:
+            → done by hand
+    },
+
+    Manuscript : {
+        Breakdown: Manuscript = manus (hand) + scriptus (to write)
+        Synthesis: "hand" + "to write" -> "handwritten document" (representing original text).
+        Literal: handwritten document
+        Semantic:
+            → original text
+    },
+
+}
+
+MARITUS (husband; marriage) {
+
+    Extramarital : {
+        Breakdown: Extramarital = extra (outside, beyond) + marital (relating to marriage; pertaining to marriage; matrimonial)
+        Synthesis: "outside" + "relating to marriage" -> "outside marriage" (representing beyond marital relationship).
+        Literal: outside marriage
+        Semantic:
+            → beyond marital relationship
+    },
+
+    Marital : {
+        Breakdown: Marital = maritus (husband; marriage) + al (pertaining to or relating to)
+        Synthesis: "husband" + "pertaining to or relating to" -> "relating to husband-wife union" (representing relating to marriage, pertaining to marriage, or matrimonial).
+        Literal: relating to husband-wife union
+        Semantic:
+            → relating to marriage
+            → pertaining to marriage
+            → matrimonial
+    },
+
+    Premarital : {
+        Breakdown: Premarital = pre (before) + marital (relating to marriage; pertaining to marriage; matrimonial)
+        Synthesis: "before" + "relating to marriage" -> "before marriage" (representing occurring prior to marriage).
+        Literal: before marriage
+        Semantic:
+            → occurring prior to marriage
+    },
+
+}
+
+MARTINET ("strict discipline") {
+
+    Martinet : {
+        Breakdown: Martinet = Martinet (strict discipline)
+        Synthesis: "strict discipline" -> "from Jean Martinet (French drillmaster)" (representing strict disciplinarian, slave driver, or authoritarian rule-enforcer).
+        Literal: from Jean Martinet (French drillmaster)
+        Semantic:
+            → strict disciplinarian
+            → slave driver
+            → authoritarian rule-enforcer
+    },
+
+    Martinetish : {
+        Breakdown: Martinetish = martinet (strict discipline) + ish
+        Synthesis: "strict discipline" + "ish" -> "like a martinet" (representing excessively strict, or rigidly disciplinary).
+        Literal: like a martinet
+        Semantic:
+            → excessively strict
+            → rigidly disciplinary
+    },
+
+    Martinetism : {
+        Breakdown: Martinetism = martinet (strict discipline) + ism (philosophy, belief, or system of)
+        Synthesis: "strict discipline" + "philosophy" -> "doctrine or practice of excessive discipline" (representing rigid authoritarianism).
+        Literal: doctrine or practice of excessive discipline
+        Semantic:
+            → rigid authoritarianism
+    },
+
+}
+
+MATER / MATRIS ("mother") {
+
+    Alma Mater : {
+        Breakdown: Alma Mater = alma + mater (mother)
+        Synthesis: "alma" + "mother" -> "nourishing mother" (representing one's school or university).
+        Literal: nourishing mother
+        Semantic:
+            → one's school or university
+    },
+
+    Maternal : {
+        Breakdown: Maternal = mater (mother) + al (pertaining to or relating to)
+        Synthesis: "mother" + "pertaining to or relating to" -> "motherly".
+        Literal: motherly
+    },
+
+    Maternity : {
+        Breakdown: Maternity = mater (mother) + ity (state, quality, or condition)
+        Synthesis: "mother" + "state" -> "motherhood".
+        Literal: motherhood
+    },
+
+    Matriarch : {
+        Breakdown: Matriarch = mater (mother) + archein
+        Synthesis: "mother" + "archein" -> "mother ruler" (representing female head of family).
+        Literal: mother ruler
+        Semantic:
+            → female head of family
+    },
+
+    Matriarchal : {
+        Breakdown: Matriarchal = matriarch (mother ruler; female head of family) + al (pertaining to or relating to)
+        Synthesis: "mother ruler" + "pertaining to or relating to" -> "relating to patriarchy".
+        Literal: relating to patriarchy
+    },
+
+    Matriarchy : {
+        Breakdown: Matriarchy = matriarch (mother ruler; female head of family) + y (state, quality, or condition)
+        Synthesis: "mother ruler" + "state" -> "rule by mothers".
+        Literal: rule by mothers
+    },
+
+    Matricidal : {
+        Breakdown: Matricidal = matricide (mother-killing) + al (pertaining to or relating to)
+        Synthesis: "mother-killing" + "pertaining to or relating to" -> "relating to mother-killing".
+        Literal: relating to mother-killing
+    },
+
+    Matricide : {
+        Breakdown: Matricide = mater (mother) + cide (to kill)
+        Synthesis: "mother" + "to kill" -> "mother-killing" (representing murder of one's mother).
+        Literal: mother-killing
+        Semantic:
+            → murder of one's mother
+    },
+
+    Matrimonial : {
+        Breakdown: Matrimonial = matrimony (state of motherhood; marriage) + al (pertaining to or relating to)
+        Synthesis: "state of motherhood" + "pertaining to or relating to" -> "relating to marriage".
+        Literal: relating to marriage
+    },
+
+    Matrimony : {
+        Breakdown: Matrimony = mater (mother) + mony
+        Synthesis: "mother" + "mony" -> "state of motherhood" (representing marriage).
+        Literal: state of motherhood
+        Semantic:
+            → marriage
+    },
+
+    Matron : {
+        Breakdown: Matron = Matron (mature woman; older woman)
+        Synthesis: "mature woman" -> "mater → matron" (representing older woman).
+        Literal: mater → matron
+        Semantic:
+            → older woman
+    },
+
+    Matronly : {
+        Breakdown: Matronly = matron (mature woman; older woman) + ly (in the manner of)
+        Synthesis: "mature woman" + "in the manner of" -> "dignified like a mature woman".
+        Literal: dignified like a mature woman
+    },
+
+}
+
+METRON ("measure", "measurement") {
+
+    Barometer : {
+        Breakdown: Barometer = baros (weight, pressure) + metron (measure, measurement)
+        Synthesis: "weight" + "measure" -> "pressure/weight measure" (representing instrument measuring atmospheric pressure).
+        Literal: pressure/weight measure
+        Semantic:
+            → instrument measuring atmospheric pressure
+    },
+
+    Barometric : {
+        Breakdown: Barometric = barometer (pressure/weight measure; instrument measuring atmospheric pressure) + ic (pertaining to or relating to)
+        Synthesis: "pressure/weight measure" + "pertaining to or relating to" -> "relating to / pertaining to atmospheric pressure".
+        Literal: relating to / pertaining to atmospheric pressure
+    },
+
+    Chronometer : {
+        Breakdown: Chronometer = chronos (time) + metron (measure, measurement)
+        Synthesis: "time" + "measure" -> "measure of time" (representing precision timepiece).
+        Literal: measure of time
+        Semantic:
+            → precision timepiece
+    },
+
+    Chronometric : {
+        Breakdown: Chronometric = chronos (time) + metron (measure, measurement) + ic (pertaining to or relating to)
+        Synthesis: "time" + "measure" + "pertaining to or relating to" -> "pertaining to time measurement".
+        Literal: pertaining to time measurement
+    },
+
+    Metric : {
+        Breakdown: Metric = metron (measure, measurement)
+        Synthesis: "measure" -> "relating to / pertaining to measurement".
+        Literal: relating to / pertaining to measurement
+    },
+
+    Metric System : {
+        Breakdown: Metric System = metron (measure, measurement)
+        Synthesis: "measure" -> "system based on measurement" (representing decimal system of weights and measures).
+        Literal: system based on measurement
+        Semantic:
+            → decimal system of weights and measures
+    },
+
+    Optometrist : {
+        Breakdown: Optometrist = opsis (vision, sight) + metron (measure, measurement) + ist (one who practices or specializes in)
+        Synthesis: "vision" + "measure" + "one who practices or specializes in" -> "one who measures vision" (representing vision specialist).
+        Literal: one who measures vision
+        Semantic:
+            → vision specialist
+    },
+
+    Optometry : {
+        Breakdown: Optometry = opsis (vision, sight) + metron (measure, measurement)
+        Synthesis: "vision" + "measure" -> "measurement of vision" (representing eyesight testing).
+        Literal: measurement of vision
+        Semantic:
+            → eyesight testing
+    },
+
+    Sphygmomanometer : {
+        Breakdown: Sphygmomanometer = sphygmos (pulse) + manometer
+        Synthesis: "pulse" + "manometer" -> "pulse-pressure measure" (representing blood-pressure apparatus).
+        Literal: pulse-pressure measure
+        Semantic:
+            → blood-pressure apparatus
+    },
+
+    Thermometer : {
+        Breakdown: Thermometer = therme (heat) + metron (measure, measurement)
+        Synthesis: "heat" + "measure" -> "heat measure" (representing instrument measuring temperature).
+        Literal: heat measure
+        Semantic:
+            → instrument measuring temperature
+    },
+
+}
+
+MILITIS ("soldier") {
+
+    Militancy : {
+        Breakdown: Militancy = militant (soldier-like; aggressive fighter for a cause; aggressive fighter; activist for a cause) + cy (state, quality, or condition)
+        Synthesis: "soldier-like" + "state" -> "aggressive attitude" (representing state of soldier-like aggression, combativeness, or aggressiveness).
+        Literal: aggressive attitude
+        Semantic:
+            → state of soldier-like aggression
+            → combativeness
+            → aggressiveness
+    },
+
+    Militant : {
+        Breakdown: Militant = militis (soldier) + ant
+        Synthesis: "soldier" + "ant" -> "soldier-like" (representing aggressive fighter for a cause, aggressive fighter, or activist for a cause).
+        Literal: soldier-like
+        Semantic:
+            → aggressive fighter for a cause
+            → aggressive fighter
+            → activist for a cause
+    },
+
+    Military : {
+        Breakdown: Military = militis (soldier) + ary
+        Synthesis: "soldier" + "ary" -> "relating to soldiers".
+        Literal: relating to soldiers
+    },
+
+    Militate : {
+        Breakdown: Militate = militis (soldier) + ate (to make, cause, or have the state of)
+        Synthesis: "soldier" + "to make" -> "act as a soldier against" (representing act like a soldier against, work against, or operate to disadvantage).
+        Literal: act as a soldier against
+        Semantic:
+            → act like a soldier against
+            → work against
+            → operate to disadvantage
+    },
+
+}
+
+MISEIN ("to hate") {
+
+    Misanthrope : {
+        Breakdown: Misanthrope = misein (to hate) + anthropos (mankind, human being)
+        Synthesis: "to hate" + "mankind" -> "hater of mankind".
+        Literal: hater of mankind
+    },
+
+    Misanthropy : {
+        Breakdown: Misanthropy = misein (to hate) + anthropos (mankind, human being) + y (state, quality, or condition)
+        Synthesis: "to hate" + "mankind" + "state" -> "hatred of mankind".
+        Literal: hatred of mankind
+    },
+
+    Misogamist : {
+        Breakdown: Misogamist = misein (to hate) + gamos (marriage)
+        Synthesis: "to hate" + "marriage" -> "hater of marriage".
+        Literal: hater of marriage
+    },
+
+    Misogamy : {
+        Breakdown: Misogamy = misein (to hate) + gamos (marriage) + y (state, quality, or condition)
+        Synthesis: "to hate" + "marriage" + "state" -> "hatred of marriage".
+        Literal: hatred of marriage
+    },
+
+    Misogynist : {
+        Breakdown: Misogynist = misein (to hate) + gyne (woman)
+        Synthesis: "to hate" + "woman" -> "hater of women".
+        Literal: hater of women
+    },
+
+    Misogyny : {
+        Breakdown: Misogyny = misein (to hate) + gyne (woman) + y (state, quality, or condition)
+        Synthesis: "to hate" + "woman" + "state" -> "hatred of women".
+        Literal: hatred of women
+    },
+
+}
+
+MISER ("wretched", "unhappy", "miserable") {
+
+    Commiserate : {
+        Breakdown: Commiserate = com (with, together) + miser (wretched, unhappy, miserable) + ate (to make, cause, or have the state of)
+        Synthesis: "with" + "wretched" + "to make" -> "be miserable together" (representing sympathize, or share another's sorrow).
+        Literal: be miserable together
+        Semantic:
+            → sympathize
+            → share another's sorrow
+    },
+
+    Commiseration : {
+        Breakdown: Commiseration = commiserate (be miserable together; sympathize; share another's sorrow) + ion (act, process, or result of)
+        Synthesis: "be miserable together" + "act" -> "sharing another's grief" (representing sympathy, or pity).
+        Literal: sharing another's grief
+        Semantic:
+            → sympathy
+            → pity
+    },
+
+    Miser : {
+        Breakdown: Miser = miser (wretched, unhappy, miserable)
+        Synthesis: "wretched" -> "wretched person" (representing stingy hoarder).
+        Literal: wretched person
+        Semantic:
+            → stingy hoarder
+    },
+
+    Miserable : {
+        Breakdown: Miserable = miser (wretched, unhappy, miserable) + able (capable of or fit for)
+        Synthesis: "wretched" + "capable of or fit for" -> "full of misery" (representing unhappy, or wretched).
+        Literal: full of misery
+        Semantic:
+            → unhappy
+            → wretched
+    },
+
+    Miserly : {
+        Breakdown: Miserly = miser (wretched, unhappy, miserable) + ly (in the manner of)
+        Synthesis: "wretched" + "in the manner of" -> "like a miser" (representing stingy, or ungenerous).
+        Literal: like a miser
+        Semantic:
+            → stingy
+            → ungenerous
+    },
+
+    Misery : {
+        Breakdown: Misery = miser (wretched, unhappy, miserable) + y (state, quality, or condition)
+        Synthesis: "wretched" + "state" -> "state of unhappiness" (representing suffering, or distress).
+        Literal: state of unhappiness
+        Semantic:
+            → suffering
+            → distress
+    },
+
+}
+
+MONO / MONOS ("one") {
+
+    Monogamy : {
+        Breakdown: Monogamy = monos (one) + gamos (marriage) / mono (one) + gamos (marriage)
+        Synthesis: "one" + "one" + "marriage" -> "one marriage" (representing mono + gamos, or marriage to one spouse).
+        Literal: one marriage
+        Semantic:
+            → mono + gamos
+            → marriage to one spouse
+    },
+
+    Monologue : {
+        Breakdown: Monologue = mono (one) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "one" + "study" -> "one speech" (representing extended speech by one person).
+        Literal: one speech
+        Semantic:
+            → extended speech by one person
+    },
+
+    Monomania : {
+        Breakdown: Monomania = mono (one) + mania (madness or obsession)
+        Synthesis: "one" + "madness or obsession" -> "obsession with one idea" (representing single-minded fixation).
+        Literal: obsession with one idea
+        Semantic:
+            → single-minded fixation
+    },
+
+    Monomaniac : {
+        Breakdown: Monomaniac = mono (one) + mania (madness or obsession)
+        Synthesis: "one" + "madness or obsession" -> "one obsession" (representing person with one-track mind, or fanatic devoted to one interest).
+        Literal: one obsession
+        Semantic:
+            → person with one-track mind
+            → fanatic devoted to one interest
+    },
+
+    Monotheism : {
+        Breakdown: Monotheism = mono (one) + theos (God)
+        Synthesis: "one" + "God" -> "one god" (representing belief in one God).
+        Literal: one god
+        Semantic:
+            → belief in one God
+    },
+
+    Monotheist : {
+        Breakdown: Monotheist = mono (one) + theist (believer in God)
+        Synthesis: "one" + "believer in God" -> "believer in one God".
+        Literal: believer in one God
+    },
+
+}

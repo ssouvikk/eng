@@ -1,0 +1,892 @@
+VACILLO ("to sway", "to swing back and forth") {
+
+    Vacillate : {
+        Breakdown: Vacillate = vacillo (to sway, to swing back and forth) + ate (to make, cause, or have the state of)
+        Synthesis: "to sway" + "to make" -> "sway back and forth" (representing waver, hesitate, or be indecisive).
+        Literal: sway back and forth
+        Semantic:
+            → waver
+            → hesitate
+            → be indecisive
+    },
+
+    Vacillating : {
+        Breakdown: Vacillating = vacillate (sway back and forth; waver; hesitate; be indecisive) + ing (action or process)
+        Synthesis: "sway back and forth" + "action or process" -> "wavering" (representing uncertain, or unable to decide).
+        Literal: wavering
+        Semantic:
+            → uncertain
+            → unable to decide
+    },
+
+    Vacillation : {
+        Breakdown: Vacillation = vacillate (sway back and forth; waver; hesitate; be indecisive) + ion (act, process, or result of)
+        Synthesis: "sway back and forth" + "act" -> "act of wavering" (representing indecision, or uncertainty).
+        Literal: act of wavering
+        Semantic:
+            → indecision
+            → uncertainty
+    },
+
+    Vacillatory : {
+        Breakdown: Vacillatory = vacillate (sway back and forth; waver; hesitate; be indecisive) + ory (relating to, serving for, or place for)
+        Synthesis: "sway back and forth" + "relating to" -> "characterized by wavering" (representing indecisive, or irresolute).
+        Literal: characterized by wavering
+        Semantic:
+            → indecisive
+            → irresolute
+    },
+
+}
+
+VEGETARE ("to grow", "to live") {
+
+    Vegetable : {
+        Breakdown: Vegetable = vegetare (to grow, to live) + able (capable of or fit for)
+        Synthesis: "to grow" + "capable of or fit for" -> "growing thing" (representing plant used as food).
+        Literal: growing thing
+        Semantic:
+            → plant used as food
+    },
+
+    Vegetate : {
+        Breakdown: Vegetate = vegetare (to grow, to live)
+        Synthesis: "to grow" -> "live like a plant" (representing stagnate mentally, or exist without activity).
+        Literal: live like a plant
+        Semantic:
+            → stagnate mentally
+            → exist without activity
+    },
+
+    Vegetation : {
+        Breakdown: Vegetation = vegetare (to grow, to live) + ion (act, process, or result of)
+        Synthesis: "to grow" + "act" -> "plant growth" (representing plant life).
+        Literal: plant growth
+        Semantic:
+            → plant life
+    },
+
+    Vegetative : {
+        Breakdown: Vegetative = vegetare (to grow, to live) + ive (having the nature of or tending to)
+        Synthesis: "to grow" + "having the nature of or tending to" -> "relating to plantlike existence" (representing inactive, or stagnant).
+        Literal: relating to plantlike existence
+        Semantic:
+            → inactive
+            → stagnant
+    },
+
+}
+
+VENTER / VENTRIS ("belly") {
+
+    Ventral : {
+        Breakdown: Ventral = ventris (belly) + al (pertaining to or relating to)
+        Synthesis: "belly" + "pertaining to or relating to" -> "relating to the belly" (representing front side of an animal, or anterior side).
+        Literal: relating to the belly
+        Semantic:
+            → front side of an animal
+            → anterior side
+    },
+
+    Ventricle : {
+        Breakdown: Ventricle = ventris (belly) + icle
+        Synthesis: "belly" + "icle" -> "little belly" (representing hollow chamber, or chamber of heart or brain).
+        Literal: little belly
+        Semantic:
+            → hollow chamber
+            → chamber of heart or brain
+    },
+
+    Ventricular : {
+        Breakdown: Ventricular = ventricle (little belly; hollow chamber; chamber of heart or brain) + ar (relating to, like, or pertaining to)
+        Synthesis: "little belly" + "relating to" -> "relating to a ventricle" (representing chamber-like).
+        Literal: relating to a ventricle
+        Semantic:
+            → chamber-like
+    },
+
+    Ventriloquism : {
+        Breakdown: Ventriloquism = venter (belly) + loquor (to speak) + ism (philosophy, belief, or system of)
+        Synthesis: "belly" + "to speak" + "philosophy" -> "art of belly-speaking" (representing voice illusion).
+        Literal: art of belly-speaking
+        Semantic:
+            → voice illusion
+    },
+
+    Ventriloquist : {
+        Breakdown: Ventriloquist = venter (belly) + loquor (to speak) + ist (one who practices or specializes in)
+        Synthesis: "belly" + "to speak" + "one who practices or specializes in" -> "belly speaker" (representing voice thrower).
+        Literal: belly speaker
+        Semantic:
+            → voice thrower
+    },
+
+}
+
+VERBUM ("word") {
+
+    Verbal : {
+        Breakdown: Verbal = verbum (word) + al (pertaining to or relating to)
+        Synthesis: "word" + "pertaining to or relating to" -> "relating to words" (representing oral, spoken, or linguistic).
+        Literal: relating to words
+        Semantic:
+            → oral
+            → spoken
+            → linguistic
+    },
+
+    Verbatim : {
+        Breakdown: Verbatim = verba + tim
+        Synthesis: "verba" + "tim" -> "word for word" (representing exact wording).
+        Literal: word for word
+        Semantic:
+            → exact wording
+    },
+
+    Verbiage : {
+        Breakdown: Verbiage = verb + age
+        Synthesis: "verb" + "age" -> "mass of words" (representing unnecessary language, wordiness, or excessive language).
+        Literal: mass of words
+        Semantic:
+            → unnecessary language
+            → wordiness
+            → excessive language
+    },
+
+    Verbose : {
+        Breakdown: Verbose = verbum (word) + ose
+        Synthesis: "word" + "ose" -> "full of words" (representing wordy, using more words than necessary, or long-winded).
+        Literal: full of words
+        Semantic:
+            → wordy
+            → using more words than necessary
+            → long-winded
+    },
+
+    Verbosity : {
+        Breakdown: Verbosity = verbose (full of words; wordy; using more words than necessary; long-winded) + ity (state, quality, or condition)
+        Synthesis: "full of words" + "state" -> "excessive wordiness" (representing excess of words, over-elaborate speech, or wordiness).
+        Literal: excessive wordiness
+        Semantic:
+            → excess of words
+            → over-elaborate speech
+            → wordiness
+    },
+
+}
+
+VERSO / VERTO ("to turn") {
+
+    Ambivert : {
+        Breakdown: Ambivert = ambi (both, on both sides) + verto (to turn)
+        Synthesis: "both" + "to turn" -> "turn both ways" (representing inward and outward tendencies, or balanced personality).
+        Literal: turn both ways
+        Semantic:
+            → inward and outward tendencies
+            → balanced personality
+    },
+
+    Extrovert : {
+        Breakdown: Extrovert = extro (outside) + verto (to turn)
+        Synthesis: "outside" + "to turn" -> "turn outward" (representing thoughts directed outward, or socially outgoing person).
+        Literal: turn outward
+        Semantic:
+            → thoughts directed outward
+            → socially outgoing person
+    },
+
+    Introvert : {
+        Breakdown: Introvert = intro (inside, within) + verto (to turn)
+        Synthesis: "inside" + "to turn" -> "turn inward" (representing thoughts directed inward, or self-analytical person).
+        Literal: turn inward
+        Semantic:
+            → thoughts directed inward
+            → self-analytical person
+    },
+
+    Versatile : {
+        Breakdown: Versatile = verto (to turn) + ile
+        Synthesis: "to turn" + "ile" -> "able to turn easily" (representing adaptable, or skilled in many fields).
+        Literal: able to turn easily
+        Semantic:
+            → adaptable
+            → skilled in many fields
+    },
+
+    Versatilely : {
+        Breakdown: Versatilely = versatile (able to turn easily; adaptable; skilled in many fields) + ly (in the manner of)
+        Synthesis: "able to turn easily" + "in the manner of" -> "in an adaptable manner".
+        Literal: in an adaptable manner
+    },
+
+    Versatility : {
+        Breakdown: Versatility = versatile (able to turn easily; adaptable; skilled in many fields) + ity (state, quality, or condition)
+        Synthesis: "able to turn easily" + "state" -> "ability to turn to many activities" (representing many-sided ability).
+        Literal: ability to turn to many activities
+        Semantic:
+            → many-sided ability
+    },
+
+}
+
+VETUS ("old") {
+
+    Inveteracy : {
+        Breakdown: Inveteracy = inveterate (grown old in a habit; long established; habitual; deeply rooted; deeply habituated; long-established) + acy
+        Synthesis: "grown old in a habit" + "acy" -> "quality of being long established" (representing long-established habit, fixed habit, or deeply rooted tendency).
+        Literal: quality of being long established
+        Semantic:
+            → long-established habit
+            → fixed habit
+            → deeply rooted tendency
+    },
+
+    Inveterate : {
+        Breakdown: Inveterate = in (not, in, on, or into) + vetus (old)
+        Synthesis: "not" + "old" -> "in old habit" (representing grown old in a habit, long established, habitual, deeply rooted, deeply habituated, or long-established).
+        Literal: in old habit
+        Semantic:
+            → grown old in a habit
+            → long established
+            → habitual
+            → deeply rooted
+            → deeply habituated
+            → long-established
+    },
+
+    Inveterateness : {
+        Breakdown: Inveterateness = inveterate (grown old in a habit; long established; habitual; deeply rooted; deeply habituated; long-established) + ness (state or quality of being)
+        Synthesis: "grown old in a habit" + "state or quality of being" -> "deeply rooted condition" (representing condition of long habit, or habitual persistence).
+        Literal: deeply rooted condition
+        Semantic:
+            → condition of long habit
+            → habitual persistence
+    },
+
+    Veteran : {
+        Breakdown: Veteran = vetus (old)
+        Synthesis: "old" -> "old experienced person" (representing seasoned expert, or old hand).
+        Literal: old experienced person
+        Semantic:
+            → seasoned expert
+            → old hand
+    },
+
+}
+
+VIA ("road", "way") {
+
+    Obviate : {
+        Breakdown: Obviate = ob + via (road, way) + ate (to make, cause, or have the state of)
+        Synthesis: "ob" + "road" + "to make" -> "remove from the road" (representing prevent, or make unnecessary).
+        Literal: remove from the road
+        Semantic:
+            → prevent
+            → make unnecessary
+    },
+
+    Obviation : {
+        Breakdown: Obviation = obviate (remove from the road; prevent; make unnecessary) + ion (act, process, or result of)
+        Synthesis: "remove from the road" + "act" -> "act of preventing" (representing elimination of need, or making unnecessary).
+        Literal: act of preventing
+        Semantic:
+            → elimination of need
+            → making unnecessary
+    },
+
+    Obvious : {
+        Breakdown: Obvious = ob + via (road, way)
+        Synthesis: "ob" + "road" -> "in the road" (representing easily seen, or evident).
+        Literal: in the road
+        Semantic:
+            → easily seen
+            → evident
+    },
+
+    Trivia : {
+        Breakdown: Trivia = tri (three) + via (road, way)
+        Synthesis: "three" + "road" -> "common roadside talk" (representing unimportant facts, trifles, or trifling information).
+        Literal: common roadside talk
+        Semantic:
+            → unimportant facts
+            → trifles
+            → trifling information
+    },
+
+    Trivial : {
+        Breakdown: Trivial = tri (three) + via (road, way)
+        Synthesis: "three" + "road" -> "at the meeting of three roads" (representing common crossroads matter, commonplace, or insignificant).
+        Literal: at the meeting of three roads
+        Semantic:
+            → common crossroads matter
+            → commonplace
+            → insignificant
+    },
+
+    Triviality : {
+        Breakdown: Triviality = trivial (common crossroads matter; commonplace; insignificant) + ity (state, quality, or condition)
+        Synthesis: "common crossroads matter" + "state" -> "insignificant thing" (representing trifle).
+        Literal: insignificant thing
+        Semantic:
+            → trifle
+    },
+
+    Via : {
+        Breakdown: Via = via (road, way)
+        Synthesis: "road" -> "road" (representing route, or by way of).
+        Literal: road
+        Semantic:
+            → route
+            → by way of
+    },
+
+}
+
+VICARIUS ("substitute", "in place of another") {
+
+    Vicar : {
+        Breakdown: Vicar = vicarius (substitute, in place of another)
+        Synthesis: "substitute" -> "substitute" (representing representative, or deputy).
+        Literal: substitute
+        Semantic:
+            → representative
+            → deputy
+    },
+
+    Vicarious : {
+        Breakdown: Vicarious = vicarius (substitute, in place of another)
+        Synthesis: "substitute" -> "experienced through another" (representing indirect participation, or secondhand emotion).
+        Literal: experienced through another
+        Semantic:
+            → indirect participation
+            → secondhand emotion
+    },
+
+    Vicariously : {
+        Breakdown: Vicariously = vicarious (experienced through another; indirect participation; secondhand emotion) + ly (in the manner of)
+        Synthesis: "experienced through another" + "in the manner of" -> "in an indirect manner" (representing through another person's experience).
+        Literal: in an indirect manner
+        Semantic:
+            → through another person's experience
+    },
+
+}
+
+VIR ("man") {
+
+    Virago : {
+        Breakdown: Virago = vir (man) + ago
+        Synthesis: "man" + "ago" -> "woman acting like a man" (representing domineering woman, loud-mouthed female, shrew, or scold).
+        Literal: woman acting like a man
+        Semantic:
+            → domineering woman
+            → loud-mouthed female
+            → shrew
+            → scold
+    },
+
+    Virile : {
+        Breakdown: Virile = vir (man) + ile
+        Synthesis: "man" + "ile" -> "manly" (representing masculine, vigorous, or strong).
+        Literal: manly
+        Semantic:
+            → masculine
+            → vigorous
+            → strong
+    },
+
+    Virility : {
+        Breakdown: Virility = virile (manly; masculine; vigorous; strong) + ity (state, quality, or condition)
+        Synthesis: "manly" + "state" -> "manliness" (representing masculine strength, or vigor).
+        Literal: manliness
+        Semantic:
+            → masculine strength
+            → vigor
+    },
+
+    Virtue : {
+        Breakdown: Virtue = Virtue (excellence of a man; moral excellence; goodness)
+        Synthesis: "excellence of a man" -> "vir → virtus" (representing moral excellence, or goodness).
+        Literal: vir → virtus
+        Semantic:
+            → moral excellence
+            → goodness
+    },
+
+    Virtuosity : {
+        Breakdown: Virtuosity = virtuoso (person of excellence; highly skilled performer; master artist) + ity (state, quality, or condition)
+        Synthesis: "person of excellence" + "state" -> "exceptional skill" (representing artistic mastery).
+        Literal: exceptional skill
+        Semantic:
+            → artistic mastery
+    },
+
+    Virtuoso : {
+        Breakdown: Virtuoso = virtus + oso
+        Synthesis: "virtus" + "oso" -> "person of excellence" (representing highly skilled performer, or master artist).
+        Literal: person of excellence
+        Semantic:
+            → highly skilled performer
+            → master artist
+    },
+
+    Virtuous : {
+        Breakdown: Virtuous = virtue (excellence of a man; moral excellence; goodness) + ous (characterized by or full of)
+        Synthesis: "excellence of a man" + "characterized by or full of" -> "possessing virtue" (representing morally upright).
+        Literal: possessing virtue
+        Semantic:
+            → morally upright
+    },
+
+}
+
+VIVO / VITA ("to live", "life") {
+
+    Antivivisectionist : {
+        Breakdown: Antivivisectionist = anti (against, opposite) + vivisection (cutting a living creature; operation on live animals; scientific experimentation) + ist (one who practices or specializes in)
+        Synthesis: "against" + "cutting a living creature" + "one who practices or specializes in" -> "opponent of vivisection".
+        Literal: opponent of vivisection
+    },
+
+    Convivial : {
+        Breakdown: Convivial = con (with, together) + vivo (to live, life)
+        Synthesis: "with" + "to live" -> "live together" (representing feast together, enjoy companionship, or friendly and sociable).
+        Literal: live together
+        Semantic:
+            → feast together
+            → enjoy companionship
+            → friendly and sociable
+    },
+
+    Conviviality : {
+        Breakdown: Conviviality = convivial (live together; feast together; enjoy companionship; friendly and sociable) + ity (state, quality, or condition)
+        Synthesis: "live together" + "state" -> "state of friendliness" (representing good fellowship, or sociability).
+        Literal: state of friendliness
+        Semantic:
+            → good fellowship
+            → sociability
+    },
+
+    Devitalize : {
+        Breakdown: Devitalize = de (down, away, from) + vital (pertaining to life; essential; indispensable; crucial) + ize (to make, treat, or combine with)
+        Synthesis: "down" + "pertaining to life" + "to make" -> "remove life from" (representing weaken, or drain energy).
+        Literal: remove life from
+        Semantic:
+            → weaken
+            → drain energy
+    },
+
+    Revitalization : {
+        Breakdown: Revitalization = re (again or back) + vital (pertaining to life; essential; indispensable; crucial) + ization
+        Synthesis: "again or back" + "pertaining to life" + "ization" -> "make alive again" (representing restore vigor, or renew strength).
+        Literal: make alive again
+        Semantic:
+            → restore vigor
+            → renew strength
+    },
+
+    Revitalize : {
+        Breakdown: Revitalize = re (again or back) + vital (pertaining to life; essential; indispensable; crucial) + ize (to make, treat, or combine with)
+        Synthesis: "again or back" + "pertaining to life" + "to make" -> "give life again" (representing energize, or rejuvenate).
+        Literal: give life again
+        Semantic:
+            → energize
+            → rejuvenate
+    },
+
+    Revival : {
+        Breakdown: Revival = revive (live again; restore to life; restore energy) + al (pertaining to or relating to)
+        Synthesis: "live again" + "pertaining to or relating to" -> "act of bringing back to life" (representing restoration, or renewed interest).
+        Literal: act of bringing back to life
+        Semantic:
+            → restoration
+            → renewed interest
+    },
+
+    Revive : {
+        Breakdown: Revive = re (again or back) + vive
+        Synthesis: "again or back" + "vive" -> "live again" (representing restore to life, or restore energy).
+        Literal: live again
+        Semantic:
+            → restore to life
+            → restore energy
+    },
+
+    Vital : {
+        Breakdown: Vital = vita (to live, life) + al (pertaining to or relating to)
+        Synthesis: "to live" + "pertaining to or relating to" -> "pertaining to life" (representing essential, indispensable, or crucial).
+        Literal: pertaining to life
+        Semantic:
+            → essential
+            → indispensable
+            → crucial
+    },
+
+    Vitality : {
+        Breakdown: Vitality = vital (pertaining to life; essential; indispensable; crucial) + ity (state, quality, or condition)
+        Synthesis: "pertaining to life" + "state" -> "life force" (representing vigor, or energy).
+        Literal: life force
+        Semantic:
+            → vigor
+            → energy
+    },
+
+    Vivacious : {
+        Breakdown: Vivacious = vivo (to live, life) + acious
+        Synthesis: "to live" + "acious" -> "full of life" (representing lively, animated, or energetic).
+        Literal: full of life
+        Semantic:
+            → lively
+            → animated
+            → energetic
+    },
+
+    Vivaciousness : {
+        Breakdown: Vivaciousness = vivacious (full of life; lively; animated; energetic) + ness (state or quality of being)
+        Synthesis: "full of life" + "state or quality of being" -> "quality of being lively" (representing energy and enthusiasm).
+        Literal: quality of being lively
+        Semantic:
+            → energy and enthusiasm
+    },
+
+    Vivacity : {
+        Breakdown: Vivacity = vivacious (full of life; lively; animated; energetic) + ity (state, quality, or condition)
+        Synthesis: "full of life" + "state" -> "liveliness" (representing animation, or high spirits).
+        Literal: liveliness
+        Semantic:
+            → animation
+            → high spirits
+    },
+
+    Vivid : {
+        Breakdown: Vivid = vivo (to live, life) + id
+        Synthesis: "to live" + "id" -> "full of life" (representing bright, intense, or strikingly clear).
+        Literal: full of life
+        Semantic:
+            → bright
+            → intense
+            → strikingly clear
+    },
+
+    Vividness : {
+        Breakdown: Vividness = vivid (full of life; bright; intense; strikingly clear) + ness (state or quality of being)
+        Synthesis: "full of life" + "state or quality of being" -> "clarity and intensity" (representing lifelike quality).
+        Literal: clarity and intensity
+        Semantic:
+            → lifelike quality
+    },
+
+    Viviparous : {
+        Breakdown: Viviparous = vivi + parous
+        Synthesis: "vivi" + "parous" -> "producing live offspring" (representing giving birth to living young).
+        Literal: producing live offspring
+        Semantic:
+            → giving birth to living young
+    },
+
+    Vivisection : {
+        Breakdown: Vivisection = vivi + section (something cut off; division or segment; division; part)
+        Synthesis: "vivi" + "something cut off" -> "cutting a living creature" (representing operation on live animals, or scientific experimentation).
+        Literal: cutting a living creature
+        Semantic:
+            → operation on live animals
+            → scientific experimentation
+    },
+
+    Vivisectionist : {
+        Breakdown: Vivisectionist = vivisection (cutting a living creature; operation on live animals; scientific experimentation) + ist (one who practices or specializes in)
+        Synthesis: "cutting a living creature" + "one who practices or specializes in" -> "one who practices vivisection".
+        Literal: one who practices vivisection
+    },
+
+}
+
+VOLO ("to wish", "to will") {
+
+    Benevolence : {
+        Breakdown: Benevolence = benevolent (wishing good; kind-hearted; charitable) + ence (state or quality of)
+        Synthesis: "wishing good" + "state or quality of" -> "goodwill" (representing kindness toward others).
+        Literal: goodwill
+        Semantic:
+            → kindness toward others
+    },
+
+    Benevolent : {
+        Breakdown: Benevolent = bene (good, well) + volo (to wish, to will)
+        Synthesis: "good" + "to wish" -> "wishing good" (representing kind-hearted, or charitable).
+        Literal: wishing good
+        Semantic:
+            → kind-hearted
+            → charitable
+    },
+
+    Malevolence : {
+        Breakdown: Malevolence = malevolent (wishing evil; ill-disposed; ill-will; desire to harm; hostile) + ence (state or quality of)
+        Synthesis: "wishing evil" + "state or quality of" -> "ill will" (representing hostility).
+        Literal: ill will
+        Semantic:
+            → hostility
+    },
+
+    Malevolent : {
+        Breakdown: Malevolent = mal (bad, evil) + volo (to wish, to will)
+        Synthesis: "bad" + "to wish" -> "wishing evil" (representing ill-disposed, ill-will, desire to harm, or hostile).
+        Literal: wishing evil
+        Semantic:
+            → ill-disposed
+            → ill-will
+            → desire to harm
+            → hostile
+    },
+
+    Volition : {
+        Breakdown: Volition = volo (to wish, to will) + ition
+        Synthesis: "to wish" + "ition" -> "act of wishing" (representing will, or conscious choice).
+        Literal: act of wishing
+        Semantic:
+            → will
+            → conscious choice
+    },
+
+}
+
+VOLVO / VOLVERE ("to roll") {
+
+    Evolution : {
+        Breakdown: Evolution = e (out, from) + volvere (to roll)
+        Synthesis: "out" + "to roll" -> "roll out" (representing gradual unfolding, or gradual development).
+        Literal: roll out
+        Semantic:
+            → gradual unfolding
+            → gradual development
+    },
+
+    Evolutionary : {
+        Breakdown: Evolutionary = evolution (roll out; gradual unfolding; gradual development) + ary
+        Synthesis: "roll out" + "ary" -> "relating to gradual development" (representing developing step by step).
+        Literal: relating to gradual development
+        Semantic:
+            → developing step by step
+    },
+
+    Revolution : {
+        Breakdown: Revolution = re (again or back) + volvere (to roll) + tion
+        Synthesis: "again or back" + "to roll" + "tion" -> "complete turning around" (representing radical change, or overthrow of existing order).
+        Literal: complete turning around
+        Semantic:
+            → radical change
+            → overthrow of existing order
+    },
+
+    Revolutionary : {
+        Breakdown: Revolutionary = revolution (complete turning around; radical change; overthrow of existing order) + ary
+        Synthesis: "complete turning around" + "ary" -> "relating to revolution" (representing radically changing, or innovative).
+        Literal: relating to revolution
+        Semantic:
+            → radically changing
+            → innovative
+    },
+
+    Revolve : {
+        Breakdown: Revolve = re (again or back) + volvere (to roll)
+        Synthesis: "again or back" + "to roll" -> "roll back" (representing turn round and round, or rotate).
+        Literal: roll back
+        Semantic:
+            → turn round and round
+            → rotate
+    },
+
+    Volubility : {
+        Breakdown: Volubility = voluble (rolling easily; fluent; rapid speaker; fluent in speech; talkative) + ity (state, quality, or condition)
+        Synthesis: "rolling easily" + "state" -> "fluency of speech" (representing ease of rolling words, verbal smoothness, or fluency).
+        Literal: fluency of speech
+        Semantic:
+            → ease of rolling words
+            → verbal smoothness
+            → fluency
+    },
+
+    Voluble : {
+        Breakdown: Voluble = volvere (to roll) + ible (capable of or fit for)
+        Synthesis: "to roll" + "capable of or fit for" -> "words rolling easily" (representing rolling easily, fluent, rapid speaker, fluent in speech, or talkative).
+        Literal: words rolling easily
+        Semantic:
+            → rolling easily
+            → fluent
+            → rapid speaker
+            → fluent in speech
+            → talkative
+    },
+
+}
+
+VORARE ("to devour") {
+
+    Carnivore : {
+        Breakdown: Carnivore = carnis (flesh, meat) + vorare (to devour)
+        Synthesis: "flesh" + "to devour" -> "flesh devourer" (representing meat-eating animal).
+        Literal: flesh devourer
+        Semantic:
+            → meat-eating animal
+    },
+
+    Carnivorous : {
+        Breakdown: Carnivorous = carnis (flesh, meat) + vorare (to devour)
+        Synthesis: "flesh" + "to devour" -> "devouring flesh" (representing meat-eating).
+        Literal: devouring flesh
+        Semantic:
+            → meat-eating
+    },
+
+    Devour : {
+        Breakdown: Devour = de (down, away, from) + vorare (to devour)
+        Synthesis: "down" + "to devour" -> "consume completely" (representing eat eagerly, or consume rapidly).
+        Literal: consume completely
+        Semantic:
+            → eat eagerly
+            → consume rapidly
+    },
+
+    Herbivorous : {
+        Breakdown: Herbivorous = herba + vorare (to devour)
+        Synthesis: "herba" + "to devour" -> "devouring plants" (representing plant-eating).
+        Literal: devouring plants
+        Semantic:
+            → plant-eating
+    },
+
+    Omnivore : {
+        Breakdown: Omnivore = omnis (all, every) + vorare (to devour)
+        Synthesis: "all" + "to devour" -> "eater of everything" (representing animal eating plants and animals).
+        Literal: eater of everything
+        Semantic:
+            → animal eating plants and animals
+    },
+
+    Omnivorous : {
+        Breakdown: Omnivorous = omnis (all, every) + vorare (to devour)
+        Synthesis: "all" + "to devour" -> "devouring everything" (representing eating all kinds of food).
+        Literal: devouring everything
+        Semantic:
+            → eating all kinds of food
+    },
+
+    Voracious : {
+        Breakdown: Voracious = vorare (to devour) + ous (characterized by or full of)
+        Synthesis: "to devour" + "characterized by or full of" -> "inclined to devour" (representing ravenously hungry, or greedy).
+        Literal: inclined to devour
+        Semantic:
+            → ravenously hungry
+            → greedy
+    },
+
+    Voracity : {
+        Breakdown: Voracity = voracious (inclined to devour; ravenously hungry; greedy) + ity (state, quality, or condition)
+        Synthesis: "inclined to devour" + "state" -> "excessive appetite" (representing greediness).
+        Literal: excessive appetite
+        Semantic:
+            → greediness
+    },
+
+}
+
+VOX / VOCIS ("voice") {
+
+    Equivocal : {
+        Breakdown: Equivocal = equ (equal) + vox (voice)
+        Synthesis: "equal" + "voice" -> "equally voiced" (representing ambiguous, or open to multiple interpretations).
+        Literal: equally voiced
+        Semantic:
+            → ambiguous
+            → open to multiple interpretations
+    },
+
+    Equivocate : {
+        Breakdown: Equivocate = equ (equal) + vox (voice) + ate (to make, cause, or have the state of)
+        Synthesis: "equal" + "voice" + "to make" -> "use equally voiced meanings" (representing speak ambiguously, or evade commitment).
+        Literal: use equally voiced meanings
+        Semantic:
+            → speak ambiguously
+            → evade commitment
+    },
+
+    Magnavox : {
+        Breakdown: Magnavox = magnus (great, large) + vox (voice)
+        Synthesis: "great" + "voice" -> "great voice" (representing amplified sound).
+        Literal: great voice
+        Semantic:
+            → amplified sound
+    },
+
+    Vocal : {
+        Breakdown: Vocal = vox (voice)
+        Synthesis: "voice" -> "voice-related" (representing relating to voice, spoken, oral, or expressive by voice).
+        Literal: voice-related
+        Semantic:
+            → relating to voice
+            → spoken
+            → oral
+            → expressive by voice
+    },
+
+    Vocalist : {
+        Breakdown: Vocalist = vocal (relating to voice; spoken; oral; expressive by voice) + ist (one who practices or specializes in)
+        Synthesis: "relating to voice" + "one who practices or specializes in" -> "voice performer" (representing singer).
+        Literal: voice performer
+        Semantic:
+            → singer
+    },
+
+    Vocalize : {
+        Breakdown: Vocalize = vocal (relating to voice; spoken; oral; expressive by voice) + ize (to make, treat, or combine with)
+        Synthesis: "relating to voice" + "to make" -> "make vocal" (representing utter by voice, or sing).
+        Literal: make vocal
+        Semantic:
+            → utter by voice
+            → sing
+    },
+
+    Vociferate : {
+        Breakdown: Vociferate = vox (voice) + fero + ate (to make, cause, or have the state of)
+        Synthesis: "voice" + "fero" + "to make" -> "to carry forth the voice" (representing shout loudly, or yell vehemently).
+        Literal: to carry forth the voice
+        Semantic:
+            → shout loudly
+            → yell vehemently
+    },
+
+    Vociferation : {
+        Breakdown: Vociferation = vociferate (to carry forth the voice; shout loudly; yell vehemently) + ion (act, process, or result of)
+        Synthesis: "to carry forth the voice" + "act" -> "loud shouting" (representing clamorous outcry).
+        Literal: loud shouting
+        Semantic:
+            → clamorous outcry
+    },
+
+    Vociferous : {
+        Breakdown: Vociferous = vox (voice) + fero
+        Synthesis: "voice" + "fero" -> "carry the voice" (representing carrying the voice, loud, noisy, or clamorous).
+        Literal: carry the voice
+        Semantic:
+            → carrying the voice
+            → loud
+            → noisy
+            → clamorous
+    },
+
+}
+
+VULPES ("fox") {
+
+    Vulpine : {
+        Breakdown: Vulpine = vulpes (fox) + ine (like, similar to, characteristic of)
+        Synthesis: "fox" + "like" -> "like a fox" (representing foxlike, crafty, cunning, or shrewd).
+        Literal: like a fox
+        Semantic:
+            → foxlike
+            → crafty
+            → cunning
+            → shrewd
+    },
+
+}

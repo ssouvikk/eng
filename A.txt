@@ -1,0 +1,931 @@
+ACUO ("to sharpen") {
+
+    Acuity : {
+        Breakdown: Acuity = acute (sharp) + ity (state, quality, or condition)
+        Synthesis: "sharp" + "state" -> "sharpness" (representing keenness of perception).
+        Literal: sharpness
+        Semantic:
+            → keenness of perception
+    },
+
+    Acumen : {
+        Breakdown: Acumen = acuo (to sharpen)
+        Synthesis: "to sharpen" -> "sharpness" (representing mental keenness, quick insight, or sound judgment).
+        Literal: sharpness
+        Semantic:
+            → mental keenness
+            → quick insight
+            → sound judgment
+    },
+
+    Acute : {
+        Breakdown: Acute = acuo (to sharpen) + te (state or suffix)
+        Synthesis: "to sharpen" + "state or suffix" -> "sharpened" (representing keen, intense, or perceptive).
+        Literal: sharpened
+        Semantic:
+            → keen
+            → intense
+            → perceptive
+    },
+
+}
+
+ADELPHOS ("brother") {
+
+    Philadelphia : {
+        Breakdown: Philadelphia = philein (to love) + adelphos (brother)
+        Synthesis: "to love" + "brother" -> "brotherly love" (representing city symbolizing brotherhood).
+        Literal: brotherly love
+        Semantic:
+            → city symbolizing brotherhood
+    },
+
+}
+
+ADULOR ("to flatter", "to fawn upon") {
+
+    Adulate : {
+        Breakdown: Adulate = adulor (to flatter, to fawn upon) + ate (to make, cause, or have the state of)
+        Synthesis: "to flatter" + "to make" -> "flatter excessively" (representing worship, or praise slavishly).
+        Literal: flatter excessively
+        Semantic:
+            → worship
+            → praise slavishly
+    },
+
+    Adulation : {
+        Breakdown: Adulation = adulate (flatter excessively; worship; praise slavishly) + ion (act, process, or result of)
+        Synthesis: "flatter excessively" + "act" -> "excessive flattery" (representing exaggerated admiration, or worshipful praise).
+        Literal: excessive flattery
+        Semantic:
+            → exaggerated admiration
+            → worshipful praise
+    },
+
+    Adulatory : {
+        Breakdown: Adulatory = adulate (flatter excessively; worship; praise slavishly) + ory (relating to, serving for, or place for)
+        Synthesis: "flatter excessively" + "relating to" -> "characterized by flattery" (representing characterized by adulation, worshipful, or flattering).
+        Literal: characterized by flattery
+        Semantic:
+            → characterized by adulation
+            → worshipful
+            → flattering
+    },
+
+}
+
+AEQUUS / EQU ("equal") {
+
+    Equability : {
+        Breakdown: Equability = equable (evenly balanced) + ity (state, quality, or condition)
+        Synthesis: "evenly balanced" + "state" -> "evenness" (representing calmness of temper).
+        Literal: evenness
+        Semantic:
+            → calmness of temper
+    },
+
+    Equable : {
+        Breakdown: Equable = equ (equal) + able (capable of or fit for)
+        Synthesis: "equal" + "capable of or fit for" -> "evenly balanced" (representing calm, or steady in temperament).
+        Literal: evenly balanced
+        Semantic:
+            → calm
+            → steady in temperament
+    },
+
+    Equanimity : {
+        Breakdown: Equanimity = aequus (equal) + animus (mind, soul, spirit, life principle)
+        Synthesis: "equal" + "mind" -> "equal mind" (representing calmness, emotional balance, or composure).
+        Literal: equal mind
+        Semantic:
+            → calmness
+            → emotional balance
+            → composure
+    },
+
+    Equilateral : {
+        Breakdown: Equilateral = equ (equal) + latus (side)
+        Synthesis: "equal" + "side" -> "equal-sided" (representing having all sides equal).
+        Literal: equal-sided
+        Semantic:
+            → having all sides equal
+    },
+
+    Equilibrist : {
+        Breakdown: Equilibrist = equ (equal) + libra (balance, scales)
+        Synthesis: "equal" + "balance" -> "equal balance" (representing tightrope walker, or one who balances expertly).
+        Literal: equal balance
+        Semantic:
+            → tightrope walker
+            → one who balances expertly
+    },
+
+    Equilibrium : {
+        Breakdown: Equilibrium = equ (equal) + libra (balance, scales)
+        Synthesis: "equal" + "balance" -> "equal balance" (representing physical balance, or balance of forces).
+        Literal: equal balance
+        Semantic:
+            → physical balance
+            → balance of forces
+    },
+
+    Equinoctial : {
+        Breakdown: Equinoctial = equi (equal) + noct (night)
+        Synthesis: "equal" + "night" -> "relating to equal day and night".
+        Literal: relating to equal day and night
+    },
+
+    Equinox : {
+        Breakdown: Equinox = equ (equal) + nox (night)
+        Synthesis: "equal" + "night" -> "equal night" (representing day and night of equal length).
+        Literal: equal night
+        Semantic:
+            → day and night of equal length
+    },
+
+    Equitable : {
+        Breakdown: Equitable = equ (equal) + able (capable of or fit for)
+        Synthesis: "equal" + "capable of or fit for" -> "capable of being equal" (representing fair, just, or evenhanded).
+        Literal: capable of being equal
+        Semantic:
+            → fair
+            → just
+            → evenhanded
+    },
+
+    Equity : {
+        Breakdown: Equity = equ (equal) + ity (state, quality, or condition)
+        Synthesis: "equal" + "state" -> "equality" (representing fairness, or justice).
+        Literal: equality
+        Semantic:
+            → fairness
+            → justice
+    },
+
+    Equivocal : {
+        Breakdown: Equivocal = equ (equal) + vox (voice)
+        Synthesis: "equal" + "voice" -> "equally voiced" (representing having more than one equally possible meaning, ambiguous, or intentionally unclear).
+        Literal: equally voiced
+        Semantic:
+            → having more than one equally possible meaning
+            → ambiguous
+            → intentionally unclear
+    },
+
+    Equivocate : {
+        Breakdown: Equivocate = equ (equal) + vox (voice) + ate (to make, cause, or have the state of)
+        Synthesis: "equal" + "voice" + "to make" -> "speak with equal meanings" (representing use ambiguous language, or deliberately mislead).
+        Literal: speak with equal meanings
+        Semantic:
+            → use ambiguous language
+            → deliberately mislead
+    },
+
+    Equivocation : {
+        Breakdown: Equivocation = equivocate (use ambiguous language) + ion (act, process, or result of)
+        Synthesis: "use ambiguous language" + "act" -> "act of deliberate ambiguity" (representing evasive speech).
+        Literal: act of deliberate ambiguity
+        Semantic:
+            → evasive speech
+    },
+
+    Inequitable : {
+        Breakdown: Inequitable = in (not, in, on, or into) + equitable (fair and just)
+        Synthesis: "not" + "fair and just" -> "not fair" (representing unjust).
+        Literal: not fair
+        Semantic:
+            → unjust
+    },
+
+    Inequity : {
+        Breakdown: Inequity = in (not, in, on, or into) + equity (equality; fairness; justice)
+        Synthesis: "not" + "equality" -> "lack of fairness" (representing injustice, or unfairness).
+        Literal: lack of fairness
+        Semantic:
+            → injustice
+            → unfairness
+    },
+
+    Iniquitous : {
+        Breakdown: Iniquitous = iniquity (extreme injustice) + ous (characterized by or full of)
+        Synthesis: "extreme injustice" + "characterized by or full of" -> "characterized by wickedness" (representing sinful, or immoral).
+        Literal: characterized by wickedness
+        Semantic:
+            → sinful
+            → immoral
+    },
+
+    Iniquity : {
+        Breakdown: Iniquity = in (not, in, on, or into) + equity (equality; fairness; justice)
+        Synthesis: "not" + "equality" -> "extreme injustice" (representing wickedness, sinfulness, or gross immorality).
+        Literal: extreme injustice
+        Semantic:
+            → wickedness
+            → sinfulness
+            → gross immorality
+    },
+
+    Unequivocal : {
+        Breakdown: Unequivocal = un (not or opposite) + equivocal (equally voiced, ambiguous)
+        Synthesis: "not or opposite" + "equally voiced" -> "not equally interpretable" (representing clear, direct, or capable of only one meaning).
+        Literal: not equally interpretable
+        Semantic:
+            → clear
+            → direct
+            → capable of only one meaning
+    },
+
+}
+
+AFFLUERE ("to flow toward") {
+
+    Affluence : {
+        Breakdown: Affluence = ad (to, toward) + fluere (to flow)
+        Synthesis: "to" + "to flow" -> "flowing toward" (representing abundance of wealth, or prosperity).
+        Literal: flowing toward
+        Semantic:
+            → abundance of wealth
+            → prosperity
+    },
+
+    Affluent : {
+        Breakdown: Affluent = affluence (flowing toward; abundance of wealth; prosperity) + ent
+        Synthesis: "flowing toward" + "ent" -> "wealth flowing toward a person" (representing rich, or prosperous).
+        Literal: wealth flowing toward a person
+        Semantic:
+            → rich
+            → prosperous
+    },
+
+}
+
+ALGIA ("pain") {
+
+    Neuralgia : {
+        Breakdown: Neuralgia = neuron (nerve) + algia (pain)
+        Synthesis: "nerve" + "pain" -> "nerve pain".
+        Literal: nerve pain
+    },
+
+    Nostalgia : {
+        Breakdown: Nostalgia = nostos (return home) + algia (pain)
+        Synthesis: "return home" + "pain" -> "pain of homecoming desire" (representing homesickness).
+        Literal: pain of homecoming desire
+        Semantic:
+            → homesickness
+    },
+
+}
+
+ALTER ("other") {
+
+    Alter Ego : {
+        Breakdown: Alter Ego = alter (other) + ego (I or self)
+        Synthesis: "other" + "I or self" -> "other self" (representing second personality).
+        Literal: other self
+        Semantic:
+            → second personality
+    },
+
+    Alteration : {
+        Breakdown: Alteration = alter (other) + ation (act, process, or result of)
+        Synthesis: "other" + "act" -> "act of making other" (representing modification, or change).
+        Literal: act of making other
+        Semantic:
+            → modification
+            → change
+    },
+
+    Altercation : {
+        Breakdown: Altercation = alter (other) + cation (act, process, or result of)
+        Synthesis: "other" + "act" -> "becoming different in opinion" (representing disagreement, argument, or quarrel).
+        Literal: becoming different in opinion
+        Semantic:
+            → disagreement
+            → argument
+            → quarrel
+    },
+
+    Alternate : {
+        Breakdown: Alternate = alter (other) + ate (to make, cause, or have the state of)
+        Synthesis: "other" + "to make" -> "become the other" (representing take turns, or substitute successively).
+        Literal: become the other
+        Semantic:
+            → take turns
+            → substitute successively
+    },
+
+    Alternative : {
+        Breakdown: Alternative = alter (other) + native
+        Synthesis: "other" + "native" -> "other choice" (representing another possibility, or option).
+        Literal: other choice
+        Semantic:
+            → another possibility
+            → option
+    },
+
+}
+
+ALTRUIST ("other people first") {
+
+    Altruism : {
+        Breakdown: Altruism = alter → altrui + ism (philosophy, belief, or system of)
+        Synthesis: "alter → altrui" + "philosophy" -> "philosophy of helping others" (representing selfless concern for others).
+        Literal: philosophy of helping others
+        Semantic:
+            → selfless concern for others
+    },
+
+    Altruist : {
+        Breakdown: Altruist = alter → altrui + ist (one who practices or specializes in)
+        Synthesis: "alter → altrui" + "one who practices or specializes in" -> "person devoted to others" (representing selfless helper).
+        Literal: person devoted to others
+        Semantic:
+            → selfless helper
+    },
+
+    Altruistic : {
+        Breakdown: Altruistic = alter → altrui + istic
+        Synthesis: "alter → altrui" + "istic" -> "characterized by selflessness".
+        Literal: characterized by selflessness
+    },
+
+}
+
+AMBI ("both", "on both sides") {
+
+    Ambidexterity : {
+        Breakdown: Ambidexterity = ambi (both, on both sides) + dexter (right hand) + ity (state, quality, or condition)
+        Synthesis: "both" + "right hand" + "state" -> "ability to use both hands equally well".
+        Literal: ability to use both hands equally well
+    },
+
+    Ambidextrous : {
+        Breakdown: Ambidextrous = ambi (both, on both sides) + dexter (right hand)
+        Synthesis: "both" + "right hand" -> "both right hands" (representing able to use both hands equally well, or skillful).
+        Literal: both right hands
+        Semantic:
+            → able to use both hands equally well
+            → skillful
+    },
+
+    Ambivalence : {
+        Breakdown: Ambivalence = ambivalent (strong in both directions; feeling both ways at once; having contradictory emotions) + ence (state or quality of)
+        Synthesis: "strong in both directions" + "state or quality of" -> "state of conflicting feelings" (representing mixed emotions, or simultaneous attraction and repulsion).
+        Literal: state of conflicting feelings
+        Semantic:
+            → mixed emotions
+            → simultaneous attraction and repulsion
+    },
+
+    Ambivalent : {
+        Breakdown: Ambivalent = ambi (both, on both sides) + valent
+        Synthesis: "both" + "valent" -> "strong in both directions" (representing feeling both ways at once, or having contradictory emotions).
+        Literal: strong in both directions
+        Semantic:
+            → feeling both ways at once
+            → having contradictory emotions
+    },
+
+    Ambivert : {
+        Breakdown: Ambivert = ambi (both, on both sides) + verto (to turn)
+        Synthesis: "both" + "to turn" -> "turn in both directions" (representing both introverted and extroverted).
+        Literal: turn in both directions
+        Semantic:
+            → both introverted and extroverted
+    },
+
+}
+
+ANA ("up", "through", "apart") {
+
+    Anatomical : {
+        Breakdown: Anatomical = anatomy (cutting up; dissection; bodily structure; dissection; study of bodily structure; bodily structure itself) + ical (pertaining to or relating to)
+        Synthesis: "cutting up" + "pertaining to or relating to" -> "relating to bodily structure".
+        Literal: relating to bodily structure
+    },
+
+    Anatomy : {
+        Breakdown: Anatomy = ana (up, through, apart) + tome (a cutting, cut, section)
+        Synthesis: "up" + "a cutting" -> "cutting up" (representing dissection, or study of bodily structure).
+        Literal: cutting up
+        Semantic:
+            → dissection
+            → study of bodily structure
+    },
+
+}
+
+ANDROS ("male", "man") {
+
+    Philander : {
+        Breakdown: Philander = philein (to love) + andros (male, man)
+        Synthesis: "to love" + "male" -> "love of males/females" (representing engage in sexual adventures).
+        Literal: love of males/females
+        Semantic:
+            → engage in sexual adventures
+    },
+
+    Philanderer : {
+        Breakdown: Philanderer = philander (love of men/women; engage in casual love affairs; be sexually promiscuous) + er (one who or person/thing that does)
+        Synthesis: "love of men/women" + "one who or person/thing that does" -> "promiscuous lover".
+        Literal: promiscuous lover
+    },
+
+    Polyandry : {
+        Breakdown: Polyandry = poly (many, plural) + andros (male, man)
+        Synthesis: "many" + "male" -> "many husbands".
+        Literal: many husbands
+    },
+
+}
+
+ANGLUS ("English", "England") {
+
+    Anglophile : {
+        Breakdown: Anglophile = Anglus (English, England) + philein (to love)
+        Synthesis: "English" + "to love" -> "admirer of England" (representing admirer of English culture).
+        Literal: admirer of England
+        Semantic:
+            → admirer of English culture
+    },
+
+}
+
+ANIMUS / ANIMA ("mind", "soul", "spirit", "life principle") {
+
+    Animal : {
+        Breakdown: Animal = anima (mind, soul, spirit, life principle) + al (pertaining to or relating to)
+        Synthesis: "mind" + "pertaining to or relating to" -> "possessing life principle" (representing living creature).
+        Literal: possessing life principle
+        Semantic:
+            → living creature
+    },
+
+    Animate : {
+        Breakdown: Animate = anima (mind, soul, spirit, life principle) + ate (to make, cause, or have the state of)
+        Synthesis: "mind" + "to make" -> "give life to" (representing enliven, or make active).
+        Literal: give life to
+        Semantic:
+            → enliven
+            → make active
+    },
+
+    Animated : {
+        Breakdown: Animated = animate (give life to; enliven; make active) + ed (past or characterized by)
+        Synthesis: "give life to" + "past or characterized by" -> "filled with life" (representing lively, or spirited).
+        Literal: filled with life
+        Semantic:
+            → lively
+            → spirited
+    },
+
+    Animation : {
+        Breakdown: Animation = animate (give life to; enliven; make active) + ion (act, process, or result of)
+        Synthesis: "give life to" + "act" -> "act of giving life" (representing liveliness, or vitality).
+        Literal: act of giving life
+        Semantic:
+            → liveliness
+            → vitality
+    },
+
+    Animosity : {
+        Breakdown: Animosity = animus (mind, soul, spirit, life principle) + ity (state, quality, or condition)
+        Synthesis: "mind" + "state" -> "hostile mind" (representing hatred, resentment, or hostility).
+        Literal: hostile mind
+        Semantic:
+            → hatred
+            → resentment
+            → hostility
+    },
+
+    Animus : {
+        Breakdown: Animus = animus (mind, soul, or spirit)
+        Synthesis: "mind" -> "mind" (representing hostile attitude, ill will, or malevolence).
+        Literal: mind
+        Semantic:
+            → hostile attitude
+            → ill will
+            → malevolence
+    },
+
+    Equanimity : {
+        Breakdown: Equanimity = aequus (equal) + animus (mind, soul, spirit, life principle)
+        Synthesis: "equal" + "mind" -> "equal mind" (representing calmness, composure, or mental balance).
+        Literal: equal mind
+        Semantic:
+            → calmness
+            → composure
+            → mental balance
+    },
+
+    Inanimate : {
+        Breakdown: Inanimate = in (not, in, on, or into) + animate (give life to; enliven; make active)
+        Synthesis: "not" + "give life to" -> "not alive" (representing lifeless).
+        Literal: not alive
+        Semantic:
+            → lifeless
+    },
+
+    Magnanimity : {
+        Breakdown: Magnanimity = magnanimous (great soul; noble; generous; forgiving) + ity (state, quality, or condition)
+        Synthesis: "great soul" + "state" -> "greatness of soul" (representing generosity, or nobility of character).
+        Literal: greatness of soul
+        Semantic:
+            → generosity
+            → nobility of character
+    },
+
+    Magnanimous : {
+        Breakdown: Magnanimous = magnus (great, large) + animus (mind, soul, spirit, life principle)
+        Synthesis: "great" + "mind" -> "great mind" (representing noble soul, generous, forgiving, or big-hearted).
+        Literal: great mind
+        Semantic:
+            → noble soul
+            → generous
+            → forgiving
+            → big-hearted
+    },
+
+    Pusillanimity : {
+        Breakdown: Pusillanimity = pusillanimous (tiny mind; petty; mean-spirited; contemptibly small-minded) + ity (state, quality, or condition)
+        Synthesis: "tiny mind" + "state" -> "smallness of soul" (representing pettiness, or meanness).
+        Literal: smallness of soul
+        Semantic:
+            → pettiness
+            → meanness
+    },
+
+    Pusillanimous : {
+        Breakdown: Pusillanimous = pusillus + animus (mind, soul, spirit, life principle)
+        Synthesis: "pusillus" + "mind" -> "tiny mind" (representing petty, mean-spirited, or contemptibly small-minded).
+        Literal: tiny mind
+        Semantic:
+            → petty
+            → mean-spirited
+            → contemptibly small-minded
+    },
+
+    Unanimity : {
+        Breakdown: Unanimity = unanimous (one mind; complete agreement; all of one opinion) + ity (state, quality, or condition)
+        Synthesis: "one mind" + "state" -> "state of one mind" (representing complete agreement).
+        Literal: state of one mind
+        Semantic:
+            → complete agreement
+    },
+
+    Unanimous : {
+        Breakdown: Unanimous = unus (one) + animus (mind, soul, spirit, life principle)
+        Synthesis: "one" + "mind" -> "one mind" (representing complete agreement, or all of one opinion).
+        Literal: one mind
+        Semantic:
+            → complete agreement
+            → all of one opinion
+    },
+
+}
+
+ANNUS ("year") {
+
+    Anniversary : {
+        Breakdown: Anniversary = annus (year) + versary
+        Synthesis: "year" + "versary" -> "yearly return" (representing yearly commemoration).
+        Literal: yearly return
+        Semantic:
+            → yearly commemoration
+    },
+
+    Annual : {
+        Breakdown: Annual = annus (year) + al (pertaining to or relating to)
+        Synthesis: "year" + "pertaining to or relating to" -> "yearly" (representing occurring every year).
+        Literal: yearly
+        Semantic:
+            → occurring every year
+    },
+
+    Biennial : {
+        Breakdown: Biennial = bi (two) + annus (year)
+        Synthesis: "two" + "year" -> "every two years".
+        Literal: every two years
+    },
+
+    Centennial : {
+        Breakdown: Centennial = centum (hundred) + annus (year)
+        Synthesis: "hundred" + "year" -> "hundred years" (representing hundredth anniversary).
+        Literal: hundred years
+        Semantic:
+            → hundredth anniversary
+    },
+
+    Perennial : {
+        Breakdown: Perennial = per (through or thoroughly) + annus (year)
+        Synthesis: "through or thoroughly" + "year" -> "through the years" (representing lasting many years, or recurrent).
+        Literal: through the years
+        Semantic:
+            → lasting many years
+            → recurrent
+    },
+
+    Triennial : {
+        Breakdown: Triennial = tri (three) + annus (year)
+        Synthesis: "three" + "year" -> "every three years".
+        Literal: every three years
+    },
+
+}
+
+ANTHROPOS ("mankind", "human being") {
+
+    Anthropocentric : {
+        Breakdown: Anthropocentric = anthropos (mankind, human being) + centrum (center)
+        Synthesis: "mankind" + "center" -> "mankind at the center" (representing human-centered viewpoint).
+        Literal: mankind at the center
+        Semantic:
+            → human-centered viewpoint
+    },
+
+    Anthropoid : {
+        Breakdown: Anthropoid = anthropos (mankind, human being) + oid (resembling or like)
+        Synthesis: "mankind" + "resembling or like" -> "human-like" (representing resembling a human being).
+        Literal: human-like
+        Semantic:
+            → resembling a human being
+    },
+
+    Anthropological : {
+        Breakdown: Anthropological = anthropology (study of mankind) + ical (pertaining to or relating to)
+        Synthesis: "study of mankind" + "pertaining to or relating to" -> "pertaining to the study of mankind".
+        Literal: pertaining to the study of mankind
+    },
+
+    Anthropologist : {
+        Breakdown: Anthropologist = anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)
+        Synthesis: "mankind" + "study" + "one who practices or specializes in" -> "student of mankind" (representing scientist studying human origins and cultures).
+        Literal: student of mankind
+        Semantic:
+            → scientist studying human origins and cultures
+    },
+
+    Anthropology : {
+        Breakdown: Anthropology = anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "mankind" + "study" -> "study of mankind" (representing science of human development, culture, and evolution).
+        Literal: study of mankind
+        Semantic:
+            → science of human development, culture, and evolution
+    },
+
+    Anthropomorphic : {
+        Breakdown: Anthropomorphic = anthropos (mankind, human being) + morphe (form, shape)
+        Synthesis: "mankind" + "form" -> "human form" (representing giving human qualities or shape to non-humans).
+        Literal: human form
+        Semantic:
+            → giving human qualities or shape to non-humans
+    },
+
+    Anthropophobia : {
+        Breakdown: Anthropophobia = anthropos (mankind, human being) + phobos (fear)
+        Synthesis: "mankind" + "fear" -> "fear of people" (representing abnormal fear of human beings).
+        Literal: fear of people
+        Semantic:
+            → abnormal fear of human beings
+    },
+
+    Misanthrope : {
+        Breakdown: Misanthrope = misein (to hate) + anthropos (mankind, human being)
+        Synthesis: "to hate" + "mankind" -> "misos + anthropos" (representing hater of mankind, human-hater, or person who dislikes people).
+        Literal: misos + anthropos
+        Semantic:
+            → hater of mankind
+            → human-hater
+            → person who dislikes people
+    },
+
+    Misanthropic : {
+        Breakdown: Misanthropic = misein (to hate) + anthropos (mankind, human being) + ic / misanthrope + ic (pertaining to or relating to)
+        Synthesis: "to hate" + "mankind" + "ic / misanthrope" + "pertaining to or relating to" -> "misanthrope + ic" (representing characterized by hatred of mankind, or characterized by hatred of people).
+        Literal: misanthrope + ic
+        Semantic:
+            → characterized by hatred of mankind
+            → characterized by hatred of people
+    },
+
+    Misanthropist : {
+        Breakdown: Misanthropist = misein (to hate) + anthropos (mankind, human being) + ist (one who practices or specializes in)
+        Synthesis: "to hate" + "mankind" + "one who practices or specializes in" -> "one who hates mankind".
+        Literal: one who hates mankind
+    },
+
+    Misanthropy : {
+        Breakdown: Misanthropy = misein (to hate) + anthropos (mankind, human being) + y (state, quality, or condition)
+        Synthesis: "to hate" + "mankind" + "state" -> "hatred of mankind".
+        Literal: hatred of mankind
+    },
+
+    Philanthropist : {
+        Breakdown: Philanthropist = philein (to love) + anthropos (mankind, human being) + ist (one who practices or specializes in)
+        Synthesis: "to love" + "mankind" + "one who practices or specializes in" -> "philein + anthropos" (representing lover of mankind, or humanitarian; benefactor).
+        Literal: philein + anthropos
+        Semantic:
+            → lover of mankind
+            → humanitarian; benefactor
+    },
+
+    Philanthropy : {
+        Breakdown: Philanthropy = philein (to love) + anthropos (mankind, human being)
+        Synthesis: "to love" + "mankind" -> "love of humanity" (representing charitable concern for human welfare).
+        Literal: love of humanity
+        Semantic:
+            → charitable concern for human welfare
+    },
+
+}
+
+ARSIO (burning) {
+
+    Arson : {
+        Breakdown: Arson = arsio (burning)
+        Synthesis: "burning" -> "criminal burning" (representing deliberate destruction by fire).
+        Literal: criminal burning
+        Semantic:
+            → deliberate destruction by fire
+    },
+
+}
+
+ARTICULUS ("joint") {
+
+    Articulate : {
+        Breakdown: Articulate = articulus (joint) + ate (to make, cause, or have the state of)
+        Synthesis: "joint" + "to make" -> "join together" (representing express clearly, or speak coherently).
+        Literal: join together
+        Semantic:
+            → express clearly
+            → speak coherently
+    },
+
+    Articulation : {
+        Breakdown: Articulation = articulate (join together; express clearly; speak coherently) + ion (act, process, or result of)
+        Synthesis: "join together" + "act" -> "act of joining words clearly" (representing clear expression).
+        Literal: act of joining words clearly
+        Semantic:
+            → clear expression
+    },
+
+    Inarticulate : {
+        Breakdown: Inarticulate = in (not, in, on, or into) + articulate (join together; express clearly; speak coherently)
+        Synthesis: "not" + "join together" -> "unable to join words" (representing incoherent, sputtering, or unclear in speech).
+        Literal: unable to join words
+        Semantic:
+            → incoherent
+            → sputtering
+            → unclear in speech
+    },
+
+    Inarticulateness : {
+        Breakdown: Inarticulateness = inarticulate (unable to join words; incoherent; sputtering; unclear in speech) + ness (state or quality of being)
+        Synthesis: "unable to join words" + "state or quality of being" -> "inability to express clearly" (representing verbal incoherence).
+        Literal: inability to express clearly
+        Semantic:
+            → verbal incoherence
+    },
+
+}
+
+ASTRON ("star", "heavenly body") {
+
+    Aster : {
+        Breakdown: Aster = astron (star, heavenly body)
+        Synthesis: "star" -> "star" (representing star-shaped flower).
+        Literal: star
+        Semantic:
+            → star-shaped flower
+    },
+
+    Asterisk : {
+        Breakdown: Asterisk = aster (star; star-shaped flower)
+        Synthesis: "star" -> "little star" (representing star-shaped typographical mark (*)).
+        Literal: little star
+        Semantic:
+            → star-shaped typographical mark (*)
+    },
+
+    Astrologer : {
+        Breakdown: Astrologer = astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "star" + "study" -> "interpreter of stars" (representing one who believes stars influence human affairs).
+        Literal: interpreter of stars
+        Semantic:
+            → one who believes stars influence human affairs
+    },
+
+    Astrology : {
+        Breakdown: Astrology = astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "star" + "study" -> "study of star influence" (representing system linking celestial motions to human events).
+        Literal: study of star influence
+        Semantic:
+            → system linking celestial motions to human events
+    },
+
+    Astronaut : {
+        Breakdown: Astronaut = astron (star, heavenly body) + nautes (sailor, navigator)
+        Synthesis: "star" + "sailor" -> "sailor among the stars" (representing space traveler).
+        Literal: sailor among the stars
+        Semantic:
+            → space traveler
+    },
+
+    Astronomer : {
+        Breakdown: Astronomer = astron (star, heavenly body) + nomos (law, order, arrangement) + er (one who or person/thing that does)
+        Synthesis: "star" + "law" + "one who or person/thing that does" -> "student of the heavens" (representing scientist of celestial bodies).
+        Literal: student of the heavens
+        Semantic:
+            → scientist of celestial bodies
+    },
+
+    Astronomical : {
+        Breakdown: Astronomical = astronomy (arrangement of stars; science of celestial bodies) + ical (pertaining to or relating to)
+        Synthesis: "arrangement of stars" + "pertaining to or relating to" -> "pertaining to the heavens" (representing enormously large in number).
+        Literal: pertaining to the heavens
+        Semantic:
+            → enormously large in number
+    },
+
+    Astronomy : {
+        Breakdown: Astronomy = astron (star, heavenly body) + nomos (law, order, arrangement)
+        Synthesis: "star" + "law" -> "arrangement/law of stars" (representing science of the heavens).
+        Literal: arrangement/law of stars
+        Semantic:
+            → science of the heavens
+    },
+
+    Astrophysics : {
+        Breakdown: Astrophysics = astron (star, heavenly body) + physis
+        Synthesis: "star" + "physis" -> "physics of stars" (representing branch studying composition and behavior of celestial bodies).
+        Literal: physics of stars
+        Semantic:
+            → branch studying composition and behavior of celestial bodies
+    },
+
+    Disaster : {
+        Breakdown: Disaster = dis (apart, away) + astron (star, heavenly body)
+        Synthesis: "apart" + "star" -> "against the stars" (representing calamity; great misfortune).
+        Literal: against the stars
+        Semantic:
+            → calamity; great misfortune
+    },
+
+}
+
+AURIS ("ear") {
+
+    Auricle : {
+        Breakdown: Auricle = auris (ear) + icle
+        Synthesis: "ear" + "icle" -> "little ear" (representing ear-shaped chamber, or upper chamber of the heart).
+        Literal: little ear
+        Semantic:
+            → ear-shaped chamber
+            → upper chamber of the heart
+    },
+
+    Auricular : {
+        Breakdown: Auricular = auricle (little ear) + ar (relating to, like, or pertaining to)
+        Synthesis: "little ear" + "relating to" -> "relating to the ear" (representing ear-shaped).
+        Literal: relating to the ear
+        Semantic:
+            → ear-shaped
+    },
+
+}
+
+AUTOS ("self") {
+
+    Autobiography : {
+        Breakdown: Autobiography = autos (self) + bios (life) + graphein (to write)
+        Synthesis: "self" + "life" + "to write" -> "self life writing" (representing story of one's own life).
+        Literal: self life writing
+        Semantic:
+            → story of one's own life
+    },
+
+    Autonomous : {
+        Breakdown: Autonomous = autos (self) + nomos (law, order, arrangement) + ous (characterized by or full of)
+        Synthesis: "self" + "law" + "characterized by or full of" -> "self-governing".
+        Literal: self-governing
+    },
+
+    Autonomy : {
+        Breakdown: Autonomy = autos (self) + nomos (law, order, arrangement)
+        Synthesis: "self" + "law" -> "self-rule" (representing self-government).
+        Literal: self-rule
+        Semantic:
+            → self-government
+    },
+
+    Autopsy : {
+        Breakdown: Autopsy = autos (self) + opsis (vision, sight)
+        Synthesis: "self" + "vision" -> "seeing for oneself" (representing examination of a corpse).
+        Literal: seeing for oneself
+        Semantic:
+            → examination of a corpse
+    },
+
+}

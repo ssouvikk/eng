@@ -1,0 +1,274 @@
+A (20)
+    ACUO
+    ADELPHOS
+    ADULOR
+    AEQUUS / EQU
+    AFFLUERE
+    ALGIA
+    ALTER
+    ALTRUIST
+    AMBI
+    ANA
+    ANDROS
+    ANGLUS
+    ANIMUS / ANIMA
+    ANNUS
+    ANTHROPOS
+    ARSIO
+    ARTICULUS
+    ASTRON
+    AURIS
+    AUTOS
+
+B (11)
+    BADINER
+    BANAL
+    BAROS
+    BIBLION
+    BIBO
+    BIOS
+    BON VIVANT
+    BONUS / BENE
+    BOTANE
+    BOVIS
+    BROMOS
+
+C (16)
+    CADO
+    CAEDO / CIDE
+    CANIS
+    CAPUT / CAPIT
+    CARO / CARNIS
+    CASTIGARE
+    CENTRUM
+    CHAUVIN
+    CHEIR
+    CHEVAL
+    CHRONOS
+    CILIUM
+    CLAM
+    COGO
+    CORRIGO
+    CREDO / CREDERE
+
+D (9)
+    DERMA
+    DESTITUERE
+    DEXTER
+    DICHA
+    DICO / DICTUS
+    DILETTARE
+    DOLEO
+    DONO
+    DROIT
+
+E (10)
+    EC / EK
+    EGO
+    ENDON
+    ENNUI
+    EPHEMEROS
+    EQUUS
+    ERGON
+    EU
+    EVANESCERE
+    EX
+
+F (5)
+    FACIO / FACTUS
+    FATIGUE
+    FELIS
+    FIDES
+    FRATER
+
+G (15)
+    GAMOS
+    GARRIRE
+    GE / GEO
+    GENESIS
+    GENUUS / INGENUUS
+    GERAS
+    GERON
+    GLIB
+    GLUTTIRE
+    GNOSIS
+    GNOSTOS
+    GOURMET
+    GRAPHEIN
+    GREX, GREGIS
+    GYNE
+
+H (4)
+    HARMONIA
+    HORA
+    HYPER
+    HYPO
+
+I (7)
+    IATREIA
+    ICON
+    INCENDO
+    INDIGERE
+    INE
+    INTERNUS
+    INTIMUS
+
+J (0)
+
+K (4)
+    KAKOS
+    KALLOS
+    KARDIA
+    KENTRON
+
+L (11)
+    LACONIA
+    LASCIVUS
+    LECHER
+    LEO
+    LEVIS
+    LINGUA
+    LOCUS
+    LOGOS
+    LOQUOR
+    LUBRICUS
+    LUPUS
+
+M (13)
+    MAGNUS
+    MALUS
+    MANIA
+    MANTEIA
+    MANUS
+    MARITUS
+    MARTINET
+    MATER / MATRIS
+    METRON
+    MILITIS
+    MISEIN
+    MISER
+    MONO / MONOS
+
+N (10)
+    NAIVUS
+    NAUTES
+    NEGARE
+    NERVUS
+    NEURON
+    NOCEO
+    NOMOS
+    NOSTOS
+    NOTUS
+    NOX / NOCTIS
+
+O (13)
+    OBSTETRIX
+    OCULUS
+    ODOUS / ODONT / ODONTOS
+    OMNIS
+    ONYMA
+    OPHTHALMOS
+    OPSIS / OPTIKOS
+    OPULUS
+    OPUS
+    ORTHOS
+    OSCILLUM
+    OSTEON
+    OVUM
+
+P (24)
+    PAIDOS / PAIS
+    PAR
+    PARSIMONIA
+    PATER / PATRIS
+    PATHOS
+    PECUS
+    PEJOR
+    PENURIA
+    PERI
+    PHEME
+    PHILEIN
+    PHOBIA
+    PHONE
+    PHOTOS
+    PICERE / SPICERE
+    PISCIS
+    PLAC
+    PLATYS
+    PORCUS
+    POTENS
+    POUS / PODOS
+    PRAKTIKOS
+    PRURIRE
+    PSYCHE
+
+Q (1)
+    QUEROR
+
+R (2)
+    REX / REGIS
+    RUS / RURIS
+
+S (19)
+    SCIENTIA
+    SCINTILLA
+    SCIO / SCIENS
+    SCRIBO / SCRIPTUS
+    SECTUS
+    SEMA
+    SENEX
+    SEQUOR
+    SIMILIS
+    SOCIUS
+    SOMA
+    SOPHOS
+    SOROR
+    SPECTO / SPICERE
+    SPHYGMOS
+    STOA
+    STREPO
+    SUMMUS
+    SYCOPHANT
+
+T (10)
+    TACEO
+    TELE
+    TEMPUS
+    THANATOS
+    THEOS
+    THERME
+    TITILL
+    TOME
+    TREPIDO
+    TRIVIA / TRI-VIA
+
+U (3)
+    URBS
+    URSUS
+    UXOR
+
+V (15)
+    VACILLO
+    VEGETARE
+    VENTER / VENTRIS
+    VERBUM
+    VERSO / VERTO
+    VETUS
+    VIA
+    VICARIUS
+    VIR
+    VIVO / VITA
+    VOLO
+    VOLVO / VOLVERE
+    VORARE
+    VOX / VOCIS
+    VULPES
+
+W (0)
+
+X (0)
+
+Y (0)
+
+Z (1)
+    ZOION

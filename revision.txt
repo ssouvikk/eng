@@ -1,102 +1,1737 @@
-SESSIONS_1_AND_2_REVISION {
+# A
 
-    Egoist      = self first
-    Egotist     = talks about self
-    Egocentric  = self at the center
-    Egomaniac   = obsessed with self
+ACUO ("to sharpen")
+  - Acuity: [acute (sharp) + ity (state, quality, or condition)] = sharpness → keenness of perception
+  - Acumen: [acuo (to sharpen)] = sharpness → mental keenness; quick insight; sound judgment
+  - Acute: [acuo (to sharpen) + te (state or suffix)] = sharpened → keen; intense; perceptive
 
-    Alter_Ego   = other self
-    Alternate   = take turns
-    Alternative = another choice
-    Alteration  = change
-    Altercation = quarrel
+ADELPHOS ("brother")
+  - Philadelphia: [philein (to love) + adelphos (brother)] = brotherly love → city symbolizing brotherhood
 
-    Altruist    = others first
-    Altruism    = selfless concern for others
-    Altruistic  = selfless
-}
+ADULOR ("to flatter, to fawn upon")
+  - Adulate: [adulor (to flatter, to fawn upon) + ate (to make, cause, or have the state of)] = flatter excessively → worship; praise slavishly
+  - Adulation: [adulate (flatter excessively; worship; praise slavishly) + ion (act, process, or result of)] = excessive flattery → exaggerated admiration; worshipful praise
+  - Adulatory: [adulate (flatter excessively; worship; praise slavishly) + ory (relating to, serving for, or place for)] = characterized by flattery, characterized by adulation → worshipful; flattering
+
+AEQUUS / EQU ("equal")
+  - Equability: [equable (evenly balanced) + ity (state, quality, or condition)] = evenness → calmness of temper
+  - Equable: [equ (equal) + able (capable of or fit for)] = evenly balanced → calm; steady in temperament
+  - Equanimity: [aequus (equal) + animus (mind, soul, spirit, life principle)] = equal mind → calmness; emotional balance; composure
+  - Equilateral: [equ (equal) + latus (side)] = equal-sided → having all sides equal
+  - Equilibrist: [equ (equal) + libra (balance, scales)] = equal balance → tightrope walker; one who balances expertly
+  - Equilibrium: [equ (equal) + libra (balance, scales)] = equal balance → physical balance; balance of forces
+  - Equinoctial: [equi (equal) + noct (night)] = relating to equal day and night
+  - Equinox: [equ (equal) + nox (night)] = equal night, day and night of equal length
+  - Equitable: [equ (equal) + able (capable of or fit for)] = capable of being equal → fair; just; evenhanded
+  - Equity: [equ (equal) + ity (state, quality, or condition)] = equality → fairness; justice
+  - Equivocal: [equ (equal) + vox (voice)] = equally voiced, having more than one equally possible meaning → ambiguous; intentionally unclear
+  - Equivocate: [equ (equal) + vox (voice) + ate (to make, cause, or have the state of)] = speak with equal meanings → use ambiguous language; deliberately mislead
+  - Equivocation: [equivocate (use ambiguous language) + ion (act, process, or result of)] = act of deliberate ambiguity → evasive speech
+  - Inequitable: [in (not, in, on, or into) + equitable (fair and just)] = not fair → unjust
+  - Inequity: [in (not, in, on, or into) + equity (equality; fairness; justice)] = lack of fairness → injustice; unfairness
+  - Iniquitous: [iniquity (extreme injustice) + ous (characterized by or full of)] = characterized by wickedness → sinful; immoral
+  - Iniquity: [in (not, in, on, or into) + equity (equality; fairness; justice)] = extreme injustice → wickedness; sinfulness; gross immorality
+  - Unequivocal: [un (not or opposite) + equivocal (equally voiced, ambiguous)] = not equally interpretable → clear; direct; capable of only one meaning
+
+AFFLUERE ("to flow toward")
+  - Affluence: [ad (to, toward) + fluere (to flow)] = flowing toward → abundance of wealth; prosperity
+  - Affluent: [affluence (flowing toward; abundance of wealth; prosperity) + ent (performing a particular action, or being in a particular state)] = wealth flowing toward a person → rich; prosperous
+
+ALGIA ("pain")
+  - Neuralgia: [neuron (nerve) + algia (pain)] = nerve pain
+  - Nostalgia: [nostos (return home) + algia (pain)] = pain of homecoming desire → homesickness
+
+ALGOS ("pain")
+  *(No derived words)*
+
+ALTER ("other")
+  - Alter Ego: [alter (other) + ego (I or self)] = other self, second personality
+  - Alteration: [alter (other) + ation (act, process, or result of)] = act of making other → modification; change
+  - Altercation: [alter (other) + cation (act, process, or result of)] = becoming different in opinion → disagreement; argument; quarrel
+  - Alternate: [alter (other) + ate (to make, cause, or have the state of)] = become the other → take turns; substitute successively
+  - Alternative: [alter (other) + native (tending to / choice)] = other choice → another possibility; option
+
+ALTRUIST ("other people first")
+  - Altruism: [alter → altrui (other / others) + ism (philosophy, belief, or system of)] = philosophy of helping others → selfless concern for others
+  - Altruist: [alter → altrui (other / others) + ist (one who practices or specializes in)] = person devoted to others, selfless helper
+  - Altruistic: [alter → altrui (other / others) + istic (characterized by)] = characterized by selflessness
+
+AMBI ("both, on both sides")
+  - Ambidexterity: [ambi (both, on both sides) + dexter (right hand) + ity (state, quality, or condition)] = ability to use both hands equally well
+  - Ambidextrous: [ambi (both, on both sides) + dexter (right hand)] = both right hands → able to use both hands equally well; skillful
+  - Ambivalence: [ambivalent (strong in both directions; feeling both ways at once; having contradictory emotions) + ence (state or quality of)] = state of conflicting feelings → mixed emotions; simultaneous attraction and repulsion
+  - Ambivalent: [ambi (both, on both sides) + valent (strong)] = strong in both directions → feeling both ways at once; having contradictory emotions
+  - Ambivert: [ambi (both, on both sides) + verto (to turn)] = turn in both directions → both introverted and extroverted
+
+ANA ("up, through, apart")
+  - Anatomical: [anatomy (cutting up; dissection; bodily structure; dissection; study of bodily structure; bodily structure itself) + ical (pertaining to or relating to)] = relating to bodily structure
+  - Anatomy: [ana (up, through, apart) + tome (a cutting, cut, section)] = cutting up → dissection; study of bodily structure
+
+ANDROS ("male, man")
+  - Philander: [philein (to love) + andros (male, man)] = love of males/females → engage in sexual adventures
+  - Philanderer: [philander (love of men/women; engage in casual love affairs; be sexually promiscuous) + er (one who or person/thing that does)] = promiscuous lover
+  - Polyandry: [poly (many, plural) + andros (male, man)] = many husbands
+
+ANGLUS ("English, England")
+  - Anglophile: [Anglus (English, England) + philein (to love)] = admirer of England → admirer of English culture
+
+ANIMUS / ANIMA ("mind, soul, spirit, life principle")
+  - Animal: [anima (mind, soul, spirit, life principle) + al (pertaining to or relating to)] = possessing life principle → living creature
+  - Animate: [anima (mind, soul, spirit, life principle) + ate (to make, cause, or have the state of)] = give life to → enliven; make active
+  - Animated: [animate (give life to; enliven; make active) + ed (past or characterized by)] = filled with life → lively; spirited
+  - Animation: [animate (give life to; enliven; make active) + ion (act, process, or result of)] = act of giving life → liveliness; vitality
+  - Animosity: [animus (mind, soul, spirit, life principle) + ity (state, quality, or condition)] = hostile mind → hatred; resentment; hostility
+  - Animus: [animus (mind, soul, or spirit)] = mind → hostile attitude; ill will; malevolence
+  - Equanimity: [aequus (equal) + animus (mind, soul, spirit, life principle)] = equal mind → calmness; composure; mental balance
+  - Inanimate: [in (not, in, on, or into) + animate (give life to; enliven; make active)] = not alive → lifeless
+  - Magnanimity: [magnanimous (great soul; noble; generous; forgiving) + ity (state, quality, or condition)] = greatness of soul → generosity; nobility of character
+  - Magnanimous: [magnus (great, large) + animus (mind, soul, spirit, life principle)] = great mind, noble soul → generous; forgiving; big-hearted
+  - Pusillanimity: [pusillanimous (tiny mind; petty; mean-spirited; contemptibly small-minded) + ity (state, quality, or condition)] = smallness of soul → pettiness; meanness
+  - Pusillanimous: [pusillus (tiny) + animus (mind, soul, spirit, life principle)] = tiny mind → petty; mean-spirited; contemptibly small-minded
+  - Unanimity: [unanimous (one mind; complete agreement; all of one opinion) + ity (state, quality, or condition)] = state of one mind → complete agreement
+  - Unanimous: [unus (one) + animus (mind, soul, spirit, life principle)] = one mind → complete agreement; all of one opinion
+
+ANNUS ("year")
+  - Anniversary: [annus (year) + versary (turning / return)] = yearly return → yearly commemoration
+  - Annual: [annus (year) + al (pertaining to or relating to)] = yearly → occurring every year
+  - Biennial: [bi (two) + annus (year)] = every two years
+  - Centennial: [centum (hundred) + annus (year)] = hundred years → hundredth anniversary
+  - Perennial: [per (through or thoroughly) + annus (year)] = through the years → lasting many years; recurrent
+  - Triennial: [tri (three) + annus (year)] = every three years
+
+ANTHROPOS ("mankind, human being")
+  - Anthropocentric: [anthropos (mankind, human being) + centrum (center)] = mankind at the center → human-centered viewpoint
+  - Anthropoid: [anthropos (mankind, human being) + oid (resembling or like)] = human-like → resembling a human being
+  - Anthropological: [anthropology (study of mankind) + ical (pertaining to or relating to)] = pertaining to the study of mankind
+  - Anthropologist: [anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of mankind → scientist studying human origins and cultures
+  - Anthropology: [anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech)] = study of mankind → science of human development, culture, and evolution
+  - Anthropomorphic: [anthropos (mankind, human being) + morphe (form, shape)] = human form → giving human qualities or shape to non-humans
+  - Anthropophobia: [anthropos (mankind, human being) + phobos (fear)] = fear of people → abnormal fear of human beings
+  - Misanthrope: [misein (to hate) + anthropos (mankind, human being)] = hater of mankind → human-hater; person who dislikes people
+  - Misanthropic: [misein (to hate) + anthropos (mankind, human being) + ic / misanthrope (pertaining to / hater of mankind) + ic (pertaining to or relating to)] = characterized by hatred of mankind, characterized by hatred of people
+  - Misanthropist: [misein (to hate) + anthropos (mankind, human being) + ist (one who practices or specializes in)] = one who hates mankind
+  - Misanthropy: [misein (to hate) + anthropos (mankind, human being) + y (state, quality, or condition)] = hatred of mankind
+  - Philanthropist: [philein (to love) + anthropos (mankind, human being) + ist (one who practices or specializes in)] = lover of mankind → humanitarian; benefactor
+  - Philanthropy: [philein (to love) + anthropos (mankind, human being)] = love of humanity → charitable concern for human welfare
+
+ARSIO ("burning")
+  - Arson: [arsio (burning)] = arsio (burning), criminal burning → deliberate destruction by fire
+
+ARTICULUS ("joint")
+  - Articulate: [articulus (joint) + ate (to make, cause, or have the state of)] = join together → express clearly; speak coherently
+  - Articulation: [articulate (join together; express clearly; speak coherently) + ion (act, process, or result of)] = act of joining words clearly → clear expression
+  - Inarticulate: [in (not, in, on, or into) + articulate (join together; express clearly; speak coherently)] = unable to join words → incoherent; sputtering; unclear in speech
+  - Inarticulateness: [inarticulate (unable to join words; incoherent; sputtering; unclear in speech) + ness (state or quality of being)] = inability to express clearly → verbal incoherence
+
+ASTRON ("star, heavenly body")
+  - Aster: [astron (star, heavenly body)] = star → star-shaped flower
+  - Asterisk: [aster (star; star-shaped flower)] = little star → star-shaped typographical mark (*)
+  - Astrologer: [astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)] = interpreter of stars → one who believes stars influence human affairs
+  - Astrology: [astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)] = study of star influence → system linking celestial motions to human events
+  - Astronaut: [astron (star, heavenly body) + nautes (sailor, navigator)] = sailor among the stars → space traveler
+  - Astronomer: [astron (star, heavenly body) + nomos (law, order, arrangement) + er (one who or person/thing that does)] = student of the heavens → scientist of celestial bodies
+  - Astronomical: [astronomy (arrangement of stars; science of celestial bodies) + ical (pertaining to or relating to)] = pertaining to the heavens → enormously large in number
+  - Astronomy: [astron (star, heavenly body) + nomos (law, order, arrangement)] = arrangement/law of stars → science of the heavens
+  - Astrophysics: [astron (star, heavenly body) + physis (nature)] = physics of stars → branch studying composition and behavior of celestial bodies
+  - Disaster: [dis (apart, away) + astron (star, heavenly body)] = against the stars → calamity; great misfortune
+
+AURIS ("ear")
+  - Auricle: [auris (ear) + icle (little (diminutive))] = little ear → ear-shaped chamber; upper chamber of the heart
+  - Auricular: [auricle (little ear) + ar (relating to, like, or pertaining to)] = relating to the ear → ear-shaped
+
+AUTOS ("self")
+  - Autobiography: [autos (self) + bios (life) + graphein (to write)] = self life writing → story of one's own life
+  - Autonomous: [autos (self) + nomos (law, order, arrangement) + ous (characterized by or full of)] = self-governing
+  - Autonomy: [autos (self) + nomos (law, order, arrangement)] = self-rule → self-government
+  - Autopsy: [autos (self) + opsis (vision, sight)] = seeing for oneself → examination of a corpse
 
 
-SESSIONS_3_REVISION {
+# B
 
-    Introvert      = turns inward
-    Extrovert      = turns outward
-    Ambivert       = turns both inward and outward
+BADINER ("to joke")
+  - Badinage: [badiner (to joke)] = playful joking → light banter; half-teasing conversation
 
-    Dexterous      = skillful
-    Dexterity      = skill
-    Ambidextrous   = skillful with both hands
-    Ambidexterity  = ability to use both hands equally well
+BANAL ("commonplace")
+  - Banal: [banal (commonplace)] = common and overused → trite; hackneyed; unoriginal
+  - Banality: [banal (commonplace) + ity (state, quality, or condition)] = triteness → lack of originality
+  - Banalness: [banal (commonplace) + ness (state or quality of being)] = state of being commonplace → dull conventionality
 
-    Adroit         = skillful
-    Adroitness     = skill
-    Maladroit      = awkward, clumsy
-    Maladroitness  = awkwardness
+BAROS ("weight, pressure")
+  - Barometer: [baros (weight, pressure) + metron (measure, measurement)] = pressure measure → instrument measuring atmospheric pressure
+  - Barometric: [barometer (pressure/weight measure; instrument measuring atmospheric pressure) + ic (pertaining to or relating to)] = pertaining to atmospheric pressure
 
-    Misanthrope    = hates mankind
-    Misanthropy    = hatred of mankind
-    Philanthropist = lover of mankind
-    Anthropology   = study of mankind
+BIBLION ("book")
+  - Bible: [biblion (book)] = the book → sacred scripture
+  - Bibliomaniac: [biblion (book) + mania (madness or obsession)] = obsessive love of books → compulsive book collector
+  - Bibliophile: [biblion (book) + philein (to love)] = lover of books → book enthusiast; book collector
 
-    Misogynist     = hates women
-    Misogyny       = hatred of women
-    Misogamist     = hates marriage
-    Misogamy       = hatred of marriage
+BIBO ("to drink")
+  - Bib: [Bib (protective cloth; catches spills while eating/drinking)] = from drinking, protective cloth → catches spills while eating/drinking
+  - Bibulous: [bibo (to drink) + ulous (tending to / full of)] = full of drinking → fond of liquor; alcoholic; prone to overdrinking
+  - Imbibe: [im (not, in, on, or into) + bibo (to drink)] = drink into → absorb; soak up; take in knowledge
 
-    Monogamy       = one marriage
-    Polygamy       = plural marriage
-    Bigamy         = two marriages
-    Polyandry      = many husbands
-    Polygyny       = many wives
-}
+BIOS ("life")
+  - Autobiography: [autos (self) + bios (life) + graphein (to write)] = self life writing → story of one's own life
+  - Biographical: [biography (life writing; written account of a life) + ical (pertaining to or relating to)] = relating to life history
+  - Biography: [bios (life) + graphein (to write)] = life writing → written life story; written account of a person's life
+  - Biological: [biology (study of life) + ical (pertaining to or relating to)] = pertaining to life sciences
+  - Biologist: [bios (life) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of living matter
+  - Biology: [bios (life) + logos (study, science, knowledge, word, reason, speech)] = study of life → science of living matter
+  - Biopsy: [bios (life) + opsis (vision, sight)] = viewing living tissue → microscopic examination of living tissue
+
+BON VIVANT ("one who lives well")
+  - Bon Vivant: [bon (good) + vivant (living)] = one who lives well → pleasure-loving person; sophisticated enjoyer of life
+
+BONUS / BENE ("good, well")
+  - Benediction: [bene (good, well) + dico (to say, to tell, to speak)] = speaking good → blessing; expression of good wishes
+  - Benedictory: [bene (good, well) + dict (speak, say, tell) + ory (relating to, serving for, or place for)] = relating to blessing → blessing-like
+  - Benefaction: [bene (good, well) + faction (doing / making)] = act of doing good → charitable gift; donation
+  - Benefactor: [bene (good, well) + factor (doer / maker)] = doer of good → helper; patron; donor
+  - Benefactress: [benefactor (one who does good; helper; patron) + ess (female)] = female benefactor → woman who does good
+  - Beneficence: [beneficent (doing good; charitable; helpful) + ence (state or quality of)] = act of doing good → charity; generosity
+  - Beneficent: [bene (good, well) + facio (to do, to make)] = doing good → charitable; helpful; kind
+  - Beneficiary: [bene (good, well) + ficiary (one who receives)] = receiver of good → recipient of aid; recipient of benefits
+  - Benevolence: [benevolent (wishing good; kind-hearted; charitable) + ence (state or quality of)] = goodwill toward others → kindness; generosity
+  - Benevolent: [bene (good, well) + volo (to wish, to will)] = wishing good → kind-hearted; well-disposed
+  - Benign: [bene (good, well) + ign (nature / born)] = good in nature → kindly; gentle; harmless
+  - Benignancy: [benignant (actively good-natured; kindly disposed; benevolent) + cy (state, quality, or condition)] = state of kindness → goodwill
+  - Benignant: [bene (good, well) + gnant (good-natured)] = actively good-natured → kindly disposed; benevolent
+  - Benignity: [benign (good in nature; kindly; gentle; harmless) + ity (state, quality, or condition)] = quality of being kind and harmless → kindness; gentleness
+
+BOTANE ("plant, herb")
+  - Botanical: [botany (study of plants; science of plant life) + ical (pertaining to or relating to)] = pertaining to plants
+  - Botanist: [botane (plant, herb) + ist (one who practices or specializes in)] = student of plant life
+  - Botany: [botane (plant, herb)] = study of plants → science of plant life
+
+BOVIS ("ox, cow")
+  - Bovine: [bovis (ox, cow) + ine (like, similar to, characteristic of)] = like a cow → placid; stolid; unexcitable; sluggish in temperament
+
+BROMOS ("stench, bad odor")
+  - Bromide: [bromos (stench, bad odor)] = originally chemical salt → trite remark; stale commonplace
+  - Bromidic: [bromide (originally chemical salt; trite remark; stale commonplace) + ic (pertaining to or relating to)] = characterized by clichés → trite; unoriginal
 
 
-SESSIONS_4_5_REVISION {
+# C
 
-    Internist       = specialist in internal medicine
-    Gynecologist    = specialist in female reproductive organs
-    Obstetrician    = specialist in pregnancy and childbirth
-    Pediatrician    = specialist in children
-    Dermatologist   = specialist in skin diseases
-    Ophthalmologist = eye specialist
-    Orthopedist     = specialist in skeletal deformities
-    Cardiologist    = heart specialist
-    Neurologist     = nerve specialist
-    Psychiatrist    = physician treating mental disorders
+CADO ("to fall")
+  - Cadaver: [cado (to fall) + aver (body)] = fallen body → corpse
+  - Cadaverous: [cado (to fall) + aver (body) + ous (characterized by or full of)] = like one who has fallen in death → corpse-like; gaunt; haggard; pale
+  - Cadence: [cado (to fall) + ence (state or quality of)] = falling movement → rhythmic fall; modulation of sound
+  - Decadence: [de (down, away, from) + cado (to fall) + ence (state or quality of)] = state of falling down → moral decay; spiritual decline
+  - Decadent: [de (down, away, from) + cado (to fall)] = falling down → morally declining; corrupt; deteriorating
 
-    Psychology      = study of the mind
-    Psychiatry      = healing of the mind
-    Psychotherapy   = treatment of the mind
-    Psychogenic     = originating in the mind
-    Psychosomatic   = interaction of mind and body
-    Psychopath      = diseased mind
-}
+CAEDO / CIDE ("to kill")
+  - Fratricide: [frater (brother) + cide (to kill)] = brother-killing
+  - Genocide: [genos (race / kind) + cide (to kill)] = race-killing → mass extermination of a people
+  - Homicide: [homo (human) + cide (to kill)] = human-killing
+  - Infanticide: [infans (baby / child) + cide (to kill)] = baby-killing
+  - Mariticide: [maritus (husband; marriage) + cide (to kill)] = husband-killing
+  - Matricide: [mater (mother) + cide (to kill)] = mother-killing
+  - Parricide: [parens (parent) + cide (to kill)] = parent-killing
+  - Patricide: [pater (father) + cide (to kill)] = father-killing
+  - Regicide: [rex (king) + cide (to kill)] = king-killing
+  - Sororicide: [soror (sister) + cide (to kill)] = sister-killing
+  - Suicidal: [suicide (self-killing) + al (pertaining to or relating to)] = self-destructive
+  - Suicide: [sui (self) + cide (to kill)] = self-killing → self-destruction
+  - Uxoricide: [uxor (wife) + cide (to kill)] = wife-killing
 
-SESSION_6_REVISION {
+CANIS ("dog")
+  - Canine: [canis (dog) + ine (like, similar to, characteristic of)] = like a dog → doglike; relating to dogs
+  - Canine Tooth: [Canine Tooth (dog tooth; pointed tooth resembling a dog's fang)] = dog tooth → pointed tooth resembling a dog's fang
 
-    Orthopedics     = straight child → correction of skeletal deformities
-    Orthodontia     = straight tooth → correction of tooth alignment
+CAPUT / CAPIT ("head")
+  - Capital: [caput (head)] = head → chief; principal
+  - Capitol: [caput (head)] = head building → seat of government
+  - Capitulate: [capit (head)] = come to terms under headings → surrender; give in
+  - Capitulation: [capitulate (come to terms under headings; surrender; give in) + ion (act, process, or result of)] = act of surrender → yielding
+  - Captain: [caput (head)] = head person → leader
+  - Chief: [caput (head)] = head → leader; principal person
+  - Decapitate: [de (down, away, from) + capit (head)] = remove the head → behead
+  - Decapitation: [decapitate (remove the head; behead) + ion (act, process, or result of)] = removal of the head → beheading
+  - Recapitulate: [re (again or back) + capit (head)] = go through the heads again → review main points; summarize
+  - Recapitulation: [recapitulate (go through the heads again; review main points; summarize) + ion (act, process, or result of)] = act of summarizing → review; summary
+  - Recapitulatory: [recapitulate (go through the heads again; review main points; summarize) + ory (relating to, serving for, or place for)] = intended for summary → summarizing; reviewing
 
-    Kardia          = heart
-    Cardiology      = science of the heart
-    Cardiologist    = heart specialist
-    Cardiac         = relating to the heart
-    Cardiogram      = record of heart activity
-    Cardiograph     = instrument producing heart record
+CARO / CARNIS ("flesh, meat")
+  - Carnage: [carnis (flesh, meat)] = destruction of flesh → slaughter; massacre
+  - Carnal: [carnis (flesh, meat) + al (pertaining to or relating to)] = pertaining to flesh → bodily; sensual; physical
+  - Carnality: [carnal (pertaining to flesh; bodily; sensual; physical) + ity (state, quality, or condition)] = condition of being flesh-oriented → sensuality
+  - Carnivore: [carnis (flesh, meat) + vorare (to devour)] = flesh eater → meat-eating animal
+  - Carnivorous: [carnis (flesh, meat) + vorare (to devour)] = flesh-devouring → meat-eating
+  - Incarnate: [in (not, in, on, or into) + carnis (flesh, meat)] = in flesh → embodied in human form
+  - Incarnation: [incarnate (in flesh; embodied in human form) + ion (act, process, or result of)] = embodiment in flesh → physical manifestation
+  - Reincarnate: [re (again or back) + incarnate (in flesh; embodied in human form)] = again in flesh → be reborn
+  - Reincarnation: [re (again or back) + in (not, in, on, or into) + carnis (flesh, meat)] = again into flesh → rebirth; renewed embodiment
 
-    Neuron          = nerve
-    Neurology       = science of nerves
-    Neurologist     = nerve specialist
-    Neuralgia       = nerve pain
-    Neuritis        = inflammation of nerves
-    Neurosis        = emotional disorder
-    Neurotic        = person suffering neurosis
+CASTIGARE ("to punish")
+  - Castigate: [castigare (to punish)] = punish → scold severely; criticize harshly; tongue-lash
+  - Castigation: [castigate (punish; scold severely; criticize harshly; tongue-lash) + ion (act, process, or result of)] = act of severe punishment → strong censure; harsh rebuke
+  - Castigatory: [castigate (punish; scold severely; criticize harshly; tongue-lash) + ory (relating to, serving for, or place for)] = relating to severe criticism → punitive
 
-    Psyche          = mind, soul
-    Psychosis       = severe mental disorder
-    Psychotic       = person suffering psychosis
+CENTRUM ("center")
+  - Egocentric: [ego (I or self) + centrum (center)] = self at the center → self-centered person
 
-    Algos           = pain
-    Itis            = inflammation
-    Osis            = abnormal or diseased condition
-}
+CHAUVIN ("blind patriot")
+  - Chauvinism: [chauvin (blind patriot) + ism (philosophy, belief, or system of)] = blind patriotism → excessive nationalism; group superiority
+  - Chauvinist: [Chauvinist (blindly patriotic person; extreme nationalist; superpatriot; believer in superiority of own group)] = Nicolas Chauvin, blindly patriotic person → extreme nationalist; superpatriot; believer in superiority of own group
+  - Chauvinistic: [chauvinism (blind patriotism; excessive nationalism; group superiority) + ic (pertaining to or relating to)] = characterized by blind patriotism → fanatically nationalistic
+
+CHEIR ("hand")
+  - Chirographer: [cheir (hand) + graphein (to write) + er (one who or person/thing that does)] = one skilled in handwriting → handwriting expert; penmanship specialist
+  - Chirographic: [chirography (hand writing; handwriting) + ic (pertaining to or relating to)] = pertaining to handwriting
+  - Chirography: [cheir (hand) + graphein (to write)] = hand writing → handwriting
+  - Chiromancer: [cheir (hand) + manteia (divination, prophecy, predictor) + er (one who or person/thing that does)] = palm reader
+  - Chiromancy: [cheir (hand) + manteia (divination, prophecy, predictor)] = hand divination → palm reading
+  - Chiropody: [cheir (hand) + podos (foot)] = hand-foot treatment → foot care
+  - Chiropractic: [cheir (hand) + praktikos (to do, to practice)] = treatment by hand → spinal manipulation therapy; manipulation of articulations
+  - Chiropractor: [cheir (hand) + praktikos (to do, to practice)] = hand practitioner → manipulates spinal joints; spinal-joint specialist
+
+CHRONOS ("time")
+  - Anachronism: [ana (up, through, apart) + chronos (time) + ism (philosophy, belief, or system of)] = thing out of its proper time, against time → historical mismatch; temporal inconsistency; something out of its proper period
+  - Anachronistic: [anachronous (against/out of time; belonging to another period; out of time; belonging to another era; temporally misplaced) + tic / anachronism (pertaining to / historical mismatch) + ic (pertaining to or relating to)] = temporally misplaced, out of proper historical time, out of historical time → outdated; historically misplaced
+  - Anachronous: [ana (up, through, apart) + chronos (time)] = against time, against/out of time → belonging to another period; out of time; belonging to another era; temporally misplaced
+  - Chronic: [chronos (time) + ic (pertaining to or relating to)] = continuing through time, pertaining to time → recurring; persistent; continuing over time; recurring repeatedly; long-lasting
+  - Chronicity: [chronic (pertaining to time; recurring; persistent; continuing over time; recurring repeatedly; long-lasting) + ity (state, quality, or condition)] = state of recurring over time, state of recurring through time → persistence; long-duration condition
+  - Chronicle: [chronos (time) + icle (little (diminutive))] = record of time → historical account
+  - Chronological: [chronology (study of time order; time sequence; historical order; arrangement of events by dates; arrangement of events by date) + ical (pertaining to or relating to)] = arranged by time sequence, relating to time sequence → arranged in historical order
+  - Chronology: [chronos (time) + logos (study, science, knowledge, word, reason, speech) / chronos (time) + logy (study, science, knowledge, word, reason, speech)] = study/order of time, study of time order → time sequence; historical order; arrangement of events by dates; arrangement of events by date
+  - Chronometer: [chronos (time) + metron (measure, measurement)] = measurer of time → accurate timepiece
+  - Chronometric: [chronos (time) + metron (measure, measurement) + ic (pertaining to or relating to)] = relating to time measurement
+  - Synchronization: [synchronize (make time together; occur simultaneously; coordinate timing; coordinate in time) + ation (act, process, or result of)] = coordination in time
+  - Synchronize: [syn (together, with) + chronos (time) + ize (to make, treat, or combine with)] = make time together → occur simultaneously; coordinate timing; coordinate in time
+  - Synchronous: [syn (together, with) + chronos (time) + ous (characterized by or full of)] = happening at the same time → simultaneous
+
+CLAM ("secretly")
+  - Clandestine: [clam (secretly)] = secret → concealed; hidden from public knowledge
+  - Clandestinely: [clandestine (secret; concealed; hidden from public knowledge) + ly (in the manner of)] = secretly → covertly
+
+COGO ("to drive together, to compel")
+  - Cogency: [cogent (compelling; convincing; logically persuasive) + y (state, quality, or condition)] = force of argument, compelling force → logical persuasiveness; force of argument
+  - Cogent: [cogo (to drive together, to compel) + ent (performing a particular action, or being in a particular state)] = compelling → convincing; logically persuasive
+
+CORRIGO ("to correct, to reform, to set straight")
+  - Corrigible: [corrigo (to correct, to reform, to set straight) + ible (capable of or fit for)] = capable of being corrected, capable of correction → reformable
+  - Incorrigibility: [incorrigible (not capable of correction; beyond reform; irredeemable) + ity (state, quality, or condition)] = inability to be corrected → unreformable nature
+  - Incorrigible: [in (not, in, on, or into) + corrigible (capable of correction; reformable)] = not capable of correction → beyond reform; irredeemable
+  - Incorrigibleness: [incorrigible (not capable of correction; beyond reform; irredeemable) + ness (state or quality of being)] = state of being beyond reform
+
+CREDO / CREDERE ("to believe")
+  - Credence: [credere (to believe) + ence (state or quality of)] = belief → acceptance as true; trust
+  - Credibility: [credible (able to be believed; believable; trustworthy) + ity (state, quality, or condition)] = believability → trustworthiness
+  - Credible: [credere (to believe) + ible (capable of or fit for)] = able to be believed → believable; trustworthy
+  - Credo: [credo (to believe)] = I believe → personal philosophy; guiding code of life
+  - Credulity: [credulous (readily believing; too willing to believe; gullible) + ity (state, quality, or condition)] = excessive willingness to believe → gullibility
+  - Credulous: [credere (to believe) + ulous (tending to / full of)] = readily believing → too willing to believe; gullible
+  - Creed: [credere (to believe) + ed (past or characterized by)] = that which is believed → religious belief; doctrine
+  - Gullible: [Gullible (one who swallows stories; easily deceived; naïvely believing)] = Latin gullere (to swallow), one who swallows stories → easily deceived; naïvely believing
+  - Incredible: [in (not, in, on, or into) + credible (able to be believed; believable; trustworthy)] = not believable → unbelievable; astonishing
+  - Incredulity: [incredulous (not believing; skeptical; doubtful) + ity (state, quality, or condition)] = unwillingness to believe → skepticism
+  - Incredulous: [in (not, in, on, or into) + credulous (readily believing; too willing to believe; gullible)] = not believing → skeptical; doubtful
+
+
+# D
+
+DERMA ("skin")
+  - Dermatological: [dermatology (study of the skin) + al (pertaining to or relating to)] = relating to the skin
+  - Dermatologist: [derma (skin) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = skin specialist → dermatologist
+  - Dermatology: [derma (skin) + logos (study, science, knowledge, word, reason, speech)] = study of the skin → medical science of skin diseases
+  - Epidermis: [epi (upon, over, or near) + derma (skin)] = upon the skin → outer layer of skin
+
+DESTITUERE ("to abandon, leave without")
+  - Destitute: [destitution (left standing alone; total deprivation; extreme poverty) + e (out, from)] = left without resources → impoverished; lacking necessities of life
+  - Destitution: [de (down, away, from) + statuere (to stand / to set up)] = left standing alone → total deprivation; extreme poverty
+
+DEXTER ("right hand")
+  - Ambidexterity: [ambi (both, on both sides) + dexter (right hand) + ity (state, quality, or condition)] = equal skill with both hands
+  - Ambidextrous: [ambi (both, on both sides) + dexter (right hand)] = both hands function like right hands → equal skill in both hands
+  - Dexterity: [dexter (right hand) + ity (state, quality, or condition)] = skill → manual skill; general competence
+  - Dexterous: [dexter (right hand) + ous (characterized by or full of)] = having the skill of the right hand → skillful
+
+DICHA ("in two")
+  - Dichotomy: [dicha (in two) + tome (a cutting, cut, section)] = cut in two → division into two branches; separation into two categories
+
+DICO / DICTUS ("to say, to tell, to speak")
+  - Benediction: [bene (good, well) + dico (to say, to tell, to speak)] = saying good → blessing
+  - Benedictory: [bene (good, well) + dict (speak, say, tell) + ory (relating to, serving for, or place for)] = relating to blessings → blessing-like
+  - Malediction: [mal (bad, evil) + dico (to say, to tell, to speak)] = speak evil, speaking evil, saying evil → curse
+  - Maledictory: [mal (bad, evil) + dico (to say, to tell, to speak) + ory (relating to, serving for, or place for) + dict (speak, say, tell)] = relating to curses, of cursing → cursing; curse-like
+
+DILETTARE ("to delight oneself")
+  - Dilettante: [Dilettante (one who delights in an activity; amateur enthusiast; superficial participant; dabbler in the arts)] = Italian dilettare, one who delights in an activity → amateur enthusiast; superficial participant; dabbler in the arts
+  - Dilettantism: [dilettante (one who delights in an activity; amateur enthusiast; superficial participant; dabbler in the arts) + ism (philosophy, belief, or system of)] = conduct of a dabbler → superficial interest; amateurism
+
+DOLEO ("to suffer, to grieve")
+  - Condole: [con (with, together) + doleo (to suffer, to grieve)] = grieve together → sympathize; mourn with another
+  - Condolence: [con (with, together) + doleo (to suffer, to grieve) + ence (state or quality of)] = expression of shared grief → sympathy after loss
+  - Doleful: [doleo (to suffer, to grieve) + ful (full of)] = full of sorrow → gloomy; exaggerated sadness
+  - Dolor: [doleo (to suffer, to grieve)] = grief → sorrow; suffering
+  - Dolores: [Dolores (sorrows; grief)] = from dolor, sorrows → grief
+  - Dolorous: [doleo (to suffer, to grieve) + ous (characterized by or full of)] = full of grief → sorrowful; melancholy; mournful
+  - Indolence: [in (not, in, on, or into) + doleo (to suffer, to grieve) + ence (state or quality of)] = absence of effort → laziness; idleness
+  - Indolent: [in (not, in, on, or into) + doleo (to suffer, to grieve)] = not suffering → avoiding effort; lazy; inactive
+
+DONO ("to give")
+  - Condonation: [condone (completely give away; forgive; overlook an offense) + ation (act, process, or result of)] = act of forgiving → overlooking wrongdoing
+  - Condone: [con (with, together) + dono (to give)] = completely give away → forgive; overlook an offense
+  - Donate: [dono (to give) + ate (to make, cause, or have the state of)] = give → contribute voluntarily
+  - Donation: [dono (to give) + ation (act, process, or result of)] = act of giving → gift; contribution
+  - Donor: [dono (to give) + or (one who or person/thing that does)] = giver → contributor
+
+DROIT ("right, proper")
+  - Adroit: [a (not, without) + droit (right, proper)] = to the right way → skillful; clever
+  - Adroitness: [adroit (to the right way; skillful; clever) + ness (state or quality of being)] = skill → cleverness; dexterity
+  - Maladroit: [mal (bad, evil) + adroit (to the right way; skillful; clever)] = badly right → lacking skill; awkward; clumsy
+  - Maladroitness: [mal (bad, evil) + adroit (to the right way; skillful; clever) + ness (state or quality of being)] = awkwardness → clumsiness
+
+
+# E
+
+EC / EK ("out")
+  - Appendectomy: [appendix (appendix) + ec (out) + tome (a cutting, cut, section)] = cutting out the appendix
+  - Eccentric: [ec (out) + kentron (center, sharp point)] = out of the center → deviating from the norm; unconventional; odd; strange
+  - Eccentricity: [eccentric (out of the center; deviating from normal position; unconventional person) + ity (state, quality, or condition)] = quality of being off-center → oddness; unconventionality
+  - Ectomy: [ec (out) + tome (a cutting, cut, section)] = cutting out → surgical removal
+  - Hysterectomy: [hystera (uterus) + ec (out) + tome (a cutting, cut, section)] = cutting out the uterus
+  - Mastectomy: [mastos (breast) + ec (out) + tome (a cutting, cut, section)] = cutting out the breast
+  - Prostatectomy: [prostate (prostate) + ec (out) + tome (a cutting, cut, section)] = cutting out the prostate
+  - Tonsillectomy: [tonsil (tonsils) + ec (out) + tome (a cutting, cut, section)] = cutting out the tonsils
+
+EGO ("I or self")
+  - Egocentric: [ego (I or self) + centrum (center)] = self at the center → self-centered person
+  - Egoism: [ego (I or self) + ism (philosophy, belief, or system of)] = doctrine of self-interest → selfish philosophy
+  - Egoist: [ego (I or self) + ist (one who practices or specializes in)] = self-interested person, person concerned with own welfare
+  - Egomaniac: [ego (I or self) + mania (madness or obsession) / ego (I or self) + maniac (person obsessed with)] = obsession/madness with self → pathological self-importance
+  - Egotism: [ego (I or self) + ism (philosophy, belief, or system of)] = excessive self-importance → vanity and boastfulness
+  - Egotist: [ego (I or self) + tist // T = Talks (one who talks)] = person who constantly talks about self, boastful self-promoter
+
+ENDON ("within, inner")
+  - Endodontia: [endon (within, inner) + odontos (tooth)] = treatment of inner tooth → endodontics
+  - Endodontic: [endodontia (inner teeth) + ic (pertaining to or relating to)] = relating to endodontics
+  - Endodontist: [endon (within, inner) + odontos (tooth)] = inner tooth specialist → root-canal specialist
+
+ENNUI ("weariness")
+  - Ennui: [Ennui (weariness)] = French ennui, boredom → dissatisfaction; listlessness; tedium
+
+EPHEMEROS ("lasting only a day")
+  - Ephemeral: [epi (upon, over, or near) + hemera (day)] = lasting for a day → short-lived; transitory
+  - Ephemerality: [ephemeral (lasting for a day; short-lived; transitory) + ity (state, quality, or condition)] = brief duration → impermanence
+
+EQUUS ("horse")
+  - Equestrian: [equus (horse) + trian (horseman / rider)] = horseman
+  - Equestrienne: [equus (horse) + trienne (horsewoman / female rider)] = horsewoman
+  - Equine: [equus (horse) + ine (like, similar to, characteristic of)] = horse-like → relating to horses
+
+ERGON ("work")
+  - Energy: [en (in / into) + ergon (work)] = work within → active force; capacity for work
+  - Erg: [ergon (work)] = work → unit of work or energy in physics
+  - Synergism: [syn (together, with) + ergon (work) + ism (philosophy, belief, or system of)] = working together → combined action producing greater effect; cooperative enhancement
+  - Synergistic: [synergy (joint working; combined power greater than individual sum) + istic (characterized by)] = characterized by joint action → mutually reinforcing
+  - Synergistically: [synergistic (characterized by joint action; mutually reinforcing) + ally (in a manner of)] = in a mutually reinforcing manner
+  - Synergy: [syn (together, with) + ergon (work)] = joint working → combined power greater than individual sum
+
+EU ("good, pleasant")
+  - Eulogistic: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + istic (characterized by)] = characterized by praise → commendatory
+  - Eulogize: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + ize (to make, treat, or combine with)] = speak good words about → praise highly
+  - Eulogy: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech)] = good words → formal praise; tribute
+  - Euphemism: [eu (good, pleasant) + pheme (speech)] = good speech → pleasant substitute expression; indirect wording for unpleasant idea
+  - Euphemistic: [euphemism (good speech; mild expression replacing offensive one) + ic (pertaining to or relating to)] = characterized by softened language → indirect; tactful
+  - Euphonic: [eu (good, pleasant) + phone (sound) + ic (pertaining to or relating to)] = pleasant-sounding → harmonious
+  - Euphonious: [eu (good, pleasant) + phone (sound) + ous (characterized by or full of)] = full of pleasant sound → melodious
+  - Euphony: [eu (good, pleasant) + phone (sound)] = good sound → pleasant sound; harmonious quality
+  - Euphoria: [eu (good, pleasant) + phorein (to bear / to carry)] = bearing well → feeling of well-being; elation
+  - Euphoric: [euphoria (bearing well; feeling of well-being; elation) + ic (pertaining to or relating to)] = feeling intense well-being → exhilarated
+  - Euthanasia: [eu (good, pleasant) + thanatos (death)] = good death → mercy killing; painless death
+
+EVANESCERE ("to vanish away")
+  - Evanesce: [Evanesce (begin to disappear; fade; vanish gradually)] = evanescence - ence, begin to disappear → fade; vanish gradually
+  - Evanescence: [evanescent (vanishing away; fleeting; short-lived) + ence (state or quality of)] = process of fading away → impermanence; disappearance
+  - Evanescent: [e (out, from) + vanescere (to vanish)] = vanishing away → fleeting; short-lived
+
+EX ("out")
+  - Exodontia: [ex (out) + odontos (tooth)] = pulling teeth out → tooth extraction
+  - Exodontic: [exodontia (extraction of teeth) + ic (pertaining to or relating to)] = relating to tooth extraction
+  - Exodontist: [ex (out) + odontos (tooth)] = out tooth specialist → tooth extractor
+
+
+# F
+
+FACIO / FACTUS ("to do, to make")
+  - Benefaction: [bene (good, well) + faction (doing / making)] = good deed → charitable gift
+  - Benefactor: [bene (good, well) + factor (doer / maker)] = one who does good → helper; patron
+  - Beneficence: [beneficent (doing good; charitable; helpful) + ence (state or quality of)] = active goodness → charity
+  - Beneficent: [bene (good, well) + facio (to do, to make)] = doing good → charitable; helpful
+  - Beneficiary: [bene (good, well) + ficiary (one who receives)] = one who receives benefit → recipient
+  - Malecent: [mal (bad, evil) + facio (to do, to make) + ent (performing a particular action, or being in a particular state)] = doing evil → harmful
+  - Malefaction: [mal (bad, evil) + facio (to do, to make) + tion (act / process / result of) + faction (doing / making)] = evil deed → wrongdoing
+  - Malefactor: [mal (bad, evil) + facio (to do, to make)] = doer of evil → criminal
+  - Maleficent: [mal (bad, evil) + facio (to do, to make) + ent (performing a particular action, or being in a particular state)] = doing evil → harmful
+
+FATIGUE ("weariness")
+  - Fatigue: [fatigue (weariness)] = weariness → exhaustion
+  - Indefatigability: [indefatigable (unable to be fatigued; tireless; untiring; persistent) + ity (state, quality, or condition)] = tirelessness → endless persistence; inexhaustible energy
+  - Indefatigable: [in (not, in, on, or into) + de (down, away, from) + fatigue (weariness) + able (capable of or fit for)] = unable to be fatigued → tireless; untiring; persistent
+
+FELIS ("cat")
+  - Feline: [felis (cat) + ine (like, similar to, characteristic of)] = like a cat → catlike; graceful; sly; "catty" in temperament
+
+FIDES ("faith, trust")
+  - Bona Fide: [bona (good) + fide (faith / trust)] = in good faith → genuine; authentic
+  - Confidant: [confide (trust with; reveal in confidence; trust another) + ant (one who / that which)] = trusted person → intimate adviser
+  - Confide: [con (with, together) + fides (faith, trust)] = trust with → reveal in confidence; trust another
+  - Confidence: [con (with, together) + fides (faith, trust) + ence (state or quality of)] = state of trust → self-assurance; faith
+  - Confidential: [confidence (state of trust; self-assurance; faith) + ial (pertaining to or relating to)] = entrusted in confidence → secret; private
+  - Fidelity: [fides (faith, trust) + ity (state, quality, or condition)] = faithfulness → loyalty; devotion
+  - Infidelity: [in (not, in, on, or into) + fidelity (faithfulness; loyalty; devotion)] = lack of faithfulness → disloyalty; unfaithfulness
+
+FRATER ("brother")
+  - Fraternal: [frater (brother) + al (pertaining to or relating to)] = brotherly → friendly; relating to brothers
+  - Fraternity: [frater (brother) + ity (state, quality, or condition)] = brotherhood → men's association; group united by common interests
+  - Fraternization: [fraternize (act as a brother; socialize warmly; associate on friendly terms) + ation (act, process, or result of)] = brotherly association → friendly social intercourse
+  - Fraternize: [frater (brother) + ize (to make, treat, or combine with)] = act as a brother → socialize warmly; associate on friendly terms
+
+
+# G
+
+GAMOS ("marriage")
+  - Bigamy: [bi (two) + gamos (marriage)] = two marriages
+  - Misogamist: [misein (to hate) + gamos (marriage)] = hater of marriage
+  - Misogamous: [misein (to hate) + gamos (marriage) + ous (characterized by or full of)] = pertaining to hatred of marriage
+  - Misogamy: [misein (to hate) + gamos (marriage) + y (state, quality, or condition)] = hatred of marriage
+  - Monogamy: [monos (one) + gamos (marriage) / mono (one) + gamos (marriage)] = one marriage
+  - Polyandry: [poly (many, plural) + andros (male, man)] = many husbands
+  - Polygamy: [poly (many, plural) + gamos (marriage)] = many marriages
+  - Polygyny: [poly (many, plural) + gyne (woman)] = many wives
+
+GARRIRE ("to chatter")
+  - Garrulity: [garrulous (chatter) + ity (state, quality, or condition)] = incessant chatter, tendency to chatter → meaningless talkativeness
+  - Garrulous: [garrire (to chatter) + ulous (tending to / full of)] = chattering → talking constantly; rambling talk; excessively talkative; rambling
+
+GE / GEO ("earth")
+  - Geographic: [geography (earth writing; description and mapping of the earth) + ic (pertaining to or relating to)] = pertaining to geography
+  - Geographical: [geography (earth writing; description and mapping of the earth) + ical (pertaining to or relating to)] = relating to locations and earth features
+  - Geography: [geo (earth) + graphein (to write)] = earth writing → description and mapping of the earth
+  - Geological: [geology (study of the earth) + ical (pertaining to or relating to)] = pertaining to geology
+  - Geologist: [geo (earth) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of the earth → earth scientist
+  - Geology: [geo (earth) + logos (study, science, knowledge, word, reason, speech)] = study of the earth → science of earth's structure and composition
+  - Geometric: [geometry (earth measurement; science of measuring figures and space) + ic (pertaining to or relating to)] = pertaining to geometry
+  - Geometry: [geo (earth) + metron (measure, measurement)] = earth measurement → science of measuring figures and space
+
+GENESIS ("birth, origin, beginning")
+  - Congenital: [con (with, together) + genesis (birth, origin, beginning)] = born with → existing from birth; inborn
+  - Gene: [genesis (birth, origin, beginning)] = unit of origin/birth traits, unit of inherited origin → hereditary factor
+  - Genealogical: [genealogy (study of family origins; tracing ancestry; family history) + ical (pertaining to or relating to)] = relating to ancestry
+  - Genealogist: [genealogy (study of family origins; tracing ancestry; family history) + ist (one who practices or specializes in)] = student of family origins, student of family history → ancestry researcher
+  - Genealogy: [genea (family / birth) + logos (study, science, knowledge, word, reason, speech)] = study of origins/family birth lines, study of family origins → tracing ancestry; family history
+  - Genesis: [Genesis (birth, origin, beginning)] = birth, genesis, beginning → origin; beginning; source
+  - Genetic: [gene (unit of inherited origin; hereditary factor) + tic (pertaining to)] = relating to heredity → inherited
+  - Geneticist: [genetic (relating to heredity; inherited) + ist (one who practices or specializes in)] = specialist in heredity
+  - Genetics: [gene (unit of inherited origin; hereditary factor) + tics (science / study of)] = science of heredity → study of inheritance; study of inherited traits
+  - Genital: [genesis (birth, origin, beginning) + al (pertaining to or relating to)] = relating to generation/birth → reproductive organs
+  - Hereditary: [Hereditary (inherited from parents; transmitted genetically)] = hereditas, inherited from parents → transmitted genetically
+  - Psychogenic: [psyche (mind, soul, spirit) + genesis (birth, origin, beginning)] = originating in the mind → mentally produced
+
+GENUUS / INGENUUS ("native, natural, frank")
+  - Disingenuous: [dis (apart, away) + ingenuous (naturally frank; simple; honest; artless; frank; open)] = not frank → crafty; dishonest; insincere
+  - Disingenuousness: [disingenuous (not frank; crafty; dishonest; insincere) + ness (state or quality of being)] = lack of frankness → deceitfulness
+  - Ingenious: [Ingenious (naturally gifted; clever; inventive; resourceful)] = ingenium, naturally gifted → clever; inventive; resourceful
+  - Ingeniousness: [ingenious (naturally gifted; clever; inventive; resourceful) + ness (state or quality of being)] = quality of being inventive
+  - Ingenuity: [ingenious (naturally gifted; clever; inventive; resourceful) + ity (state, quality, or condition)] = cleverness, inventiveness → inventiveness; cleverness
+  - Ingenuous: [ingenuus (native, natural, frank)] = natural and open, naturally frank → simple; honest; artless; frank; open
+  - Ingenuousness: [ingenuous (naturally frank; simple; honest; artless; frank; open) + ness (state or quality of being)] = honesty and simplicity, frank honesty → frank openness; simplicity; sincerity
+
+GERAS ("old age")
+  - Geriatric: [geras (old age) + ic (pertaining to or relating to)] = pertaining to / relating to old age
+  - Geriatrician: [geras (old age) + iatreia (healing, medical treatment) + ian (one who or specialist)] = physician for the elderly
+  - Geriatrics: [geras (old age) + iatreia (healing, medical treatment)] = medical treatment of old age → care of the elderly
+
+GERON ("old man")
+  - Gerontological: [gerontology (study of aging; science of old age) + al (pertaining to or relating to)] = pertaining to aging studies
+  - Gerontologist: [geron (old man) + logos (study, science, knowledge, word, reason, speech)] = student of old age → specialist in aging / aging problems
+  - Gerontology: [geron (old man) + logos (study, science, knowledge, word, reason, speech)] = study of aging → science of old age
+
+GLIB ("smooth")
+  - Glib: [glib (smooth)] = smooth-tongued → fluent but insincere; suspiciously smooth
+  - Glibness: [glib (smooth) + ness (state or quality of being)] = excessive smooth fluency → slick talk
+
+GLUTTIRE ("to swallow greedily")
+  - Glutton: [gluttire (to swallow greedily)] = one who swallows excessively → overeater; piggish eater
+  - Gluttonize: [glutton (one who swallows excessively; overeater; piggish eater) + ize (to make, treat, or combine with)] = eat excessively → stuff oneself greedily
+  - Gluttonous: [glutton (one who swallows excessively; overeater; piggish eater) + ous (characterized by or full of)] = characterized by overeating → greedy for food
+  - Gluttony: [glutton (one who swallows excessively; overeater; piggish eater) + y (state, quality, or condition)] = excessive eating → greed in consumption
+
+GNOSIS ("knowledge")
+  - Diagnosis: [dia (through, across) + gnosis (knowledge)] = knowledge through examination → determination of a condition; identification after investigation
+  - Diagnostic: [diagnosis (knowledge through examination; determination of a condition; identification after investigation) + tic (pertaining to)] = relating to identification or examination
+  - Prognosis: [pro (forward, before, or in favor of) + gnosis (knowledge)] = knowledge beforehand → prediction of future course; forecast of outcome
+  - Prognostic: [prognosis (knowledge beforehand; prediction of future course; forecast of outcome) + tic (pertaining to)] = predictive → foretelling future developments
+  - Prognosticate: [pro (forward, before, or in favor of) + gnosticate (know beforehand)] = know beforehand → predict; forecast
+
+GNOSTOS ("known")
+  - Agnostic: [a (not, without) + gnostic (knowing)] = not knowing → one who claims ultimate reality is unknowable
+  - Agnosticism: [a (not, without) + gnosis (knowledge)] = doctrine of unknowability → belief that God cannot be known with certainty
+
+GOURMET ("connoisseur of food")
+  - Gourmand: [Gourmand (lover of food; hearty eater; sensual enjoyer of food)] = French gourmand, lover of food → hearty eater; sensual enjoyer of food
+  - Gourmandize: [gourmand (lover of food; hearty eater; sensual enjoyer of food) + ize (to make, treat, or combine with)] = eat luxuriously → indulge in food pleasures
+  - Gourmet: [Gourmet (connoisseur of food)] = French gourmet, expert in food and drink → connoisseur of fine cuisine
+
+GRAPHEIN ("to write")
+  - Biography: [bios (life) + graphein (to write)] = life writing → written account of a life
+  - Cacographer: [kakos (bad, ugly, harsh) + graphein (to write) + er (one who or person/thing that does)] = one who writes badly → person with poor handwriting
+  - Cacographic: [kakos (bad, ugly, harsh) + graphein (to write) + ic (pertaining to or relating to)] = marked by poor handwriting
+  - Cacography: [kakos (bad, ugly, harsh) + graphein (to write)] = bad writing → illegible handwriting
+  - Calligrapher: [kallos (beauty) + graphein (to write) + er (one who or person/thing that does)] = artist of beautiful writing
+  - Calligraphic: [calligraphy (beautiful writing; artistic handwriting / artistic penmanship) + ic (pertaining to or relating to)] = pertaining to artistic handwriting
+  - Calligraphy: [kallos (beauty) + graphein (to write)] = beautiful writing → artistic handwriting
+  - Cardiograph: [kardia (heart) + graphein (to write)] = heart writer → heart-recording instrument
+  - Chirographer: [cheir (hand) + graphein (to write) + er (one who or person/thing that does)] = handwriting expert
+  - Chirographic: [chirography (hand writing; handwriting) + ic (pertaining to or relating to)] = pertaining to handwriting
+  - Chirography: [cheir (hand) + graphein (to write)] = hand writing → handwriting
+  - Graphological: [graphology (study of handwriting; handwriting analysis) + al (pertaining to or relating to)] = pertaining to handwriting analysis
+  - Graphologist: [graphein (to write) + logos (study, science, knowledge, word, reason, speech)] = student of handwriting → handwriting analyst
+  - Graphology: [graphein (to write) + logos (study, science, knowledge, word, reason, speech)] = study of handwriting → handwriting analysis
+  - Phonograph: [phone (sound) + graphein (to write)] = sound writing → sound-recording device
+  - Photograph: [photos (light) + graphein (to write)] = light writing → image made by light
+  - Telegraph: [tele (distance) + graphein (to write)] = distance writing → long-distance communication
+
+GREX, GREGIS ("flock, herd, group")
+  - Aggregate: [ad (to, toward) + grex (flock, herd, group)] = brought into a group, brought into a flock/group → total mass; collection
+  - Aggregation: [aggregate (brought into a flock/group; total mass; collection) + ion (act, process, or result of)] = act of collecting together, gathering together → accumulation
+  - Congregate: [con (with, together) + grex (flock, herd, group)] = gather into a flock → assemble; come together
+  - Congregation: [congregate (gather into a flock; assemble; come together) + ion (act, process, or result of)] = gathered group → assembly
+  - Egregious: [e (out, from) + grex (flock, herd, group)] = standing out from the flock → conspicuously bad; outstandingly wrong; conspicuously different; outstandingly bad; remarkably vicious
+  - Gregarious: [grex (flock, herd, group) + arious (belonging to)] = belonging to a flock → sociable; fond of company
+  - Segregate: [se (apart or aside) + grex (flock, herd, group)] = separate from the flock → isolate; set apart
+  - Segregation: [segregate (separate from the flock; isolate; set apart) + ion (act, process, or result of)] = act of separation → isolation of groups
+
+GYNE ("woman")
+  - Gynecological: [gynecology (study of women) + al (pertaining to or relating to)] = relating to gynecology
+  - Gynecologist: [gyne (woman) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = specialist in the science of women → physician treating female reproductive organs; gynecologist
+  - Gynecology: [gyne (woman) + logos (study, science, knowledge, word, reason, speech)] = study/science of women → medical science of female reproductive system; gynecology
+  - Misogynist: [misein (to hate) + gyne (woman)] = hater of women
+  - Misogynistic: [misogynist (hater of women) + ic (pertaining to or relating to)] = pertaining to hatred of women
+  - Misogynous: [misein (to hate) + gyne (woman) + ous (characterized by or full of)] = characterized by hatred of women
+  - Misogyny: [misein (to hate) + gyne (woman) + y (state, quality, or condition)] = hatred of women
+
+
+# H
+
+HARMONIA ("harmony, music")
+  - Philharmonic: [philein (to love) + harmonia (harmony, music)] = love of harmony → devotion to music; musical society/orchestra
+
+HORA ("hour")
+  - Horologist: [hora (hour) + logist (one who studies / specialist)] = student of timekeeping → clock expert
+  - Horology: [hora (hour) + logy (study, science, knowledge, word, reason, speech)] = study of timekeeping → science of clocks and watches
+  - Horometer: [hora (hour) + meter (measure)] = measure of time → time-measuring instrument
+
+HYPER ("over, above")
+  - Hypertension: [hyper (over, above) + tension (stretching / pressure)] = high pressure → abnormally high blood pressure
+  - Hypertensive: [hyper (over, above) + tensive (stretching / pressure)] = having high blood pressure
+
+HYPO ("under, below")
+  - Hypochondria: [hypo (under, below) + chondria (cartilage / health anxiety)] = morbid anxiety about health, condition beneath cartilage → health obsession; morbid anxiety about health; imaginary illness obsession
+  - Hypochondriac: [hypo (under, below) + chondros / hypo (under, below) + chondriac (cartilage)] = beneath the cartilage, person obsessed with disease → person obsessed with illness; sufferer of imaginary ailments; sufferer from imaginary ailments
+  - Hypochondriacal: [hypochondria (condition beneath cartilage; health obsession; morbid anxiety about health; imaginary illness obsession) + al (pertaining to or relating to)] = excessively concerned with health
+  - Hypotension: [hypo (under, below) + tension (stretching / pressure)] = low pressure → abnormally low blood pressure
+  - Hypotensive: [hypo (under, below) + tensive (stretching / pressure)] = having low blood pressure
+
+
+# I
+
+IATREIA ("healing, medical treatment")
+  - Geriatrics: [geras (old age) + iatreia (healing, medical treatment)] = healing of old age → medical care of the elderly; geriatrics
+  - Pediatrician: [paidos (child) + iatreia (healing, medical treatment) + ian (one who or specialist)] = children's physician → pediatrician
+  - Pediatrics: [paidos (child) + iatreia (healing, medical treatment)] = healing of children → medical care of children
+  - Podiatrist: [podos (foot) + iatreia (healing, medical treatment) + ist (one who practices or specializes in)] = foot healer → foot doctor; podiatrist
+  - Podiatry: [podos (foot) + iatreia (healing, medical treatment)] = healing of the foot → treatment of foot ailments; podiatry
+  - Psychiatrist: [psyche (mind, soul, spirit) + iatreia (healing, medical treatment) + ist (one who practices or specializes in)] = physician healing the mind → psychiatrist
+  - Psychiatry: [psyche (mind, soul, spirit) + iatreia (healing, medical treatment)] = healing of the mind → treatment of mental disorders; psychiatry
+
+ICON ("image")
+  - Iconoclasm: [icon (image) + clasm (breaking)] = destruction of images, breaking images → hostility to tradition; rejection of established beliefs; rejection of tradition; attack on established beliefs
+  - Iconoclast: [icon (image) + klastes (breaker) / eikon (breaker / image) + klastes (breaker)] = breaker of images, image breaker → attacker of cherished beliefs; scoffer at tradition; rebel against convention; destroyer of sacred images; challenger of traditions; attacker of accepted beliefs
+  - Iconoclastic: [iconoclast (image breaker; attacker of cherished beliefs; scoffer at tradition; rebel against convention; destroyer of sacred images; challenger of traditions; attacker of accepted beliefs) + ic (pertaining to or relating to)] = attacking accepted beliefs, characterized by attacks on tradition → unconventional; anti-traditional; anti-establishment
+
+INCENDO ("to set on fire")
+  - Incendiarism: [incendiary (one who sets fires; fire-setter; arsonist) + ism (philosophy, belief, or system of)] = malicious fire-setting → arson for revenge or destruction
+  - Incendiary: [incendio (fire / burning) + ary (relating to / place for)] = one who sets fires → fire-setter; arsonist
+
+INDIGERE ("to be in need")
+  - Indigence: [indigere (to be in need) + ence (state or quality of)] = state of needing → poverty; reduced circumstances
+  - Indigent: [indigere (to be in need) + ent (performing a particular action, or being in a particular state)] = one in need → poor; needy
+
+INE ("like, similar to, characteristic of")
+  - Bovine: [bovis (ox, cow) + ine (like, similar to, characteristic of)] = cowlike
+  - Canine: [canis (dog) + ine (like, similar to, characteristic of)] = doglike
+  - Equine: [equus (horse) + ine (like, similar to, characteristic of)] = horselike
+  - Feline: [felis (cat) + ine (like, similar to, characteristic of)] = catlike
+  - Leonine: [leo (lion) + ine (like, similar to, characteristic of)] = lionlike
+  - Lupine: [lupus (wolf) + ine (like, similar to, characteristic of)] = wolflike
+  - Piscine: [piscis (fish) + ine (like, similar to, characteristic of)] = fishlike
+  - Porcine: [porcus (pig) + ine (like, similar to, characteristic of)] = piglike
+  - Ursine: [ursus (bear) + ine (like, similar to, characteristic of)] = bearlike
+  - Vulpine: [vulpes (fox) + ine (like, similar to, characteristic of)] = foxlike
+
+INTERNUS ("inside")
+  - Intern: [internus (inside)] = one working inside → medical apprentice in a hospital; intern
+  - Internal: [internus (inside)] = inside → located within; internal
+  - Internist: [internus (inside) + ist (one who practices or specializes in)] = specialist of the inside → physician studying internal organs; expert in internal medicine
+
+INTIMUS ("innermost, deep within")
+  - Intimacy: [intimate (very close / make known) + acy (state, quality, or condition)] = state of close familiarity → personal closeness; deep relationship
+  - Intimate (adjective): [intimus (innermost, deep within)] = very close → deeply familiar; closely connected
+  - Intimate (verb): [intimus (innermost, deep within)] = make known from within → hint; suggest indirectly
+  - Intimation: [intimate (very close / make known) + ion (act, process, or result of)] = indication from the innermost part → hint; suggestion; indirect clue
+
+ITIS ("inflammation")
+  *(No derived words)*
+
+
+# J
+
+*(No roots)*
+
+# K
+
+KAKOS ("bad, ugly, harsh")
+  - Cacographer: [kakos (bad, ugly, harsh) + graphein (to write) + er (one who or person/thing that does)] = writer of bad handwriting → poor writer; one whose handwriting is illegible
+  - Cacographic: [kakos (bad, ugly, harsh) + graphein (to write) + ic (pertaining to or relating to)] = pertaining to bad writing → marked by poor or illegible handwriting
+  - Cacography: [kakos (bad, ugly, harsh) + graphein (to write)] = bad writing → illegible or poor handwriting
+  - Cacophonous: [cacophony (bad sound; harsh noise; discordant sound) + ous (characterized by or full of)] = unpleasant in sound
+  - Cacophony: [kakos (bad, ugly, harsh) + phone (sound)] = bad sound → harsh noise
+
+KALLOS ("beauty")
+  - Calligrapher: [kallos (beauty) + graphein (to write) + er (one who or person/thing that does)] = artist of beautiful writing
+  - Calligraphic: [calligraphy (beautiful writing; artistic handwriting / artistic penmanship) + ic (pertaining to or relating to)] = pertaining to beautiful writing → artistic handwriting
+  - Calligraphy: [kallos (beauty) + graphein (to write)] = beautiful writing → artistic handwriting / artistic penmanship
+
+KARDIA ("heart")
+  - Cardiac: [kardia (heart) + ac (to or toward)] = relating to the heart
+  - Cardiogram: [kardia (heart) + gramma (writing / letter)] = heart record → tracing of heart activity
+  - Cardiologist: [kardia (heart) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = heart specialist → cardiologist
+  - Cardiology: [kardia (heart) + logos (study, science, knowledge, word, reason, speech)] = study of the heart → science of heart diseases
+
+KENTRON ("center, sharp point")
+  - Eccentric: [ec (out) + kentron (center, sharp point)] = out of the center → deviating from normal position; unconventional person
+  - Eccentricity: [eccentric (out of the center; deviating from normal position; unconventional person) + ity (state, quality, or condition)] = state of being off-center → odd behavior
+
+
+# L
+
+LACONIA ("Sparta; region famous for brief speech")
+  - Laconic: [Laconia (Sparta; region famous for brief speech) + ic (pertaining to or relating to)] = speaking like a Spartan → brief; concise; meaningful in few words
+  - Laconicism: [laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ism (philosophy, belief, or system of)] = habitual brevity, habit of brevity → concise mode of speech; concise mode of expression
+  - Laconicity: [laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ity (state, quality, or condition)] = brevity of expression, brevity → economy of words
+  - Laconicness: [laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ness (state or quality of being)] = quality of brevity, quality of being concise → concise speech; terseness
+  - Laconism: [laconic (speaking like a Spartan; brief; concise; meaningful in few words) + ism (philosophy, belief, or system of)] = concise statement → pithy expression; brevity
+
+LASCIVUS ("playful, lustful")
+  - Lascivious: [lascivus (playful, lustful) + ious (characterized by / full of)] = lustful → sexually unrestrained; sensual
+  - Lasciviousness: [lascivious (playful with lust; lustful; sensual) + ness (state or quality of being)] = lustfulness → sexual wantonness
+
+LECHER ("lustful person")
+  - Lascivious: [lascivus (playful, lustful) + ious (characterized by / full of)] = playful with lust → lustful; sensual
+  - Lecher: [lecher (lustful person)] = lustful male → sexually aggressive man; libertine
+  - Lecherous: [lecher (lustful person) + ous (characterized by or full of)] = full of lust → sexually aggressive
+  - Lechery: [lecher (lustful person) + y (state, quality, or condition)] = excessive lust → sexual indulgence
+  - Lewd: [lewd (sexually indecent; lustful)] = sexually indecent → lustful
+  - Libidinous: [Libidinous (desire; sexually craving)] = libido, desire → sexually craving
+  - Licentious: [Licentious (excessive freedom; sexually immoral)] = licentia, excessive freedom → sexually immoral
+  - Lubricious: [lubricus (slippery) + ious (characterized by / full of)] = slippery → morally slippery; lustful
+  - Lubricity: [lubricious (slippery; morally slippery; lustful; sexually immoral) + ity (state, quality, or condition)] = lustfulness → sensuality
+  - Lustful: [lust (pleasure / desire) + ful (full of)] = full of desire → sexually craving
+  - Prurient: [prurire (to itch) + ent (performing a particular action, or being in a particular state)] = to itch → itching with desire; sexually eager
+  - Satyriasis: [satyr (satyr (woodland deity / male lust)) + iasis (diseased condition)] = abnormal male sexual craving → male nymphomania
+
+LEO ("lion")
+  - Leonine: [leo (lion) + ine (like, similar to, characteristic of)] = like a lion → lionlike in appearance; lionlike in temperament; majestic; powerful
+
+LEVIS ("light, not heavy")
+  - Alleviate: [ad (al) (to, toward) + levis (light, not heavy) + ate (to make, cause, or have the state of)] = make lighter → lessen burden; ease pain; provide temporary relief
+  - Alleviating: [alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ing (action or process)] = producing relief → easing
+  - Alleviation: [alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ion (act, process, or result of)] = act of making lighter → relief; mitigation
+  - Alleviative: [alleviate (make lighter; lessen burden; ease pain; provide temporary relief) + ive (having the nature of or tending to)] = tending to lighten suffering → soothing; relieving
+  - Elevate: [e (ex) (out, from) + levis (light, not heavy) + ate (to make, cause, or have the state of)] = raise up → lift; raise to higher position; uplift spirits
+  - Elevation: [elevate (raise up; lift; raise to higher position; uplift spirits) + ion (act, process, or result of)] = act of raising → upliftment; height
+  - Leverage: [levis (light, not heavy)] = lifting power → mechanical advantage
+  - Levitate: [levis (light, not heavy) + ate (to make, cause, or have the state of)] = become light → rise into air; float upward
+  - Levitation: [levitate (become light; rise into air; float upward) + ion (act, process, or result of)] = act of floating upward → apparent rising without support
+  - Levity: [levis (light, not heavy) + ity (state, quality, or condition)] = lightness → frivolity; joking attitude; lack of seriousness
+  - Relieve: [re (again or back) + levis (light, not heavy)] = make light again → ease; reduce burden
+
+LINGUA ("tongue, language")
+  - Bilingual: [bi (two) + lingua (tongue, language)] = two languages → able to use two languages
+  - Linguist: [lingua (tongue, language) + ist (one who practices or specializes in)] = language expert
+  - Linguistic: [linguistics (science of language; systematic study of language) + ic (pertaining to or relating to)] = pertaining to language, relating to language
+  - Linguistics: [lingua (tongue, language) + istics (study of)] = science of language → systematic study of language
+  - Monolingual: [mono (one) + lingua (tongue, language)] = one language → using only one language
+  - Multilingual: [multi (many) + lingua (tongue, language)] = many languages → using several languages
+  - Trilingual: [tri (three) + lingua (tongue, language)] = three languages → able to use three languages
+
+LOCUS ("place")
+  - Incongruity: [incongruous (not fitting in place; inappropriate; out of place) + ity (state, quality, or condition)] = state of not fitting, state of being out of place → mismatch; impropriety; inconsistency
+  - Incongruous: [in (not, in, on, or into) + congruous (fitting / agreeable)] = not fitting in place → inappropriate; out of place
+
+LOGOS ("study, science, knowledge, word, reason, speech")
+  - Anthropology: [anthropos (mankind, human being) + logos (study, science, knowledge, word, reason, speech)] = study of mankind
+  - Astrology: [astron (star, heavenly body) + logos (study, science, knowledge, word, reason, speech)] = interpretation of stars
+  - Biology: [bios (life) + logos (study, science, knowledge, word, reason, speech)] = study of life
+  - Cardiology: [kardia (heart) + logos (study, science, knowledge, word, reason, speech)] = study of the heart
+  - Dermatology: [derma (skin) + logos (study, science, knowledge, word, reason, speech)] = study of the skin
+  - Entomology: [en (in / into) + tome (a cutting, cut, section) / en (cutting / insect) + tome (a cutting, cut, section) + logos (study, science, knowledge, word, reason, speech)] = study of insects
+  - Eulogistic: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + istic (characterized by)] = praising → laudatory
+  - Eulogize: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech) + ize (to make, treat, or combine with)] = speak favorably → praise
+  - Eulogy: [eu (good, pleasant) + logos (study, science, knowledge, word, reason, speech)] = good words → formal praise
+  - Geology: [geo (earth) + logos (study, science, knowledge, word, reason, speech)] = study of the earth
+  - Gynecology: [gyne (woman) + logos (study, science, knowledge, word, reason, speech)] = study of women
+  - Neurology: [neuron (nerve) + logos (study, science, knowledge, word, reason, speech)] = study of the nervous system
+  - Philologist: [philein (to love) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of language
+  - Philology: [philein (to love) + logos (study, science, knowledge, word, reason, speech)] = love of words → study of language and literature; study of language; linguistics
+  - Philosophy: [philein (to love) + sophos (wise, wisdom)] = love of wisdom → pursuit of truth and wisdom
+  - Psychology: [psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech)] = study of the mind
+  - Semantic: [semantics (study of meanings; science of meaning in language) + ic (pertaining to or relating to)] = relating to meaning
+  - Semanticist: [semantics (study of meanings; science of meaning in language) + ist (one who practices or specializes in) + ntics (study of)] = student of meaning → specialist in semantics
+  - Semantics: [sema (sign, meaning) + ntics (study of)] = study of meaning → science of meanings of words
+  - Sociologist: [socius (companion, associate) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of society
+  - Sociology: [socius (companion, associate) + logos (study, science, knowledge, word, reason, speech)] = study of society → science of social organization
+  - Zoology: [zoion (animal) + logos (study, science, knowledge, word, reason, speech)] = study of animals
+
+LOQUOR ("to speak")
+  - Circumlocution: [circum (around) + locution (speaking / speech)] = speaking around → roundabout expression; indirect speech; indirect expression; roundabout speech
+  - Circumlocutory: [circum (around) + locutory (speaking)] = characterized by talking around → indirect; evasive
+  - Colloquial: [col (with, together) + loquor (to speak) / com (with, together) + loquor (to speak)] = speaking together → conversational; informal
+  - Colloquialism: [colloquial (speaking together; conversational; informal) + ism (philosophy, belief, or system of)] = conversational expression → everyday spoken phrase
+  - Eloquence: [eloquent (speak out; expressive; persuasive; moving in speech; forceful in speech) + ence (state or quality of)] = power of expression → expressiveness; persuasive speech
+  - Eloquent: [e (out) (out, from) + loquor (to speak) / e (out, from) + loquor (to speak)] = speaking out, speak out → expressive; persuasive; moving in speech; forceful in speech
+  - Grandiloquence: [grandiloquent (speaking grandly; bombastic; high-flown) + ence (state or quality of)] = pompous expression, pompous language → inflated language; inflated speech
+  - Grandiloquent: [grandis (great / large) + loquor (to speak)] = speaking grandly → bombastic; high-flown
+  - Loquacious: [loquor (to speak) + acious (inclined to / full of)] = fond of speaking → talkative; given to conversation
+  - Loquaciousness: [loquacious (fond of speaking; talkative; given to conversation) + ness (state or quality of being)] = quality of being talkative → excessive talking
+  - Loquacity: [loquor (to speak) + acity (state / quality of speaking)] = talkativeness → tendency to speak much
+  - Magniloquence: [magniloquent (speaking greatly; grandiloquent; lofty in speech; pompously expressive) + ence (state or quality of)] = grand style of speech, grand speech → lofty language
+  - Magniloquent: [magnus (great, large) + loquor (to speak)] = speaking greatly → pompous; grandly expressive; lofty
+  - Soliloquist: [soliloquy (speaking alone; talking to oneself; dramatic self-speech; monologue) + ist (one who practices or specializes in)] = one who talks to oneself → speaker of a monologue
+  - Soliloquize: [soliloquy (speaking alone; talking to oneself; dramatic self-speech; monologue) + ize (to make, treat, or combine with)] = to speak to oneself, to talk to oneself → think aloud
+  - Soliloquy: [soli (alone) + loquor (to speak) / solus (alone) + loquor (to speak)] = speaking alone → talking to oneself; dramatic self-speech; monologue
+  - Ventriloquism: [venter (belly) + loquor (to speak) + ism (philosophy, belief, or system of)] = art of belly-speaking, art of belly speaking → voice projection illusion
+  - Ventriloquist: [venter (belly) + loquor (to speak) + ist (one who practices or specializes in)] = belly speaker → one who throws voice; voice thrower
+  - Ventriloquistic: [ventriloquism (art of belly-speaking; voice illusion) + ic (pertaining to or relating to)] = relating to ventriloquism
+  - Ventriloquize: [ventriloquy (belly-speaking) + ize (to make, treat, or combine with)] = to perform ventriloquism
+
+LUBRICUS ("slippery")
+  - Lubricious: [lubricus (slippery) + ious (characterized by / full of)] = slippery → morally slippery; lustful; sexually immoral
+  - Lubricity: [lubricious (slippery; morally slippery; lustful; sexually immoral) + ity (state, quality, or condition)] = slipperiness → sensuality; lustfulness
+
+LUPUS ("wolf")
+  - Lupine: [lupus (wolf) + ine (like, similar to, characteristic of)] = like a wolf → wolflike; fierce; predatory
+
+
+# M
+
+MAGNUS ("great, large")
+  - Magnanimity: [magnanimous (great soul; noble; generous; forgiving) + ity (state, quality, or condition)] = greatness of spirit → generosity; nobility
+  - Magnanimous: [magnus (great, large) + animus (mind, soul, spirit, life principle)] = great soul → noble; generous; forgiving
+  - Magnate: [magnus (great, large)] = great person → powerful leader; influential figure
+  - Magnificent: [magnus (great, large) + facere (to do / to make)] = made great → splendid; grand
+  - Magnify: [magnus (great, large) + facere (to do / to make)] = make great → enlarge; glorify
+  - Magniloquence: [magniloquent (speaking greatly; grandiloquent; lofty in speech; pompously expressive) + ence (state or quality of)] = grand style of speaking → lofty language; verbal magnificence
+  - Magniloquent: [magnus (great, large) + loquor (to speak)] = speaking greatly → grandiloquent; lofty in speech; pompously expressive
+  - Magnum Opus: [magnus (great, large) + opus (work)] = great work → masterpiece; greatest achievement
+
+MALUS ("bad, evil")
+  - Malign (adjective): [malus (bad, evil)] = evil → harmful; malevolent
+  - Maladjusted: [mal (bad, evil) + adjusted (adjusted)] = badly adjusted → psychologically troubled
+  - Maladroit: [mal (bad, evil) + adroit (to the right way; skillful; clever)] = badly skilled, badly skillful → awkward; clumsy
+  - Maladroitness: [mal (bad, evil) + adroit (to the right way; skillful; clever) + ness (state or quality of being)] = awkwardness
+  - Malady: [mal (bad, evil) + ady (condition)] = bad condition → illness
+  - Malaise: [mal (bad, evil) + aise (ease)] = bad ease → vague discomfort; feeling of illness; feeling unwell
+  - Malcontent: [mal (bad, evil) + content (contented)] = badly contented → dissatisfied person
+  - Malecent: [mal (bad, evil) + facio (to do, to make) + ent (performing a particular action, or being in a particular state)] = doing evil → harmful; hurtful
+  - Malediction: [mal (bad, evil) + dico (to say, to tell, to speak)] = speaking evil → curse
+  - Maledictory: [mal (bad, evil) + dico (to say, to tell, to speak) + ory (relating to, serving for, or place for)] = relating to curses → cursing
+  - Malefaction: [mal (bad, evil) + facio (to do, to make) + tion (act / process / result of)] = evil deed, evil act → crime; wrongdoing
+  - Malefactor: [mal (bad, evil) + facio (to do, to make)] = doer of evil → criminal; wrongdoer
+  - Maleficent: [mal (bad, evil) + facio (to do, to make) + ent (performing a particular action, or being in a particular state)] = doing evil → harmful; hurtful
+  - Malevolent: [mal (bad, evil) + volo (to wish, to will)] = wishing evil → ill-disposed; wishing harm
+  - Malice: [mal (bad, evil) + ice (state / quality of)] = evil intention → spite
+  - Malicious: [mal (bad, evil) + ice (state / quality of)] = full of evil intent → spiteful
+  - Malign: [malus (bad, evil)] = think or speak evil → slander; defame
+  - Malignancy: [malignant (harmful; dangerously evil; cancerous) + cy (state, quality, or condition)] = state of harmfulness, harmful condition → cancerous condition; cancerous growth
+  - Malignant: [malus (bad, evil)] = harmful → dangerously evil; cancerous
+  - Malignity: [malign (think or speak evil; slander; defame) + ity (state, quality, or condition)] = evil nature → malevolence
+  - Malnutrition: [mal (bad, evil) + nutrition (nourishment)] = bad nourishment → poor nutrition
+  - Malpractice: [mal (bad, evil) + practice (practice)] = bad professional conduct → professional wrongdoing
+
+MANIA ("madness or obsession")
+  - Dipsomania: [dipso (thirst) + mania (madness or obsession) / dipso (thirst) (thirst) + mania (madness or obsession)] = obsession with drinking, obsessive thirst → uncontrollable craving for alcohol; alcoholism
+  - Dipsomaniac: [dipso (thirst) + maniac (person obsessed with)] = compulsive drinker
+  - Egomania: [ego (I or self) + mania (madness or obsession)] = obsession with self → pathological self-importance
+  - Egomaniac: [ego (I or self) + mania (madness or obsession) / ego (I or self) + maniac (person obsessed with)] = madness about self, person obsessed with self → obsessive self-importance
+  - Kleptomania: [kleptein (to steal) + mania (madness or obsession)] = obsession with stealing → compulsive theft
+  - Kleptomaniac: [klepto (thief, steal) + maniac (person obsessed with)] = compulsive thief
+  - Kleptomaniacal: [kleptomania (obsession with stealing; compulsive theft) + al (pertaining to or relating to)] = characterized by compulsive stealing
+  - Megalomania: [megas (great / large) + mania (madness or obsession)] = obsession with greatness → delusions of grandeur; craving for power
+  - Megalomaniac: [megalo (great / large) + maniac (person obsessed with)] = person obsessed with greatness
+  - Megalomaniacal: [megalomania (obsession with greatness; delusions of grandeur; craving for power) + al (pertaining to or relating to)] = characterized by grandiose delusions
+  - Monomania: [mono (one) + mania (madness or obsession)] = single obsession, one obsession → fixation; single fixed idea; one-track fixation
+  - Monomaniac: [mono (one) + mania (madness or obsession) + maniac (person obsessed with)] = one obsession, person obsessed with one thing → person obsessed with one idea; one-track-minded individual
+  - Monomaniacal: [monomania (obsession with one idea; single-minded fixation) + al (pertaining to or relating to)] = characterized by one obsession
+  - Nymphomania: [nymph (bride, maiden) + mania (madness or obsession)] = excessive female sexual desire, excessive female sexual craving → compulsive sexuality; compulsive sexual desire
+  - Nymphomaniac: [nympho (bride, maiden) + maniac (person obsessed with)] = woman with compulsive sexual desire, woman with obsessive sexual desire
+  - Nymphomaniacal: [nymphomania (excessive female sexual craving; compulsive sexuality; compulsive sexual desire) + al (pertaining to or relating to)] = characterized by excessive sexual craving
+  - Pyromania: [pyr (fire) + mania (madness or obsession) / pyr (fire) (fire) + mania (madness or obsession)] = obsession with fire → compulsive fire-setting
+  - Pyromaniac: [pyro (fire) + maniac (person obsessed with)] = person obsessed with setting fires
+  - Pyromaniacal: [pyromania (obsession with fire; compulsive fire-setting) + al (pertaining to or relating to)] = characterized by fire-setting obsession
+  - Satyriasis: [satyr (satyr (woodland deity / male lust)) + iasis (diseased condition)] = pathological male sexual desire → male nymphomania
+  - Satyromania: [satyr (satyr (woodland deity / male lust)) + mania (madness or obsession)] = excessive male sexual craving → compulsive male sexuality
+
+MANTEIA ("divination, prophecy, predictor")
+  - Chiromancer: [cheir (hand) + manteia (divination, prophecy, predictor) + er (one who or person/thing that does)] = one who reads palms
+  - Chiromancy: [cheir (hand) + manteia (divination, prophecy, predictor)] = divination from the hand → palmistry
+
+MANUS ("hand")
+  - Manual: [manus (hand) + al (pertaining to or relating to)] = relating to the hand → done by hand
+  - Manuscript: [manus (hand) + scriptus (to write)] = handwritten document → original text
+
+MARITUS ("husband; marriage")
+  - Extramarital: [extra (outside, beyond) + marital (relating to marriage; pertaining to marriage; matrimonial)] = outside marriage → beyond marital relationship
+  - Marital: [maritus (husband; marriage) + al (pertaining to or relating to)] = relating to husband-wife union, relating to marriage → pertaining to marriage; matrimonial
+  - Premarital: [pre (before) + marital (relating to marriage; pertaining to marriage; matrimonial)] = before marriage → occurring prior to marriage
+
+MARTINET ("strict discipline")
+  - Martinet: [Martinet (strict discipline)] = from Jean Martinet (French drillmaster), person enforcing rigid discipline → strict disciplinarian; slave driver; authoritarian rule-enforcer
+  - Martinetish: [martinet (strict discipline) + ish (like / resembling)] = like a martinet → excessively strict; rigidly disciplinary
+  - Martinetism: [martinet (strict discipline) + ism (philosophy, belief, or system of)] = doctrine or practice of excessive discipline → rigid authoritarianism
+
+MATER / MATRIS ("mother")
+  - Alma Mater: [alma (nourishing) + mater (mother)] = nourishing mother → one's school or university
+  - Maternal: [mater (mother) + al (pertaining to or relating to)] = motherly
+  - Maternity: [mater (mother) + ity (state, quality, or condition)] = motherhood
+  - Matriarch: [mater (mother) + archein (ruler)] = mother ruler → female head of family
+  - Matriarchal: [matriarch (mother ruler; female head of family) + al (pertaining to or relating to)] = relating to patriarchy
+  - Matriarchy: [matriarch (mother ruler; female head of family) + y (state, quality, or condition)] = rule by mothers
+  - Matricidal: [matricide (mother-killing) + al (pertaining to or relating to)] = relating to mother-killing
+  - Matricide: [mater (mother) + cide (to kill)] = mother-killing → murder of one's mother
+  - Matrimonial: [matrimony (state of motherhood; marriage) + al (pertaining to or relating to)] = relating to marriage
+  - Matrimony: [mater (mother) + mony (status / state / property)] = state of motherhood → marriage
+  - Matron: [Matron (mature woman; older woman)] = mater → matron, mature woman → older woman
+  - Matronly: [matron (mature woman; older woman) + ly (in the manner of)] = dignified like a mature woman
+
+METRON ("measure, measurement")
+  - Barometer: [baros (weight, pressure) + metron (measure, measurement)] = pressure/weight measure → instrument measuring atmospheric pressure
+  - Barometric: [barometer (pressure/weight measure; instrument measuring atmospheric pressure) + ic (pertaining to or relating to)] = relating to / pertaining to atmospheric pressure
+  - Chronometer: [chronos (time) + metron (measure, measurement)] = measure of time → precision timepiece
+  - Chronometric: [chronos (time) + metron (measure, measurement) + ic (pertaining to or relating to)] = pertaining to time measurement
+  - Metric: [metron (measure, measurement)] = relating to / pertaining to measurement
+  - Metric System: [metron (measure, measurement)] = system based on measurement → decimal system of weights and measures
+  - Optometrist: [opsis (vision, sight) + metron (measure, measurement) + ist (one who practices or specializes in)] = one who measures vision → vision specialist
+  - Optometry: [opsis (vision, sight) + metron (measure, measurement)] = measurement of vision → eyesight testing
+  - Sphygmomanometer: [sphygmos (pulse) + manometer (pressure gauge)] = pulse-pressure measure → blood-pressure apparatus
+  - Thermometer: [therme (heat) + metron (measure, measurement)] = heat measure → instrument measuring temperature
+
+MILITIS ("soldier")
+  - Militancy: [militant (soldier-like; aggressive fighter for a cause; aggressive fighter; activist for a cause) + cy (state, quality, or condition)] = aggressive attitude, state of soldier-like aggression → combativeness; aggressiveness
+  - Militant: [militis (soldier) + ant (one who / that which)] = soldier-like → aggressive fighter for a cause; aggressive fighter; activist for a cause
+  - Military: [militis (soldier) + ary (relating to / place for)] = relating to soldiers
+  - Militate: [militis (soldier) + ate (to make, cause, or have the state of)] = act as a soldier against, act like a soldier against → work against; operate to disadvantage
+
+MISEIN ("to hate")
+  - Misanthrope: [misein (to hate) + anthropos (mankind, human being)] = hater of mankind
+  - Misanthropy: [misein (to hate) + anthropos (mankind, human being) + y (state, quality, or condition)] = hatred of mankind
+  - Misogamist: [misein (to hate) + gamos (marriage)] = hater of marriage
+  - Misogamy: [misein (to hate) + gamos (marriage) + y (state, quality, or condition)] = hatred of marriage
+  - Misogynist: [misein (to hate) + gyne (woman)] = hater of women
+  - Misogyny: [misein (to hate) + gyne (woman) + y (state, quality, or condition)] = hatred of women
+
+MISER ("wretched, unhappy, miserable")
+  - Commiserate: [com (with, together) + miser (wretched, unhappy, miserable) + ate (to make, cause, or have the state of)] = be miserable together → sympathize; share another's sorrow
+  - Commiseration: [commiserate (be miserable together; sympathize; share another's sorrow) + ion (act, process, or result of)] = sharing another's grief → sympathy; pity
+  - Miser: [miser (wretched, unhappy, miserable)] = wretched person → stingy hoarder
+  - Miserable: [miser (wretched, unhappy, miserable) + able (capable of or fit for)] = full of misery → unhappy; wretched
+  - Miserly: [miser (wretched, unhappy, miserable) + ly (in the manner of)] = like a miser → stingy; ungenerous
+  - Misery: [miser (wretched, unhappy, miserable) + y (state, quality, or condition)] = state of unhappiness → suffering; distress
+
+MONO / MONOS ("one")
+  - Monogamy: [monos (one) + gamos (marriage) / mono (one) + gamos (marriage)] = one marriage → marriage to one spouse
+  - Monologue: [mono (one) + logos (study, science, knowledge, word, reason, speech)] = one speech → extended speech by one person
+  - Monomania: [mono (one) + mania (madness or obsession)] = obsession with one idea → single-minded fixation
+  - Monomaniac: [mono (one) + mania (madness or obsession)] = one obsession → person with one-track mind; fanatic devoted to one interest
+  - Monotheism: [mono (one) + theos (God)] = one god → belief in one God
+  - Monotheist: [mono (one) + theist (believer in God)] = believer in one God
+
+
+# N
+
+NAIVUS ("natural, unartificial")
+  - Naive: [naivus (natural, unartificial)] = natural and unaffected → inexperienced; unsophisticated; innocent
+  - Naivete: [naive (natural and unaffected; inexperienced; unsophisticated; innocent) + ete (state or quality of)] = state of being naive → innocence; lack of worldly experience
+
+NAUTES ("sailor, navigator")
+  - Astronaut: [astron (star, heavenly body) + nautes (sailor, navigator)] = star sailor → traveler in outer space
+  - Cosmonaut: [cosmos (universe) + nautes (sailor, navigator)] = universe sailor → traveler through the universe
+  - Nautical: [nautes (sailor, navigator) + ical (pertaining to or relating to)] = pertaining to sailors or navigation
+
+NEGARE ("to deny")
+  - Abnegate: [ab (away, from) + negare (to deny)] = deny away → renounce; deny oneself; give up personal desires
+  - Deny: [de (down, away, from) + negare (to deny)] = formally refuse → reject; declare untrue
+  - Negate: [negare (to deny)] = deny → nullify; cancel; render ineffective
+  - Negative: [negare (to deny) + ive (having the nature of or tending to)] = expressing denial → refusal; contradiction
+  - Self-Abnegate: [self (self) + abnegate (deny away; renounce; deny oneself; give up personal desires)] = deny oneself → self-sacrifice; self-renunciation
+  - Self-Abnegation: [self (self) + abnegation (denial)] = state of denying oneself → self-denial; self-sacrifice
+
+NERVUS ("nerve")
+  - Enervate: [e (ex) (out, from) + nervus (nerve)] = take the nerves out → weaken; exhaust; drain vitality
+  - Enervation: [enervate (take the nerves out; weaken; exhaust; drain vitality) + ion (act, process, or result of)] = condition of having nerves taken out → total exhaustion; complete devitalization
+  - Nerve: [nervus (nerve)] = sinew, nerve → source of strength; courage
+  - Nervous: [nervus (nerve) + ous (characterized by or full of)] = relating to nerves → tense; excitable
+
+NEURON ("nerve")
+  - Neural: [neuron (nerve) + al (pertaining to or relating to)] = relating to nerves
+  - Neuritis: [neuron (nerve) + itis (inflammation)] = inflammation of nerves
+  - Neurologist: [neuron (nerve) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = nerve specialist → neurologist
+  - Neurology: [neuron (nerve) + logos (study, science, knowledge, word, reason, speech)] = study of nerves → science of nervous system disorders
+  - Neurosis: [neuron (nerve) + osis (abnormal or diseased condition)] = nervous disorder → neurosis
+  - Neurotic: [neurosis (nervous disorder; neurosis) + ic (pertaining to or relating to)] = suffering from nervous disturbance
+
+NOCEO ("to injure")
+  - Innocent: [in (not, in, on, or into) + noceo (to injure)] = not harmful → guiltless; blameless
+  - Innocuous: [in (not, in, on, or into) + noceo (to injure) + ous (characterized by or full of)] = not injuring → harmless; safe; inoffensive
+  - Noxious: [noceo (to injure) + ious (characterized by / full of)] = harmful → poisonous; injurious; unwholesome
+
+NOMOS ("law, order, arrangement")
+  - Astronomy: [astron (star, heavenly body) + nomos (law, order, arrangement)] = arrangement of stars → science of celestial bodies
+  - Autonomy: [autos (self) + nomos (law, order, arrangement)] = self-law → self-government
+  - Metronome: [metron (measure, measurement) + nomos (law, order, arrangement) / measure (law / order) + order (order)] → time measurer for music
+
+NOSTOS ("return home")
+  - Nostalgia: [nostos (return home) + algia (pain)] = pain of wishing to return home → homesickness; longing for the past
+  - Nostalgic: [nostalgia (pain of wishing to return home; homesickness; longing for the past) + ic (pertaining to or relating to)] = characterized by homesickness → sentimental longing for past times
+
+NOTUS ("known")
+  - Notable: [notus (known) + able (capable of or fit for)] = worthy of being known → distinguished person; noteworthy individual
+  - Noted: [notus (known) + ed (past or characterized by)] = known → famous; distinguished
+  - Notice: [notus (known) + ice (state / quality of)] = act of knowing → observation; attention
+  - Notify: [notus (known) + fy (to make / to cause)] = make known → inform; give notice
+  - Notoriety: [notorious (widely known; publicly known for bad reasons; infamous) + ity (state, quality, or condition)] = state of being widely known → unfavorable fame; ill repute
+  - Notorious: [notus (known) + orious (characterized by)] = widely known → publicly known for bad reasons; infamous
+
+NOX / NOCTIS ("night")
+  - Equinoctial: [equi (equal) + noct (night)] = relating to equal night
+  - Equinox: [equ (equal) + nox (night)] = equal night → time when day and night are equal
+  - Nocturnal: [noctis (night) + urnal (pertaining to a period of time)] = of the night → active at night
+  - Nocturne: [noctis (night) + urne (silent)] = night piece → night music
+  - Nox: [nox (night)] = night
+
+
+# O
+
+OBSTETRIX ("midwife")
+  - Obstetrical: [obstetrics (midwifery; branch dealing with pregnancy and childbirth; obstetrics) + al (pertaining to or relating to)] = relating to childbirth and pregnancy
+  - Obstetrician: [obstetrix (midwife) + ian (one who or specialist)] = practitioner of midwifery → physician dealing with pregnancy and childbirth; obstetrician
+  - Obstetrics: [obstetrix (midwife)] = midwifery → branch dealing with pregnancy and childbirth; obstetrics
+
+OCULUS ("eye")
+  - Binocular: [bi (two) + oculus (eye)] = two eyes → using both eyes
+  - Inoculate: [in (not, in, on, or into) + oculus (eye)] = put into an eye/opening → inject through a puncture; vaccinate
+  - Monocular: [mono (one) + oculus (eye)] = one eye → using one eye
+  - Ocular: [oculus (eye) + ar (relating to, like, or pertaining to)] = relating to the eye → visual
+  - Oculist: [oculus (eye) + ist (one who practices or specializes in)] = eye specialist → physician specializing in eye care; oculist
+
+ODOUS / ODONT / ODONTOS ("tooth")
+  - Endodontia: [endon (within, inner) + odontos (tooth)] = treatment of inner tooth structures → root canal specialty
+  - Endodontic: [endodontia (inner teeth) + ic (pertaining to or relating to)] = pertaining to / relating to root canal therapy
+  - Endodontist: [endon (within, inner) + odontos (tooth)] = inner-tooth specialist → root canal specialist
+  - Exodontia: [ex (out) + odontos (tooth)] = removal of teeth → tooth extraction specialty
+  - Exodontic: [exodontia (extraction of teeth) + ic (pertaining to or relating to)] = pertaining to / relating to tooth extraction
+  - Exodontist: [ex (out) + odontos (tooth)] = out-tooth specialist → tooth extraction specialist
+  - Orthodontics / Orthodontia: [orthos (straight, correct) + odontos (tooth)] = straightening and correction of tooth alignment → branch of dentistry concerned with aligned teeth and jaws
+  - Orthodontist: [orthos (straight, correct) + odontos (tooth) + ist (one who practices or specializes in)] = straight tooth specialist → dentist who straightens teeth
+  - Pedodontia: [paidos (child) + odontos (tooth)] = care of children's teeth → pediatric dentistry
+  - Pedodontic: [pedodontia (child teeth) + ic (pertaining to or relating to)] = pertaining to / relating to children's dentistry
+  - Pedodontist: [paidos (child) + odontos (tooth)] = child tooth specialist → children's dentist
+  - Periodontia: [peri (around, surrounding) + odontos (tooth)] = treatment of tissues around teeth → gum specialty
+  - Periodontic: [periodontia (around teeth) + ic (pertaining to or relating to)] = pertaining to / relating to gum treatment
+  - Periodontist: [peri (around, surrounding) + odontos (tooth)] = around-the-tooth specialist → gum specialist
+
+OMNIS ("all, every")
+  - Omnipotence: [potens (powerful) + ence (state or quality of)] = state of being all-powerful → unlimited power
+  - Omnipotent: [omnis (all, every) + potens (powerful)] = all-powerful → possessing unlimited power
+  - Omnipresence: [omnipresent (present everywhere; ubiquitous; existing in all places) + ence (state or quality of)] = presence everywhere → ubiquity
+  - Omnipresent: [omnis (all, every) + present (present)] = present everywhere → ubiquitous; existing in all places
+  - Omniscience: [omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)] = complete knowledge → infinite wisdom
+  - Omniscient: [omnis (all, every) + sciens (to know, knowing)] = all-knowing → possessing complete knowledge
+  - Omnivore: [omnis (all, every) + vorare (to devour)] = one that eats everything → animal feeding on both plant and animal matter
+  - Omnivorous: [omnis (all, every) + vorare (to devour)] = devouring everything → eating both plants and animals
+
+ONYMA ("name")
+  - Antonym: [anti (against, opposite) + onyma (name)] = opposite name → word with opposite meaning
+  - Antonymous: [antonym (opposite name; word with opposite meaning) + ous (characterized by or full of)] = opposite in meaning
+  - Homonym: [homos (same) + onyma (name)] = same name → word with same sound or spelling
+  - Homonymous: [homonym (same name; word with same sound or spelling) + ous (characterized by or full of)] = having same name or sound
+  - Homophone: [homos (same) + phone (sound)] = same sound → same pronunciation, different spelling
+  - Homophonous: [homophone (same sound; same pronunciation, different spelling) + ous (characterized by or full of)] = sounding alike
+  - Synonym: [syn (together, with) + onyma (name)] = same name → word with similar meaning
+  - Synonymous: [synonym (same name; word with similar meaning) + ous (characterized by or full of)] = having same meaning
+
+OPHTHALMOS ("eye")
+  - Ophthalmic: [ophthalmos (eye) + ic (pertaining to or relating to)] = relating to the eyes
+  - Ophthalmologist: [ophthalmos (eye) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = eye specialist → ophthalmologist
+  - Ophthalmology: [ophthalmos (eye) + logos (study, science, knowledge, word, reason, speech)] = study of the eye → medical science of vision and eye diseases
+
+OPSIS / OPTIKOS ("vision, sight")
+  - Optical: [optikos (vision, sight) + al (pertaining to or relating to)] = relating to vision, sight, or light → optical
+  - Optician: [optikos / opsis (vision / sight) + ician (specialist / practitioner)] = worker with optical devices → grinder, fitter, and dispenser of lenses; lens grinder; seller of optical goods; optician
+  - Optics: [opsis (vision, sight)] = science of vision and light → optics
+  - Optometric: [optometry (measurement of vision; science of measuring/testing eyesight; optometry) + ic (pertaining to or relating to)] = relating to the measurement and testing of vision → pertaining to eyesight measurement; optometric
+  - Optometrist: [opsis (vision, sight) + metron (measure, measurement) + ist (one who practices or specializes in)] = measurer of vision → eyesight specialist who tests vision; prescribes glasses and contact lenses; optometrist
+  - Optometry: [opsis (vision, sight) + metron (measure, measurement)] = measurement of vision → science of measuring/testing eyesight; optometry
+
+OPULUS ("wealthy, rich")
+  - Opulence: [opulus (wealthy, rich) + ence (state or quality of)] = state of wealth → luxury; immense riches
+  - Opulent: [opulus (wealthy, rich) + ent (performing a particular action, or being in a particular state)] = possessing great wealth → luxurious; affluent
+
+OPUS ("work")
+  - Cooperative: [co (with, together) + oper (work) + ative (tending to)] = working together → collaborative
+  - Magnum Opus: [magnus (great, large) + opus (work)] = great work → masterpiece; greatest achievement
+  - Operate: [Operate (perform work; function; carry out action)] = opus → oper, perform work → function; carry out action
+  - Operation: [operate (perform work; function; carry out action) + ion (act, process, or result of)] = act of working → procedure; performance
+  - Operator: [operate (perform work; function; carry out action) + or (one who or person/thing that does)] = one who works → performer; controller of operations
+  - Opus: [opus (work)] = work → artistic composition
+
+ORTHOS ("straight, correct")
+  - Orthodontia / Orthodontics: [orthos (straight, correct) + odontos (tooth)] = making teeth straight → correction of tooth alignment; orthodontia / orthodontics
+  - Orthodontist: [orthos (straight, correct) + odontos (tooth) + ist (one who practices or specializes in)] = straight-tooth specialist → specialist who corrects tooth alignment; orthodontist
+  - Orthography: [orthos (straight, correct) + graphein (to write) (to write)] = correct writing → correct spelling and writing; orthography
+  - Orthopedics: [orthos (straight, correct) + pais (child)] = straight child → correction of bodily deformities; orthopedics
+  - Orthopedist: [orthos (straight, correct) + pais (child) + ist (one who practices or specializes in)] = specialist in correcting deformities → orthopedist
+
+OSCILLUM ("swing, little swing")
+  - Oscillate: [oscillum (swing, little swing) + ate (to make, cause, or have the state of)] = swing like a pendulum → move back and forth; fluctuate
+  - Oscillation: [oscillate (swing like a pendulum; move back and forth; fluctuate) + ion (act, process, or result of)] = repeated swinging movement → fluctuation; back-and-forth motion
+  - Oscillatory: [oscillate (swing like a pendulum; move back and forth; fluctuate) + ory (relating to, serving for, or place for)] = characterized by repeated swinging → fluctuating
+
+OSIS ("abnormal or diseased condition")
+  *(No derived words)*
+
+OSTEON ("bone")
+  - Osteopath: [osteon (bone) + pathos (suffering, disease, feeling)] = bone disease specialist → practitioner using manipulation and massage
+  - Osteopathic: [osteopathy (bone-related disease/suffering condition; osteopathic medicine) + ic (pertaining to or relating to)] = relating to osteopathy
+  - Osteopathy: [osteon (bone) + pathos (suffering, disease, feeling) + y (state, quality, or condition)] = treatment based on skeletal relationships → osteopathic medicine
+
+OVUM ("egg")
+  - Oval: [ovum (egg) + al (pertaining to or relating to)] = egg-shaped → elliptical
+  - Ovarian: [ovary (egg-producing organ; female reproductive gland) + an (not, without)] = relating to the ovary
+  - Ovary: [ovum (egg) + ary (relating to / place for)] = egg-producing organ → female reproductive gland
+  - Oviparous: [ovum (egg) + parous (bearing / producing)] = producing eggs → laying eggs
+  - Ovoid: [ovum (egg) + oid (resembling or like)] = resembling an egg → egg-shaped form
+  - Ovulation: [ovule (little egg; immature egg cell) + ation (act, process, or result of)] = release of an egg → egg production cycle
+  - Ovule: [ovum (egg) + ule (little (diminutive))] = little egg → immature egg cell
+
+
+# P
+
+PAIDOS / PAIS ("child")
+  - Orthopedics: [orthos (straight, correct) + pais (child)] = straight child → originally correction of deformities in children; orthopedics
+  - Orthopedist: [orthos (straight, correct) + pais (child) + ist (one who practices or specializes in)] = specialist correcting skeletal deformities → orthopedist
+  - Pediatric: [paidos (child) + ic (pertaining to or relating to)] = relating to children
+  - Pediatrician: [paidos (child) + iatreia (healing, medical treatment) + ian (one who or specialist)] = physician for children → specialist in childhood diseases and development; pediatrician
+  - Pediatrics: [paidos (child) + iatreia (healing, medical treatment)] = healing of children → branch of medicine dealing with children; pediatrics
+  - Pedodontia: [paidos (child) + odontos (tooth)] = care of children's teeth → pediatric dentistry
+  - Pedodontic: [pedodontia (child teeth) + ic (pertaining to or relating to)] = relating to child dentistry
+  - Pedodontist: [paidos (child) + odontos (tooth)] = child tooth specialist → children's dentist
+
+PAR ("equal")
+  - Disparage: [dis (apart, away) + par (equal)] = lower another's equality/status → belittle; speak slightingly of
+  - Disparagement: [disparage (lower another's equality/status; belittle; speak slightingly of) + ment (state, action, or condition)] = act of belittling → depreciation; ridicule
+  - Disparate: [dis (apart, away) + par (equal)] = unequal → essentially different; fundamentally unlike
+  - Disparity: [dis (apart, away) + parity (equality; equivalence; equal status)] = lack of equality → inequality; difference in status or amount
+  - Par: [par (equal)] = equal standard → expected level; average performance benchmark
+  - Parity: [par (equal) + ity (state, quality, or condition)] = equality → equivalence; equal status
+  - Peer: [par (equal)] = equal → one of equal rank; social or professional equal
+
+PARSIMONIA ("frugality, sparingness")
+  - Parsimonious: [parsimony (excessive economy; stinginess; unwillingness to spend) + ous (characterized by or full of)] = excessively sparing → stingy; miserly
+  - Parsimony: [parsimonia (frugality, sparingness)] = excessive economy → stinginess; unwillingness to spend
+
+PATER / PATRIS ("father")
+  - Paternal: [pater (father) + al (pertaining to or relating to)] = fatherly → relating to a father
+  - Paternalism: [paternal (fatherly; relating to a father) + ism (philosophy, belief, or system of)] = father-like control → protective authority
+  - Paternalistic: [paternal (fatherly; relating to a father) + istic (characterized by)] = acting like a protective father → controlling for others' supposed good
+  - Paternity: [pater (father) + ity (state, quality, or condition)] = fatherhood
+  - Patriarch: [pater (father) + archein (ruler)] = father ruler → male head of family
+  - Patriarchal: [patriarch (father ruler; male head of family) + al (pertaining to or relating to)] = relating to patriarchy
+  - Patriarchy: [patriarch (father ruler; male head of family) + y (state, quality, or condition)] = rule by fathers → male-dominated system
+  - Patricidal: [patricide (father-killing) + al (pertaining to or relating to)] = relating to father-killing
+  - Patricide: [pater (father) + cide (to kill)] = father-killing → murder of one's father
+  - Patrimony: [pater (father) + mony (status / state / property)] = father's property → inherited estate
+  - Patronymic: [pater (father) + onyma (name)] = father's name → surname derived from father
+
+PATHOS ("suffering, disease, feeling")
+  - Antipathetic: [antipathy (feeling against; dislike; hostility) + etic (pertaining to / feeling)] = showing hostility → opposed in feeling
+  - Antipathy: [anti (against, opposite) + pathos (suffering, disease, feeling)] = feeling against → dislike; hostility
+  - Apathetic: [apathy (without feeling; indifference; lack of interest; lack of concern) + etic (pertaining to / feeling)] = emotionally indifferent
+  - Apathy: [a (not, without) + pathos (suffering, disease, feeling)] = without feeling → indifference; lack of interest; lack of concern
+  - Empathic: [empathy (feeling in; identification with another's feelings; emotional participation) + ic (pertaining to or relating to)] = relating to empathy
+  - Empathize: [empathy (feeling in; identification with another's feelings; emotional participation) + ize (to make, treat, or combine with)] = enter another's feelings → emotionally identify
+  - Empathy: [en (in / into) + pathos (suffering, disease, feeling)] = feeling in → identification with another's feelings; emotional participation
+  - Osteopath: [osteon (bone) + pathos (suffering, disease, feeling)] = bone suffering/disease → osteopathic practitioner
+  - Osteopathy: [osteon (bone) + pathos (suffering, disease, feeling) + y (state, quality, or condition)] = bone-related disease/suffering condition → osteopathic medicine
+  - Pathetic: [pathos (suffering, disease, feeling) + etic (pertaining to / feeling)] = full of feeling, full of feeling/suffering → evoking pity; sorrowful
+  - Pathological: [pathos (suffering, disease, feeling) + logos (study, science, knowledge, word, reason, speech) + ical (pertaining to or relating to)] = relating to disease → diseased; abnormal
+  - Pathologist: [pathology (study of disease; science of disease) + ist (one who practices or specializes in)] = specialist in disease diagnosis, specialist in disease study → disease diagnostician
+  - Pathology: [pathos (suffering, disease, feeling) + logos (study, science, knowledge, word, reason, speech)] = study of disease → science of disease
+  - Psychopath: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling)] = person with a diseased/suffering mind, diseased mind → psychopath; person with severe personality disorder
+  - Psychopathic: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + ic (pertaining to or relating to)] = mentally diseased → relating to psychopathy
+  - Psychopathy: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + y (state, quality, or condition)] = diseased mind condition, mental disorder, disorder of personality → severe personality disorder; diseased mental condition
+  - Sympathetic: [sympathy (feeling with; compassion; understanding another's suffering; sharing another's feelings) + etic (pertaining to / feeling)] = characterized by compassion
+  - Sympathy: [syn (together, with) + pathos (suffering, disease, feeling)] = feeling with → compassion; understanding another's suffering; sharing another's feelings
+  - Telepathic: [telepathy (feeling at a distance; thought transference; extrasensory communication) + ic (pertaining to or relating to)] = relating to thought transference
+  - Telepathy: [tele (distance) + pathos (suffering, disease, feeling)] = feeling at a distance → thought transference; extrasensory communication
+
+PECUS ("cattle, ancient wealth")
+  - Impecunious: [im (not, in, on, or into) + pecus (cattle, ancient wealth) + ious (characterized by / full of)] = without cattle/wealth → short of money; lacking cash; financially embarrassed
+  - Pecuniary: [pecus (cattle, ancient wealth) + ary (relating to / place for)] = relating to wealth → monetary; financial
+  - Penury: [Penury (dire need; abject poverty; extreme financial hardship)] = related wealth-poverty concept → extreme poverty; destitution
+
+PEJOR ("worse")
+  - Pejorative: [pejor (worse) + ative (tending to)] = expressing something worse → derogatory; insulting; disparaging
+
+PENURIA ("need, poverty")
+  - Penurious: [penury (dire need; abject poverty; extreme financial hardship) + ous (characterized by or full of)] = characterized by poverty → poverty-stricken; miserly; excessively stingy
+  - Penuriousness: [penurious (characterized by poverty; poverty-stricken; miserly; excessively stingy) + ness (state or quality of being)] = quality of being penurious → stinginess; excessive frugality
+  - Penury: [penuria (need, poverty)] = dire need → abject poverty; extreme financial hardship
+
+PERI ("around, surrounding")
+  - Periodontia: [peri (around, surrounding) + odontos (tooth)] = treatment around teeth → periodontal specialty
+  - Periodontic: [periodontia (around teeth) + ic (pertaining to or relating to)] = relating to periodontal treatment
+  - Periodontist: [peri (around, surrounding) + odontos (tooth)] = around the tooth → gum specialist
+
+PHEME ("speech")
+  - Euphemism: [eu (good, pleasant) + pheme (speech)] = good speech → mild expression replacing offensive one
+
+PHILEIN ("to love")
+  - Anglophile: [Anglus (English, England) + philein (to love)] = lover of England or English culture
+  - Bibliophile: [biblion (book) + philein (to love)] = lover of books → book collector
+  - Philadelphia: [philein (to love) + adelphos (brother)] = brotherly love → city of brotherly love
+  - Philander: [philein (to love) + andros (male, man)] = love of men/women → engage in casual love affairs; be sexually promiscuous
+  - Philanderer: [philander (love of men/women; engage in casual love affairs; be sexually promiscuous) + er (one who or person/thing that does)] = person who engages in love affairs
+  - Philanthropic: [philanthropy (love of humanity) + ic (pertaining to or relating to)] = characterized by concern for humanity
+  - Philanthropist: [philein (to love) + anthropos (mankind, human being) + ist (one who practices or specializes in)] = lover of mankind → charitable person
+  - Philanthropy: [philein (to love) + anthropos (mankind, human being)] = love of mankind → humanitarian concern; charity
+  - Philharmonic: [philein (to love) + harmonia (harmony, music)] = love of harmony → devotion to music
+  - Philological: [philology (love of words; study of language; linguistics) + ical (pertaining to or relating to)] = pertaining to language study
+  - Philologist: [philein (to love) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = lover/student of language
+  - Philology: [philein (to love) + logos (study, science, knowledge, word, reason, speech)] = love of words → study of language; linguistics
+  - Philosopher: [philein (to love) + sophos (wise, wisdom) + er (one who or person/thing that does)] = lover of wisdom
+  - Philosophy: [philein (to love) + sophos (wise, wisdom)] = love of wisdom → pursuit of knowledge and truth; search for truth and knowledge
+  - Philter: [philein (to love)] = love potion → magical drink intended to inspire love
+
+PHOBIA ("fear")
+  - Acrophobia: [acro (height) (high, height) + phobia (fear)] = fear of heights → morbid dread of high places
+  - Acrophobic: [acrophobia (fear of heights; morbid dread of high places) + ic (pertaining to or relating to)] = suffering fear of heights
+  - Agoraphobia: [agora (open place) (market, open space) + phobia (fear)] = fear of open spaces → dread of wide-open places
+  - Agoraphobic: [agoraphobia (fear of open spaces; dread of wide-open places) + ic (pertaining to or relating to)] = suffering fear of open spaces
+  - Claustrophobia: [claustrum (closed place) (closed place) + phobia (fear)] = fear of confinement → dread of enclosed spaces
+  - Claustrophobic: [claustrophobia (fear of confinement; dread of enclosed spaces) + ic (pertaining to or relating to)] = suffering fear of enclosed places
+
+PHONE ("sound")
+  - Cacophonous: [cacophony (bad sound; harsh noise; discordant sound) + ous (characterized by or full of)] = unpleasant-sounding → harsh; discordant
+  - Cacophony: [kakos (bad, ugly, harsh) + phone (sound)] = bad sound → harsh noise; discordant sound
+  - Euphonic: [eu (good, pleasant) + phone (sound) + ic (pertaining to or relating to)] = pleasant-sounding
+  - Euphonious: [eu (good, pleasant) + phone (sound) + ous (characterized by or full of)] = melodious → agreeable to the ear
+  - Euphony: [eu (good, pleasant) + phone (sound)] = pleasant sound → harmony of sound
+  - Phonograph: [phone (sound) + graphein (to write)] = sound writing → sound recording device
+  - Telephone: [tele (distance) + phone (sound)] = sound over distance → voice communication device
+
+PHOTOS ("light")
+  - Photograph: [photos (light) + graphein (to write)] = writing by light → image produced through light
+
+PICERE / SPICERE ("to look")
+  - Perspicacious: [per (through or thoroughly) + spicere (to look)] = look through → see clearly; mentally keen; insightful
+  - Perspicacity: [perspicacious (look through; mentally sharp; insightful; astute) + ity (state, quality, or condition)] = mental sharpness → keen understanding
+  - Perspicuity: [perspicuous (seen through clearly; clear; lucid; easily understood) + ity (state, quality, or condition)] = clarity → lucidity
+  - Perspicuous: [per (through or thoroughly) + spicere (to look)] = clearly seen through → clear; easily understood
+
+PISCIS ("fish")
+  - Piscine: [piscis (fish) + ine (like, similar to, characteristic of)] = like a fish → fishlike; relating to fishes
+
+PLAC ("to please, to soothe, to pacify")
+  - Placate: [plac (to please, to soothe, to pacify) + ate (to make, cause, or have the state of)] = make pleasing → pacify; change hostility into friendliness
+
+PLATYS ("flat, broad")
+  - Platitude: [platys (flat, broad)] = flat statement → dull commonplace remark; cliché
+  - Platitudinous: [platitude (flat statement; dull commonplace remark; cliché) + inous (characterized by)] = full of platitudes → dull; trite
+
+PORCUS ("pig")
+  - Porcine: [porcus (pig) + ine (like, similar to, characteristic of)] = like a pig → piglike; swinish
+
+POTENS ("powerful")
+  - Impotence: [impotent (not powerful; powerless; incapable) + ence (state or quality of)] = lack of power → helplessness; powerlessness
+  - Impotent: [im (not, in, on, or into) + potent (powerful; effective; influential)] = not powerful → powerless; incapable
+  - Omnipotence: [potens (powerful) + ence (state or quality of)] = power in unlimited degree → supreme power
+  - Omnipotent: [omnis (all, every) + potens (powerful)] = all-powerful → possessing unlimited power
+  - Potency: [potent (powerful; effective; influential) + cy (state, quality, or condition)] = power → effectiveness
+  - Potent: [potens (powerful)] = powerful → effective; influential
+
+POUS / PODOS ("foot")
+  - Chiropody: [cheir (hand) + podos (foot)] = hand-foot treatment → treatment of foot ailments; older term for podiatry
+  - Octopus: [okto (eight) + pous (foot)] = eight-footed → eight-armed sea creature
+  - Platypus: [platys (flat, broad) + pous (foot)] = broad-footed → egg-laying mammal
+  - Podiatric: [podiatry (treatment of foot ailments; podiatry) + ic (pertaining to or relating to)] = relating to / pertaining to foot treatment
+  - Podiatrist: [podos (foot) + iatreia (healing, medical treatment)] = foot healer → foot specialist
+  - Podiatry: [podos (foot) + iatreia (healing, medical treatment)] = treatment of foot ailments → podiatry
+  - Podium: [podos (foot)] = foot support → speaker's platform
+  - Tripod: [tri (three) + podos (foot)] = three-footed → three-legged stand
+
+PRAKTIKOS ("to do, to practice")
+  - Chiropractic: [cheir (hand) + praktikos (to do, to practice)] = treatment by hand → chiropractic therapy
+  - Chiropractor: [cheir (hand) + praktikos (to do, to practice)] = practitioner using hands → chiropractor
+
+PRURIRE ("to itch")
+  - Prurience: [prurient (itching; sexually curious; lustful) + ence (state or quality of)] = sexual longing → excessive curiosity about sex
+  - Pruriency: [prurient (itching; sexually curious; lustful) + ency (state or quality of)] = lustfulness → erotic curiosity
+  - Prurient: [prurire (to itch) + ent (performing a particular action, or being in a particular state)] = itching → sexually curious; lustful
+  - Pruritus: [prurire (to itch) + itus (state of / inflammation)] = itching → persistent itch
+
+PSYCHE ("mind, soul, spirit")
+  - Psyche: [Psyche (mind, soul, or spirit)] = Greek psyche, soul, spirit, mind → mental life; inner self; self-image
+  - Psychiatrist: [psyche (mind, soul, spirit) + iatreia (healing, medical treatment) + ist (one who practices or specializes in)] = physician treating mental disorders
+  - Psychiatry: [psyche (mind, soul, spirit) + iatreia (healing, medical treatment)] = healing of the mind → medical treatment of mental illness
+  - Psychic: [psyche (mind, soul, spirit) + ic (pertaining to or relating to)] = relating to the mind or spirit → mentally produced; extrasensory or mysterious mental powers
+  - Psychoanalysis: [psyche (mind, soul, spirit) + analysis (loosening, separating)] = analysis of the mind → Freudian exploration of the unconscious; psychoanalytic therapy
+  - Psychoanalyst: [psyche (mind, soul, spirit) + analysis (loosening, separating) + ist (one who practices or specializes in)] = analyzer of the mind → practitioner of psychoanalysis
+  - Psychoanalytic: [psychoanalysis (analysis of the mind; Freudian exploration of the unconscious; psychoanalytic therapy) + ic (pertaining to or relating to)] = relating to psychoanalysis
+  - Psychogenic: [psyche (mind, soul, spirit) + genesis (birth, origin, beginning)] = originating in the mind → psychologically caused; of emotional origin
+  - Psychological: [psychology (study of the mind; science of behavior and mental processes) + al (pertaining to or relating to)] = relating to the study of the mind
+  - Psychologist: [psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student/specialist of the mind → expert in human behavior and mental processes
+  - Psychology: [psyche (mind, soul, spirit) + logos (study, science, knowledge, word, reason, speech)] = study of the mind → science of behavior and mental processes
+  - Psychopath: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling)] = person with a diseased mind → individual with severe antisocial personality traits
+  - Psychopathic: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + ic (pertaining to or relating to)] = relating to psychopathy → mentally or emotionally disturbed
+  - Psychopathy: [psyche (mind, soul, spirit) + pathos (suffering, disease, feeling) + y (state, quality, or condition)] = diseased mind → severe personality disorder
+  - Psychosis: [psyche (mind, soul, spirit) + osis (abnormal or diseased condition)] = severe mental disorder
+  - Psychosomatic: [psyche (mind, soul, spirit) + soma (body)] = mind-body relationship → physical symptoms or illness influenced by mental factors
+  - Psychotherapist: [psyche (mind, soul, spirit) + therapeia (treatment, therapy) + ist (one who practices or specializes in)] = practitioner of psychotherapy
+  - Psychotherapy: [psyche (mind, soul, spirit) + therapeia (treatment, therapy)] = treatment of the mind → therapy through psychological methods; treatment of emotional and mental disorders
+  - Psychotic: [psyche (mind, soul, spirit) + otic (affected by / abnormal condition)] = mentally disordered → suffering severe mental disturbance; loss of contact with reality
+
+
+# Q
+
+QUEROR ("to complain")
+  - Querulous: [queror (to complain) + ulous (tending to / full of)] = full of complaints → nagging; whining; fretful; dissatisfied
+
+
+# R
+
+REX / REGIS ("king")
+  - Regal: [rex (king) + al (pertaining to or relating to)] = kingly → royal; magnificent; majestic
+  - Regalia: [rex (king) + alia (things / collections)] = things belonging to a king → royal insignia; badges of office; ceremonial dress
+  - Regicide: [rex (king) + cide (to kill)] = king-killing → murder of a ruler
+
+RUS / RURIS ("country, farmland")
+  - Rural: [rus (country, farmland) + al (pertaining to or relating to)] = relating to the countryside → agricultural; country-based
+  - Rustic: [rus (country, farmland) + tic (pertaining to)] = country person → unsophisticated; uncultured; rough-hewn
+  - Rusticate: [rustic (country person; unsophisticated; uncultured; rough-hewn) + ate (to make, cause, or have the state of)] = become country-oriented → spend time in the countryside
+  - Rustication: [rusticate (become country-oriented; spend time in the countryside) + ion (act, process, or result of)] = act of living in the countryside → country retreat
+  - Rusticity: [rustic (country person; unsophisticated; uncultured; rough-hewn) + ity (state, quality, or condition)] = quality of being rustic → lack of refinement
+
+
+# S
+
+SCIENTIA ("knowledge")
+  - Conscience: [con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)] = knowledge with oneself → moral awareness
+  - Conscious: [con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)] = aware with knowledge → aware; alert
+  - Omniscience: [omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)] = complete knowledge → infinite wisdom
+  - Omniscient: [omnis (all, every) + sciens (to know, knowing)] = all-knowing → possessing complete knowledge
+  - Science: [scientia (knowledge)] = knowledge → systematic knowledge
+  - Scientific: [science (scio; systematic body of knowledge; organized body of knowledge) + ific (making / causing)] = relating to knowledge → based on scientific method
+
+SCINTILLA ("spark")
+  - Scintilla: [scintilla (spark)] = tiny spark → small trace; slightest amount
+  - Scintillate: [scintilla (spark) + ate (to make, cause, or have the state of)] = emit sparks → sparkle; flash with wit
+  - Scintillating: [scintillate (emit sparks; sparkle; flash with wit) + ing (action or process)] = sparkling intellectually → brilliant; fascinating; witty
+  - Scintillation: [scintillate (emit sparks; sparkle; flash with wit) + ion (act, process, or result of)] = sparkling → brilliance; clever liveliness
+
+SCIO / SCIENS ("to know, knowing")
+  - Conscience: [con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)] = knowledge with oneself, knowledge within oneself → moral awareness; sense of right and wrong; inner sense of right and wrong
+  - Conscious: [con (with, together) + sciens (to know, knowing) / con (with, together) + scio (to know, knowing)] = knowing with oneself → aware; alert; mentally alert
+  - Nescience: [nescient (not knowing; ignorant) + ence (state or quality of)] = ignorance → lack of knowledge
+  - Nescient: [ne (not) + sciens (to know, knowing)] = not knowing → ignorant
+  - Omniscience: [omniscient (all-knowing; possessing complete knowledge) + ence (state or quality of)] = infinite knowledge, total knowledge
+  - Omniscient: [omnis (all, every) + sciens (to know, knowing)] = all knowing, all-knowing → possessing complete knowledge
+  - Prescience: [prescient (knowing beforehand; prophetic; predictive; having foreknowledge) + ence / pre (before) + science (scio; systematic body of knowledge; organized body of knowledge)] = foreknowledge → advance awareness
+  - Prescient: [pre (before) + sciens (to know, knowing)] = knowing beforehand → prophetic; predictive; having foreknowledge
+  - Science: [sciens (to know, knowing)] = knowledge, scio → systematic body of knowledge; organized body of knowledge
+  - Unconscionability: [unconscionable (incapable of moral awareness; morally insensitive; unscrupulous; without conscience) + ity (state, quality, or condition)] = absence of moral restraint, lack of moral restraint
+  - Unconscionable: [un (not or opposite) + conscience (knowledge within oneself; moral awareness; sense of right and wrong; inner sense of right and wrong) + able (capable of or fit for)] = without functioning conscience, incapable of moral awareness → morally insensitive; unscrupulous; without conscience
+  - Unconscionableness: [unconscionable (incapable of moral awareness; morally insensitive; unscrupulous; without conscience) + ness (state or quality of being)] = lack of conscience
+
+SCRIBO / SCRIPTUS ("to write")
+  - Describe: [de (down, away, from) + scribo (to write)] = write down → portray; depict
+  - Description: [describe (write down; portray; depict) + tion (act / process / result of)] = written account → portrayal
+  - Descriptive: [describe (write down; portray; depict) + ive (having the nature of or tending to)] = characterized by description
+  - Inscribe: [in (not, in, on, or into) + scribo (to write)] = write in → engrave; enter formally
+  - Inscription: [inscribe (write in; engrave; enter formally) + tion (act / process / result of)] = engraved writing
+  - Inscriptive: [inscribe (write in; engrave; enter formally) + ive (having the nature of or tending to)] = relating to inscription
+  - Manuscript: [manus (hand) + scriptus (to write)] = handwritten writing → original document
+  - Postscript: [post (after) + scriptus (to write)] = written after → additional note
+  - Proscribe: [pro (forward, before, or in favor of) + scribo (to write)] = write publicly against → prohibit; forbid officially
+  - Proscription: [proscribe (write publicly against; prohibit; forbid officially) + tion (act / process / result of)] = official prohibition → ban
+  - Proscriptive: [proscribe (write publicly against; prohibit; forbid officially) + ive (having the nature of or tending to)] = tending to prohibit, prohibiting → restrictive
+  - Subscribe: [sub (under) + scribo (to write)] = write under → sign; support
+  - Subscription: [subscribe (write under; sign; support) + tion (act / process / result of)] = act of signing/supporting
+  - Subscriptive: [subscribe (write under; sign; support) + ive (having the nature of or tending to)] = relating to subscription
+
+SECTUS ("cut, to cut")
+  - Dissect: [dis (apart, away) + sectus (cut, to cut)] = cut apart → analyze by separating parts
+  - Insect: [in (not, in, on, or into) + sectus (cut, to cut)] = cut into, cut into sections → creature with segmented body; segmented creature
+  - Section: [sectus (cut, to cut) + ion (act, process, or result of)] = part cut off, something cut off → division or segment; division; part
+
+SEMA ("sign, meaning")
+  - Semantic: [semantics (study of meanings; science of meaning in language) + ic (pertaining to or relating to)] = pertaining to meaning
+  - Semantical: [semantics (study of meanings; science of meaning in language) + al (pertaining to or relating to)] = relating to meaning
+  - Semanticist: [semantics (study of meanings; science of meaning in language) + ist (one who practices or specializes in)] = specialist in meanings of words → student of psychological effects of language
+  - Semantics: [sema (sign, meaning) + ntics (study of)] = study of meanings → science of meaning in language
+
+SENEX ("old")
+  - Senescence: [senescent (growing old; aging) + ence (state or quality of)] = process of aging
+  - Senescent: [senex (old) + escent (growing / becoming)] = growing old → aging
+  - Senile: [senex (old) + ile (pertaining to / capable of)] = pertaining to old age → mentally weakened by age
+  - Senility: [senile (pertaining to old age; mentally weakened by age) + ity (state, quality, or condition)] = condition of old-age decline
+
+SEQUOR ("to follow")
+  - Obsequies: [ob (against / toward / completely) + sequor (to follow)] = followers after the dead → funeral rites; burial ceremonies
+  - Obsequious: [ob (against / toward / completely) + sequor (to follow) + ous (characterized by or full of)] = full of following, servilely attentive → fawning; submissive; self-ingratiating
+  - Sequel: [sequor (to follow) + el (little (diminutive))] = that which follows → continuation; later development
+  - Sequence: [sequor (to follow) + ence (state or quality of)] = act of following → proper order; succession
+  - Subsequent: [sub (under) + sequor (to follow)] = following after → later; coming afterward
+
+SIMILIS ("similar, like")
+  - Dissemblance: [dissemble (disguise what is true; conceal intentions; pretend ignorance; deceive) + ance (state or quality of)] = act of concealing reality → deception; concealment
+  - Dissemble: [dis (apart, away) + similis (similar, like)] = disguise what is true → conceal intentions; pretend ignorance; deceive
+  - Dissimulate: [dis (apart, away) + simulate (make similar; imitate; pretend; feign reality)] = pretend differently from reality → conceal true feelings; show opposite emotions; deceive by pretense
+  - Dissimulation: [dissimulate (pretend differently from reality; conceal true feelings; show opposite emotions; deceive by pretense) + ion (act, process, or result of)] = act of concealing real feelings → hypocrisy; emotional deception
+  - Dissimulator: [dissimulate (pretend differently from reality; conceal true feelings; show opposite emotions; deceive by pretense) + or (one who or person/thing that does)] = one who hides true feelings → pretender; deceiver
+  - Similar: [similis (similar, like)] = alike → resembling
+  - Similarity: [similis (similar, like) + ity (state, quality, or condition)] = state of being alike → resemblance
+  - Simulate: [Simulate (make similar; imitate; pretend; feign reality)] = simulo ← similis, make similar → imitate; pretend; feign reality
+  - Simulated: [simulate (make similar; imitate; pretend; feign reality) + ed (past or characterized by)] = made to resemble the real thing → artificial imitation
+  - Simulation: [simulate (make similar; imitate; pretend; feign reality) + ion (act, process, or result of)] = act of making something similar → imitation of reality; pretense; counterfeit appearance
+
+SOCIUS ("companion, associate")
+  - Asocial: [a (not, without) + social (relating to society)] = not social → avoiding social interaction
+  - Associate: [ad (to, toward) + socius (companion, associate)] = joined with companions → partner or colleague
+  - Social: [socius (companion, associate) + al (pertaining to or relating to)] = relating to companions or society, relating to society
+  - Society: [socius (companion, associate) + ety (state, quality, or condition)] = organized companionship → community of people
+  - Sociological: [sociology (study of society; science of social organization; science of social relationships) + ical (pertaining to or relating to)] = pertaining to social organization
+  - Sociologist: [socius (companion, associate) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of society
+  - Sociology: [socius (companion, associate) + logos (study, science, knowledge, word, reason, speech)] = study of society → science of social organization; science of social relationships
+
+SOMA ("body")
+  - Psychosomatic: [psyche (mind, soul, spirit) + soma (body)] = mind-body → condition involving interaction of mind and body
+  - Somatic: [soma (body) + ic (pertaining to or relating to)] = bodily → relating to the body
+
+SOPHOS ("wise, wisdom")
+  - Philosopher: [philein (to love) + sophos (wise, wisdom) + er (one who or person/thing that does)] = lover of wisdom → thinker
+  - Philosophy: [philein (to love) + sophos (wise, wisdom)] = love of wisdom → pursuit of knowledge and truth
+
+SOROR ("sister")
+  - Sorority: [soror (sister) + ity (state, quality, or condition)] = sisterhood → women's association; women's social organization; women's organization; women's social club
+
+SPECTO / SPICERE ("to look")
+  - Circumspect: [circum (around) + specto (to look)] = look around → cautious; careful before acting
+  - Circumspection: [circumspect (look around; cautious; careful before acting) + ion (act, process, or result of)] = caution → prudence
+  - Conspicuous: [con (with, together) + spicere (to look)] = easily seen → noticeable; obvious
+  - Inspect: [in (not, in, on, or into) + specto (to look)] = look into → examine carefully
+  - Inspection: [inspect (look into; examine carefully) + ion (act, process, or result of)] = careful examination
+  - Perspicacious: [per (through or thoroughly) + spicere (to look)] = look through → mentally sharp; insightful; astute
+  - Perspicaciousness: [perspicacious (look through; mentally sharp; insightful; astute) + ness (state or quality of being)] = quality of keen perception → intellectual insight
+  - Perspicacity: [perspicacious (look through; mentally sharp; insightful; astute) + ity (state, quality, or condition)] = keen insight → mental sharpness
+  - Perspicuity: [perspicuous (seen through clearly; clear; lucid; easily understood) + ity (state, quality, or condition)] = clarity → lucidity
+  - Perspicuous: [per (through or thoroughly) + spicere (to look)] = seen through clearly → clear; lucid; easily understood
+  - Prospect: [pro (forward, before, or in favor of) + specto (to look)] = look forward → future outlook; expectation
+  - Prospective: [pro (forward, before, or in favor of) + spective (looking)] = looking ahead → expected in the future
+  - Retrospect: [retro (backward) + specto (to look)] = look backward → review of the past
+  - Retrospection: [retrospect (look backward; review of the past) + ion (act, process, or result of)] = act of looking back → reflection on the past
+  - Retrospective: [retro (backward) + spective (looking)] = looking backward → concerned with past events
+  - Spectacle: [specto (to look)] = something looked at → impressive sight; show
+  - Spectator: [specto (to look) + ator (one who does)] = one who looks → observer; onlooker
+
+SPHYGMOS ("pulse")
+  - Sphygmomanometer: [sphygmos (pulse) + manometer (pressure gauge)] = pulse-pressure measure → blood-pressure apparatus
+
+STOA ("porch")
+  - Stoic: [stoa (porch)] = follower of the Stoic school → emotionally controlled person
+  - Stoical: [stoic (follower of the Stoic school; emotionally controlled person) + al (pertaining to or relating to)] = characterized by emotional control → enduring hardship calmly
+  - Stoically: [stoical (characterized by emotional control; enduring hardship calmly) + ly (in the manner of)] = without complaint → with endurance
+  - Stoicism: [stoic (follower of the Stoic school; emotionally controlled person) + ism (philosophy, belief, or system of)] = philosophy of self-control → endurance without complaint
+
+STREPO ("to make a noise")
+  - Obstreperous: [ob (against / toward / completely) + strepo (to make a noise) + ous (characterized by or full of)] = full of noisy opposition → unruly; boisterous; troublesome; unmanageable
+
+SUMMUS ("highest, utmost")
+  - Consummate (verb): [con (with or together) + summus (highest, utmost) + ate (to make, cause, or have the state of)] = bring to completion, bring to highest completion → finish; fulfill; complete
+  - Consummacy: [consummate (bring to completion) + acy (state, quality, or condition)] = highest degree of excellence, state of highest excellence → perfection; mastery; artistry
+  - Consummateness: [consummate (bring to completion) + ness (state or quality of being)] = quality of complete skill, quality of complete perfection → artistry; perfection; mastery
+  - Consummation: [consummate (bring to completion) + ion (act, process, or result of)] = act of completing → completion; fulfillment
+  - Sum: [summus (highest, utmost)] = total brought to highest whole → total amount
+  - Summit: [summus (highest, utmost)] = highest point → peak; top
+
+SYCOPHANT ("fig-shower → informer → flatterer")
+  - Sycophancy: [sycophant (fig-shower → informer → flatterer) + y (state, quality, or condition)] = behavior of a sycophant → servile flattery; toadyism
+  - Sycophant: [sykon (fig) + phanein (to show)] = fig-shower → informer; favor-seeker; bootlicker; toady
+  - Sycophantic: [sycophant (fig-shower → informer → flatterer) + ic (pertaining to or relating to)] = characterized by flattery → obsequious; bootlicking
+
+
+# T
+
+TACEO ("to be silent")
+  - Reticence: [reticent (inclined to keep silent; reserved; reluctant to reveal thoughts) + ence (state or quality of)] = habit of silence → reserve; unwillingness to disclose
+  - Reticency: [reticent (inclined to keep silent; reserved; reluctant to reveal thoughts) + ency (state or quality of)] = state of being reticent → restraint in speech
+  - Reticent: [re (again or back) + tic (from taceo) + ent (performing a particular action, or being in a particular state)] = inclined to keep silent → reserved; reluctant to reveal thoughts
+  - Tacit: [taceo (to be silent)] = left unsaid → implied; understood without words
+  - Tacitness: [tacit (silent) + ness (state or quality of being)] = quality of being unspoken → implied understanding
+  - Taciturn: [taceo (to be silent) + turn (silent)] = habitually silent → disinclined to conversation; uncommunicative person
+  - Taciturnity: [taciturn (habitually silent; disinclined to conversation; uncommunicative person) + ity (state, quality, or condition)] = state of habitual silence → reserve in speech
+
+TELE ("distance")
+  - Telegraph: [tele (distance) + graphein (to write)] = distance writing → long-distance written communication
+  - Telephone: [tele (distance) + phone (sound)] = distance sound → transmission of sound over distance
+  - Telescope: [tele (distance) + scope (instrument for viewing)] = distance viewing → instrument for seeing far away objects
+  - Television: [tele (distance) + vision (seeing / sight)] = distance seeing → viewing events from afar
+
+TEMPUS ("time")
+  - Contemporaneous: [con (with, together) + tempus (time)] = occurring at the same time → simultaneous
+  - Contemporary: [con (with, together) + tempus (time)] = with the same time → existing in the same period
+  - Temporal: [tempus (time) + al (pertaining to or relating to)] = relating to time
+  - Temporary: [tempus (time) + ary (relating to / place for)] = lasting for a time → not permanent
+  - Temporize: [tempus (time) + ize (to make, treat, or combine with)] = play for time → avoid commitment; delay action
+
+THANATOS ("death")
+  - Euthanasia: [eu (good, pleasant) + thanatos (death)] = good death → painless death; mercy killing
+
+THEOS ("God")
+  - Agnostic: [a (not, without) + gnostic (knowing)] = one who does not claim knowledge of God
+  - Agnosticism: [a (not, without) + gnosis (knowledge)] = without knowledge → belief that God's existence is unknowable
+  - Atheism: [a (not, without) + theos (God) + ism (philosophy, belief, or system of)] = belief that there is no God, doctrine denying God → belief that God does not exist
+  - Atheist: [a (not, without) + theos (God)] = without God → disbeliever in God
+  - Monotheism: [mono (one) + theos (God)] = one God → belief in one God
+  - Monotheist: [mono (one) + theist (believer in God)] = believer in one God
+  - Pantheism: [pan (all) + theos (God)] = God is everything → God identified with nature
+  - Pantheist: [pan (all) + theist (believer in God)] = believer in pantheism
+  - Polytheism: [poly (many, plural) + theos (God)] = many gods → belief in many gods
+  - Polytheist: [poly (many, plural) + theist (believer in God)] = believer in many gods
+  - Theism: [theos (God) + ism (philosophy, belief, or system of)] = belief in God
+  - Theist: [theos (God) + ist (one who practices or specializes in)] = believer in God
+  - Theologian: [theology (study of God; religious studies) + ian / theos (God) + logos (study, science, knowledge, word, reason, speech)] = student of religion, student of God → religious scholar; scholar of religion
+  - Theology: [theos (God) + logos (study, science, knowledge, word, reason, speech)] = study of God → religious studies
+
+THERME ("heat")
+  - Thermometer: [therme (heat) + metron (measure, measurement)] = heat measure → instrument measuring temperature
+
+TITILL ("to tickle")
+  - Titillate: [titill (to tickle) + ate (to make, cause, or have the state of)] = tickle → stimulate pleasantly; excite interest; delight
+  - Titillation: [titillate (tickle; stimulate pleasantly; excite interest; delight) + ion (act, process, or result of)] = pleasurable stimulation, act of tickling → excitement; pleasurable stimulation; mild sexual excitement
+
+TOME ("a cutting, cut, section")
+  - Anatomical: [anatomy (cutting up; dissection; bodily structure; dissection; study of bodily structure; bodily structure itself) + ical (pertaining to or relating to)] = pertaining to bodily structure
+  - Anatomy: [ana (up, through, apart) + tome (a cutting, cut, section)] = cutting up → dissection; bodily structure; dissection; study of bodily structure; bodily structure itself
+  - Appendectomy: [appendix (appendix) + ec (out) + tome (a cutting, cut, section)] = cutting out the appendix → surgical removal of appendix
+  - Atom: [a (not, without) + tome (a cutting, cut, section)] = not cut, indivisible particle → indivisible particle; originally thought to be smallest possible unit of matter
+  - Atomic: [atom (indivisible particle; indivisible particle; originally thought to be smallest possible unit of matter) + ic (pertaining to or relating to)] = pertaining to atoms
+  - Dichotomy: [dicha (in two) + tome (a cutting, cut, section)] = cut into two → division into two parts; bifurcation
+  - Entomological: [entomology (study of creatures "cut in"; science of insects) + ical (pertaining to or relating to)] = pertaining to insects
+  - Entomologist: [en (in / into) + tome (a cutting, cut, section) + ist (one who practices or specializes in)] = student of insects
+  - Entomology: [en (in / into) + tome (a cutting, cut, section) / en (cutting / insect) + tome (a cutting, cut, section) + logos (study, science, knowledge, word, reason, speech)] = insect study, study of creatures "cut in" → science of insects
+  - Hysterectomy: [hystera (uterus) + ec (out) + tome (a cutting, cut, section)] = cutting out the uterus → surgical removal of uterus
+  - Insect: [in (not, in, on, or into) + sectus (cut, to cut)] = cut into sections → segmented creature
+  - Mastectomy: [mastos (breast) + ec (out) + tome (a cutting, cut, section)] = cutting out the breast → surgical removal of breast
+  - Prostatectomy: [prostate (prostate) + ec (out) + tome (a cutting, cut, section)] = cutting out the prostate gland → surgical removal of prostate
+  - Tome: [tome (cutting or section)] = part cut from a whole → one volume of a larger work; very large or heavy book
+  - Tonsillectomy: [tonsil (tonsils) + ec (out) + tome (a cutting, cut, section)] = cutting out the tonsils → surgical removal of tonsils
+
+TREPIDO ("to tremble")
+  - Intrepid: [in (not, in, on, or into) + trepido (to tremble)] = not trembling → fearless; brave
+  - Intrepidity: [intrepid (not trembling; fearless; brave) + ity (state, quality, or condition)] = fearlessness → courage
+  - Trepidation: [trepido (to tremble) + ation (act, process, or result of)] = trembling → fear; anxiety; alarm
+
+TRIVIA / TRI-VIA ("three roads")
+  - Trivia: [tri (three) + via (road, way)] = common roadside knowledge → miscellaneous unimportant facts; trifles
+  - Trivial: [tri (three) + via (road, way)] = found at crossroads → commonplace; unimportant; insignificant
+  - Triviality: [trivial (common crossroads matter; commonplace; insignificant) + ity (state, quality, or condition)] = insignificant thing → trifle
+
+
+# U
+
+URBS ("city")
+  - Exurb: [ex (out) + urbs (city)] = outside the city → affluent area beyond suburbs
+  - Exurban: [ex (out) + urbs (city) + an (not, without)] = relating to exurbs
+  - Exurbanite: [exurban (relating to exurbs) + ite (one who lives in / resident)] = resident of an exurb
+  - Exurbia: [exurb (outside the city; affluent area beyond suburbs) + ia (state / condition / place)] = exurban life and culture
+  - Exurbs: [exurb (outside the city; affluent area beyond suburbs) + s (plural)] = regions beyond suburbs
+  - Interurban: [inter (between / among) + urbs (city) + an (not, without)] = between cities
+  - Intraurban: [intra (inside, within) + urbs (city) + an (not, without)] = within a city
+  - Suburb: [sub (under) + urbs (city)] = near-city settlement → residential community near a city
+  - Suburban: [sub (under) + urbs (city) + an (not, without)] = near the city → relating to suburbs
+  - Suburbanite: [suburban (near the city; relating to suburbs) + ite (one who lives in / resident)] = resident of a suburb
+  - Suburbia: [suburb (near-city settlement; residential community near a city) + ia (state / condition / place)] = collective suburbs → suburban life and culture
+  - Urban: [urbs (city) + an (not, without)] = relating to a city
+  - Urbane: [urbs (city) + ane (pertaining to)] = of the city → refined; polished; courteous; sophisticated
+  - Urbanity: [urbane (of the city; refined; polished; courteous; sophisticated) + ity (state, quality, or condition)] = city-bred polish → sophistication; courtesy; cultivation
+  - Urbanization: [urbanize (make city-like; develop urban characteristics) + ation (act, process, or result of)] = process of becoming urban
+  - Urbanize: [urban (city) + ize (to make, treat, or combine with)] = make city-like → develop urban characteristics
+
+URSUS ("bear")
+  - Ursine: [ursus (bear) + ine (like, similar to, characteristic of)] = like a bear → bearlike; rough; heavy
+
+UXOR ("wife")
+  - Uxorial: [uxor (wife) + ial (pertaining to or relating to)] = pertaining to a wife → wife-related
+  - Uxorious: [uxor (wife) + ious (characterized by / full of)] = wife-oriented → excessively devoted to wife; foolishly doting husband; doting husband
+
+
+# V
+
+VACILLO ("to sway, to swing back and forth")
+  - Vacillate: [vacillo (to sway, to swing back and forth) + ate (to make, cause, or have the state of)] = sway back and forth → waver; hesitate; be indecisive
+  - Vacillating: [vacillate (sway back and forth; waver; hesitate; be indecisive) + ing (action or process)] = wavering → uncertain; unable to decide
+  - Vacillation: [vacillate (sway back and forth; waver; hesitate; be indecisive) + ion (act, process, or result of)] = act of wavering → indecision; uncertainty
+  - Vacillatory: [vacillate (sway back and forth; waver; hesitate; be indecisive) + ory (relating to, serving for, or place for)] = characterized by wavering → indecisive; irresolute
+
+VEGETARE ("to grow, to live")
+  - Vegetable: [vegetare (to grow, to live) + able (capable of or fit for)] = growing thing → plant used as food
+  - Vegetate: [vegetare (to grow, to live)] = live like a plant → stagnate mentally; exist without activity
+  - Vegetation: [vegetare (to grow, to live) + ion (act, process, or result of)] = plant growth → plant life
+  - Vegetative: [vegetare (to grow, to live) + ive (having the nature of or tending to)] = relating to plantlike existence → inactive; stagnant
+
+VENTER / VENTRIS ("belly")
+  - Ventral: [ventris (belly) + al (pertaining to or relating to)] = relating to the belly → front side of an animal; anterior side
+  - Ventricle: [ventris (belly) + icle (little (diminutive))] = little belly → hollow chamber; chamber of heart or brain
+  - Ventricular: [ventricle (little belly; hollow chamber; chamber of heart or brain) + ar (relating to, like, or pertaining to)] = relating to a ventricle → chamber-like
+  - Ventriloquism: [venter (belly) + loquor (to speak) + ism (philosophy, belief, or system of)] = art of belly-speaking → voice illusion
+  - Ventriloquist: [venter (belly) + loquor (to speak) + ist (one who practices or specializes in)] = belly speaker → voice thrower
+
+VERBUM ("word")
+  - Verbal: [verbum (word) + al (pertaining to or relating to)] = relating to words → oral; spoken; linguistic
+  - Verbatim: [verba (words) + tim (by / at (adverbial suffix))] = word for word → exact wording
+  - Verbiage: [verb (word) + age (collection / state)] = mass of words → unnecessary language; wordiness; excessive language
+  - Verbose: [verbum (word) + ose (full of)] = full of words → wordy; using more words than necessary; long-winded
+  - Verbosity: [verbose (full of words; wordy; using more words than necessary; long-winded) + ity (state, quality, or condition)] = excessive wordiness, excess of words → over-elaborate speech; wordiness
+
+VERSO / VERTO ("to turn")
+  - Ambivert: [ambi (both, on both sides) + verto (to turn)] = turn both ways → inward and outward tendencies; balanced personality
+  - Extrovert: [extro (outside) + verto (to turn)] = turn outward → thoughts directed outward; socially outgoing person
+  - Introvert: [intro (inside, within) + verto (to turn)] = turn inward → thoughts directed inward; self-analytical person
+  - Versatile: [verto (to turn) + ile (pertaining to / capable of)] = able to turn easily → adaptable; skilled in many fields
+  - Versatilely: [versatile (able to turn easily; adaptable; skilled in many fields) + ly (in the manner of)] = in an adaptable manner
+  - Versatility: [versatile (able to turn easily; adaptable; skilled in many fields) + ity (state, quality, or condition)] = ability to turn to many activities → many-sided ability
+
+VETUS ("old")
+  - Inveteracy: [inveterate (grown old in a habit; long established; habitual; deeply rooted; deeply habituated; long-established) + acy (state, quality, or condition)] = quality of being long established, long-established habit → fixed habit; deeply rooted tendency
+  - Inveterate: [in (not, in, on, or into) + vetus (old)] = in old habit, grown old in a habit → long established; habitual; deeply rooted; deeply habituated; long-established
+  - Inveterateness: [inveterate (grown old in a habit; long established; habitual; deeply rooted; deeply habituated; long-established) + ness (state or quality of being)] = deeply rooted condition, condition of long habit → habitual persistence
+  - Veteran: [vetus (old)] = old experienced person → seasoned expert; old hand
+
+VIA ("road, way")
+  - Obviate: [ob (against / toward / completely) + via (road, way) + ate (to make, cause, or have the state of)] = remove from the road → prevent; make unnecessary
+  - Obviation: [obviate (remove from the road; prevent; make unnecessary) + ion (act, process, or result of)] = act of preventing → elimination of need; making unnecessary
+  - Obvious: [ob (against / toward / completely) + via (road, way)] = in the road → easily seen; evident
+  - Trivia: [tri (three) + via (road, way)] = common roadside talk → unimportant facts; trifles; trifling information
+  - Trivial: [tri (three) + via (road, way)] = at the meeting of three roads, common crossroads matter → commonplace; insignificant
+  - Triviality: [trivial (common crossroads matter; commonplace; insignificant) + ity (state, quality, or condition)] = insignificant thing → trifle
+  - Via: [via (road, way)] = road → route; by way of
+
+VICARIUS ("substitute, in place of another")
+  - Vicar: [vicarius (substitute, in place of another)] = substitute → representative; deputy
+  - Vicarious: [vicarius (substitute, in place of another)] = experienced through another → indirect participation; secondhand emotion
+  - Vicariously: [vicarious (experienced through another; indirect participation; secondhand emotion) + ly (in the manner of)] = in an indirect manner → through another person's experience
+
+VIR ("man")
+  - Virago: [vir (man) + ago (female suffix / drive)] = woman acting like a man → domineering woman; loud-mouthed female; shrew; scold
+  - Virile: [vir (man) + ile (pertaining to / capable of)] = manly → masculine; vigorous; strong
+  - Virility: [virile (manly; masculine; vigorous; strong) + ity (state, quality, or condition)] = manliness → masculine strength; vigor
+  - Virtue: [Virtue (excellence of a man; moral excellence; goodness)] = vir → virtus, excellence of a man → moral excellence; goodness
+  - Virtuosity: [virtuoso (person of excellence; highly skilled performer; master artist) + ity (state, quality, or condition)] = exceptional skill → artistic mastery
+  - Virtuoso: [virtus (excellence / virtue) + oso (one who)] = person of excellence → highly skilled performer; master artist
+  - Virtuous: [virtue (excellence of a man; moral excellence; goodness) + ous (characterized by or full of)] = possessing virtue → morally upright
+
+VIVO / VITA ("to live, life")
+  - Antivivisectionist: [anti (against, opposite) + vivisection (cutting a living creature; operation on live animals; scientific experimentation) + ist (one who practices or specializes in)] = opponent of vivisection
+  - Convivial: [con (with, together) + vivo (to live, life)] = live together → feast together; enjoy companionship; friendly and sociable
+  - Conviviality: [convivial (live together; feast together; enjoy companionship; friendly and sociable) + ity (state, quality, or condition)] = state of friendliness → good fellowship; sociability
+  - Devitalize: [de (down, away, from) + vital (pertaining to life; essential; indispensable; crucial) + ize (to make, treat, or combine with)] = remove life from → weaken; drain energy
+  - Revitalization: [re (again or back) + vital (pertaining to life; essential; indispensable; crucial) + ization (process of making)] = make alive again → restore vigor; renew strength
+  - Revitalize: [re (again or back) + vital (pertaining to life; essential; indispensable; crucial) + ize (to make, treat, or combine with)] = give life again → energize; rejuvenate
+  - Revival: [revive (live again; restore to life; restore energy) + al (pertaining to or relating to)] = act of bringing back to life → restoration; renewed interest
+  - Revive: [re (again or back) + vive (to live)] = live again → restore to life; restore energy
+  - Vital: [vita (to live, life) + al (pertaining to or relating to)] = pertaining to life → essential; indispensable; crucial
+  - Vitality: [vital (pertaining to life; essential; indispensable; crucial) + ity (state, quality, or condition)] = life force → vigor; energy
+  - Vivacious: [vivo (to live, life) + acious (inclined to / full of)] = full of life → lively; animated; energetic
+  - Vivaciousness: [vivacious (full of life; lively; animated; energetic) + ness (state or quality of being)] = quality of being lively → energy and enthusiasm
+  - Vivacity: [vivacious (full of life; lively; animated; energetic) + ity (state, quality, or condition)] = liveliness → animation; high spirits
+  - Vivid: [vivo (to live, life) + id (having the quality of)] = full of life → bright; intense; strikingly clear
+  - Vividness: [vivid (full of life; bright; intense; strikingly clear) + ness (state or quality of being)] = clarity and intensity → lifelike quality
+  - Viviparous: [vivi (alive / living) + parous (bearing / producing)] = producing live offspring → giving birth to living young
+  - Vivisection: [vivi (alive / living) + section (something cut off; division or segment; division; part)] = cutting a living creature → operation on live animals; scientific experimentation
+  - Vivisectionist: [vivisection (cutting a living creature; operation on live animals; scientific experimentation) + ist (one who practices or specializes in)] = one who practices vivisection
+
+VOLO ("to wish, to will")
+  - Benevolence: [benevolent (wishing good; kind-hearted; charitable) + ence (state or quality of)] = goodwill → kindness toward others
+  - Benevolent: [bene (good, well) + volo (to wish, to will)] = wishing good → kind-hearted; charitable
+  - Malevolence: [malevolent (wishing evil; ill-disposed; ill-will; desire to harm; hostile) + ence (state or quality of)] = ill will → hostility
+  - Malevolent: [mal (bad, evil) + volo (to wish, to will)] = wishing evil → ill-disposed; ill-will; desire to harm; hostile
+  - Volition: [volo (to wish, to will) + ition (act or state of)] = act of wishing → will; conscious choice
+
+VOLVO / VOLVERE ("to roll")
+  - Evolution: [e (out, from) + volvere (to roll)] = roll out → gradual unfolding; gradual development
+  - Evolutionary: [evolution (roll out; gradual unfolding; gradual development) + ary (relating to / place for)] = relating to gradual development → developing step by step
+  - Revolution: [re (again or back) + volvere (to roll) + tion (act / process / result of)] = complete turning around → radical change; overthrow of existing order
+  - Revolutionary: [revolution (complete turning around; radical change; overthrow of existing order) + ary (relating to / place for)] = relating to revolution → radically changing; innovative
+  - Revolve: [re (again or back) + volvere (to roll)] = roll back → turn round and round; rotate
+  - Volubility: [voluble (rolling easily; fluent; rapid speaker; fluent in speech; talkative) + ity (state, quality, or condition)] = fluency of speech, ease of rolling words → verbal smoothness; fluency
+  - Voluble: [volvere (to roll) + ible (capable of or fit for)] = words rolling easily, rolling easily → fluent; rapid speaker; fluent in speech; talkative
+
+VORARE ("to devour")
+  - Carnivore: [carnis (flesh, meat) + vorare (to devour)] = flesh devourer → meat-eating animal
+  - Carnivorous: [carnis (flesh, meat) + vorare (to devour)] = devouring flesh → meat-eating
+  - Devour: [de (down, away, from) + vorare (to devour)] = consume completely → eat eagerly; consume rapidly
+  - Herbivorous: [herba (herb / plant) + vorare (to devour)] = devouring plants → plant-eating
+  - Omnivore: [omnis (all, every) + vorare (to devour)] = eater of everything → animal eating plants and animals
+  - Omnivorous: [omnis (all, every) + vorare (to devour)] = devouring everything → eating all kinds of food
+  - Voracious: [vorare (to devour) + ous (characterized by or full of)] = inclined to devour → ravenously hungry; greedy
+  - Voracity: [voracious (inclined to devour; ravenously hungry; greedy) + ity (state, quality, or condition)] = excessive appetite → greediness
+
+VOX / VOCIS ("voice")
+  - Equivocal: [equ (equal) + vox (voice)] = equally voiced → ambiguous; open to multiple interpretations
+  - Equivocate: [equ (equal) + vox (voice) + ate (to make, cause, or have the state of)] = use equally voiced meanings → speak ambiguously; evade commitment
+  - Magnavox: [magnus (great, large) + vox (voice)] = great voice → amplified sound
+  - Vocal: [vox (voice)] = voice-related, relating to voice → spoken; oral; expressive by voice
+  - Vocalist: [vocal (relating to voice; spoken; oral; expressive by voice) + ist (one who practices or specializes in)] = voice performer → singer
+  - Vocalize: [vocal (relating to voice; spoken; oral; expressive by voice) + ize (to make, treat, or combine with)] = make vocal → utter by voice; sing
+  - Vociferate: [vox (voice) + fero (to carry / to bear) + ate (to make, cause, or have the state of)] = to carry forth the voice → shout loudly; yell vehemently
+  - Vociferation: [vociferate (to carry forth the voice; shout loudly; yell vehemently) + ion (act, process, or result of)] = loud shouting → clamorous outcry
+  - Vociferous: [vox (voice) + fero (to carry / to bear)] = carry the voice, carrying the voice → loud; noisy; clamorous
+
+VULPES ("fox")
+  - Vulpine: [vulpes (fox) + ine (like, similar to, characteristic of)] = like a fox → foxlike; crafty; cunning; shrewd
+
+
+# W
+
+*(No roots)*
+
+# X
+
+*(No roots)*
+
+# Y
+
+*(No roots)*
+
+# Z
+
+ZOION ("animal")
+  - Zodiac: [zoion (animal)] = circle of little animals → belt of constellations named after animals
+  - Zoological: [zoology (study of animals; science of animal life) + ical (pertaining to or relating to)] = pertaining to animal science
+  - Zoologist: [zoion (animal) + logos (study, science, knowledge, word, reason, speech) + ist (one who practices or specializes in)] = student of animal life
+  - Zoology: [zoion (animal) + logos (study, science, knowledge, word, reason, speech)] = study of animals → science of animal life
+

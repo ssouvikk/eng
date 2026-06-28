@@ -1,0 +1,14 @@
+QUEROR ("to complain") {
+
+    Querulous : {
+        Breakdown: Querulous = queror (to complain) + ulous
+        Synthesis: "to complain" + "ulous" -> "full of complaints" (representing nagging, whining, fretful, or dissatisfied).
+        Literal: full of complaints
+        Semantic:
+            → nagging
+            → whining
+            → fretful
+            → dissatisfied
+    },
+
+}

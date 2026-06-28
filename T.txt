@@ -1,0 +1,487 @@
+TACEO ("to be silent") {
+
+    Reticence : {
+        Breakdown: Reticence = reticent (inclined to keep silent; reserved; reluctant to reveal thoughts) + ence (state or quality of)
+        Synthesis: "inclined to keep silent" + "state or quality of" -> "habit of silence" (representing reserve, or unwillingness to disclose).
+        Literal: habit of silence
+        Semantic:
+            → reserve
+            → unwillingness to disclose
+    },
+
+    Reticency : {
+        Breakdown: Reticency = reticent (inclined to keep silent; reserved; reluctant to reveal thoughts) + ency (state or quality of)
+        Synthesis: "inclined to keep silent" + "state or quality of" -> "state of being reticent" (representing restraint in speech).
+        Literal: state of being reticent
+        Semantic:
+            → restraint in speech
+    },
+
+    Reticent : {
+        Breakdown: Reticent = re (again or back) + tic (from taceo) + ent
+        Synthesis: "again or back" + "from taceo" + "ent" -> "inclined to keep silent" (representing reserved, or reluctant to reveal thoughts).
+        Literal: inclined to keep silent
+        Semantic:
+            → reserved
+            → reluctant to reveal thoughts
+    },
+
+    Tacit : {
+        Breakdown: Tacit = taceo (to be silent)
+        Synthesis: "to be silent" -> "left unsaid" (representing implied, or understood without words).
+        Literal: left unsaid
+        Semantic:
+            → implied
+            → understood without words
+    },
+
+    Tacitness : {
+        Breakdown: Tacitness = tacit (silent) + ness (state or quality of being)
+        Synthesis: "silent" + "state or quality of being" -> "quality of being unspoken" (representing implied understanding).
+        Literal: quality of being unspoken
+        Semantic:
+            → implied understanding
+    },
+
+    Taciturn : {
+        Breakdown: Taciturn = taceo (to be silent) + turn
+        Synthesis: "to be silent" + "turn" -> "habitually silent" (representing disinclined to conversation, or uncommunicative person).
+        Literal: habitually silent
+        Semantic:
+            → disinclined to conversation
+            → uncommunicative person
+    },
+
+    Taciturnity : {
+        Breakdown: Taciturnity = taciturn (habitually silent; disinclined to conversation; uncommunicative person) + ity (state, quality, or condition)
+        Synthesis: "habitually silent" + "state" -> "state of habitual silence" (representing reserve in speech).
+        Literal: state of habitual silence
+        Semantic:
+            → reserve in speech
+    },
+
+}
+
+TELE ("distance") {
+
+    Telegraph : {
+        Breakdown: Telegraph = tele (distance) + graphein (to write)
+        Synthesis: "distance" + "to write" -> "distance writing" (representing long-distance written communication).
+        Literal: distance writing
+        Semantic:
+            → long-distance written communication
+    },
+
+    Telephone : {
+        Breakdown: Telephone = tele (distance) + phone (sound)
+        Synthesis: "distance" + "sound" -> "distance sound" (representing transmission of sound over distance).
+        Literal: distance sound
+        Semantic:
+            → transmission of sound over distance
+    },
+
+    Telescope : {
+        Breakdown: Telescope = tele (distance) + scope
+        Synthesis: "distance" + "scope" -> "distance viewing" (representing instrument for seeing far away objects).
+        Literal: distance viewing
+        Semantic:
+            → instrument for seeing far away objects
+    },
+
+    Television : {
+        Breakdown: Television = tele (distance) + vision
+        Synthesis: "distance" + "vision" -> "distance seeing" (representing viewing events from afar).
+        Literal: distance seeing
+        Semantic:
+            → viewing events from afar
+    },
+
+}
+
+TEMPUS ("time") {
+
+    Contemporaneous : {
+        Breakdown: Contemporaneous = con (with, together) + tempus (time)
+        Synthesis: "with" + "time" -> "occurring at the same time" (representing simultaneous).
+        Literal: occurring at the same time
+        Semantic:
+            → simultaneous
+    },
+
+    Contemporary : {
+        Breakdown: Contemporary = con (with, together) + tempus (time)
+        Synthesis: "with" + "time" -> "with the same time" (representing existing in the same period).
+        Literal: with the same time
+        Semantic:
+            → existing in the same period
+    },
+
+    Temporal : {
+        Breakdown: Temporal = tempus (time) + al (pertaining to or relating to)
+        Synthesis: "time" + "pertaining to or relating to" -> "relating to time".
+        Literal: relating to time
+    },
+
+    Temporary : {
+        Breakdown: Temporary = tempus (time) + ary
+        Synthesis: "time" + "ary" -> "lasting for a time" (representing not permanent).
+        Literal: lasting for a time
+        Semantic:
+            → not permanent
+    },
+
+    Temporize : {
+        Breakdown: Temporize = tempus (time) + ize (to make, treat, or combine with)
+        Synthesis: "time" + "to make" -> "play for time" (representing avoid commitment, or delay action).
+        Literal: play for time
+        Semantic:
+            → avoid commitment
+            → delay action
+    },
+
+}
+
+THANATOS ("death") {
+
+    Euthanasia : {
+        Breakdown: Euthanasia = eu (good, pleasant) + thanatos (death)
+        Synthesis: "good" + "death" -> "good death" (representing painless death, or mercy killing).
+        Literal: good death
+        Semantic:
+            → painless death
+            → mercy killing
+    },
+
+}
+
+THEOS ("God") {
+
+    Agnostic : {
+        Breakdown: Agnostic = a (not, without) + gnostic
+        Synthesis: "not" + "gnostic" -> "one who does not claim knowledge of God".
+        Literal: one who does not claim knowledge of God
+    },
+
+    Agnosticism : {
+        Breakdown: Agnosticism = a (not, without) + gnosis (knowledge)
+        Synthesis: "not" + "knowledge" -> "without knowledge" (representing belief that God's existence is unknowable).
+        Literal: without knowledge
+        Semantic:
+            → belief that God's existence is unknowable
+    },
+
+    Atheism : {
+        Breakdown: Atheism = a (not, without) + theos (God) + ism (philosophy, belief, or system of)
+        Synthesis: "not" + "God" + "philosophy" -> "belief that there is no God" (representing doctrine denying God, or belief that God does not exist).
+        Literal: belief that there is no God
+        Semantic:
+            → doctrine denying God
+            → belief that God does not exist
+    },
+
+    Atheist : {
+        Breakdown: Atheist = a (not, without) + theos (God)
+        Synthesis: "not" + "God" -> "without God" (representing disbeliever in God).
+        Literal: without God
+        Semantic:
+            → disbeliever in God
+    },
+
+    Monotheism : {
+        Breakdown: Monotheism = mono (one) + theos (God)
+        Synthesis: "one" + "God" -> "one God" (representing belief in one God).
+        Literal: one God
+        Semantic:
+            → belief in one God
+    },
+
+    Monotheist : {
+        Breakdown: Monotheist = mono (one) + theist (believer in God)
+        Synthesis: "one" + "believer in God" -> "believer in one God".
+        Literal: believer in one God
+    },
+
+    Pantheism : {
+        Breakdown: Pantheism = pan (all) + theos (God)
+        Synthesis: "all" + "God" -> "God is everything" (representing God identified with nature).
+        Literal: God is everything
+        Semantic:
+            → God identified with nature
+    },
+
+    Pantheist : {
+        Breakdown: Pantheist = pan (all) + theist (believer in God)
+        Synthesis: "all" + "believer in God" -> "believer in pantheism".
+        Literal: believer in pantheism
+    },
+
+    Polytheism : {
+        Breakdown: Polytheism = poly (many, plural) + theos (God)
+        Synthesis: "many" + "God" -> "many gods" (representing belief in many gods).
+        Literal: many gods
+        Semantic:
+            → belief in many gods
+    },
+
+    Polytheist : {
+        Breakdown: Polytheist = poly (many, plural) + theist (believer in God)
+        Synthesis: "many" + "believer in God" -> "believer in many gods".
+        Literal: believer in many gods
+    },
+
+    Theism : {
+        Breakdown: Theism = theos (God) + ism (philosophy, belief, or system of)
+        Synthesis: "God" + "philosophy" -> "belief in God".
+        Literal: belief in God
+    },
+
+    Theist : {
+        Breakdown: Theist = theos (God) + ist (one who practices or specializes in)
+        Synthesis: "God" + "one who practices or specializes in" -> "believer in God".
+        Literal: believer in God
+    },
+
+    Theologian : {
+        Breakdown: Theologian = theology (study of God; religious studies) + ian / theos (God) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "study of God" + "God" + "study" -> "student of religion" (representing theos + logos, student of God, religious scholar, or scholar of religion).
+        Literal: student of religion
+        Semantic:
+            → theos + logos
+            → student of God
+            → religious scholar
+            → scholar of religion
+    },
+
+    Theology : {
+        Breakdown: Theology = theos (God) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "God" + "study" -> "study of God" (representing religious studies).
+        Literal: study of God
+        Semantic:
+            → religious studies
+    },
+
+}
+
+THERME ("heat") {
+
+    Thermometer : {
+        Breakdown: Thermometer = therme (heat) + metron (measure, measurement)
+        Synthesis: "heat" + "measure" -> "heat measure" (representing instrument measuring temperature).
+        Literal: heat measure
+        Semantic:
+            → instrument measuring temperature
+    },
+
+}
+
+TITILL ("to tickle") {
+
+    Titillate : {
+        Breakdown: Titillate = titill (to tickle) + ate (to make, cause, or have the state of)
+        Synthesis: "to tickle" + "to make" -> "tickle" (representing stimulate pleasantly, excite interest, or delight).
+        Literal: tickle
+        Semantic:
+            → stimulate pleasantly
+            → excite interest
+            → delight
+    },
+
+    Titillation : {
+        Breakdown: Titillation = titillate (tickle; stimulate pleasantly; excite interest; delight) + ion (act, process, or result of)
+        Synthesis: "tickle" + "act" -> "pleasurable stimulation" (representing act of tickling, excitement, pleasurable stimulation, or mild sexual excitement).
+        Literal: pleasurable stimulation
+        Semantic:
+            → act of tickling
+            → excitement
+            → pleasurable stimulation
+            → mild sexual excitement
+    },
+
+}
+
+TOME ("a cutting", "cut", "section") {
+
+    Anatomical : {
+        Breakdown: Anatomical = anatomy (cutting up; dissection; bodily structure; dissection; study of bodily structure; bodily structure itself) + ical (pertaining to or relating to)
+        Synthesis: "cutting up" + "pertaining to or relating to" -> "pertaining to bodily structure".
+        Literal: pertaining to bodily structure
+    },
+
+    Anatomy : {
+        Breakdown: Anatomy = ana (up, through, apart) + tome (a cutting, cut, section)
+        Synthesis: "up" + "a cutting" -> "cutting up" (representing dissection; bodily structure, dissection, study of bodily structure, or bodily structure itself).
+        Literal: cutting up
+        Semantic:
+            → dissection; bodily structure
+            → dissection
+            → study of bodily structure
+            → bodily structure itself
+    },
+
+    Appendectomy : {
+        Breakdown: Appendectomy = appendix + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "appendix" + "out" + "a cutting" -> "cutting out the appendix" (representing surgical removal of appendix).
+        Literal: cutting out the appendix
+        Semantic:
+            → surgical removal of appendix
+    },
+
+    Atom : {
+        Breakdown: Atom = a (not, without) + tome (a cutting, cut, section)
+        Synthesis: "not" + "a cutting" -> "not cut" (representing indivisible particle, indivisible particle, or originally thought to be smallest possible unit of matter).
+        Literal: not cut
+        Semantic:
+            → indivisible particle
+            → indivisible particle
+            → originally thought to be smallest possible unit of matter
+    },
+
+    Atomic : {
+        Breakdown: Atomic = atom (indivisible particle; indivisible particle; originally thought to be smallest possible unit of matter) + ic (pertaining to or relating to)
+        Synthesis: "indivisible particle" + "pertaining to or relating to" -> "pertaining to atoms".
+        Literal: pertaining to atoms
+    },
+
+    Dichotomy : {
+        Breakdown: Dichotomy = dicha (in two) + tome (a cutting, cut, section)
+        Synthesis: "in two" + "a cutting" -> "cut into two" (representing division into two parts, or bifurcation).
+        Literal: cut into two
+        Semantic:
+            → division into two parts
+            → bifurcation
+    },
+
+    Entomological : {
+        Breakdown: Entomological = entomology (study of creatures "cut in"; science of insects) + ical (pertaining to or relating to)
+        Synthesis: "study of creatures "cut in" + "pertaining to or relating to" -> "pertaining to insects".
+        Literal: pertaining to insects
+    },
+
+    Entomologist : {
+        Breakdown: Entomologist = en + tome (a cutting, cut, section) + ist (one who practices or specializes in)
+        Synthesis: "en" + "a cutting" + "one who practices or specializes in" -> "student of insects".
+        Literal: student of insects
+    },
+
+    Entomology : {
+        Breakdown: Entomology = en + tome (a cutting, cut, section) / en + tome (a cutting, cut, section) + logos (study, science, knowledge, word, reason, speech)
+        Synthesis: "en" + "tome (a cutting, cut, section) / en" + "a cutting" + "study" -> "en + tome + logos" (representing insect study, study of creatures "cut in", or science of insects).
+        Literal: en + tome + logos
+        Semantic:
+            → insect study
+            → study of creatures "cut in"
+            → science of insects
+    },
+
+    Hysterectomy : {
+        Breakdown: Hysterectomy = hystera + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "hystera" + "out" + "a cutting" -> "cutting out the uterus" (representing surgical removal of uterus).
+        Literal: cutting out the uterus
+        Semantic:
+            → surgical removal of uterus
+    },
+
+    Insect : {
+        Breakdown: Insect = in (not, in, on, or into) + sectus (cut, to cut)
+        Synthesis: "not" + "cut" -> "cut into sections" (representing segmented creature).
+        Literal: cut into sections
+        Semantic:
+            → segmented creature
+    },
+
+    Mastectomy : {
+        Breakdown: Mastectomy = mastos + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "mastos" + "out" + "a cutting" -> "cutting out the breast" (representing surgical removal of breast).
+        Literal: cutting out the breast
+        Semantic:
+            → surgical removal of breast
+    },
+
+    Prostatectomy : {
+        Breakdown: Prostatectomy = prostate + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "prostate" + "out" + "a cutting" -> "cutting out the prostate gland" (representing surgical removal of prostate).
+        Literal: cutting out the prostate gland
+        Semantic:
+            → surgical removal of prostate
+    },
+
+    Tome : {
+        Breakdown: Tome = tome (cutting or section)
+        Synthesis: "cutting or section" -> "part cut from a whole" (representing one volume of a larger work, or very large or heavy book).
+        Literal: part cut from a whole
+        Semantic:
+            → one volume of a larger work
+            → very large or heavy book
+    },
+
+    Tonsillectomy : {
+        Breakdown: Tonsillectomy = tonsil + ec (out) + tome (a cutting, cut, section)
+        Synthesis: "tonsil" + "out" + "a cutting" -> "cutting out the tonsils" (representing surgical removal of tonsils).
+        Literal: cutting out the tonsils
+        Semantic:
+            → surgical removal of tonsils
+    },
+
+}
+
+TREPIDO ("to tremble") {
+
+    Intrepid : {
+        Breakdown: Intrepid = in (not, in, on, or into) + trepido (to tremble)
+        Synthesis: "not" + "to tremble" -> "not trembling" (representing fearless, or brave).
+        Literal: not trembling
+        Semantic:
+            → fearless
+            → brave
+    },
+
+    Intrepidity : {
+        Breakdown: Intrepidity = intrepid (not trembling; fearless; brave) + ity (state, quality, or condition)
+        Synthesis: "not trembling" + "state" -> "fearlessness" (representing courage).
+        Literal: fearlessness
+        Semantic:
+            → courage
+    },
+
+    Trepidation : {
+        Breakdown: Trepidation = trepido (to tremble) + ation (act, process, or result of)
+        Synthesis: "to tremble" + "act" -> "trembling" (representing fear, anxiety, or alarm).
+        Literal: trembling
+        Semantic:
+            → fear
+            → anxiety
+            → alarm
+    },
+
+}
+
+TRIVIA / TRI-VIA ("three roads") {
+
+    Trivia : {
+        Breakdown: Trivia = tri (three) + via (road, way)
+        Synthesis: "three" + "road" -> "common roadside knowledge" (representing miscellaneous unimportant facts, or trifles).
+        Literal: common roadside knowledge
+        Semantic:
+            → miscellaneous unimportant facts
+            → trifles
+    },
+
+    Trivial : {
+        Breakdown: Trivial = tri (three) + via (road, way)
+        Synthesis: "three" + "road" -> "found at crossroads" (representing commonplace, unimportant, or insignificant).
+        Literal: found at crossroads
+        Semantic:
+            → commonplace
+            → unimportant
+            → insignificant
+    },
+
+    Triviality : {
+        Breakdown: Triviality = trivial (common crossroads matter; commonplace; insignificant) + ity (state, quality, or condition)
+        Synthesis: "common crossroads matter" + "state" -> "insignificant thing" (representing trifle).
+        Literal: insignificant thing
+        Semantic:
+            → trifle
+    },
+
+}

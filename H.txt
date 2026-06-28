@@ -1,0 +1,105 @@
+HARMONIA ("harmony", "music") {
+
+    Philharmonic : {
+        Breakdown: Philharmonic = philein (to love) + harmonia (harmony, music)
+        Synthesis: "to love" + "harmony" -> "love of harmony" (representing devotion to music, or musical society/orchestra).
+        Literal: love of harmony
+        Semantic:
+            → devotion to music
+            → musical society/orchestra
+    },
+
+}
+
+HORA ("hour") {
+
+    Horologist : {
+        Breakdown: Horologist = hora (hour) + logist
+        Synthesis: "hour" + "logist" -> "student of timekeeping" (representing clock expert).
+        Literal: student of timekeeping
+        Semantic:
+            → clock expert
+    },
+
+    Horology : {
+        Breakdown: Horology = hora (hour) + logy (study, science, knowledge, word, reason, speech)
+        Synthesis: "hour" + "study" -> "study of timekeeping" (representing science of clocks and watches).
+        Literal: study of timekeeping
+        Semantic:
+            → science of clocks and watches
+    },
+
+    Horometer : {
+        Breakdown: Horometer = hora (hour) + meter (measure)
+        Synthesis: "hour" + "measure" -> "measure of time" (representing time-measuring instrument).
+        Literal: measure of time
+        Semantic:
+            → time-measuring instrument
+    },
+
+}
+
+HYPER (over, above) {
+
+    Hypertension : {
+        Breakdown: Hypertension = hyper (over, above) + tension
+        Synthesis: "over" + "tension" -> "high pressure" (representing abnormally high blood pressure).
+        Literal: high pressure
+        Semantic:
+            → abnormally high blood pressure
+    },
+
+    Hypertensive : {
+        Breakdown: Hypertensive = hyper (over, above) + tensive
+        Synthesis: "over" + "tensive" -> "having high blood pressure".
+        Literal: having high blood pressure
+    },
+
+}
+
+HYPO ("under, below") {
+
+    Hypochondria : {
+        Breakdown: Hypochondria = hypo (under, below) + chondria
+        Synthesis: "under" + "chondria" -> "morbid anxiety about health" (representing condition beneath cartilage, health obsession, morbid anxiety about health, or imaginary illness obsession).
+        Literal: morbid anxiety about health
+        Semantic:
+            → condition beneath cartilage
+            → health obsession
+            → morbid anxiety about health
+            → imaginary illness obsession
+    },
+
+    Hypochondriac : {
+        Breakdown: Hypochondriac = hypo (under, below) + chondros / hypo (under, below) + chondriac
+        Synthesis: "under" + "under" + "chondriac" -> "beneath the cartilage" (representing hypo + chondriac, person obsessed with disease, person obsessed with illness, sufferer of imaginary ailments, or sufferer from imaginary ailments).
+        Literal: beneath the cartilage
+        Semantic:
+            → hypo + chondriac
+            → person obsessed with disease
+            → person obsessed with illness
+            → sufferer of imaginary ailments
+            → sufferer from imaginary ailments
+    },
+
+    Hypochondriacal : {
+        Breakdown: Hypochondriacal = hypochondria (condition beneath cartilage; health obsession; morbid anxiety about health; imaginary illness obsession) + al (pertaining to or relating to)
+        Synthesis: "condition beneath cartilage" + "pertaining to or relating to" -> "excessively concerned with health".
+        Literal: excessively concerned with health
+    },
+
+    Hypotension : {
+        Breakdown: Hypotension = hypo (under, below) + tension
+        Synthesis: "under" + "tension" -> "low pressure" (representing abnormally low blood pressure).
+        Literal: low pressure
+        Semantic:
+            → abnormally low blood pressure
+    },
+
+    Hypotensive : {
+        Breakdown: Hypotensive = hypo (under, below) + tensive
+        Synthesis: "under" + "tensive" -> "having low blood pressure".
+        Literal: having low blood pressure
+    },
+
+}
