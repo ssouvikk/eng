@@ -1,0 +1,151 @@
+==========================================================================
+VINC/VICT → conquer, overcome (conquer, victor, overcome, defeat, victory)
+==========================================================================
+
+invincible → unconquerable; unbeatable
+invincibility → unconquerable nature
+conquer → overcome by force or victory
+conqueror → one who conquers
+conquerable → capable of being conquered
+conquered → overcome by force
+evince → reveal the presence of; show clearly
+evident → clearly seen
+victor → winner
+victorious → triumphant
+victory → triumph
+victimize → make a victim of
+victim → one who suffers
+convince → persuade strongly
+convincing → persuasive
+conviction → firm belief
+convict → someone found guilty of a crime
+vanquish → conquer or defeat
+victual → provision of food
+victuals → provisions
+
+
+invincible : {
+    in (not) + vinc (conquer) + ible (able)
+    "not able to be conquered"
+        → literal: impossible to defeat
+        → actual: unconquerable; unbeatable
+}
+
+invincibility : {
+    invincible + ity (state/quality)
+    "state of being unconquerable"
+        → literal: quality of being impossible to defeat
+        → actual: unconquerable nature
+}
+
+conquer : {
+    con (thoroughly) + quer (seek out/attack)
+    "attack thoroughly"
+        → literal: seek out and overcome
+        → actual: defeat; overcome by force
+}
+
+conqueror : {
+    conquer + or (one who)
+    "one who conquers"
+        → literal: one who thoroughly defeats
+        → actual: winner; conqueror
+}
+
+conquerable : {
+    conquer + able (capable of)
+    "capable of being conquered"
+        → literal: able to be defeated
+        → actual: capable of being overcome
+}
+
+conquered : {
+    conquer + ed (past tense)
+    "was conquered"
+        → literal: was defeated
+        → actual: overcome by force
+}
+
+victor : {
+    vict (conquer) + or (one who)
+    "one who conquers"
+        → literal: one who defeats
+        → actual: winner
+}
+
+victorious : {
+    victor (winner) + ious (full of)
+    "full of victory"
+        → literal: characterized by winning
+        → actual: triumphant
+}
+
+victory : {
+    vict (conquer) + ory (result/state)
+    "state of having conquered"
+        → literal: result of conquest
+        → actual: triumph
+}
+
+victimize : {
+    victim (one who suffers) + ize (make)
+    "make a victim"
+        → literal: make someone suffer
+        → actual: make a victim of
+}
+
+victim : {
+    vict (conquer) + im
+    "one who is conquered"
+        → literal: one who is defeated
+        → actual: sufferer
+}
+
+convince : {
+    con (thoroughly) + vinc (conquer) + e
+    "thoroughly overcome by argument"
+        → literal: conquer with reasoning
+        → actual: persuade strongly
+}
+
+convincing : {
+    convince + ing (causing)
+    "causing to be conquered"
+        → literal: causing to be persuaded
+        → actual: persuasive
+}
+
+conviction : {
+    convince + tion (state/act)
+    "state of being convinced"
+        → literal: state of being persuaded
+        → actual: firm belief
+}
+
+convict : {
+    con (thoroughly) + vict (conquer/prove guilty)
+    "prove thoroughly guilty"
+        → literal: overcome with proof of guilt
+        → actual: find guilty
+}
+
+vanquish : {
+    van (empty) + quish (conquer) → from OF 
+    "conquer and empty"
+        → literal: conquer to the point of emptiness
+        → actual: defeat decisively
+}
+
+victual : {
+    vinc (nourish) + ual
+    "that which nourishes"
+        → literal: provider of food
+        → actual: food provision
+}
+
+victuals : {
+    victual + s
+    "provisions"
+        → literal: food supplies
+        → actual: provisions
+}
