@@ -1,8 +1,14 @@
 ======================================================
-GYNE-      → woman, female
-MISO-      → hatred, dislike
-LOGY       → study, science
-LOGIST     → specialist, practitioner
+GYNE-       → woman, female
+GAMY        → marriage, union
+MISO-       → hatred, dislike
+MONO-       → one, single
+BI-         → two
+POLY-       → many, multiple
+ANDR-       → man, male
+LOGY         → study, science
+LOGIST       → specialist, practitioner
+ASCET-      → discipline, rigorous self-denial
 ======================================================
 
 GYNECOLOGY → study of female ailments and reproductive health
@@ -10,20 +16,16 @@ GYNECOLOGIST → specialist in female disorders
 MISOGYNY → hatred of women
 MISOGYNOUS → characterized by hatred of women
 MISOGYNISTIC → showing or expressing hatred of women
-Monogamy: System of one marriage
 
-Bigamy: Illegal plurality of marriages
+MONOGAMY → system of one marriage
+BIGAMY → illegal plurality of marriages
+POLYGAMY → multiple marriages
+POLYGYNY → one husband with multiple wives
+POLYANDRY → one wife with multiple husbands
+MISOGAMY → hatred of marriage
 
-Polygamy: Multiple marriages
-
-Polygyny: Multiple wives
-
-Polyandry: Multiple husbands
-
-Misogamy: Hatred of marriage
-Asceticism: Practice of spiritual perfection through self-denial
-
-Ascetic: Person leading austere life
+ASCETICISM → practice of spiritual perfection through self-denial
+ASCETIC → person leading an austere life
 
 ======================================================
 
@@ -66,3 +68,67 @@ MISOGYNISTIC : {
         → expressing prejudice against women
         → exhibiting misogynous attitudes or behavior
 }
+
+MONOGAMY : {
+    mono (one) + gamy (marriage)
+    semantic :
+        → system of one marriage
+        → having only one spouse at a time
+        → exclusive marital union
+}
+
+BIGAMY : {
+    bi (two) + gamy (marriage)
+    semantic :
+        → illegal plurality of marriages
+        → marrying a second person while already married
+        → unlawful dual marriage
+}
+
+POLYGAMY : {
+    poly (many) + gamy (marriage)
+    semantic :
+        → multiple marriages
+        → practice of having more than one spouse
+}
+
+POLYGYNY : {
+    poly (many) + gyne (woman)
+    semantic :
+        → one husband with multiple wives
+        → form of polygamy involving several women
+        → plurality of wives
+}
+
+POLYANDRY : {
+    poly (many) + andr (man)
+    semantic :
+        → one wife with multiple husbands
+        → form of marriage involving several men
+        → plurality of husbands
+}
+
+MISOGAMY : {
+    miso (hatred) + gamy (marriage)
+    semantic :
+        → hatred of marriage
+        → aversion to matrimony
+        → opposition to marital union
+}
+
+ASCETICISM : {
+    ascet (discipline, exercise) + ism (practice, doctrine)
+    semantic :
+        → practice of spiritual perfection through self-denial
+        → disciplined renunciation of worldly pleasures
+        → austere religious lifestyle
+}
+
+ASCETIC : {
+    ascet (discipline, exercise) + ic (person, relating to)
+    semantic :
+        → person leading an austere life
+        → one who practices self-denial
+        → individual devoted to spiritual discipline
+}
+
