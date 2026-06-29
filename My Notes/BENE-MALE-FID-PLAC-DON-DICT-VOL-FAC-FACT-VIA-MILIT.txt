@@ -1,0 +1,294 @@
+======================================================
+BENE-          → good, well
+MALE-          → bad, evil
+
+FID-           → faith, trust
+PLAC-          → please, calm
+
+DON-           → give
+
+DICT-          → say, speak
+VOL-           → wish, will
+FAC- / FIC-    → do, make
+FACT-          → doer, maker
+
+ADROIT         → skillful, right-handed
+
+TITILL-        → tickle
+VIA            → road, way
+TRI-           → three
+MILIT-         → soldier
+
+IN-            → not
+IM-            → not
+CON-           → together, completely
+OB-            → against, before
+======================================================
+
+BENIGN           → kindly; harmless
+BENEDICTION      → blessing; good saying
+BENEVOLENT       → wishing well
+BENEFICENT       → doing good
+BENEFACTOR       → one who helps
+BENEFICIARY      → one who receives benefits
+
+FIDELITY         → faithfulness
+INFIDELITY       → unfaithfulness
+INFIDEL          → unbeliever
+BONA FIDE        → in good faith; genuine
+
+PLACATE          → soothe; appease
+IMPLACABLE       → impossible to appease
+PLACID           → calm; peaceful
+COMPLACENT       → self-satisfied
+
+CONDONE          → forgive; overlook
+
+MALIGNANT        → harmful; cancerous
+MALEDICTION      → curse; evil saying
+MALEVOLENT       → wishing evil
+MALEFICENT       → doing evil
+MALEFACTOR       → wrongdoer; criminal
+MALADROIT        → clumsy; unskillful
+MALAISE          → vague discomfort
+
+TITILLATE        → excite; tickle mentally or physically
+OBVIATE          → remove an obstacle; prevent
+TRIVIAL          → unimportant
+MILITATE         → act against; exert influence
+
+======================================================
+
+BENIGN : {
+    bene (good) + ignus (kind)
+
+    Semantic Evolution (literal → modern):
+        → kindly nature
+        → gentle and favorable
+        → harmless or non-threatening
+}
+
+BENEDICTION : {
+    bene (good) + diction (saying)
+
+    Semantic Evolution (literal → modern):
+        → good saying
+        → expression of blessing
+        → prayer or words of goodwill
+}
+
+BENEVOLENT : {
+    bene (good) + volent (wishing)
+
+    Semantic Evolution (literal → modern):
+        → wishing good
+        → kindly disposed toward others
+        → showing goodwill and kindness
+}
+
+BENEFICENT : {
+    bene (good) + ficent (doing)
+
+    Semantic Evolution (literal → modern):
+        → doing good
+        → actively helping others
+        → charitable and beneficial
+}
+
+BENEFACTOR : {
+    bene (good) + factor (doer)
+
+    Semantic Evolution (literal → modern):
+        → one who does good
+        → helper or supporter
+        → person who provides assistance or gifts
+}
+
+BENEFICIARY : {
+    bene (good) + ficiary (receiver)
+
+    Semantic Evolution (literal → modern):
+        → receiver of benefits
+        → person aided by another
+        → one who receives funds, help, or advantages
+}
+
+FIDELITY : {
+    fid (faith, trust) + elity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of faithfulness
+        → loyalty and devotion
+        → faithful adherence to obligations
+}
+
+INFIDELITY : {
+    in (not) + fidelity (faithfulness)
+
+    Semantic Evolution (literal → modern):
+        → lack of faithfulness
+        → betrayal of trust
+        → marital or personal unfaithfulness
+}
+
+INFIDEL : {
+    in (not) + fid (faith)
+
+    Semantic Evolution (literal → modern):
+        → without faith
+        → nonbeliever
+        → person rejecting a particular religion
+}
+
+BONA FIDE : {
+    bona (good) + fide (faith)
+
+    Semantic Evolution (literal → modern):
+        → in good faith
+        → sincere and honest
+        → genuine and authentic
+}
+
+PLACATE : {
+    plac (please, calm)
+
+    Semantic Evolution (literal → modern):
+        → make calm
+        → soothe anger
+        → appease or pacify
+}
+
+IMPLACABLE : {
+    im (not) + placable (able to be soothed)
+
+    Semantic Evolution (literal → modern):
+        → unable to be appeased
+        → refusing reconciliation
+        → relentless and unyielding
+}
+
+PLACID : {
+    plac (calm, please)
+
+    Semantic Evolution (literal → modern):
+        → calm and agreeable
+        → peaceful in disposition
+        → serene and undisturbed
+}
+
+COMPLACENT : {
+    com (with) + placent (pleasing)
+
+    Semantic Evolution (literal → modern):
+        → pleased with oneself
+        → excessively satisfied
+        → smug and self-contented
+}
+
+CONDONE : {
+    con (completely) + don (give)
+
+    Semantic Evolution (literal → modern):
+        → give away blame
+        → overlook wrongdoing
+        → pardon or forgive
+}
+
+MALIGNANT : {
+    male (bad) + gnant (producing)
+
+    Semantic Evolution (literal → modern):
+        → producing evil
+        → harmful in influence
+        → dangerous or cancerous
+}
+
+MALEDICTION : {
+    male (bad) + diction (saying)
+
+    Semantic Evolution (literal → modern):
+        → evil saying
+        → expression of a curse
+        → spoken condemnation
+}
+
+MALEVOLENT : {
+    male (bad) + volent (wishing)
+
+    Semantic Evolution (literal → modern):
+        → wishing evil
+        → harboring ill will
+        → malicious and hostile
+}
+
+MALEFICENT : {
+    male (bad) + ficent (doing)
+
+    Semantic Evolution (literal → modern):
+        → doing evil
+        → causing harm
+        → harmful or destructive
+}
+
+MALEFACTOR : {
+    male (bad) + factor (doer)
+
+    Semantic Evolution (literal → modern):
+        → evil-doer
+        → wrongdoer
+        → criminal or offender
+}
+
+MALADROIT : {
+    mal (bad) + adroit (skillful)
+
+    Semantic Evolution (literal → modern):
+        → badly skillful
+        → lacking dexterity
+        → awkward and clumsy
+}
+
+MALAISE : {
+    mal (bad) + aise (ease)
+
+    Semantic Evolution (literal → modern):
+        → lack of ease
+        → feeling of discomfort
+        → vague bodily or mental uneasiness
+}
+
+TITILLATE : {
+    titill (tickle)
+
+    Semantic Evolution (literal → modern):
+        → tickle lightly
+        → stimulate curiosity or excitement
+        → excite mentally or physically
+}
+
+OBVIATE : {
+    ob (against) + via (road)
+
+    Semantic Evolution (literal → modern):
+        → remove from the road
+        → clear away an obstacle
+        → prevent or make unnecessary
+}
+
+TRIVIAL : {
+    tri (three) + via (road)
+
+    Semantic Evolution (literal → modern):
+        → found at the crossroads
+        → common and ordinary
+        → unimportant or insignificant
+}
+
+MILITATE : {
+    milit (soldier)
+
+    Semantic Evolution (literal → modern):
+        → serve as a soldier
+        → fight against
+        → operate as a force opposing something
+}
