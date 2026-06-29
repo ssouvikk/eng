@@ -1,0 +1,268 @@
+======================================================
+GEN-           → birth, origin, produce
+VETER-         → old, experienced
+
+CORRIG-        → correct, reform
+SUMM-          → highest point, completion
+
+NOT-           → know, make known
+
+CON-           → together, with
+IN-            → not, in
+-LOGY          → study, science
+-LOGIST        → specialist
+-AL            → relating to
+-ITY           → state, quality
+======================================================
+
+CONGENITAL       → existing from birth
+
+GENETICS         → science of heredity
+GENETICIST       → specialist in genetics
+GENETIC          → relating to genes or heredity
+GENE             → hereditary unit
+
+GENEALOGY        → study of family descent
+GENEALOGIST      → specialist in family history
+GENEALOGICAL     → relating to ancestry
+
+GENITAL          → relating to reproduction
+
+GENESIS          → beginning; origin
+
+INVETERATE       → long-established; habitual
+INVETERACY       → state of being inveterate
+INVETERATENESS   → deeply fixed quality
+
+VETERAN          → experienced person
+
+INCORRIGIBLE     → incapable of being corrected
+INCORRIGIBILITY  → inability to be corrected
+
+CONSUMMATE       → perfect; complete (adjective)
+CONSUMMATE       → bring to completion (verb)
+CONSUMMATION     → completion; fulfillment
+CONSUMMACY       → highest degree of excellence
+CONSUMMATENESS   → state of perfection
+
+NOTORIOUS        → widely known, usually unfavorably
+NOTORIETY        → unfavorable fame
+NOTED            → well known; distinguished
+
+======================================================
+
+CONGENITAL : {
+    con (together) + gen (birth, origin)
+
+    Semantic Evolution (literal → modern):
+        → born with
+        → existing from the time of birth
+        → present naturally or from birth
+}
+
+GENETICS : {
+    gen (birth, origin) + etics (science)
+
+    Semantic Evolution (literal → modern):
+        → science of origin and inheritance
+        → study of heredity
+        → branch of biology dealing with genes
+}
+
+GENETICIST : {
+    genetic (heredity) + ist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → student of heredity
+        → expert in genetic science
+        → specialist in genetics
+}
+
+GENETIC : {
+    gen (birth, origin) + ic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to origin
+        → relating to inheritance
+        → concerning genes and heredity
+}
+
+GENE : {
+    gen (produce, birth)
+
+    Semantic Evolution (literal → modern):
+        → producer of inherited traits
+        → hereditary unit
+        → basic unit of biological inheritance
+}
+
+GENEALOGY : {
+    genea (family line) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of family descent
+        → tracing ancestry
+        → investigation of lineage and family history
+}
+
+GENEALOGIST : {
+    genealogy (family history) + ist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → student of ancestry
+        → researcher of family lines
+        → specialist in genealogy
+}
+
+GENEALOGICAL : {
+    genealogy (family history) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to ancestry
+        → concerning family descent
+        → pertaining to genealogy
+}
+
+GENITAL : {
+    gen (birth, reproduction) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to generation
+        → associated with reproduction
+        → pertaining to reproductive organs
+}
+
+GENESIS : {
+    gen (birth, origin)
+
+    Semantic Evolution (literal → modern):
+        → birth
+        → beginning
+        → origin or creation
+}
+
+INVETERATE : {
+    in (in) + veter (old)
+
+    Semantic Evolution (literal → modern):
+        → grown old in habit
+        → firmly established through long practice
+        → habitual and deeply rooted
+}
+
+INVETERACY : {
+    inveterate (deeply rooted) + cy (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being habitual
+        → long-established condition
+        → deeply rooted persistence
+}
+
+INVETERATENESS : {
+    inveterate (deeply rooted) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of being long established
+        → fixed persistence
+        → entrenched habitual nature
+}
+
+VETERAN : {
+    veter (old, experienced)
+
+    Semantic Evolution (literal → modern):
+        → old and experienced person
+        → seasoned participant
+        → person with long experience
+}
+
+INCORRIGIBLE : {
+    in (not) + corrig (correct) + ible (able)
+
+    Semantic Evolution (literal → modern):
+        → not able to be corrected
+        → resistant to reform
+        → beyond improvement or discipline
+}
+
+INCORRIGIBILITY : {
+    incorrigible (uncorrectable) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of resisting correction
+        → inability to reform
+        → persistent uncorrectability
+}
+
+CONSUMMATE : {
+    con (completely) + summ (highest point)
+
+    Semantic Evolution (literal → modern):
+        → brought to the highest point
+        → perfected
+        → complete and flawless
+}
+
+CONSUMMATE (Verb) : {
+    con (completely) + summ (completion)
+
+    Semantic Evolution (literal → modern):
+        → bring to completion
+        → fulfill fully
+        → complete or finalize
+}
+
+CONSUMMATION : {
+    consummate (complete) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → act of completing
+        → fulfillment of a process
+        → final completion or realization
+}
+
+CONSUMMACY : {
+    consummate (perfect) + cy (state)
+
+    Semantic Evolution (literal → modern):
+        → state of highest perfection
+        → supreme excellence
+        → consummate mastery
+}
+
+CONSUMMATENESS : {
+    consummate (perfect) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of perfection
+        → completeness
+        → highest degree of excellence
+}
+
+NOTORIOUS : {
+    not (know) + orious (characterized by)
+
+    Semantic Evolution (literal → modern):
+        → widely known
+        → publicly recognized
+        → famous for negative reasons
+}
+
+NOTORIETY : {
+    notorious (widely known) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being widely known
+        → public recognition
+        → unfavorable fame
+}
+
+NOTED : {
+    note (mark, observe)
+
+    Semantic Evolution (literal → modern):
+        → observed and recognized
+        → distinguished
+        → well known and respected
+}
