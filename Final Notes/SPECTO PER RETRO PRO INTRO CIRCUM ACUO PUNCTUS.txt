@@ -1,0 +1,218 @@
+======================================================
+SPECTO-       → look, see, observe
+PER-          → through, thoroughly
+RETRO-        → backward
+PRO-          → forward
+INTRO-        → inward
+CIRCUM-       → around
+
+ACUO-         → sharpen
+PUNCTUS-      → point, prick
+======================================================
+
+PERSPICACIOUS   → keenly insightful
+PERSPICACITY    → sharp insight
+
+PERSPICUOUS     → clearly expressed
+PERSPICUITY     → clarity of expression
+
+RETROSPECT      → look backward
+PROSPECT        → look forward
+INTROSPECTIVE   → looking inward
+CIRCUMSPECT     → looking around; cautious
+
+SPECIOUS        → plausible but false
+
+ACUMEN          → mental sharpness
+ACUTE           → sharp
+ACUITY          → sharpness
+ACUTENESS       → keenness
+
+ACUPUNCTURE     → treatment by needle points
+PUNCTUAL        → exact in time
+PUNCTILIOUS     → attentive to fine points
+PUNCTUATE       → mark with points
+PUNCTURE        → pierce with a point
+PUNGENT         → sharply penetrating
+======================================================
+
+PERSPICACIOUS : {
+    per (through) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → looking through
+        → seeing beneath appearances
+        → having keen insight and understanding
+}
+
+PERSPICACITY : {
+    per (through) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → ability to look through
+        → penetrating understanding
+        → intellectual sharpness and insight
+}
+
+======================================================
+
+PERSPICUOUS : {
+    per (through) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → easily seen through
+        → readily understood
+        → clearly and lucidly expressed
+}
+
+PERSPICUITY : {
+    per (through) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → transparency
+        → clearness of presentation
+        → clarity of style and expression
+}
+
+======================================================
+
+RETROSPECT : {
+    retro (backward) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → look backward
+        → review the past
+        → contemplation of previous events
+}
+
+PROSPECT : {
+    pro (forward) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → look forward
+        → view ahead
+        → future expectation or possibility
+}
+
+INTROSPECTIVE : {
+    intro (inward) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → look inward
+        → examine one's thoughts
+        → reflective and self-analytical
+}
+
+CIRCUMSPECT : {
+    circum (around) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → look around
+        → consider all sides
+        → cautious and prudent
+}
+
+======================================================
+
+SPECIOUS : {
+    specto (look)
+
+    Semantic Evolution (literal → modern):
+        → good-looking
+        → apparently reasonable
+        → plausible but actually false or misleading
+}
+
+======================================================
+
+ACUMEN : {
+    acuo (sharpen)
+
+    Semantic Evolution (literal → modern):
+        → sharpness
+        → mental keenness
+        → ability to make quick and accurate judgments
+}
+
+ACUTE : {
+    acuo (sharpen)
+
+    Semantic Evolution (literal → modern):
+        → sharpened
+        → pointed or intense
+        → mentally sharp or severe
+}
+
+ACUITY : {
+    acuo (sharpen)
+
+    Semantic Evolution (literal → modern):
+        → sharpness
+        → precision of perception
+        → keenness of intellect or senses
+}
+
+ACUTENESS : {
+    acuo (sharpen)
+
+    Semantic Evolution (literal → modern):
+        → quality of being sharp
+        → perceptiveness
+        → intellectual or sensory keenness
+}
+
+======================================================
+
+ACUPUNCTURE : {
+    acus (needle) + punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → needle point
+        → insertion of needles at specific points
+        → therapeutic medical technique
+}
+
+PUNCTUAL : {
+    punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → arriving at the exact point
+        → precise in timing
+        → consistently on time
+}
+
+PUNCTILIOUS : {
+    punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → attentive to points
+        → careful about details
+        → extremely precise in conduct and etiquette
+}
+
+PUNCTUATE : {
+    punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → mark with points
+        → separate with signs
+        → insert punctuation marks into writing
+}
+
+PUNCTURE : {
+    punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → pierce with a point
+        → make a small hole
+        → perforation caused by a sharp object
+}
+
+PUNGENT : {
+    punctus (point)
+
+    Semantic Evolution (literal → modern):
+        → sharply pointed
+        → piercing to the senses
+        → having a strong, biting taste, smell, or effect
+}
