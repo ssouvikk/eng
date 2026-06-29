@@ -1,0 +1,321 @@
+======================================================
+VIVO-         → live
+VITA-         → life
+OVUM-         → egg
+
+RE-           → again, back
+DE-           → remove, take away
+BON-          → good
+ENNUI-        → boredom, weariness
+
+STOA-         → porch, philosophical school
+VERSO-        → turn
+======================================================
+
+VIVACIOUS      → lively and animated
+VIVACITY       → liveliness
+VIVID          → full of life; strikingly clear
+VIVIFY         → bring to life
+
+REVIVE         → live again
+REVIVAL        → restoration to life or vigor
+REINVIGORATE   → make vigorous again
+
+VIVISECTION    → cutting a living organism
+VIVIPAROUS     → giving birth to live young
+OVIPAROUS      → producing eggs
+OVULATE        → release an egg
+
+VITAL          → essential to life
+DEVITALIZE     → deprive of vitality
+JOIE DE VIVRE  → joy of living
+
+BON VIVANT     → person who enjoys living well
+GOURMET        → connoisseur of fine food
+GOURMAND       → lover of food
+GLUTTON        → excessive eater
+
+ENNUI          → boredom; listlessness
+
+CONVIVIAL      → sociable and friendly
+INDEFATIGABLE  → tireless
+INGENUOUS      → frank and honest
+PERSPICACIOUS  → keen-minded
+MAGNANIMOUS    → noble and forgiving
+VERSATILE      → capable in many fields
+STOICAL        → unflinching in pain
+INTREPID       → fearless and brave
+SCINTILLATING  → witty and brilliant
+URBANE         → polished and suave
+======================================================
+
+VIVACIOUS : {
+    vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → full of life
+        → energetically alive
+        → lively and animated in character
+}
+
+VIVACITY : {
+    vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → liveliness
+        → energetic spirit
+        → animated and enthusiastic quality
+}
+
+VIVID : {
+    vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → alive
+        → lifelike and bright
+        → strikingly clear and memorable
+}
+
+VIVIFY : {
+    vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → make alive
+        → enliven
+        → give life, energy, or freshness
+}
+
+======================================================
+
+REVIVE : {
+    re (again) + vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → live again
+        → restore to life
+        → regain strength or activity
+}
+
+REVIVAL : {
+    re (again) + vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → return to life
+        → restoration of activity
+        → renewed interest, strength, or existence
+}
+
+REINVIGORATE : {
+    re (again) + vigor (strength)
+
+    Semantic Evolution (literal → modern):
+        → make vigorous again
+        → restore energy
+        → refresh and strengthen
+}
+
+======================================================
+
+VIVISECTION : {
+    vivo (live) + sectus (cut)
+
+    Semantic Evolution (literal → modern):
+        → cutting a living being
+        → dissection while alive
+        → experimental surgery on living organisms
+}
+
+VIVIPAROUS : {
+    vivo (live) + pario (bring forth)
+
+    Semantic Evolution (literal → modern):
+        → bringing forth alive
+        → producing living offspring
+        → giving birth to live young
+}
+
+OVIPAROUS : {
+    ovum (egg) + pario (bring forth)
+
+    Semantic Evolution (literal → modern):
+        → bringing forth eggs
+        → reproducing by eggs
+        → egg-laying
+}
+
+OVULATE : {
+    ovum (egg)
+
+    Semantic Evolution (literal → modern):
+        → produce an egg
+        → release an ovum
+        → discharge a mature egg from the ovary
+}
+
+======================================================
+
+VITAL : {
+    vita (life)
+
+    Semantic Evolution (literal → modern):
+        → pertaining to life
+        → essential for existence
+        → extremely important or necessary
+}
+
+DEVITALIZE : {
+    de (remove) + vita (life)
+
+    Semantic Evolution (literal → modern):
+        → remove life
+        → deprive of energy
+        → weaken vitality or effectiveness
+}
+
+JOIE DE VIVRE : {
+    joie (joy) + vivre (to live)
+
+    Semantic Evolution (literal → modern):
+        → joy of living
+        → delight in existence
+        → enthusiastic enjoyment of life
+}
+
+======================================================
+
+BON VIVANT : {
+    bon (good) + vivant (living)
+
+    Semantic Evolution (literal → modern):
+        → one who lives well
+        → lover of pleasure
+        → sociable person enjoying good food and company
+}
+
+GOURMET : {
+    French root (taste, refinement)
+
+    Semantic Evolution (literal → modern):
+        → expert taster
+        → connoisseur of fine cuisine
+        → person with refined food preferences
+}
+
+GOURMAND : {
+    French root (eating)
+
+    Semantic Evolution (literal → modern):
+        → hearty eater
+        → lover of food
+        → person who enjoys eating abundantly
+}
+
+GLUTTON : {
+    Latin gluttire (to swallow)
+
+    Semantic Evolution (literal → modern):
+        → one who swallows excessively
+        → overeater
+        → person with excessive appetite
+}
+
+ENNUI : {
+    ennui (weariness)
+
+    Semantic Evolution (literal → modern):
+        → weariness
+        → listlessness
+        → boredom arising from lack of interest
+}
+
+======================================================
+
+CONVIVIAL : {
+    con (together) + vivo (live)
+
+    Semantic Evolution (literal → modern):
+        → living together
+        → enjoying company
+        → sociable and friendly
+}
+
+INDEFATIGABLE : {
+    in (not) + fatigo (weary)
+
+    Semantic Evolution (literal → modern):
+        → not tiring
+        → incapable of fatigue
+        → tireless in effort and energy
+}
+
+INGENUOUS : {
+    ingenuus (freeborn, noble)
+
+    Semantic Evolution (literal → modern):
+        → noble and straightforward
+        → open and sincere
+        → frank and honest
+}
+
+PERSPICACIOUS : {
+    per (through) + specto (look)
+
+    Semantic Evolution (literal → modern):
+        → seeing through
+        → perceptive
+        → keen-minded and insightful
+}
+
+MAGNANIMOUS : {
+    magnus (great) + animus (spirit)
+
+    Semantic Evolution (literal → modern):
+        → great-souled
+        → noble-minded
+        → generous and forgiving
+}
+
+VERSATILE : {
+    verso (turn)
+
+    Semantic Evolution (literal → modern):
+        → capable of turning
+        → adaptable
+        → skilled in many different fields
+}
+
+STOICAL : {
+    stoa (porch)
+
+    Semantic Evolution (literal → modern):
+        → follower of Stoic philosophy
+        → enduring hardship calmly
+        → unflinching in pain or adversity
+}
+
+INTREPID : {
+    in (not) + trepido (tremble)
+
+    Semantic Evolution (literal → modern):
+        → not trembling
+        → fearless
+        → brave in the face of danger
+}
+
+SCINTILLATING : {
+    scintilla (spark)
+
+    Semantic Evolution (literal → modern):
+        → sparkling
+        → brilliantly lively
+        → witty, intelligent, and engaging
+}
+
+URBANE : {
+    urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → city-bred
+        → socially polished
+        → refined, courteous, and suave
+}
