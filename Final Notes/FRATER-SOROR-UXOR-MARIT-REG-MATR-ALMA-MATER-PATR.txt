@@ -1,0 +1,319 @@
+======================================================
+FRATER-      → brother
+SOROR-       → sister
+UXOR-        → wife
+MARIT-       → husband
+MARITAL-     → marriage, married state
+REG- / REGAL → king, royal
+
+MATR-        → mother
+ALMA         → nourishing, kind
+MATER        → mother
+
+PATR-        → father
+PATRIC-      → noble father, aristocratic lineage
+
+-HOMICIDE    → killing of a person
+-CIDE        → killing, act of killing
+======================================================
+
+FRATERNIZE     → engage in brotherly social intercourse
+SORORITY       → sisterly organization or association
+UXORIOUS       → excessively devoted to one's wife
+MARITAL        → pertaining to marriage
+EXTRAMARITAL   → outside marriage
+REGAL          → kingly; royal
+REGALIA        → royal dress or insignia
+
+MATRIARCH      → mother-ruler
+MATRONYMIC     → name derived from the mother
+MATRIMONY      → marriage
+MATRON         → older married woman
+ALMA MATER     → nourishing mother; one's school or university
+MATERNITY      → motherhood
+
+PATRIMONY      → inheritance from one's father or ancestors
+PATRONYMIC     → name derived from the father
+PATRIARCH      → father-ruler
+PATRICIAN      → nobleman; aristocrat
+
+HOMICIDE       → killing of a person
+SUICIDE        → killing of oneself
+PATRICIDE      → killing of one's father
+MATRICIDE      → killing of one's mother
+FRATRICIDE     → killing of one's brother
+SORORICIDE     → killing of one's sister
+UXORICIDE      → killing of one's wife
+MARITICIDE     → killing of one's husband
+REGICIDE       → killing of a king
+INFANTICIDE    → killing of a baby
+GENOCIDE       → killing of a race or ethnic group
+PARRICIDE      → killing of one's parents
+======================================================
+
+FRATERNIZE : {
+    frater (brother)
+
+    Semantic Evolution (literal → modern):
+        → act as a brother
+        → engage in friendly social relations
+        → associate closely or familiarly
+}
+
+SORORITY : {
+    soror (sister)
+
+    Semantic Evolution (literal → modern):
+        → sisterhood
+        → association of sisters
+        → women's social or academic organization
+}
+
+UXORIOUS : {
+    uxor (wife)
+
+    Semantic Evolution (literal → modern):
+        → wife-oriented
+        → devoted to one's wife
+        → excessively doting on one's wife
+}
+
+MARITAL : {
+    marital (marriage)
+
+    Semantic Evolution (literal → modern):
+        → relating to marriage
+        → concerning husband and wife
+        → connected with the married state
+}
+
+EXTRAMARITAL : {
+    extra (outside) + marital (marriage)
+
+    Semantic Evolution (literal → modern):
+        → outside marriage
+        → beyond the marital relationship
+        → involving someone other than one's spouse
+}
+
+REGAL : {
+    reg (king)
+
+    Semantic Evolution (literal → modern):
+        → kingly
+        → royal in character
+        → majestic and dignified
+}
+
+REGALIA : {
+    regal (royal)
+
+    Semantic Evolution (literal → modern):
+        → royal belongings
+        → insignia of kingship
+        → ceremonial royal dress and symbols
+}
+
+======================================================
+
+MATRIARCH : {
+    matr (mother) + arch (ruler)
+
+    Semantic Evolution (literal → modern):
+        → mother-ruler
+        → female head of a family
+        → dominant senior woman in a lineage
+}
+
+MATRONYMIC : {
+    matr (mother) + onym (name)
+
+    Semantic Evolution (literal → modern):
+        → mother's name
+        → name derived from the mother
+        → lineage identified through the mother
+}
+
+MATRIMONY : {
+    matr (mother) + mony (state/condition)
+
+    Semantic Evolution (literal → modern):
+        → state associated with motherhood
+        → lawful union of husband and wife
+        → marriage
+}
+
+MATRON : {
+    matr (mother)
+
+    Semantic Evolution (literal → modern):
+        → mother
+        → mature married woman
+        → older respected woman
+}
+
+ALMA MATER : {
+    alma (nourishing) + mater (mother)
+
+    Semantic Evolution (literal → modern):
+        → nourishing mother
+        → institution that nurtures learning
+        → one's former school or university
+}
+
+MATERNITY : {
+    mater (mother)
+
+    Semantic Evolution (literal → modern):
+        → motherhood
+        → condition of being a mother
+        → maternal status and responsibilities
+}
+
+======================================================
+
+PATRIMONY : {
+    patr (father)
+
+    Semantic Evolution (literal → modern):
+        → father's property
+        → inheritance from ancestors
+        → inherited estate or heritage
+}
+
+PATRONYMIC : {
+    patr (father) + onym (name)
+
+    Semantic Evolution (literal → modern):
+        → father's name
+        → name derived from the father
+        → lineage identified through the father
+}
+
+PATRIARCH : {
+    patr (father) + arch (ruler)
+
+    Semantic Evolution (literal → modern):
+        → father-ruler
+        → male head of a family
+        → authoritative elder male leader
+}
+
+PATRICIAN : {
+    patric (noble father)
+
+    Semantic Evolution (literal → modern):
+        → member of noble families
+        → aristocrat
+        → person of high social rank
+}
+
+======================================================
+
+HOMICIDE : {
+    homo (person) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing a person
+        → death caused by another human
+        → homicide
+}
+
+SUICIDE : {
+    sui (self) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing oneself
+        → self-destruction
+        → suicide
+}
+
+PATRICIDE : {
+    patri (father) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's father
+        → murder of a father
+        → patricide
+}
+
+MATRICIDE : {
+    matri (mother) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's mother
+        → murder of a mother
+        → matricide
+}
+
+FRATRICIDE : {
+    fratri (brother) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's brother
+        → murder of a brother
+        → fratricide
+}
+
+SORORICIDE : {
+    sorori (sister) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's sister
+        → murder of a sister
+        → sororicide
+}
+
+UXORICIDE : {
+    uxori (wife) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's wife
+        → murder of a wife
+        → uxoricide
+}
+
+MARITICIDE : {
+    mariti (husband) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing one's husband
+        → murder of a husband
+        → mariticide
+}
+
+REGICIDE : {
+    regi (king) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing a king
+        → assassination of a monarch
+        → regicide
+}
+
+INFANTICIDE : {
+    infant (baby) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing a baby
+        → murder of an infant
+        → infanticide
+}
+
+GENOCIDE : {
+    geno (race, tribe) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing a race
+        → destruction of an ethnic group
+        → genocide
+}
+
+PARRICIDE : {
+    parri (parent) + cide (killing)
+
+    Semantic Evolution (literal → modern):
+        → killing a parent
+        → murder of one's parents
+        → parricide
+}
