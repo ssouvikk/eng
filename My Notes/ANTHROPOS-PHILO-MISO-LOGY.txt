@@ -16,7 +16,7 @@ MISANTHROPIST → one who hates or avoids human beings
 
 ANTHROPOLOGY : {
     anthropo (human being) + logy (study)
-    semantic :
+    semantic (liternal => modern) :
         → study of human beings
         → study of human development and culture
         → science of mankind
@@ -24,7 +24,7 @@ ANTHROPOLOGY : {
 
 PHILANTHROPY : {
     phil (love) + anthrop (human being)
-    semantic :
+    semantic (liternal => modern) :
         → love of mankind
         → concern for human welfare
         → charitable disposition toward others
@@ -32,7 +32,7 @@ PHILANTHROPY : {
 
 MISANTHROPY : {
     miso (hatred) + anthrop (human being)
-    semantic :
+    semantic (liternal => modern) :
         → hatred of mankind
         → distrust of human society
         → dislike of social interaction
@@ -40,7 +40,7 @@ MISANTHROPY : {
 
 ANTHROPOLOGIST : {
     anthropo (human being) + logist (specialist)
-    semantic :
+    semantic (liternal => modern) :
         → one who studies human beings
         → expert in anthropology
         → researcher of human cultures and societies
@@ -48,7 +48,7 @@ ANTHROPOLOGIST : {
 
 MISANTHROPIST : {
     miso (hatred) + anthrop (human being) + ist (person)
-    semantic :
+    semantic (liternal => modern) :
         → one who hates mankind
         → person who avoids or distrusts people
         → individual with a strong dislike of society
