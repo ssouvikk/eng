@@ -1,134 +1,155 @@
 ======================================================
-GYNE-       → woman, female
-GAMY        → marriage, union
-MISO-       → hatred, dislike
-MONO-       → one, single
-BI-         → two
-POLY-       → many, multiple
-ANDR-       → man, male
-LOGY         → study, science
-LOGIST       → specialist, practitioner
-ASCET-      → discipline, rigorous self-denial
+GYNE-         → woman, female
+ANDR-         → man, male
+
+GAMY          → marriage, union
+
+MONO-         → one, single
+BI-           → two
+POLY-         → many, multiple
+
+MISO-         → hatred, dislike
+
+ASCET-        → discipline, exercise, self-denial
+
+-LOGY         → study, science
+-LOGIST       → specialist, practitioner
+-ISM          → doctrine, condition, practice
+-IC           → relating to
 ======================================================
 
-GYNECOLOGY → study of female ailments and reproductive health
-GYNECOLOGIST → specialist in female disorders
-MISOGYNY → hatred of women
-MISOGYNOUS → characterized by hatred of women
-MISOGYNISTIC → showing or expressing hatred of women
+GYNECOLOGY      → study of women's health and reproductive system
+GYNECOLOGIST    → specialist in women's disorders
 
-MONOGAMY → system of one marriage
-BIGAMY → illegal plurality of marriages
-POLYGAMY → multiple marriages
-POLYGYNY → one husband with multiple wives
-POLYANDRY → one wife with multiple husbands
-MISOGAMY → hatred of marriage
+MISOGYNY        → hatred of women
+MISOGYNOUS      → characterized by hatred of women
+MISOGYNISTIC    → showing prejudice or hatred toward women
 
-ASCETICISM → practice of spiritual perfection through self-denial
-ASCETIC → person leading an austere life
+MONOGAMY        → marriage to one spouse
+BIGAMY          → unlawful marriage to two spouses
+POLYGAMY        → marriage involving multiple spouses
+POLYGYNY        → one husband with multiple wives
+POLYANDRY       → one wife with multiple husbands
+MISOGAMY        → hatred of marriage
+
+ASCETICISM      → practice of self-denial for spiritual discipline
+ASCETIC         → person practicing an austere lifestyle
 
 ======================================================
 
 GYNECOLOGY : {
     gyne (woman, female) + logy (study)
-    semantic :
-        → study of female ailments
-        → branch of medicine dealing with women's health
-        → science of the female reproductive system
+
+    Semantic Evolution (literal → modern):
+        → study of women
+        → study of female reproductive functions
+        → medical specialty dealing with women's health
 }
 
 GYNECOLOGIST : {
     gyne (woman, female) + logist (specialist)
-    semantic :
-        → specialist in female disorders
-        → physician treating women's reproductive health issues
+
+    Semantic Evolution (literal → modern):
+        → specialist of women
+        → physician treating female reproductive disorders
         → expert in gynecology
 }
 
 MISOGYNY : {
     miso (hatred) + gyne (woman)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → hatred of women
         → prejudice against women
-        → deep dislike or contempt for women
+        → contempt or hostility toward women
 }
 
 MISOGYNOUS : {
-    misogyny + ous (characterized by)
-    semantic :
+    misogyny (hatred of women) + ous (characterized by)
+
+    Semantic Evolution (literal → modern):
         → characterized by hatred of women
-        → having contempt for women
-        → displaying anti-female attitudes
+        → showing contempt for women
+        → possessing anti-female attitudes
 }
 
 MISOGYNISTIC : {
-    misogyny + istic (relating to, characterized by)
-    semantic :
-        → showing hatred of women
+    misogyny (hatred of women) + istic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to hatred of women
         → expressing prejudice against women
-        → exhibiting misogynous attitudes or behavior
+        → exhibiting misogynous beliefs or behavior
 }
 
 MONOGAMY : {
     mono (one) + gamy (marriage)
-    semantic :
-        → system of one marriage
-        → having only one spouse at a time
+
+    Semantic Evolution (literal → modern):
+        → one marriage
+        → having a single spouse
         → exclusive marital union
 }
 
 BIGAMY : {
     bi (two) + gamy (marriage)
-    semantic :
-        → illegal plurality of marriages
-        → marrying a second person while already married
+
+    Semantic Evolution (literal → modern):
+        → two marriages
+        → maintaining two spouses simultaneously
         → unlawful dual marriage
 }
 
 POLYGAMY : {
     poly (many) + gamy (marriage)
-    semantic :
-        → multiple marriages
-        → practice of having more than one spouse
+
+    Semantic Evolution (literal → modern):
+        → many marriages
+        → having multiple spouses
+        → marital system involving more than one spouse
 }
 
 POLYGYNY : {
     poly (many) + gyne (woman)
-    semantic :
-        → one husband with multiple wives
-        → form of polygamy involving several women
-        → plurality of wives
+
+    Semantic Evolution (literal → modern):
+        → many women
+        → one husband with several wives
+        → form of polygamy involving multiple wives
 }
 
 POLYANDRY : {
     poly (many) + andr (man)
-    semantic :
-        → one wife with multiple husbands
-        → form of marriage involving several men
-        → plurality of husbands
+
+    Semantic Evolution (literal → modern):
+        → many men
+        → one wife with several husbands
+        → form of marriage involving multiple husbands
 }
 
 MISOGAMY : {
     miso (hatred) + gamy (marriage)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → hatred of marriage
         → aversion to matrimony
-        → opposition to marital union
+        → opposition to marital relationships
 }
 
 ASCETICISM : {
-    ascet (discipline, exercise) + ism (practice, doctrine)
-    semantic :
-        → practice of spiritual perfection through self-denial
-        → disciplined renunciation of worldly pleasures
-        → austere religious lifestyle
+    ascet (discipline, exercise) + ism (practice)
+
+    Semantic Evolution (literal → modern):
+        → practice of disciplined living
+        → renunciation of worldly pleasures
+        → spiritual self-denial for moral or religious purposes
 }
 
 ASCETIC : {
-    ascet (discipline, exercise) + ic (person, relating to)
-    semantic :
-        → person leading an austere life
-        → one who practices self-denial
-        → individual devoted to spiritual discipline
-}
+    ascet (discipline, exercise) + ic (person)
 
+    Semantic Evolution (literal → modern):
+        → disciplined individual
+        → person practicing self-denial
+        → one devoted to an austere spiritual life
+}
