@@ -1,0 +1,279 @@
+======================================================
+BOVIS-        → cow, ox
+LEO-          → lion
+CANIS-        → dog
+FELIS-        → cat
+PORCUS-       → pig
+VULPES-       → fox
+URSUS-        → bear
+LUPUS-        → wolf
+EQUUS-        → horse
+PISCIS-       → fish
+
+CACO-         → bad, harsh
+EU-           → good, pleasant
+PHONE-        → sound, voice
+PHONETICS-    → speech sounds
+
+LOGOS-        → speech, word
+ENKOMION-     → song of praise
+
+CLICHER-      → stereotype, repeated phrase
+PLAT-         → flat
+ANODYNE-      → without pain
+
+BADINER-      → joke, jest
+PERSIFLER-    → mock lightly
+
+THANATOS-     → death
+======================================================
+
+BOVINE         → cowlike
+LEONINE        → lionlike
+CANINE         → doglike
+FELINE         → catlike
+PORCINE        → piglike
+VULPINE        → foxlike
+URSINE         → bearlike
+LUPINE         → wolflike
+EQUINE         → horselike
+PISCINE        → fishlike
+
+CACOPHONY      → harsh, discordant noise
+EUPHONY        → pleasant sound
+PHONETICS      → science of speech sounds
+
+EULOGY         → high praise
+ENCOMIUM       → formal expression of praise
+
+CLICHÉ         → hackneyed phrase
+BROMIDE        → trite statement
+PLATITUDE      → flat, dull remark
+
+ANODYNE        → soothing statement
+
+BADINAGE       → playful teasing
+PERSIFLAGE     → mocking banter
+
+EUPHEMISM      → mild term for unpleasant idea
+EUTHANASIA     → painless death
+======================================================
+
+BOVINE : {
+    bovis (cow)
+
+    Semantic Evolution (literal → modern):
+        → cowlike
+        → resembling a cow
+        → dull, placid, or slow in manner
+}
+
+LEONINE : {
+    leo (lion)
+
+    Semantic Evolution (literal → modern):
+        → lionlike
+        → possessing lion qualities
+        → majestic, bold, or powerful
+}
+
+CANINE : {
+    canis (dog)
+
+    Semantic Evolution (literal → modern):
+        → doglike
+        → relating to dogs
+        → characteristic of a dog
+}
+
+FELINE : {
+    felis (cat)
+
+    Semantic Evolution (literal → modern):
+        → catlike
+        → relating to cats
+        → graceful, stealthy, or catlike
+}
+
+PORCINE : {
+    porcus (pig)
+
+    Semantic Evolution (literal → modern):
+        → piglike
+        → resembling a pig
+        → coarse, greedy, or swinish
+}
+
+VULPINE : {
+    vulpes (fox)
+
+    Semantic Evolution (literal → modern):
+        → foxlike
+        → resembling a fox
+        → crafty, cunning, or sly
+}
+
+URSINE : {
+    ursus (bear)
+
+    Semantic Evolution (literal → modern):
+        → bearlike
+        → resembling a bear
+        → large, shaggy, or powerful
+}
+
+LUPINE : {
+    lupus (wolf)
+
+    Semantic Evolution (literal → modern):
+        → wolflike
+        → relating to wolves
+        → fierce or predatory
+}
+
+EQUINE : {
+    equus (horse)
+
+    Semantic Evolution (literal → modern):
+        → horselike
+        → relating to horses
+        → possessing horse-like characteristics
+}
+
+PISCINE : {
+    piscis (fish)
+
+    Semantic Evolution (literal → modern):
+        → fishlike
+        → relating to fish
+        → characteristic of aquatic fish life
+}
+
+======================================================
+
+CACOPHONY : {
+    caco (bad) + phone (sound)
+
+    Semantic Evolution (literal → modern):
+        → bad sound
+        → harsh noise
+        → discordant mixture of sounds
+}
+
+EUPHONY : {
+    eu (pleasant) + phone (sound)
+
+    Semantic Evolution (literal → modern):
+        → pleasant sound
+        → harmonious sound
+        → agreeable auditory effect
+}
+
+PHONETICS : {
+    phone (sound)
+
+    Semantic Evolution (literal → modern):
+        → study of sounds
+        → analysis of speech sounds
+        → scientific study of pronunciation
+}
+
+======================================================
+
+EULOGY : {
+    eu (good) + logos (speech)
+
+    Semantic Evolution (literal → modern):
+        → good speech
+        → speech of praise
+        → high praise, especially for the deceased
+}
+
+ENCOMIUM : {
+    enkomion (song of praise)
+
+    Semantic Evolution (literal → modern):
+        → praise song
+        → formal tribute
+        → elaborate expression of admiration
+}
+
+======================================================
+
+CLICHÉ : {
+    French cliché (stereotyped expression)
+
+    Semantic Evolution (literal → modern):
+        → repeated pattern
+        → overused expression
+        → hackneyed phrase lacking originality
+}
+
+BROMIDE : {
+    bromide (originally a calming chemical)
+
+    Semantic Evolution (literal → modern):
+        → something dull and soothing
+        → commonplace remark
+        → trite or unoriginal statement
+}
+
+PLATITUDE : {
+    plat (flat)
+
+    Semantic Evolution (literal → modern):
+        → flatness
+        → lack of originality
+        → dull, obvious, or overused remark
+}
+
+======================================================
+
+ANODYNE : {
+    an (without) + odyne (pain)
+
+    Semantic Evolution (literal → modern):
+        → without pain
+        → soothing remedy
+        → statement intended to calm or avoid controversy
+}
+
+======================================================
+
+BADINAGE : {
+    badiner (to joke)
+
+    Semantic Evolution (literal → modern):
+        → joking conversation
+        → playful teasing
+        → light-hearted banter
+}
+
+PERSIFLAGE : {
+    persifler (to mock lightly)
+
+    Semantic Evolution (literal → modern):
+        → light mockery
+        → witty ridicule
+        → playful, mocking banter
+}
+
+======================================================
+
+EUPHEMISM : {
+    eu (good) + pheme (speech)
+
+    Semantic Evolution (literal → modern):
+        → pleasant speech
+        → mild expression
+        → inoffensive substitute for an unpleasant idea
+}
+
+EUTHANASIA : {
+    eu (good) + thanatos (death)
+
+    Semantic Evolution (literal → modern):
+        → good death
+        → easy death
+        → painless ending of life to relieve suffering
+}
