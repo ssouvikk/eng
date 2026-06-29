@@ -62,277 +62,277 @@ VERSATILITY → adaptability; many-sided ability
 ======================================================
 
 EGOIST : {
-ego (self, I) + ist (person)
-semantic :
-→ selfish person
-→ one who puts own interests first
+    ego (self, I) + ist (person)
+    semantic :
+        → selfish person
+        → one who puts own interests first
 }
 
 EGOTIST : {
-ego (self, I) + tist (person)
-semantic :
-→ self-conceited person
-→ one who talks excessively about oneself
+    ego (self, I) + tist (person)
+    semantic :
+        → self-conceited person
+        → one who talks excessively about oneself
 }
 
 EGOTISM : {
-ego (self, I) + tism (state, doctrine)
-semantic :
-→ self-conceitedness
-→ excessive self-importance
+    ego (self, I) + tism (state, doctrine)
+    semantic :
+        → self-conceitedness
+        → excessive self-importance
 }
 
 EGOCENTRIC : {
-ego (self) + centric (centered)
-semantic :
-→ self-centered
-→ viewing everything in relation to oneself
+    ego (self) + centric (centered)
+    semantic :
+        → self-centered
+        → viewing everything in relation to oneself
 }
 
 EGOCENTRISM : {
-ego (self) + centrism (state of being centered)
-semantic :
-→ self-centeredness
-→ tendency to place oneself at the center of everything
+    ego (self) + centrism (state of being centered)
+    semantic :
+        → self-centeredness
+        → tendency to place oneself at the center of everything
 }
 
 EGOMANIAC : {
-ego (self) + maniac (obsessed person)
-semantic :
-→ self-obsessed person
-→ one excessively preoccupied with oneself
+    ego (self) + maniac (obsessed person)
+    semantic :
+        → self-obsessed person
+        → one excessively preoccupied with oneself
 }
 
 EGOMANIACAL : {
-ego (self) + maniacal (characterized by obsession)
-semantic :
-→ extremely self-obsessed
-→ exhibiting excessive self-importance
+    ego (self) + maniacal (characterized by obsession)
+    semantic :
+        → extremely self-obsessed
+        → exhibiting excessive self-importance
 }
 
 ALTER EGO : {
-alter (other) + ego (self)
-semantic :
-→ second self
-→ different side of one's personality
-→ close substitute or counterpart
+    alter (other) + ego (self)
+    semantic :
+        → second self
+        → different side of one's personality
+        → close substitute or counterpart
 }
 
 ALTERCATION : {
-alter (other) + cation (action, exchange)
-semantic :
-→ noisy quarrel
-→ heated argument
+    alter (other) + cation (action, exchange)
+    semantic :
+        → noisy quarrel
+        → heated argument
 }
 
 ALTERNATE : {
-alter (other) + nate (occurring in turn)
-semantic :
-→ occurring by turns
-→ every other
+    alter (other) + nate (occurring in turn)
+    semantic :
+        → occurring by turns
+        → every other
 }
 
 ALTERNATELY : {
-alternate + ly (manner)
-semantic :
-→ one after another in turn
-→ in alternating sequence
+    alternate + ly (manner)
+    semantic :
+        → one after another in turn
+        → in alternating sequence
 }
 
 ALTERNATION : {
-alternate + ion (process)
-semantic :
-→ process of taking turns
-→ successive change between states
+    alternate + ion (process)
+    semantic :
+        → process of taking turns
+        → successive change between states
 }
 
 ALTERNATIVE : {
-alternate + ive (having the nature of)
-semantic :
-→ another choice
-→ substitute option
+    alternate + ive (having the nature of)
+    semantic :
+        → another choice
+        → substitute option
 }
 
 ALTERATION : {
-alter (change) + ation (process)
-semantic :
-→ change
-→ modification
+    alter (change) + ation (process)
+    semantic :
+        → change
+        → modification
 }
 
 ALTER : {
-Latin alter (other)
-semantic :
-→ to change
-→ to modify
+    Latin alter (other)
+    semantic :
+        → to change
+        → to modify
 }
 
 ALTRUISM : {
-French autrui (other people) ← Latin alter (other)
-semantic :
-→ selfless concern for others
-→ devotion to others' welfare
+    French autrui (other people) ← Latin alter (other)
+    semantic :
+        → selfless concern for others
+        → devotion to others' welfare
 }
 
 ALTRUIST : {
-altruism + ist (person)
-semantic :
-→ selfless person
-→ one concerned for others' welfare
+    altruism + ist (person)
+    semantic :
+        → selfless person
+        → one concerned for others' welfare
 }
 
 ALTRUISTIC : {
-altruism + ic (relating to)
-semantic :
-→ selfless
-→ concerned for others' welfare
+    altruism + ic (relating to)
+    semantic :
+        → selfless
+        → concerned for others' welfare
 }
 
 INTROVERT : {
-intro (inward) + vert (turn)
-semantic :
-→ person who turns inward
-→ gains energy from solitude
+    intro (inward) + vert (turn)
+    semantic :
+        → person who turns inward
+        → gains energy from solitude
 }
 
 INTROVERTED : {
-introvert + ed (having the quality)
-semantic :
-→ reserved
-→ inward-looking
+    introvert + ed (having the quality)
+    semantic :
+        → reserved
+        → inward-looking
 }
 
 EXTROVERT : {
-extro (outward) + vert (turn)
-semantic :
-→ person who turns outward
-→ gains energy from social interaction
+    extro (outward) + vert (turn)
+    semantic :
+        → person who turns outward
+        → gains energy from social interaction
 }
 
 EXTROVERTED : {
-extrovert + ed (having the quality)
-semantic :
-→ outgoing
-→ socially expressive
+    extrovert + ed (having the quality)
+    semantic :
+        → outgoing
+        → socially expressive
 }
 
 AMBIVERT : {
-ambi (both) + vert (turn)
-semantic :
-→ person with both introvert and extrovert traits
-→ balanced personality orientation
+    ambi (both) + vert (turn)
+    semantic :
+        → person with both introvert and extrovert traits
+        → balanced personality orientation
 }
 
 AMBIVERSION : {
-ambi (both) + version (state of turning)
-semantic :
-→ balance of introversion and extroversion
-→ mixed personality orientation
+    ambi (both) + version (state of turning)
+    semantic :
+        → balance of introversion and extroversion
+        → mixed personality orientation
 }
 
 INVERT : {
-in (into, upon) + vert (turn)
-semantic :
-→ turn upside down
-→ reverse position
+    in (into, upon) + vert (turn)
+    semantic :
+        → turn upside down
+        → reverse position
 }
 
 INVERSION : {
-invert + sion (process)
-semantic :
-→ reversal
-→ turning upside down
+    invert + sion (process)
+    semantic :
+        → reversal
+        → turning upside down
 }
 
 VERTIGO : {
-Latin vertigo (whirling, turning)
-semantic :
-→ sensation of spinning
-→ dizziness caused by perceived motion
+    Latin vertigo (whirling, turning)
+    semantic :
+        → sensation of spinning
+        → dizziness caused by perceived motion
 }
 
 VERTEX : {
-Latin vertex (whirling top, summit)
-semantic :
-→ highest point
-→ peak
-→ top point of an angle
+    Latin vertex (whirling top, summit)
+    semantic :
+        → highest point
+        → peak
+    → top point of an angle
 }
 
 CONVERT : {
-con (together, completely) + vert (turn)
-semantic :
-→ turn into another form
-→ transform
+    con (together, completely) + vert (turn)
+    semantic :
+        → turn into another form
+        → transform
 }
 
 CONVERSION : {
-convert + sion (process)
-semantic :
-→ process of changing into another form
-→ transformation
+    convert + sion (process)
+    semantic :
+        → process of changing into another form
+        → transformation
 }
 
 REVERT : {
-re (back) + vert (turn)
-semantic :
-→ turn back
-→ return to a previous state
+    re (back) + vert (turn)
+    semantic :
+        → turn back
+        → return to a previous state
 }
 
 REVERSION : {
-revert + sion (process)
-semantic :
-→ return to an earlier condition
-→ restoration of a former state
+    revert + sion (process)
+    semantic :
+        → return to an earlier condition
+        → restoration of a former state
 }
 
 DIVERT : {
-di (aside, apart) + vert (turn)
-semantic :
-→ turn aside
-→ redirect
+    di (aside, apart) + vert (turn)
+    semantic :
+        → turn aside
+        → redirect
 }
 
 DIVERSION : {
-divert + sion (process)
-semantic :
-→ redirection
-→ distraction
+    divert + sion (process)
+    semantic :
+        → redirection
+        → distraction
 }
 
 ADVERT : {
-ad (toward) + vert (turn)
-semantic :
-→ turn attention to
-→ refer to
+    ad (toward) + vert (turn)
+    semantic :
+        → turn attention to
+        → refer to
 }
 
 ADVERTENT : {
-advert + ent (characterized by)
-semantic :
-→ attentive
-→ intentional
+    advert + ent (characterized by)
+    semantic :
+        → attentive
+        → intentional
 }
 
 INADVERTENT : {
-in (not) + advertent (attentive)
-semantic :
-→ unintentional
-→ accidental
+    in (not) + advertent (attentive)
+    semantic :
+        → unintentional
+        → accidental
 }
 
 VERSATILE : {
-vers (turn) + atile (capable of)
-semantic :
-→ able to turn easily to different tasks
-→ adaptable
-→ skilled in many areas
+    vers (turn) + atile (capable of)
+    semantic :
+        → able to turn easily to different tasks
+        → adaptable
+        → skilled in many areas
 }
 
 VERSATILITY : {
-versatile + ity (state)
-semantic :
-→ adaptability
-→ many-sided ability
+    versatile + ity (state)
+    semantic :
+        → adaptability
+        → many-sided ability
 }
