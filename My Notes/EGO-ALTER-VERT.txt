@@ -2,61 +2,337 @@
 EGO → I, self
 ALTER → other
 VERT → to turn, rotate
+======================
+
+EGOIST → selfish person; one who puts own interests first
+EGOTIST → self-conceited person; one who talks excessively about oneself
+EGOTISM → self-conceitedness; excessive self-importance
+
+EGOCENTRIC → self-centered; viewing everything in relation to oneself
+EGOCENTRISM → self-centeredness
+
+EGOMANIAC → self-obsessed person
+EGOMANIACAL → extremely self-obsessed
+
+ALTER EGO → second self; close substitute or different side of one's personality
+ALTERCATION → noisy quarrel; heated argument
+
+ALTERNATE → occurring by turns; every other
+ALTERNATELY → one after another in turn
+ALTERNATION → process of taking turns
+ALTERNATIVE → another choice; substitute option
+ALTERATION → change; modification
+ALTER → to change; modify
+
+ALTRUISM → selfless concern for others
+ALTRUIST → selfless person
+ALTRUISTIC → selfless; concerned for others' welfare
+
+INTROVERT → person who turns inward; gains energy from solitude
+INTROVERTED → reserved; inward-looking
+
+EXTROVERT → person who turns outward; gains energy from social interaction
+EXTROVERTED → outgoing; socially expressive
+
+AMBIVERT → person with both introvert and extrovert traits
+AMBIVERSION → balance of introversion and extroversion
+
+INVERT → turn upside down; reverse position
+INVERSION → reversal; turning upside down
+
+VERTIGO → sensation of spinning or dizziness
+VERTEX → highest point; peak; top point of an angle
+
+CONVERT → turn into another form; transform
+CONVERSION → process of changing into another form
+
+REVERT → turn back; return to a previous state
+REVERSION → return to an earlier condition
+
+DIVERT → turn aside; redirect
+DIVERSION → redirection; distraction
+
+ADVERT → turn attention to; refer to
+ADVERTENT → attentive; intentional
+INADVERTENT → unintentional; accidental
+
+VERSATILE → able to turn easily to different tasks; adaptable
+VERSATILITY → adaptability; many-sided ability
+
 ======================================================
 
-egoist      → selfish person; one who puts own interests first
-egotist     → self-conceited person; one who talks excessively about oneself
-egotism     → self-conceitedness; excessive self-importance
+EGOIST : {
+ego (self, I) + ist (person)
+semantic :
+→ selfish person
+→ one who puts own interests first
+}
 
-egocentric  → self-centered; viewing everything in relation to oneself
-egocentrism → self-centeredness
+EGOTIST : {
+ego (self, I) + tist (person)
+semantic :
+→ self-conceited person
+→ one who talks excessively about oneself
+}
 
-egomaniac   → self-obsessed person
-egomaniacal → extremely self-obsessed
+EGOTISM : {
+ego (self, I) + tism (state, doctrine)
+semantic :
+→ self-conceitedness
+→ excessive self-importance
+}
 
-alter ego   → second self; close substitute or different side of one's personality
-altercation → noisy quarrel; heated argument
+EGOCENTRIC : {
+ego (self) + centric (centered)
+semantic :
+→ self-centered
+→ viewing everything in relation to oneself
+}
 
-alternate   → occurring by turns; every other
-alternately → one after another in turn
-alternation → process of taking turns
-alternative → another choice; substitute option
-alteration  → change; modification
-alter       → to change; modify
+EGOCENTRISM : {
+ego (self) + centrism (state of being centered)
+semantic :
+→ self-centeredness
+→ tendency to place oneself at the center of everything
+}
 
-altruism    → selfless concern for others
-altruist    → selfless person
-altruistic  → selfless; concerned for others' welfare
+EGOMANIAC : {
+ego (self) + maniac (obsessed person)
+semantic :
+→ self-obsessed person
+→ one excessively preoccupied with oneself
+}
 
-introvert   → person who turns inward; gains energy from solitude
-introverted → reserved; inward-looking
+EGOMANIACAL : {
+ego (self) + maniacal (characterized by obsession)
+semantic :
+→ extremely self-obsessed
+→ exhibiting excessive self-importance
+}
 
-extrovert   → person who turns outward; gains energy from social interaction
-extroverted → outgoing; socially expressive
+ALTER EGO : {
+alter (other) + ego (self)
+semantic :
+→ second self
+→ different side of one's personality
+→ close substitute or counterpart
+}
 
-ambivert    → person with both introvert and extrovert traits
-ambiversion → balance of introversion and extroversion
+ALTERCATION : {
+alter (other) + cation (action, exchange)
+semantic :
+→ noisy quarrel
+→ heated argument
+}
 
-invert      → turn upside down; reverse position
-inversion   → reversal; turning upside down
+ALTERNATE : {
+alter (other) + nate (occurring in turn)
+semantic :
+→ occurring by turns
+→ every other
+}
 
-vertigo     → sensation of spinning or dizziness
-vertex      → highest point; peak; top point of an angle
+ALTERNATELY : {
+alternate + ly (manner)
+semantic :
+→ one after another in turn
+→ in alternating sequence
+}
 
-convert     → turn into another form; transform
-conversion  → process of changing into another form
+ALTERNATION : {
+alternate + ion (process)
+semantic :
+→ process of taking turns
+→ successive change between states
+}
 
-revert      → turn back; return to a previous state
-reversion   → return to an earlier condition
+ALTERNATIVE : {
+alternate + ive (having the nature of)
+semantic :
+→ another choice
+→ substitute option
+}
 
-divert      → turn aside; redirect
-diversion   → redirection; distraction
+ALTERATION : {
+alter (change) + ation (process)
+semantic :
+→ change
+→ modification
+}
 
-advert      → turn attention to; refer to
-advertent   → attentive; intentional
-inadvertent → unintentional; accidental
+ALTER : {
+Latin alter (other)
+semantic :
+→ to change
+→ to modify
+}
 
-versatile   → able to turn easily to different tasks; adaptable
-versatility → adaptability; many-sided ability
+ALTRUISM : {
+French autrui (other people) ← Latin alter (other)
+semantic :
+→ selfless concern for others
+→ devotion to others' welfare
+}
 
-======================================================
+ALTRUIST : {
+altruism + ist (person)
+semantic :
+→ selfless person
+→ one concerned for others' welfare
+}
+
+ALTRUISTIC : {
+altruism + ic (relating to)
+semantic :
+→ selfless
+→ concerned for others' welfare
+}
+
+INTROVERT : {
+intro (inward) + vert (turn)
+semantic :
+→ person who turns inward
+→ gains energy from solitude
+}
+
+INTROVERTED : {
+introvert + ed (having the quality)
+semantic :
+→ reserved
+→ inward-looking
+}
+
+EXTROVERT : {
+extro (outward) + vert (turn)
+semantic :
+→ person who turns outward
+→ gains energy from social interaction
+}
+
+EXTROVERTED : {
+extrovert + ed (having the quality)
+semantic :
+→ outgoing
+→ socially expressive
+}
+
+AMBIVERT : {
+ambi (both) + vert (turn)
+semantic :
+→ person with both introvert and extrovert traits
+→ balanced personality orientation
+}
+
+AMBIVERSION : {
+ambi (both) + version (state of turning)
+semantic :
+→ balance of introversion and extroversion
+→ mixed personality orientation
+}
+
+INVERT : {
+in (into, upon) + vert (turn)
+semantic :
+→ turn upside down
+→ reverse position
+}
+
+INVERSION : {
+invert + sion (process)
+semantic :
+→ reversal
+→ turning upside down
+}
+
+VERTIGO : {
+Latin vertigo (whirling, turning)
+semantic :
+→ sensation of spinning
+→ dizziness caused by perceived motion
+}
+
+VERTEX : {
+Latin vertex (whirling top, summit)
+semantic :
+→ highest point
+→ peak
+→ top point of an angle
+}
+
+CONVERT : {
+con (together, completely) + vert (turn)
+semantic :
+→ turn into another form
+→ transform
+}
+
+CONVERSION : {
+convert + sion (process)
+semantic :
+→ process of changing into another form
+→ transformation
+}
+
+REVERT : {
+re (back) + vert (turn)
+semantic :
+→ turn back
+→ return to a previous state
+}
+
+REVERSION : {
+revert + sion (process)
+semantic :
+→ return to an earlier condition
+→ restoration of a former state
+}
+
+DIVERT : {
+di (aside, apart) + vert (turn)
+semantic :
+→ turn aside
+→ redirect
+}
+
+DIVERSION : {
+divert + sion (process)
+semantic :
+→ redirection
+→ distraction
+}
+
+ADVERT : {
+ad (toward) + vert (turn)
+semantic :
+→ turn attention to
+→ refer to
+}
+
+ADVERTENT : {
+advert + ent (characterized by)
+semantic :
+→ attentive
+→ intentional
+}
+
+INADVERTENT : {
+in (not) + advertent (attentive)
+semantic :
+→ unintentional
+→ accidental
+}
+
+VERSATILE : {
+vers (turn) + atile (capable of)
+semantic :
+→ able to turn easily to different tasks
+→ adaptable
+→ skilled in many areas
+}
+
+VERSATILITY : {
+versatile + ity (state)
+semantic :
+→ adaptability
+→ many-sided ability
+}
