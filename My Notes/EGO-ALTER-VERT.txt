@@ -40,9 +40,6 @@ AMBIVERSION → balance of introversion and extroversion
 INVERT → turn upside down; reverse position
 INVERSION → reversal; turning upside down
 
-VERTIGO → sensation of spinning or dizziness
-VERTEX → highest point; peak; top point of an angle
-
 CONVERT → turn into another form; transform
 CONVERSION → process of changing into another form
 
@@ -52,12 +49,7 @@ REVERSION → return to an earlier condition
 DIVERT → turn aside; redirect
 DIVERSION → redirection; distraction
 
-ADVERT → turn attention to; refer to
-ADVERTENT → attentive; intentional
-INADVERTENT → unintentional; accidental
-
 VERSATILE → able to turn easily to different tasks; adaptable
-VERSATILITY → adaptability; many-sided ability
 
 ======================================================
 
@@ -244,20 +236,6 @@ INVERSION : {
         → turning upside down
 }
 
-VERTIGO : {
-    Latin vertigo (whirling, turning)
-    semantic :
-        → sensation of spinning
-        → dizziness caused by perceived motion
-}
-
-VERTEX : {
-    Latin vertex (whirling top, summit)
-    semantic :
-        → highest point
-        → peak
-    → top point of an angle
-}
 
 CONVERT : {
     con (together, completely) + vert (turn)
@@ -301,26 +279,6 @@ DIVERSION : {
         → distraction
 }
 
-ADVERT : {
-    ad (toward) + vert (turn)
-    semantic :
-        → turn attention to
-        → refer to
-}
-
-ADVERTENT : {
-    advert + ent (characterized by)
-    semantic :
-        → attentive
-        → intentional
-}
-
-INADVERTENT : {
-    in (not) + advertent (attentive)
-    semantic :
-        → unintentional
-        → accidental
-}
 
 VERSATILE : {
     vers (turn) + atile (capable of)
@@ -330,9 +288,3 @@ VERSATILE : {
         → skilled in many areas
 }
 
-VERSATILITY : {
-    versatile + ity (state)
-    semantic :
-        → adaptability
-        → many-sided ability
-}
