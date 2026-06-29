@@ -1,0 +1,54 @@
+======================================================
+GYNE-      → woman, female
+MISO-      → hatred, dislike
+LOGY       → study, science
+LOGIST     → specialist, practitioner
+======================================================
+
+GYNECOLOGY → study of female ailments and reproductive health
+GYNECOLOGIST → specialist in female disorders
+MISOGYNY → hatred of women
+MISOGYNOUS → characterized by hatred of women
+MISOGYNISTIC → showing or expressing hatred of women
+
+======================================================
+
+GYNECOLOGY : {
+    gyne (woman, female) + logy (study)
+    semantic :
+        → study of female ailments
+        → branch of medicine dealing with women's health
+        → science of the female reproductive system
+}
+
+GYNECOLOGIST : {
+    gyne (woman, female) + logist (specialist)
+    semantic :
+        → specialist in female disorders
+        → physician treating women's reproductive health issues
+        → expert in gynecology
+}
+
+MISOGYNY : {
+    miso (hatred) + gyne (woman)
+    semantic :
+        → hatred of women
+        → prejudice against women
+        → deep dislike or contempt for women
+}
+
+MISOGYNOUS : {
+    misogyny + ous (characterized by)
+    semantic :
+        → characterized by hatred of women
+        → having contempt for women
+        → displaying anti-female attitudes
+}
+
+MISOGYNISTIC : {
+    misogyny + istic (relating to, characterized by)
+    semantic :
+        → showing hatred of women
+        → expressing prejudice against women
+        → exhibiting misogynous attitudes or behavior
+}
