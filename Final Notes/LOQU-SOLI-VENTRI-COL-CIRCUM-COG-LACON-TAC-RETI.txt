@@ -1,0 +1,223 @@
+======================================================
+LOQU-          → speak, talk
+
+E- / EX-       → out
+SOLI-          → alone
+VENTRI-        → belly
+
+COL-           → together
+CIRCUM-        → around
+
+COG-           → think, know
+
+LACON-         → Spartan, concise speech
+
+TAC-           → silent
+RETI-          → back, restrained
+
+-ITY           → state, quality
+-ISM           → doctrine, characteristic
+-ENCE          → state, quality
+-ION           → process, act
+======================================================
+
+LOQUACIOUSNESS   → talkativeness
+LOQUACITY        → quality of being talkative
+
+ELOQUENCE        → fluent and expressive speech
+
+SOLILOQUY        → speech to oneself
+VENTRILOQUY      → belly-speaking technique
+
+COLLOQUIAL       → informal conversational language
+COLLOQUIALISM    → informal expression
+
+CIRCUMLOCUTION   → roundabout way of speaking
+
+COGENT           → logical and persuasive
+COGENCY          → quality of being compelling
+
+LACONISM         → meaningful brevity
+LACONICNESS      → economy of speech
+LACONICITY       → pithiness
+LACONICISM       → Spartan brevity of expression
+
+TACITURNITY      → reluctance to talk
+TACIT            → unspoken; implied
+TACITNESS        → state of being unspoken
+
+RETICENT         → reluctant to speak
+RETICENCE        → unwillingness to talk
+
+======================================================
+
+LOQUACIOUSNESS : {
+    loqu (speak) + acious (inclined to) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → tendency to speak much
+        → excessive talking
+        → talkativeness
+}
+
+LOQUACITY : {
+    loqu (speak) + acity (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of speaking freely
+        → readiness to talk
+        → talkativeness
+}
+
+ELOQUENCE : {
+    e (out) + loqu (speak)
+
+    Semantic Evolution (literal → modern):
+        → speak out effectively
+        → expressive communication
+        → vivid, fluent, and persuasive language
+}
+
+SOLILOQUY : {
+    soli (alone) + loquy (speech)
+
+    Semantic Evolution (literal → modern):
+        → speaking alone
+        → talking to oneself
+        → dramatic speech revealing thoughts
+}
+
+VENTRILOQUY : {
+    ventri (belly) + loquy (speech)
+
+    Semantic Evolution (literal → modern):
+        → belly speech
+        → voice appearing to come from elsewhere
+        → art of throwing the voice
+}
+
+COLLOQUIAL : {
+    col (together) + loqu (speak)
+
+    Semantic Evolution (literal → modern):
+        → speaking together
+        → conversational speech
+        → informal everyday language
+}
+
+COLLOQUIALISM : {
+    colloquial (informal speech) + ism (expression)
+
+    Semantic Evolution (literal → modern):
+        → conversational expression
+        → informal phrase
+        → common everyday saying
+}
+
+CIRCUMLOCUTION : {
+    circum (around) + locution (speech)
+
+    Semantic Evolution (literal → modern):
+        → speaking around
+        → indirect expression
+        → roundabout way of saying something
+}
+
+COGENT : {
+    cog (think, know)
+
+    Semantic Evolution (literal → modern):
+        → mentally compelling
+        → logically convincing
+        → forcefully persuasive and well-reasoned
+}
+
+COGENCY : {
+    cogent (persuasive) + cy (state)
+
+    Semantic Evolution (literal → modern):
+        → quality of being convincing
+        → logical force
+        → persuasive power of reasoning
+}
+
+LACONISM : {
+    lacon (Sparta)
+
+    Semantic Evolution (literal → modern):
+        → Spartan style of speech
+        → brief but meaningful expression
+        → concise and effective communication
+}
+
+LACONICNESS : {
+    laconic (brief) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of being concise
+        → economy of words
+        → briefness in speech
+}
+
+LACONICITY : {
+    laconic (brief) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of concise expression
+        → pithiness
+        → meaningful brevity
+}
+
+LACONICISM : {
+    lacon (Sparta) + ism (characteristic)
+
+    Semantic Evolution (literal → modern):
+        → Spartan characteristic
+        → habit of brief speech
+        → concise style of communication
+}
+
+TACITURNITY : {
+    tac (silent) + urnity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of silence
+        → habitual reserve
+        → disinclination to talk
+}
+
+TACIT : {
+    tac (silent)
+
+    Semantic Evolution (literal → modern):
+        → left unsaid
+        → understood without words
+        → implied rather than expressed
+}
+
+TACITNESS : {
+    tacit (unspoken) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of being implied
+        → unspoken understanding
+        → state of remaining unstated
+}
+
+RETICENT : {
+    reti (held back)
+
+    Semantic Evolution (literal → modern):
+        → holding speech back
+        → reserved in expression
+        → reluctant to speak freely
+}
+
+RETICENCE : {
+    reticent (reserved) + ence (state)
+
+    Semantic Evolution (literal → modern):
+        → state of restraint
+        → unwillingness to speak
+        → reserve or silence
+}
