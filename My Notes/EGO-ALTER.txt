@@ -3,30 +3,62 @@ EGO → I, self
 ALTER → other
 VERT → to turn, rotate
 ======================================================
-egoist  → selfish
-egotist → self-conceited
-egotism →  self-conceitedness
 
-egocentric
+egoist      → selfish person; one who puts own interests first
+egotist     → self-conceited person; one who talks excessively about oneself
+egotism     → self-conceitedness; excessive self-importance
 
-egomaniac → self-obsessed
-egomaniacal →  self-obsessed
+egocentric  → self-centered; viewing everything in relation to oneself
+egocentrism → self-centeredness
 
-alter ego
-altercation →  noisy quarrel
+egomaniac   → self-obsessed person
+egomaniacal → extremely self-obsessed
 
-alternate
-alternative
-alteration  →  change
-alter  →  change
+alter ego   → second self; close substitute or different side of one's personality
+altercation → noisy quarrel; heated argument
 
-altruism
-altruist
-altruistic
+alternate   → occurring by turns; every other
+alternately → one after another in turn
+alternation → process of taking turns
+alternative → another choice; substitute option
+alteration  → change; modification
+alter       → to change; modify
 
+altruism    → selfless concern for others
+altruist    → selfless person
+altruistic  → selfless; concerned for others' welfare
 
-introvert
-extrovert
-ambivert
+introvert   → person who turns inward; gains energy from solitude
+introverted → reserved; inward-looking
 
+extrovert   → person who turns outward; gains energy from social interaction
+extroverted → outgoing; socially expressive
+
+ambivert    → person with both introvert and extrovert traits
+ambiversion → balance of introversion and extroversion
+
+invert      → turn upside down; reverse position
+inversion   → reversal; turning upside down
+
+vertigo     → sensation of spinning or dizziness
+vertex      → highest point; peak; top point of an angle
+
+convert     → turn into another form; transform
+conversion  → process of changing into another form
+
+revert      → turn back; return to a previous state
+reversion   → return to an earlier condition
+
+divert      → turn aside; redirect
+diversion   → redirection; distraction
+
+advert      → turn attention to; refer to
+advertent   → attentive; intentional
+inadvertent → unintentional; accidental
+
+versatile   → able to turn easily to different tasks; adaptable
+versatility → adaptability; many-sided ability
+
+======================================================
+ROOT CONNECTIONS
 ======================================================
