@@ -1,0 +1,216 @@
+======================================================
+VOC- / VOX-     → voice, call
+
+DORS-           → back
+VENTR-          → belly, front side
+
+AUR-            → ear
+
+ENDO-           → on, upon, in
+BI-             → two
+MONO-           → one
+
+-AL             → relating to
+-IST            → person, specialist
+-ATION          → process, state
+-CLE            → small structure
+======================================================
+
+VOCIFEROUS       → loud; carrying a noisy voice
+VOCIFERATE       → shout vehemently
+VOCIFERATION     → act of shouting
+
+VOCAL            → relating to the voice
+VOCALIST         → singer
+VOCALIZE         → give voice to
+VOCALIZATION     → formation of sounds
+
+DORSAL           → pertaining to the back side
+ENDORSE          → support; sign on the back
+ENDORSEMENT      → approval or signature
+
+AVUNCULAR        → kindly and protective like an uncle
+
+VENTRILOQUIST    → one who throws the voice
+VENTRAL          → pertaining to the belly or front side
+VENTRICLE        → chamber or hollow cavity
+
+AURICLE          → ear-shaped chamber
+AURAL            → relating to hearing
+AURIST           → ear specialist
+
+BINAURAL         → involving both ears
+MONAURAL         → involving one ear
+
+======================================================
+
+VOCIFEROUS : {
+    voc (voice) + ferous (carrying)
+
+    Semantic Evolution (literal → modern):
+        → carrying the voice
+        → loudly expressive
+        → noisy and boisterous
+}
+
+VOCIFERATE : {
+    voc (voice) + ferate (carry)
+
+    Semantic Evolution (literal → modern):
+        → carry the voice strongly
+        → cry out loudly
+        → shout or scream vehemently
+}
+
+VOCIFERATION : {
+    vociferate (shout loudly) + ion (act)
+
+    Semantic Evolution (literal → modern):
+        → act of crying out
+        → loud verbal expression
+        → shouting or clamorous speech
+}
+
+VOCAL : {
+    voc (voice) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to the voice
+        → produced by speech or singing
+        → connected with vocal expression
+}
+
+VOCALIST : {
+    vocal (voice) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → person using the voice
+        → singer
+        → professional vocal performer
+}
+
+VOCALIZE : {
+    vocal (voice) + ize (make)
+
+    Semantic Evolution (literal → modern):
+        → put into voice
+        → express aloud
+        → produce speech or song
+}
+
+VOCALIZATION : {
+    vocalize (give voice) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → act of giving voice
+        → production of speech sounds
+        → formation of vocal sounds
+}
+
+DORSAL : {
+    dors (back) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to the back
+        → situated on the rear side
+        → pertaining to the back surface
+}
+
+ENDORSE : {
+    en (on) + dors (back)
+
+    Semantic Evolution (literal → modern):
+        → write on the back
+        → place one's name behind
+        → support or approve publicly
+}
+
+ENDORSEMENT : {
+    endorse (support) + ment (result)
+
+    Semantic Evolution (literal → modern):
+        → act of signing on the back
+        → expression of approval
+        → formal support or authorization
+}
+
+AVUNCULAR : {
+    avunculus (uncle) + ar (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to an uncle
+        → kindly and protective
+        → benevolent in a fatherly way
+}
+
+VENTRILOQUIST : {
+    ventri (belly) + loquist (speaker)
+
+    Semantic Evolution (literal → modern):
+        → belly speaker
+        → one appearing to speak from the stomach
+        → performer who projects the voice elsewhere
+}
+
+VENTRAL : {
+    ventr (belly) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to the belly
+        → located on the front side
+        → pertaining to the anterior surface
+}
+
+VENTRICLE : {
+    ventr (belly, cavity) + icle (small)
+
+    Semantic Evolution (literal → modern):
+        → small cavity
+        → chamber-like space
+        → hollow chamber in the heart or brain
+}
+
+AURICLE : {
+    aur (ear) + icle (small)
+
+    Semantic Evolution (literal → modern):
+        → little ear
+        → ear-shaped structure
+        → ear-shaped chamber of the heart
+}
+
+AURAL : {
+    aur (ear) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to the ear
+        → connected with hearing
+        → auditory in nature
+}
+
+AURIST : {
+    aur (ear) + ist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → specialist of the ear
+        → physician treating ear disorders
+        → ear specialist
+}
+
+BINAURAL : {
+    bi (two) + aural (hearing)
+
+    Semantic Evolution (literal → modern):
+        → involving two ears
+        → heard by both ears
+        → using dual-ear sound perception
+}
+
+MONAURAL : {
+    mono (one) + aural (hearing)
+
+    Semantic Evolution (literal → modern):
+        → involving one ear
+        → heard through a single channel
+        → single-ear audio perception
+}
