@@ -1,0 +1,138 @@
+======================================================
+SOCI-          → companion, associate, society
+SEMANT-        → meaning, significance
+
+PHIL- / PHILO- → love, affection
+ANTHROP-       → human being, mankind
+
+SOPH-          → wisdom
+ADELPH-        → brother
+
+BIBLIO-        → book
+ANGLO-         → English, England
+
+LINGU-         → tongue, language
+
+APHRODITE      → Greek goddess of love
+-IAC           → relating to, causing
+======================================================
+
+SOCIOLOGY       → scientific study of society and groups
+ASOCIAL         → withdrawn from social interaction
+
+SEMANTICS       → study of meanings in language
+
+PHILANTHROPY    → love of mankind; concern for human welfare
+PHILANDERER     → person who engages in casual romantic affairs
+PHILOSOPHY      → love of wisdom
+
+PHILADELPHIA    → brotherly love
+
+BIBLIOPHILE     → lover of books
+ANGLOPHILE      → admirer of English language or culture
+
+LINGUISTICS     → scientific study of language
+
+APHRODISIAC     → substance arousing sexual desire
+
+======================================================
+
+SOCIOLOGY : {
+    soci (companion, society) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of companions and associations
+        → study of social groups
+        → scientific study of society and human interaction
+}
+
+ASOCIAL : {
+    a (without) + social (society)
+
+    Semantic Evolution (literal → modern):
+        → without social connection
+        → avoiding social interaction
+        → withdrawn or indifferent to society
+}
+
+SEMANTICS : {
+    semant (meaning, significance) + ics (field of study)
+
+    Semantic Evolution (literal → modern):
+        → study of meaning
+        → analysis of word significance
+        → branch of linguistics dealing with meaning
+}
+
+PHILANTHROPY : {
+    phil (love) + anthrop (human being)
+
+    Semantic Evolution (literal → modern):
+        → love of mankind
+        → concern for human welfare
+        → charitable concern for others
+}
+
+PHILANDERER : {
+    phil (love) + ander (man)
+
+    Semantic Evolution (literal → modern):
+        → lover of romantic pursuits
+        → person seeking many love affairs
+        → one who engages in casual romantic relationships
+}
+
+PHILOSOPHY : {
+    philo (love) + sophy (wisdom)
+
+    Semantic Evolution (literal → modern):
+        → love of wisdom
+        → pursuit of knowledge and truth
+        → systematic study of fundamental questions
+}
+
+PHILADELPHIA : {
+    phil (love) + adelph (brother)
+
+    Semantic Evolution (literal → modern):
+        → love of brothers
+        → brotherly affection
+        → brotherly love
+}
+
+BIBLIOPHILE : {
+    biblio (book) + phile (lover)
+
+    Semantic Evolution (literal → modern):
+        → lover of books
+        → person devoted to reading
+        → collector or enthusiast of books
+}
+
+ANGLOPHILE : {
+    Anglo (English) + phile (lover)
+
+    Semantic Evolution (literal → modern):
+        → lover of England
+        → admirer of English language or culture
+        → person strongly attracted to English traditions
+}
+
+LINGUISTICS : {
+    lingu (tongue, language) + istics (field of study)
+
+    Semantic Evolution (literal → modern):
+        → study of language
+        → analysis of speech and communication
+        → scientific study of human language
+}
+
+APHRODISIAC : {
+    Aphrodite (goddess of love) + iac (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to love or desire
+        → stimulating romantic feelings
+        → substance arousing sexual desire
+}
+
