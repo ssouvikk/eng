@@ -1,0 +1,156 @@
+======================================================
+NOCUO-        → harm, injure
+
+CHEVAL-       → horse (French)
+CABALLUS-     → horse (Latin)
+EQUUS-        → horse (Latin)
+
+IN-           → not
+======================================================
+
+INNOCUOUS      → harmless; unlikely to injure
+
+INNOCENT       → not guilty or harmful
+NOXIOUS        → harmful or poisonous
+NOCUOUS        → harmful
+INNOCUOUSNESS  → quality of harmlessness
+
+CHIVALROUS     → attentive and courteous to women
+
+CHIVALRY       → knightly code or courtesy
+CAVALCADE      → procession on horseback
+CAVALIER       → haughty or unconcerned
+CAVALRY        → mounted military division
+CHEVALIER      → French knight
+EQUESTRIAN     → horseman
+EQUESTRIENNE   → horsewoman
+EQUINE         → horselike
+======================================================
+
+INNOCUOUS : {
+    in (not) + nocuo (harm)
+
+    Semantic Evolution (literal → modern):
+        → not harmful
+        → causing no injury
+        → harmless and unlikely to offend or damage
+}
+
+INNOCENT : {
+    in (not) + nocens (harming)
+
+    Semantic Evolution (literal → modern):
+        → not harming
+        → free from guilt
+        → harmless, pure, or blameless
+}
+
+NOXIOUS : {
+    nocuo (harm)
+
+    Semantic Evolution (literal → modern):
+        → harmful
+        → injurious to health
+        → poisonous, dangerous, or destructive
+}
+
+NOCUOUS : {
+    nocuo (harm)
+
+    Semantic Evolution (literal → modern):
+        → harmful
+        → damaging
+        → capable of causing injury or harm
+}
+
+INNOCUOUSNESS : {
+    in (not) + nocuo (harm)
+
+    Semantic Evolution (literal → modern):
+        → absence of harm
+        → harmless quality
+        → state of being safe and inoffensive
+}
+
+======================================================
+
+CHIVALROUS : {
+    cheval (horse)
+
+    Semantic Evolution (literal → modern):
+        → relating to horse-mounted knights
+        → possessing knightly virtues
+        → attentive, courteous, and honorable toward women
+}
+
+CHIVALRY : {
+    cheval (horse)
+
+    Semantic Evolution (literal → modern):
+        → mounted knighthood
+        → code of knightly conduct
+        → courtesy, honor, and gallantry
+}
+
+CAVALCADE : {
+    caballus (horse)
+
+    Semantic Evolution (literal → modern):
+        → group of horse riders
+        → horseback procession
+        → formal parade or procession
+}
+
+CAVALIER : {
+    caballus (horse)
+
+    Semantic Evolution (literal → modern):
+        → horseman
+        → mounted nobleman
+        → arrogant, highhanded, or casually unconcerned
+}
+
+CAVALRY : {
+    caballus (horse)
+
+    Semantic Evolution (literal → modern):
+        → mounted soldiers
+        → horse-mounted military force
+        → military division traditionally fighting on horseback
+}
+
+CHEVALIER : {
+    cheval (horse)
+
+    Semantic Evolution (literal → modern):
+        → horse-mounted warrior
+        → knight
+        → man honored for distinguished service
+}
+
+EQUESTRIAN : {
+    equus (horse)
+
+    Semantic Evolution (literal → modern):
+        → horse rider
+        → relating to horseback riding
+        → horseman or rider skilled in horsemanship
+}
+
+EQUESTRIENNE : {
+    equus (horse)
+
+    Semantic Evolution (literal → modern):
+        → female horse rider
+        → woman skilled in horsemanship
+        → horsewoman
+}
+
+EQUINE : {
+    equus (horse)
+
+    Semantic Evolution (literal → modern):
+        → horse-related
+        → horse-like
+        → resembling or pertaining to horses
+}
