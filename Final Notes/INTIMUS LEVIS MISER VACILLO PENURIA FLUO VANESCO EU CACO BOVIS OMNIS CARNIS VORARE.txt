@@ -1,0 +1,269 @@
+======================================================
+INTIMUS-      → innermost
+LEVIS-        → light
+MISER-        → wretched
+VACILLO-      → swing back and forth
+
+PENURIA-      → need, scarcity
+FLUO-         → flow
+VANESCO-      → vanish
+
+EU-           → good, well
+CACO-         → bad, harsh
+
+BOVIS-        → ox, cow
+OMNIS-        → all
+
+CARNIS-       → flesh, meat
+VORARE-       → devour
+======================================================
+
+INTIMATE       → hint indirectly
+ALLEVIATE      → lighten a burden
+COMMISERATE    → share grief or sympathy
+VACILLATE      → waver indecisively
+
+PENURY         → extreme poverty or need
+FLUENT         → flowing smoothly
+FLUCTUATE      → flow up and down
+EVANESCE       → vanish gradually
+EVANESCENT     → quickly fading away
+
+EUPHEMISM      → pleasant expression for a harsh one
+CACOPHONY      → harsh or unpleasant sound
+
+UBIQUITOUS     → existing everywhere
+OMNIBUS        → for all; including all
+
+CARNAGE        → slaughter and destruction
+CARNALITY      → fleshly lust
+INCARNATE      → embodied in flesh
+REINCARNATION  → rebirth in another body
+
+CLANDESTINE    → hidden and secret
+SURREPTITIOUS  → stealthy and secret
+
+CARNIVOROUS    → meat-eating
+HERBIVOROUS    → plant-eating
+OMNIVOROUS     → eating all things
+VORACIOUS      → greedily hungry
+======================================================
+
+INTIMATE : {
+    intimus (innermost)
+
+    Semantic Evolution (literal → modern):
+        → make known from within
+        → suggest subtly
+        → hint or imply indirectly
+}
+
+ALLEVIATE : {
+    ad (to) + levis (light)
+
+    Semantic Evolution (literal → modern):
+        → make lighter
+        → reduce a burden
+        → make pain or hardship easier to bear
+}
+
+COMMISERATE : {
+    com (with) + miser (wretched)
+
+    Semantic Evolution (literal → modern):
+        → share another's misery
+        → sympathize with suffering
+        → express sorrow or compassion
+}
+
+VACILLATE : {
+    vacillo (swing back and forth)
+
+    Semantic Evolution (literal → modern):
+        → swing repeatedly
+        → waver between choices
+        → hesitate indecisively
+}
+
+======================================================
+
+PENURY : {
+    penuria (need)
+
+    Semantic Evolution (literal → modern):
+        → state of need
+        → severe scarcity
+        → extreme poverty
+}
+
+FLUENT : {
+    fluo (flow)
+
+    Semantic Evolution (literal → modern):
+        → flowing
+        → smooth in movement
+        → speaking easily and effortlessly
+}
+
+FLUCTUATE : {
+    fluo (flow)
+
+    Semantic Evolution (literal → modern):
+        → flow back and forth
+        → rise and fall
+        → vary irregularly
+}
+
+EVANESCE : {
+    e (out) + vanesco (vanish)
+
+    Semantic Evolution (literal → modern):
+        → vanish away
+        → fade gradually
+        → disappear from sight or memory
+}
+
+EVANESCENT : {
+    e (out) + vanesco (vanish)
+
+    Semantic Evolution (literal → modern):
+        → vanishing away
+        → short-lived
+        → quickly fading or disappearing
+}
+
+======================================================
+
+EUPHEMISM : {
+    eu (good) + pheme (speech)
+
+    Semantic Evolution (literal → modern):
+        → good speech
+        → pleasant expression
+        → mild term replacing a harsh one
+}
+
+CACOPHONY : {
+    caco (bad) + phone (sound)
+
+    Semantic Evolution (literal → modern):
+        → bad sound
+        → harsh noise
+        → unpleasant mixture of sounds
+}
+
+======================================================
+
+UBIQUITOUS : {
+    ubi (everywhere)
+
+    Semantic Evolution (literal → modern):
+        → existing everywhere
+        → widely present
+        → found in all places at once
+}
+
+OMNIBUS : {
+    omnis (all)
+
+    Semantic Evolution (literal → modern):
+        → for all
+        → including everything
+        → collection containing many items or subjects
+}
+
+======================================================
+
+CARNAGE : {
+    carnis (flesh)
+
+    Semantic Evolution (literal → modern):
+        → heaps of flesh
+        → mass killing
+        → slaughter and widespread destruction
+}
+
+CARNALITY : {
+    carnis (flesh)
+
+    Semantic Evolution (literal → modern):
+        → of the flesh
+        → bodily desire
+        → sensuality or lechery
+}
+
+INCARNATE : {
+    in (in) + carnis (flesh)
+
+    Semantic Evolution (literal → modern):
+        → in the flesh
+        → embodied physically
+        → given tangible human form
+}
+
+REINCARNATION : {
+    re (again) + in (in) + carnis (flesh)
+
+    Semantic Evolution (literal → modern):
+        → again in the flesh
+        → rebirth into another body
+        → successive embodiment after death
+}
+
+======================================================
+
+CLANDESTINE : {
+    clam (secretly)
+
+    Semantic Evolution (literal → modern):
+        → done secretly
+        → concealed from notice
+        → hidden, often for improper purposes
+}
+
+SURREPTITIOUS : {
+    surreptus (stolen, secret)
+
+    Semantic Evolution (literal → modern):
+        → secretly obtained
+        → stealthily performed
+        → done quietly to avoid detection
+}
+
+======================================================
+
+CARNIVOROUS : {
+    carnis (flesh) + vorare (devour)
+
+    Semantic Evolution (literal → modern):
+        → flesh-devouring
+        → meat-eating
+        → feeding primarily on animals
+}
+
+HERBIVOROUS : {
+    herba (plant) + vorare (devour)
+
+    Semantic Evolution (literal → modern):
+        → plant-devouring
+        → plant-eating
+        → feeding primarily on vegetation
+}
+
+OMNIVOROUS : {
+    omnis (all) + vorare (devour)
+
+    Semantic Evolution (literal → modern):
+        → devouring everything
+        → eating all kinds of food
+        → consuming both plants and animals
+}
+
+VORACIOUS : {
+    vorare (devour)
+
+    Semantic Evolution (literal → modern):
+        → devouring greedily
+        → insatiably hungry
+        → having an enormous appetite or desire
+}
