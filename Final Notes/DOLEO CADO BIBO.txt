@@ -1,0 +1,213 @@
+======================================================
+DOLEO-        → suffer, grieve
+CADO-         → fall
+BIBO-         → drink
+======================================================
+
+DOLOROUS       → melancholy; sorrowful
+DOLOR          → grief; sorrow
+DOLEFUL        → mournfully sorrowful
+CONDOLENCE     → expression of sympathy
+CONDOLE        → express sympathy
+INDOLENT       → lazy; inactive
+DOLORES        → sorrows
+
+CADAVEROUS     → gaunt, haggard, deathly pale
+CADAVER        → corpse
+DECADENCE      → moral or cultural decline
+DECADENT       → morally decaying
+CADENCE        → rhythmic flow of sound
+OCCIDENTAL     → western
+DECIDUOUS      → shedding leaves
+INCIDENT       → occurrence
+ACCIDENT       → unintended event
+COINCIDENCE    → things occurring together
+
+BIBULOUS       → addicted to alcohol
+IMBIBE         → drink in; absorb
+BIBULOUSNESS   → addiction to drink
+======================================================
+
+DOLOROUS : {
+    doleo (suffer, grieve)
+
+    Semantic Evolution (literal → modern):
+        → suffering
+        → filled with grief
+        → melancholy or sorrowful
+}
+
+DOLOR : {
+    doleo (suffer, grieve)
+
+    Semantic Evolution (literal → modern):
+        → pain
+        → grief
+        → deep sorrow or distress
+}
+
+DOLEFUL : {
+    doleo (suffer, grieve)
+
+    Semantic Evolution (literal → modern):
+        → full of sorrow
+        → mournful
+        → exaggeratedly sad or gloomy
+}
+
+CONDOLENCE : {
+    con (with) + doleo (grieve)
+
+    Semantic Evolution (literal → modern):
+        → grieve with another
+        → share someone's sorrow
+        → expression of sympathy after loss
+}
+
+CONDOLE : {
+    con (with) + doleo (grieve)
+
+    Semantic Evolution (literal → modern):
+        → grieve together
+        → sympathize with the bereaved
+        → express sorrow and sympathy
+}
+
+INDOLENT : {
+    in (not) + doleo (feel pain)
+
+    Semantic Evolution (literal → modern):
+        → not feeling pain
+        → lacking urgency or effort
+        → habitually lazy or inactive
+}
+
+DOLORES : {
+    dolores (sorrows)
+
+    Semantic Evolution (literal → modern):
+        → sorrows
+        → religious association with suffering
+        → personal name derived from sorrow
+}
+
+======================================================
+
+CADAVEROUS : {
+    cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → like a fallen body
+        → corpse-like
+        → gaunt, haggard, and deathly pale
+}
+
+CADAVER : {
+    cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → fallen body
+        → dead body
+        → corpse used especially for study
+}
+
+DECADENCE : {
+    de (down) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → falling down
+        → decline in standards
+        → spiritual, cultural, or moral decay
+}
+
+DECADENT : {
+    de (down) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → declining
+        → morally weakened
+        → characterized by decay or self-indulgence
+}
+
+CADENCE : {
+    cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → falling rhythm
+        → flow of sound
+        → rhythmic pattern or musical beat
+}
+
+OCCIDENTAL : {
+    ob (down) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → place where the sun falls
+        → west
+        → relating to the Western world
+}
+
+DECIDUOUS : {
+    de (off) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → falling off
+        → shedding periodically
+        → losing leaves seasonally
+}
+
+INCIDENT : {
+    in (into) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → fall into
+        → happen
+        → event or occurrence
+}
+
+ACCIDENT : {
+    ad (toward) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → fall upon
+        → unforeseen happening
+        → unintended and unexpected event
+}
+
+COINCIDENCE : {
+    co (together) + cado (fall)
+
+    Semantic Evolution (literal → modern):
+        → fall together
+        → occur simultaneously
+        → remarkable concurrence of events
+}
+
+======================================================
+
+BIBULOUS : {
+    bibo (drink)
+
+    Semantic Evolution (literal → modern):
+        → fond of drinking
+        → habitually consuming alcohol
+        → addicted to alcoholic beverages
+}
+
+IMBIBE : {
+    in (into) + bibo (drink)
+
+    Semantic Evolution (literal → modern):
+        → drink in
+        → absorb deeply
+        → take in ideas, knowledge, or liquids
+}
+
+BIBULOUSNESS : {
+    bibo (drink)
+
+    Semantic Evolution (literal → modern):
+        → habit of drinking
+        → fondness for alcohol
+        → addiction to drink
+}
