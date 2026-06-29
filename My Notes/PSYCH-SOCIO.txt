@@ -1,0 +1,120 @@
+======================================================
+PSYCH-         → mind, soul, spirit
+SOCIO-         → society, social group
+
+-IATREIA       → healing, medical treatment
+-SOMA          → body
+-GENIC         → producing, originating
+-THERAPY       → treatment
+
+-ANALYSIS      → examination, breaking apart
+-LOGIST        → specialist, practitioner
+======================================================
+
+PSYCHIC           → relating to the mind or extrasensory perception
+PSYCHOPATH        → person with severe antisocial personality traits
+SOCIOPATH         → person lacking social conscience and empathy
+
+PSYCHOPATHY       → mental or emotional disorder
+
+PSYCHOSOMATIC     → involving interaction between mind and body
+PSYCHOGENIC       → originating from mental or emotional causes
+
+PSYCHOTHERAPY     → treatment using psychological methods
+
+PSYCHE            → soul, spirit, or mind
+
+PSYCHOLOGIST      → specialist in human behavior and mental processes
+PSYCHOANALYST     → practitioner of psychoanalysis
+
+======================================================
+
+PSYCHIC : {
+    psych (mind, soul)
+
+    Semantic Evolution (literal → modern):
+        → pertaining to the soul
+        → relating to mental phenomena
+        → involving extrasensory perception or spiritual awareness
+}
+
+PSYCHOPATH : {
+    psych (mind) + path (disorder, suffering)
+
+    Semantic Evolution (literal → modern):
+        → person with a diseased mind
+        → individual with severe personality disturbance
+        → person exhibiting chronic antisocial behavior and lack of conscience
+}
+
+SOCIOPATH : {
+    socio (society) + path (disorder)
+
+    Semantic Evolution (literal → modern):
+        → socially disordered person
+        → individual detached from social norms
+        → person displaying antisocial and remorseless behavior
+}
+
+PSYCHOPATHY : {
+    psych (mind) + pathy (disorder)
+
+    Semantic Evolution (literal → modern):
+        → disorder of the mind
+        → emotional or personality disturbance
+        → condition characterized by antisocial traits and lack of empathy
+}
+
+PSYCHOSOMATIC : {
+    psych (mind) + soma (body)
+
+    Semantic Evolution (literal → modern):
+        → mind-body relationship
+        → mental influence on bodily function
+        → physical symptoms affected by psychological factors
+}
+
+PSYCHOGENIC : {
+    psych (mind) + genic (originating)
+
+    Semantic Evolution (literal → modern):
+        → originating in the mind
+        → arising from emotions or thoughts
+        → produced by psychological causes rather than physical disease
+}
+
+PSYCHOTHERAPY : {
+    psych (mind) + therapy (treatment)
+
+    Semantic Evolution (literal → modern):
+        → treatment of the mind
+        → psychological counseling and intervention
+        → professional therapy for mental and emotional difficulties
+}
+
+PSYCHE : {
+    psych (soul, spirit, mind)
+
+    Semantic Evolution (literal → modern):
+        → soul
+        → inner self or consciousness
+        → totality of the human mind
+}
+
+PSYCHOLOGIST : {
+    psych (mind) + logist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → specialist of the mind
+        → student of behavior and mental processes
+        → expert in psychology and human behavior
+}
+
+PSYCHOANALYST : {
+    psycho (mind) + analyst (examiner)
+
+    Semantic Evolution (literal → modern):
+        → examiner of the mind
+        → investigator of unconscious motives
+        → practitioner using psychoanalytic methods
+}
