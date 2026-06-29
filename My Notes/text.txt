@@ -1,0 +1,220 @@
+======================================================
+ORTHO-       → straight, correct
+-PAEDICS     → children; treatment/correction
+-DONTIA      → teeth
+-DONTIST      → dental specialist
+
+CARDIO-      → heart
+-CARDIAC     → pertaining to the heart
+-GRAM        → record, written trace
+-GRAPH       → instrument for recording
+
+NEURO-       → nerve
+-ALGIA       → pain
+-ITIS        → inflammation
+-OSIS        → abnormal condition, disorder
+-TIC         → person characterized by
+
+PSYCH-       → mind, soul
+-IATRY       → medical healing, treatment
+=========================================
+
+ORTHOPEDICS      → correction of skeletal deformities
+ORTHODONTIA      → straightening/correction of teeth
+ORTHODONTIST     → dental specialist
+
+CARDIOLOGY       → study of the heart
+CARDIAC          → pertaining to the heart
+CARDIOGRAM       → record of heart activity
+CARDIOGRAPH      → instrument that records heart activity
+
+NEUROLOGY        → study of nerves and nervous system
+NEURALGIA        → nerve pain
+NEURITIS         → inflammation of a nerve
+NEUROSIS         → emotional or mental disturbance
+NEUROTIC         → person with emotional instability
+
+PSYCHIATRY       → medical treatment of the mind
+PSYCHOSIS        → severe mental disorder with loss of reality
+PSYCHOTIC        → person affected by psychosis
+===============================================
+
+ORTHOPEDICS : {
+ortho (straight, correct) + paedics (correction/treatment)
+
+```
+Semantic Evolution (literal → modern):
+    → straightening deformities
+    → correction of skeletal abnormalities
+    → branch dealing with bones and joints
+```
+
+}
+
+ORTHODONTIA : {
+ortho (straight) + dontia (teeth)
+
+```
+Semantic Evolution (literal → modern):
+    → straight teeth
+    → correction of tooth alignment
+    → branch of dentistry concerned with alignment
+```
+
+}
+
+ORTHODONTIST : {
+ortho (straight) + dont (tooth) + ist (specialist)
+
+```
+Semantic Evolution (literal → modern):
+    → specialist in straightening teeth
+    → expert in dental alignment
+    → dental correction specialist
+```
+
+}
+
+CARDIOLOGY : {
+cardio (heart) + logy (study)
+
+```
+Semantic Evolution (literal → modern):
+    → study of the heart
+    → science of heart functions
+    → medical specialty dealing with the heart
+```
+
+}
+
+CARDIAC : {
+cardi (heart) + ac (pertaining to)
+
+```
+Semantic Evolution (literal → modern):
+    → relating to the heart
+    → associated with heart function
+    → heart-related
+```
+
+}
+
+CARDIOGRAM : {
+cardio (heart) + gram (record)
+
+```
+Semantic Evolution (literal → modern):
+    → heart record
+    → recording of heart activity
+    → graphic trace of heartbeat
+```
+
+}
+
+CARDIOGRAPH : {
+cardio (heart) + graph (recording instrument)
+
+```
+Semantic Evolution (literal → modern):
+    → heart-recording instrument
+    → device measuring heart activity
+    → instrument producing a cardiogram
+```
+
+}
+
+NEUROLOGY : {
+neuro (nerve) + logy (study)
+
+```
+Semantic Evolution (literal → modern):
+    → study of nerves
+    → science of the nervous system
+    → medical specialty dealing with nerves
+```
+
+}
+
+NEURALGIA : {
+neur (nerve) + algia (pain)
+
+```
+Semantic Evolution (literal → modern):
+    → nerve pain
+    → pain along a nerve pathway
+    → chronic nerve-related pain
+```
+
+}
+
+NEURITIS : {
+neur (nerve) + itis (inflammation)
+
+```
+Semantic Evolution (literal → modern):
+    → inflamed nerve
+    → inflammation of nerve tissue
+    → nerve inflammation disorder
+```
+
+}
+
+NEUROSIS : {
+neuro (nerve) + osis (abnormal condition)
+
+```
+Semantic Evolution (literal → modern):
+    → nervous disorder
+    → emotional disturbance
+    → mild mental disorder without loss of reality
+```
+
+}
+
+NEUROTIC : {
+neuro (nerve) + tic (person characterized by)
+
+```
+Semantic Evolution (literal → modern):
+    → person with nervous tendencies
+    → emotionally unstable individual
+    → person affected by neurosis
+```
+
+}
+
+PSYCHIATRY : {
+psych (mind) + iatry (medical treatment)
+
+```
+Semantic Evolution (literal → modern):
+    → healing of the mind
+    → treatment of mental disorders
+    → medical specialty of mental health
+```
+
+}
+
+PSYCHOSIS : {
+psych (mind) + osis (abnormal condition)
+
+```
+Semantic Evolution (literal → modern):
+    → mental disorder
+    → severe disturbance of the mind
+    → loss of contact with reality
+```
+
+}
+
+PSYCHOTIC : {
+psych (mind) + otic (characterized by)
+
+```
+Semantic Evolution (literal → modern):
+    → person affected by psychosis
+    → individual detached from reality
+    → sufferer of severe mental disorder
+```
+
+}
