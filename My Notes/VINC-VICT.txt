@@ -1,188 +1,225 @@
-==========================================================================
-VINC / VICT → conquer, overcome, defeat, win
-==========================================================================
+======================================================
+VINC-         → conquer, overcome, defeat
+VICT-         → conquer, victory, winner
 
-invincible → unconquerable; unbeatable
-invincibility → unconquerable nature
-conquer → overcome by force or victory
-conqueror → one who conquers
-conquerable → capable of being conquered
-conquered → overcome by force
-evince → reveal the presence of; show clearly
-evident → clearly seen
-victor → winner
-victorious → triumphant
-victory → triumph
-victimize → make a victim of
-victim → one who suffers
-convince → persuade strongly
-convincing → persuasive
-conviction → firm belief
-convict → someone found guilty of a crime
-vanquish → conquer or defeat
-victual → provision of food
-victuals → provisions
+IN-           → not
+CON-          → thoroughly, completely
+E-/EX-        → out
 
-==========================================================================
+-IBLE         → able to
+-OR           → one who
+-ION          → act, state, condition
+-OUS          → full of
+-IZE          → make
+======================================================
 
-invincible : {
+INVINCIBLE      → impossible to conquer; unbeatable
+INVINCIBILITY   → state of being unconquerable
+
+CONQUER         → overcome by force or victory
+CONQUEROR       → one who conquers
+CONQUERABLE     → capable of being conquered
+CONQUERED       → overcome by force
+
+EVINCE          → reveal clearly; demonstrate
+EVIDENT         → obvious; clearly seen
+
+VICTOR          → winner
+VICTORIOUS      → triumphant
+VICTORY         → triumph
+
+VICTIMIZE       → make a victim of
+VICTIM          → one who suffers harm
+
+CONVINCE        → persuade strongly
+CONVINCING      → persuasive
+CONVICTION      → firm belief
+
+CONVICT         → person found guilty of a crime
+
+VANQUISH        → conquer completely
+
+VICTUAL         → provision of food
+VICTUALS        → food supplies; provisions
+
+======================================================
+
+INVINCIBLE : {
     in (not) + vinc (conquer) + ible (able)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → not able to be conquered
         → impossible to defeat
         → unconquerable; unbeatable
 }
 
-invincibility : {
-    invincible + ity (state/quality)
-    semantic :
-        → state of not being conquerable
-        → condition of being impossible to defeat
-        → unconquerable nature
+INVINCIBILITY : {
+    invincible (unconquerable) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being unconquerable
+        → condition of resisting defeat
+        → unbeatable nature
 }
 
-conquer : {
-    con (thoroughly) + querere (seek, gain)
-    semantic :
+CONQUER : {
+    con (thoroughly) + querere (gain, obtain)
+
+    Semantic Evolution (literal → modern):
         → gain completely
         → gain by overcoming resistance
         → defeat and take control
-    → overcome by force or victory
 }
 
-conqueror : {
-    conquer + or (one who)
-    semantic :
+CONQUEROR : {
+    conquer (defeat) + or (one who)
+
+    Semantic Evolution (literal → modern):
         → one who conquers
         → one who defeats opponents
-        → winner; conqueror
+        → victorious ruler or winner
 }
 
-conquerable : {
-    conquer + able (capable of)
-    semantic :
+CONQUERABLE : {
+    conquer (defeat) + able (capable of)
+
+    Semantic Evolution (literal → modern):
         → capable of being conquered
         → able to be defeated
         → capable of being overcome
 }
 
-conquered : {
-    conquer + ed (past participle)
-    semantic :
-        → was conquered
+CONQUERED : {
+    conquer (defeat) + ed
+
+    Semantic Evolution (literal → modern):
         → was defeated
+        → brought under control
         → overcome by force
 }
 
-evince : {
-    e/ex (out) + vinc (prove, overcome doubt)
-    semantic :
+EVINCE : {
+    ex (out) + vinc (prove, overcome doubt)
+
+    Semantic Evolution (literal → modern):
         → bring out by proof
         → show clearly through evidence
-        → reveal; demonstrate
+        → reveal or demonstrate
 }
 
-evident : {
-    e/ex (out) + vid (see)
-    semantic :
-        → seen clearly
+EVIDENT : {
+    ex (out) + vid (see)
+
+    Semantic Evolution (literal → modern):
+        → clearly seen
         → plainly visible
-        → obvious; apparent
+        → obvious and apparent
 }
 
-victor : {
+VICTOR : {
     vict (conquer) + or (one who)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → one who conquers
-        → one who defeats others
+        → successful competitor
         → winner
 }
 
-victorious : {
+VICTORIOUS : {
     victor (winner) + ious (full of)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → full of victory
-        → characterized by success in battle or contest
+        → marked by success
         → triumphant
 }
 
-victory : {
-    vict (conquer) + ory (state/result)
-    semantic :
-        → state of having conquered
-        → successful defeat of an opponent
+VICTORY : {
+    vict (conquer) + ory (result, state)
+
+    Semantic Evolution (literal → modern):
+        → result of conquering
+        → successful defeat of opposition
         → triumph
 }
 
-victimize : {
-    victim + ize (make)
-    semantic :
+VICTIMIZE : {
+    victim (sufferer) + ize (make)
+
+    Semantic Evolution (literal → modern):
         → make into a victim
-        → cause to suffer harm or injustice
-        → make a victim of
+        → subject to harm or injustice
+        → treat unfairly or cruelly
 }
 
-victim : {
+VICTIM : {
     Latin victima (sacrificial offering)
-    semantic :
+
+    Semantic Evolution (literal → modern):
         → sacrificial being
-        → one subjected to harm or loss
-        → sufferer
+        → person harmed by circumstances
+        → one who suffers loss, injury, or injustice
 }
 
-convince : {
+CONVINCE : {
     con (thoroughly) + vinc (conquer)
-    semantic :
-        → conquer thoroughly
+
+    Semantic Evolution (literal → modern):
+        → conquer completely
         → overcome resistance or doubt
         → persuade strongly
 }
 
-convincing : {
-    convince + ing (causing)
-    semantic :
-        → causing someone to be convinced
+CONVINCING : {
+    convince (persuade) + ing
+
+    Semantic Evolution (literal → modern):
+        → causing belief
         → overcoming doubt
         → persuasive
 }
 
-conviction : {
-    convince + tion (state/act)
-    semantic :
+CONVICTION : {
+    convince (persuade) + ion (state)
+
+    Semantic Evolution (literal → modern):
         → state of being convinced
-        → settled belief after persuasion
-        → firm belief
+        → settled belief
+        → firm belief or opinion
 }
 
-convict : {
+CONVICT : {
     con (thoroughly) + vict (prove, conquer)
-    semantic :
-        → prove thoroughly guilty
+
+    Semantic Evolution (literal → modern):
+        → prove guilty completely
         → establish guilt by evidence
-        → find guilty of a crime
-        → person found guilty of a crime
+        → person legally found guilty of a crime
 }
 
-vanquish : {
-    from Latin vincere (conquer)
-    semantic :
+VANQUISH : {
+    vincere (conquer)
+
+    Semantic Evolution (literal → modern):
         → conquer completely
         → defeat thoroughly
-        → defeat decisively
+        → overcome decisively
 }
 
-victual : {
-    from Latin victus (food, nourishment)
-    semantic :
-        → that which sustains life
+VICTUAL : {
+    Latin victus (food, nourishment)
+
+    Semantic Evolution (literal → modern):
+        → nourishment
         → food supply
         → provision of food
 }
 
-victuals : {
-    victual + s
-    semantic :
-        → food supplies
+VICTUALS : {
+    victual (food supply) + s
+
+    Semantic Evolution (literal → modern):
+        → supplies of food
         → provisions for sustenance
-        → provisions
+        → food and necessities
 }
