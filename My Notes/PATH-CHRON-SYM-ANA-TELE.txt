@@ -1,0 +1,367 @@
+======================================================
+PATH-          → suffering, feeling, disease
+CHRON-         → time
+
+SYM-           → together, with
+ANTI-          → against
+A-             → without
+EM-            → in, within
+TELE-          → distant, far
+
+ANA-           → against, backward
+IN-            → not
+CON-           → together
+SYN-           → together
+
+-LOGY          → study, science
+-LOGIST        → specialist
+-METER         → measure
+-METRY         → measurement
+-IC            → relating to
+-IZE           → make
+======================================================
+
+PATHOLOGY         → study of disease
+PATHOLOGIST       → specialist in disease
+PATHOLOGICAL      → relating to disease
+
+SYMPATHY          → shared feeling; compassion
+SYMPATHETIC       → showing compassion
+SYMPATHIZE        → share another's feelings
+
+ANTIPATHY         → strong dislike
+ANTIPATHETIC      → hostile; showing dislike
+
+APATHY            → lack of feeling or interest
+APATHETIC         → indifferent; unemotional
+
+EMPATHY           → understanding another's feelings
+EMPATHIC          → relating to empathy
+EMPATHETIC        → showing empathy
+EMPATHIZE         → identify with another's feelings
+
+PATHETIC          → arousing pity
+
+TELEPATHY         → communication of thoughts at a distance
+TELEPATHIC        → relating to telepathy
+
+CHRONIC           → lasting a long time
+CHRONICITY        → state of being chronic
+
+ANACHRONISM       → something out of its proper time
+ANACHRONOUS       → belonging to another time
+ANACHRONISTIC     → out of historical context
+
+INCONGRUITY       → lack of harmony or fitness
+INCONGRUOUS       → not in harmony
+
+CHRONOLOGY        → study and arrangement of time
+CHRONOLOGICAL     → arranged by time sequence
+
+CHRONOMETER       → precise time-measuring instrument
+CHRONOMETRIC      → relating to time measurement
+CHRONOMETRY       → science of measuring time
+
+SYNCHRONIZE       → make occur at the same time
+SYNCHRONOUS       → occurring simultaneously
+SYNCHRONIZATION   → process of coordinating in time
+SYNCHRONICITY     → simultaneous occurrence
+
+======================================================
+
+PATHOLOGY : {
+    path (disease, suffering) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of disease
+        → investigation of causes of illness
+        → medical science of disease processes
+}
+
+PATHOLOGIST : {
+    path (disease) + logist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → specialist in disease
+        → expert examining disease processes
+        → physician or scientist studying pathology
+}
+
+PATHOLOGICAL : {
+    path (disease) + logical (relating to study)
+
+    Semantic Evolution (literal → modern):
+        → relating to disease
+        → caused by abnormal conditions
+        → medically or psychologically disordered
+}
+
+SYMPATHY : {
+    sym (together) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → shared feeling
+        → fellow feeling for another
+        → compassion and understanding
+}
+
+SYMPATHETIC : {
+    sympathy (shared feeling) + ic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to sympathy
+        → understanding another's distress
+        → compassionate and supportive
+}
+
+SYMPATHIZE : {
+    sym (together) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → feel together with
+        → share another's emotions
+        → express compassion
+}
+
+ANTIPATHY : {
+    anti (against) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → feeling against
+        → strong aversion
+        → deep dislike
+}
+
+ANTIPATHETIC : {
+    anti (against) + pathetic (feeling)
+
+    Semantic Evolution (literal → modern):
+        → opposed in feeling
+        → hostile or unfriendly
+        → showing dislike or aversion
+}
+
+APATHY : {
+    a (without) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → without feeling
+        → absence of emotional response
+        → lack of interest or concern
+}
+
+APATHETIC : {
+    a (without) + pathetic (feeling)
+
+    Semantic Evolution (literal → modern):
+        → lacking feeling
+        → indifferent
+        → emotionally uninvolved
+}
+
+EMPATHY : {
+    em (within) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → feeling within another
+        → understanding another's emotions
+        → ability to share another's perspective
+}
+
+EMPATHIC : {
+    empathy (understanding feelings) + ic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to empathy
+        → capable of understanding emotions
+        → characterized by emotional insight
+}
+
+EMPATHETIC : {
+    empathy (shared understanding) + etic
+
+    Semantic Evolution (literal → modern):
+        → showing empathy
+        → sensitive to others' feelings
+        → compassionate and understanding
+}
+
+EMPATHIZE : {
+    em (within) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → enter into another's feelings
+        → understand emotionally
+        → identify with another's experience
+}
+
+PATHETIC : {
+    path (feeling, suffering)
+
+    Semantic Evolution (literal → modern):
+        → capable of arousing feeling
+        → evoking pity or sorrow
+        → pitiable or distressing
+}
+
+TELEPATHY : {
+    tele (distance) + path (feeling)
+
+    Semantic Evolution (literal → modern):
+        → feeling across distance
+        → communication without physical contact
+        → transmission of thoughts at a distance
+}
+
+TELEPATHIC : {
+    telepathy (distant communication) + ic
+
+    Semantic Evolution (literal → modern):
+        → relating to telepathy
+        → involving mind-to-mind communication
+        → occurring without ordinary senses
+}
+
+CHRONIC : {
+    chron (time)
+
+    Semantic Evolution (literal → modern):
+        → lasting through time
+        → continuing for a long duration
+        → persistent or recurring
+}
+
+CHRONICITY : {
+    chronic (long-lasting) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of lasting over time
+        → persistence of a condition
+        → long-term duration
+}
+
+ANACHRONISM : {
+    ana (against) + chron (time)
+
+    Semantic Evolution (literal → modern):
+        → against time
+        → placed in the wrong historical period
+        → something out of chronological order
+}
+
+ANACHRONOUS : {
+    ana (against) + chron (time)
+
+    Semantic Evolution (literal → modern):
+        → belonging to another time
+        → not fitting its period
+        → historically misplaced
+}
+
+ANACHRONISTIC : {
+    anachronism (out of time) + ic
+
+    Semantic Evolution (literal → modern):
+        → characterized by anachronism
+        → historically inappropriate
+        → out of proper time context
+}
+
+INCONGRUITY : {
+    in (not) + congruity (agreement)
+
+    Semantic Evolution (literal → modern):
+        → lack of agreement
+        → mismatch or inconsistency
+        → absence of harmony or fitness
+}
+
+INCONGRUOUS : {
+    in (not) + congruous (harmonious)
+
+    Semantic Evolution (literal → modern):
+        → not fitting together
+        → inconsistent or inappropriate
+        → lacking harmony
+}
+
+CHRONOLOGY : {
+    chron (time) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of time
+        → arrangement of events by date
+        → sequential ordering of events
+}
+
+CHRONOLOGICAL : {
+    chronology (time order) + ical
+
+    Semantic Evolution (literal → modern):
+        → relating to time sequence
+        → arranged by dates
+        → following historical order
+}
+
+CHRONOMETER : {
+    chron (time) + meter (measure)
+
+    Semantic Evolution (literal → modern):
+        → measure of time
+        → highly accurate clock
+        → precision timekeeping instrument
+}
+
+CHRONOMETRIC : {
+    chronometer (time measurement) + ic
+
+    Semantic Evolution (literal → modern):
+        → relating to measuring time
+        → involving precise timing
+        → concerned with time measurement
+}
+
+CHRONOMETRY : {
+    chron (time) + metry (measurement)
+
+    Semantic Evolution (literal → modern):
+        → measurement of time
+        → science of accurate timing
+        → study of timekeeping methods
+}
+
+SYNCHRONIZE : {
+    syn (together) + chron (time) + ize (make)
+
+    Semantic Evolution (literal → modern):
+        → make time together
+        → coordinate events
+        → cause simultaneous operation
+}
+
+SYNCHRONOUS : {
+    syn (together) + chron (time)
+
+    Semantic Evolution (literal → modern):
+        → occurring at the same time
+        → simultaneous
+        → coordinated in timing
+}
+
+SYNCHRONIZATION : {
+    synchronize (coordinate) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → process of coordinating time
+        → adjustment to common timing
+        → simultaneous operation
+}
+
+SYNCHRONICITY : {
+    syn (together) + chronicity (time-related state)
+
+    Semantic Evolution (literal → modern):
+        → coincidence in time
+        → simultaneous occurrence
+        → meaningful temporal correspondence
+}
