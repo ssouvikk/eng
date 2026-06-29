@@ -1,0 +1,114 @@
+======================================================
+GRAPH-        → writing, drawing, recording
+CALLO-        → beautiful, beauty
+CACO-         → bad, ugly, poor
+PYG- / PYGE   → buttocks
+
+GERON-        → old age, aged person
+SEN-          → old, aged
+
+-LOGY         → study, science
+-ITY          → condition, state
+-ESCENCE      → process or condition of becoming
+-IOR          → comparative suffix (more)
+-ATE          → council, governing body
+======================================================
+
+GRAPHOLOGY      → analysis of character through handwriting
+
+CALLIGRAPHY     → beautiful, artistic handwriting
+CACOGRAPHY      → ugly, poor, illegible handwriting
+
+CALLIPYGIAN     → possessing beautiful buttocks
+
+GERONTOLOGY     → study of aging and the aged
+
+SENILITY        → deterioration associated with old age
+SENESCENCE      → process or condition of growing old
+
+SENIOR          → older person
+
+SENATE          → council of elders or senior citizens
+
+======================================================
+
+GRAPHOLOGY : {
+    graph (writing) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of writing
+        → analysis of handwriting
+        → interpretation of character from handwriting
+}
+
+CALLIGRAPHY : {
+    callo (beauty) + graphy (writing)
+
+    Semantic Evolution (literal → modern):
+        → beautiful writing
+        → elegant handwriting
+        → artistic decorative penmanship
+}
+
+CACOGRAPHY : {
+    caco (bad, ugly) + graphy (writing)
+
+    Semantic Evolution (literal → modern):
+        → bad writing
+        → poor or ugly handwriting
+        → illegible or incorrect writing
+}
+
+CALLIPYGIAN : {
+    calli (beautiful) + pyge (buttocks)
+
+    Semantic Evolution (literal → modern):
+        → beautiful buttocks
+        → well-shaped posterior
+        → possessing attractively formed buttocks
+}
+
+GERONTOLOGY : {
+    geron (old age, aged person) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of old age
+        → investigation of aging
+        → social, biological, and economic study of the elderly
+}
+
+SENILITY : {
+    sen (old age) + ility (state, condition)
+
+    Semantic Evolution (literal → modern):
+        → condition of old age
+        → decline associated with aging
+        → mental or physical deterioration in old age
+}
+
+SENESCENCE : {
+    sen (old age) + escence (becoming)
+
+    Semantic Evolution (literal → modern):
+        → process of becoming old
+        → gradual aging
+        → biological condition of growing old
+}
+
+SENIOR : {
+    sen (old) + ior (comparative suffix)
+
+    Semantic Evolution (literal → modern):
+        → older
+        → person of greater age
+        → elder or more experienced individual
+}
+
+SENATE : {
+    sen (old age, elder) + ate (council)
+
+    Semantic Evolution (literal → modern):
+        → council of elders
+        → governing body of senior citizens
+        → legislative assembly or upper chamber
+}
