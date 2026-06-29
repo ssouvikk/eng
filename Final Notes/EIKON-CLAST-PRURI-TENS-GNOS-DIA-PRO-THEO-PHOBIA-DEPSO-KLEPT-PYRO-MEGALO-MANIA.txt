@@ -1,0 +1,325 @@
+======================================================
+EIKON-         → image, likeness
+CLAST / KLASM  → break
+
+PRURI-         → itch, craving
+
+TENS-          → stretch, pressure
+HYPER-         → excessive, above
+HYPO-          → below, under
+
+GNOS-          → know, knowledge
+DIA-           → through
+PRO-           → before
+
+THEO-          → god
+A-             → without, not
+MONO-          → one
+POLY-          → many
+PAN-           → all
+
+PHOBIA         → fear
+
+DIPSO-         → thirst, alcohol
+KLEPT-         → steal
+PYRO-          → fire
+MEGALO-        → great, large
+
+MANIA          → obsession, madness
+
+-LOGY          → study, science
+-ISM           → belief, doctrine
+-IC            → relating to
+-ICIAN         → specialist
+======================================================
+
+ICONOCLASM        → rejection of traditions or cherished beliefs
+
+PRURIENT          → filled with itching desire
+PRURITUS          → medical itching
+
+HYPERTENSION      → abnormally high pressure
+HYPOTENSION       → abnormally low pressure
+
+DIAGNOSIS         → identification of a condition
+PROGNOSIS         → forecast of future outcome
+DIAGNOSTIC        → relating to identification
+DIAGNOSTICIAN     → expert in diagnosis
+
+THEISM            → belief in God
+ATHEISM           → disbelief in God
+AGNOSTICISM       → belief that knowledge of God is unknown
+MONOTHEISM        → belief in one God
+POLYTHEISM        → belief in many gods
+PANTHEISM         → belief that God is in everything
+THEOLOGY          → study of religion and God
+
+CLAUSTROPHOBIA    → fear of enclosed places
+AGORAPHOBIA       → fear of open spaces
+ACROPHOBIA        → fear of heights
+
+DIPSOMANIA        → compulsive craving for alcohol
+KLEPTOMANIA       → compulsive urge to steal
+PYROMANIA         → compulsive urge to set fires
+
+INCENDIARISM      → deliberate fire-setting, often for gain
+ARSON             → malicious setting of fire
+
+MEGALOMANIA       → obsession with greatness
+NYMPHOMANIA       → excessive female sexual obsession
+SATYROMANIA       → excessive male sexual obsession
+SATYRIASIS        → male sexual obsession
+
+======================================================
+
+ICONOCLASM : {
+    eikon (image) + clasm (breaking)
+
+    Semantic Evolution (literal → modern):
+        → breaking images
+        → destruction of religious symbols
+        → rejection of traditions and established beliefs
+}
+
+PRURIENT : {
+    pruri (itch)
+
+    Semantic Evolution (literal → modern):
+        → itching
+        → craving intensely
+        → characterized by excessive sexual curiosity or desire
+}
+
+PRURITUS : {
+    pruri (itch) + itus (condition)
+
+    Semantic Evolution (literal → modern):
+        → itching condition
+        → persistent skin irritation
+        → medical term for itching
+}
+
+HYPERTENSION : {
+    hyper (excessive) + tension (pressure)
+
+    Semantic Evolution (literal → modern):
+        → excessive pressure
+        → abnormally elevated blood pressure
+        → hypertension
+}
+
+HYPOTENSION : {
+    hypo (below) + tension (pressure)
+
+    Semantic Evolution (literal → modern):
+        → below normal pressure
+        → abnormally low blood pressure
+        → hypotension
+}
+
+DIAGNOSIS : {
+    dia (through) + gnosis (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → knowledge through examination
+        → identification of disease
+        → determination of a condition
+}
+
+PROGNOSIS : {
+    pro (before) + gnosis (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → knowing beforehand
+        → prediction of outcome
+        → medical forecast of recovery or progress
+}
+
+DIAGNOSTIC : {
+    dia (through) + gnostic (knowing)
+
+    Semantic Evolution (literal → modern):
+        → relating to identification
+        → useful in determining disease
+        → concerned with diagnosis
+}
+
+DIAGNOSTICIAN : {
+    diagnostic (identification) + ian (specialist)
+
+    Semantic Evolution (literal → modern):
+        → expert in diagnosis
+        → physician skilled in identifying disorders
+        → diagnostic specialist
+}
+
+THEISM : {
+    theo (god) + ism (belief)
+
+    Semantic Evolution (literal → modern):
+        → belief in God
+        → doctrine of divine existence
+        → theistic belief system
+}
+
+ATHEISM : {
+    a (without) + theism (belief in God)
+
+    Semantic Evolution (literal → modern):
+        → without belief in God
+        → denial of divine existence
+        → atheistic worldview
+}
+
+AGNOSTICISM : {
+    a (not) + gnostic (knowing)
+
+    Semantic Evolution (literal → modern):
+        → not knowing
+        → uncertainty regarding God
+        → belief that ultimate knowledge is unavailable
+}
+
+MONOTHEISM : {
+    mono (one) + theism (belief in God)
+
+    Semantic Evolution (literal → modern):
+        → belief in one God
+        → worship of a single deity
+        → monotheistic religion
+}
+
+POLYTHEISM : {
+    poly (many) + theism (belief in gods)
+
+    Semantic Evolution (literal → modern):
+        → belief in many gods
+        → worship of multiple deities
+        → polytheistic religion
+}
+
+PANTHEISM : {
+    pan (all) + theism (God)
+
+    Semantic Evolution (literal → modern):
+        → God in everything
+        → universe identified with divinity
+        → belief that all reality is divine
+}
+
+THEOLOGY : {
+    theo (god) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of God
+        → study of religion
+        → systematic examination of religious belief
+}
+
+CLAUSTROPHOBIA : {
+    claustr (closed place) + phobia (fear)
+
+    Semantic Evolution (literal → modern):
+        → fear of confinement
+        → fear of enclosed spaces
+        → anxiety in restricted environments
+}
+
+AGORAPHOBIA : {
+    agora (open marketplace) + phobia (fear)
+
+    Semantic Evolution (literal → modern):
+        → fear of open public places
+        → fear of wide spaces
+        → anxiety about situations difficult to escape
+}
+
+ACROPHOBIA : {
+    acro (height) + phobia (fear)
+
+    Semantic Evolution (literal → modern):
+        → fear of heights
+        → anxiety at elevated places
+        → extreme fear of high locations
+}
+
+DIPSOMANIA : {
+    dipso (thirst) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → obsessive thirst
+        → uncontrollable craving for alcohol
+        → periodic alcoholism
+}
+
+KLEPTOMANIA : {
+    klept (steal) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → obsession with stealing
+        → irresistible urge to take things
+        → compulsive theft disorder
+}
+
+PYROMANIA : {
+    pyro (fire) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → obsession with fire
+        → compulsive fire-setting
+        → pathological fascination with fire
+}
+
+INCENDIARISM : {
+    incend (set fire) + iarism (practice)
+
+    Semantic Evolution (literal → modern):
+        → deliberate fire-setting
+        → destruction by fire
+        → burning property, often for profit or revenge
+}
+
+ARSON : {
+    historical root meaning burning
+
+    Semantic Evolution (literal → modern):
+        → criminal burning
+        → malicious fire-setting
+        → unlawful destruction by fire
+}
+
+MEGALOMANIA : {
+    megalo (great) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → obsession with greatness
+        → exaggerated self-importance
+        → delusions of power or superiority
+}
+
+NYMPHOMANIA : {
+    nymph (young woman) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → excessive sexual desire
+        → compulsive sexual obsession
+        → historical term for female hypersexuality
+}
+
+SATYROMANIA : {
+    satyr (male lustful figure) + mania (obsession)
+
+    Semantic Evolution (literal → modern):
+        → male sexual obsession
+        → excessive sexual desire
+        → compulsive male hypersexuality
+}
+
+SATYRIASIS : {
+    satyr (male lustful figure) + iasis (condition)
+
+    Semantic Evolution (literal → modern):
+        → condition of excessive male sexuality
+        → abnormal sexual drive
+        → male hypersexuality
+}
