@@ -1,31 +1,199 @@
-Pediatrics: Medical healing of children
+======================================================
+PED-          → child
+-IATRICS      → medical treatment, healing
 
-Pedagogue: Dogmatic teacher (Agogos: Leader)
+AGOGOS        → leader, guide
 
-Pedagogy: Principles of teaching
+DEMOS         → people
 
-Demagogue: Rabble-rouser (Demos: People)
+DERM-         → skin
+-HYPO         → under, beneath
+-TAXI         → arrangement, preparation
+-PACHY        → thick
+-ITIS         → inflammation
+-LOGY         → study, specialty
 
-Dermatology: Skin specialty
+OPHTHALM-     → eye
+OCUL-         → eye
+MONO-         → one, single
+BI-           → two
+-OCULAR       → relating to the eye
 
-Hypodermic: Under the skin
+IN-           → into
+OCUL-         → eye, opening
 
-Taxidermy: Animal skin mounting
+OPT-          → sight, vision
+-METER        → measure
+-METRIST      → measurer
+-ICIAN        → practitioner
+======================================================
 
-Pachyderm: Thick-skinned animal
+PEDIATRICS       → medical care of children
 
-Dermatitis: Skin inflammation
+PEDAGOGUE        → teacher; often dogmatic teacher
+PEDAGOGY         → principles and methods of teaching
 
-Ophthalmology: Medical eye specialty
+DEMAGOGUE        → leader of the people; rabble-rouser
 
-Oculist: Alternative title for eye doctor
+DERMATOLOGY      → study and treatment of skin diseases
+HYPODERMIC       → situated or injected under the skin
+TAXIDERMY        → preparation and mounting of animal skins
+PACHYDERM        → thick-skinned animal
+DERMATITIS       → inflammation of the skin
 
-Monocle: Single lens for one eye
+OPHTHALMOLOGY    → medical specialty dealing with the eyes
+OCULIST          → eye doctor; ophthalmologist
 
-Binoculars: Glasses for two eyes
+MONOCLE          → single lens for one eye
+BINOCULARS       → optical instrument using two eyes
 
-Inoculate: Injecting through a hole/eye
+INOCULATE        → introduce through a small opening; inject
 
-Optometrist: Vision measurer
+OPTOMETRIST      → specialist who measures vision
+OPTICIAN         → maker and seller of lenses and eyewear
 
-Optician: Lens grinder and seller
+======================================================
+
+PEDIATRICS : {
+    ped (child) + iatrics (medical treatment)
+
+    Semantic Evolution (literal → modern):
+        → healing of children
+        → medical care for children
+        → branch of medicine dealing with child health
+}
+
+PEDAGOGUE : {
+    ped (child) + agogos (leader, guide)
+
+    Semantic Evolution (literal → modern):
+        → leader of children
+        → teacher or instructor
+        → dogmatic or overly formal teacher
+}
+
+PEDAGOGY : {
+    ped (child) + agogy (guidance, teaching)
+
+    Semantic Evolution (literal → modern):
+        → guidance of children
+        → art of teaching
+        → principles and methods of education
+}
+
+DEMAGOGUE : {
+    demos (people) + agogos (leader)
+
+    Semantic Evolution (literal → modern):
+        → leader of the people
+        → popular political agitator
+        → rabble-rouser appealing to emotions and prejudices
+}
+
+DERMATOLOGY : {
+    dermat (skin) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of the skin
+        → medical investigation of skin disorders
+        → specialty concerned with skin health
+}
+
+HYPODERMIC : {
+    hypo (under) + derm (skin)
+
+    Semantic Evolution (literal → modern):
+        → under the skin
+        → situated beneath the skin
+        → injected through the skin into underlying tissue
+}
+
+TAXIDERMY : {
+    taxi (arrangement, preparation) + dermy (skin)
+
+    Semantic Evolution (literal → modern):
+        → arrangement of skins
+        → preparation of animal hides
+        → art of mounting preserved animal skins
+}
+
+PACHYDERM : {
+    pachy (thick) + derm (skin)
+
+    Semantic Evolution (literal → modern):
+        → thick-skinned creature
+        → large thick-skinned mammal
+        → animal such as an elephant or rhinoceros
+}
+
+DERMATITIS : {
+    dermat (skin) + itis (inflammation)
+
+    Semantic Evolution (literal → modern):
+        → inflammation of the skin
+        → skin irritation
+        → medical condition causing redness and itching
+}
+
+OPHTHALMOLOGY : {
+    ophthalm (eye) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of the eye
+        → medical science of eye diseases
+        → specialty dealing with eye care and surgery
+}
+
+OCULIST : {
+    ocul (eye) + ist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → eye specialist
+        → physician treating eye disorders
+        → alternative title for ophthalmologist
+}
+
+MONOCLE : {
+    mono (one) + ocle/ocul (eye)
+
+    Semantic Evolution (literal → modern):
+        → single eye lens
+        → lens worn before one eye
+        → corrective or decorative one-eyed eyeglass
+}
+
+BINOCULARS : {
+    bi (two) + ocular (eye)
+
+    Semantic Evolution (literal → modern):
+        → relating to two eyes
+        → optical aid using both eyes
+        → instrument for magnified viewing
+}
+
+INOCULATE : {
+    in (into) + ocul (eye, opening)
+
+    Semantic Evolution (literal → modern):
+        → introduce into a small opening
+        → graft or implant material
+        → inject a vaccine or microorganism
+}
+
+OPTOMETRIST : {
+    opto (vision) + metrist (measurer)
+
+    Semantic Evolution (literal → modern):
+        → measurer of vision
+        → examiner of eyesight
+        → specialist who prescribes corrective lenses
+}
+
+OPTICIAN : {
+    opt (vision) + ician (practitioner)
+
+    Semantic Evolution (literal → modern):
+        → worker concerned with vision
+        → lens maker and fitter
+        → seller and dispenser of eyewear
+}
