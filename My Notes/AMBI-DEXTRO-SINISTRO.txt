@@ -1,27 +1,32 @@
 ======================================================
-AMBI → both, on both sides
-DEXTRO → right hand
-SINISTRO → left hand
-droit → right, skill, expertise
-gauche → left, awkward, lacking grace
+AMBI-      → both, on both sides
+DEXTRO-    → right hand, right side
+SINISTRO-  → left hand, left side
+DROIT      → right, skill, expertise
+GAUCHE     → left; awkward, lacking social grace
 ======================================================
 
-ambiguous → having two possible meanings
-ambidextrous → able to use both hands equally well
-ambidexterity → ability to use both hands equally well
-ambivalent → having mixed feelings or contradictory ideas about something
-ambition → strong desire to achieve success
-ambivert → a person who has qualities of both extrovert and introvert
+ambiguous      → having more than one possible meaning
+ambidextrous   → able to use both hands equally well
+ambidexterity  → the ability to use both hands equally well
+ambivalent     → having mixed or conflicting feelings about something
+ambition       → a strong desire to achieve success or a goal
+ambivert       → a person who has traits of both an introvert and an extrovert
 
-dextrous → skillful, expert
-dexterity → skill, expertise
-sinister → threatening, evil, or relating to the left side
-gauche → socially awkward, lacking grace
+dextrous       → skillful; showing manual or mental skill
+dexterity      → skill, especially with the hands
+adroit         → skillful, clever, expert
+adroitness     → skillfulness; expertise
+droit-handed   → right-handed; skilled in using the right hand
 
+sinister       → threatening, evil, ominous; originally "on the left side"
+gauche         → socially awkward; lacking grace or sophistication
 
-droit-handed → able to use the right handskillfully
-adroit → skillful, clever, expert
-adroitness → skill, expertise
+======================================================
 
-========================================================
+Memory Trick:
 
+LEFT SIDE  → sinister, gauche → awkward, clumsy, threatening
+RIGHT SIDE → dextrous, adroit, droit → skillful, expert
+BOTH SIDES → ambidextrous → able to use both hands
+======================================================
