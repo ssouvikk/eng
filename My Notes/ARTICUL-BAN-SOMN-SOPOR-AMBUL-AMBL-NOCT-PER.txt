@@ -1,0 +1,256 @@
+======================================================
+ARTICUL-       → joint, connect clearly
+
+BAN-           → common, ordinary
+
+SOMN-          → sleep
+SOPOR-         → deep sleep
+
+AMBUL-         → walk
+AMBL-          → walk leisurely
+
+NOCT-          → night
+
+IN-            → not
+PER-           → through, around
+PRE-           → before
+
+-ATION         → process, state
+-NESS          → quality
+-IST           → person
+-ISM           → condition, practice
+-LOQUY         → speaking
+-FEROUS        → bearing, producing
+======================================================
+
+ARTICULATE       → speak clearly and fluently
+INARTICULATE     → unable to express clearly
+ARTICULATENESS   → clarity of expression
+ARTICULATION     → connection; speech sound
+
+BANAL            → commonplace; unoriginal
+BANALITY         → trite remark; lack of originality
+
+SOMNIFEROUS      → inducing sleep
+SOMNOLENT        → sleepy; drowsy
+SOMNOLENCE       → drowsiness
+
+INSOMNIA         → inability to sleep
+INSOMNIAC        → person suffering from insomnia
+INSOMNIOUS       → characterized by sleeplessness
+
+SOMNAMBULIST     → sleepwalker
+SOMNAMBULISM     → sleepwalking
+
+SOMNILOQUIST     → person who talks in sleep
+SOMNILOQUY       → sleep-talking
+
+SOPORIFIC        → causing sleep
+
+AMBULATORY       → capable of walking
+PERAMBULATOR     → stroller; baby carriage
+
+AMBLE            → walk at a leisurely pace
+PREAMBLE         → introductory statement
+
+NOCTAMBULIST     → person who walks at night
+
+======================================================
+
+ARTICULATE : {
+    articul (joint, connect)
+
+    Semantic Evolution (literal → modern):
+        → properly joined together
+        → clearly connected in speech
+        → fluent and effective in expression
+}
+
+INARTICULATE : {
+    in (not) + articulate (clear speech)
+
+    Semantic Evolution (literal → modern):
+        → not properly connected
+        → unable to express thoughts clearly
+        → incoherent or speechless
+}
+
+ARTICULATENESS : {
+    articulate (clear expression) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of clear connection
+        → clarity of speech
+        → ability to communicate effectively
+}
+
+ARTICULATION : {
+    articul (joint, connect) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → act of joining together
+        → formation of speech sounds
+        → clear pronunciation or connection
+}
+
+BANAL : {
+    ban (common, ordinary)
+
+    Semantic Evolution (literal → modern):
+        → common to all
+        → overused through repetition
+        → lacking originality or freshness
+}
+
+BANALITY : {
+    banal (commonplace) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being ordinary
+        → triteness
+        → unoriginal remark or idea
+}
+
+SOMNIFEROUS : {
+    somn (sleep) + ferous (bringing)
+
+    Semantic Evolution (literal → modern):
+        → bringing sleep
+        → inducing drowsiness
+        → causing sleep
+}
+
+SOMNOLENT : {
+    somn (sleep)
+
+    Semantic Evolution (literal → modern):
+        → inclined toward sleep
+        → drowsy
+        → sleepy and sluggish
+}
+
+SOMNOLENCE : {
+    somnolent (sleepy) + ence (state)
+
+    Semantic Evolution (literal → modern):
+        → state of sleepiness
+        → drowsiness
+        → tendency to fall asleep
+}
+
+INSOMNIA : {
+    in (not) + somn (sleep)
+
+    Semantic Evolution (literal → modern):
+        → absence of sleep
+        → inability to sleep normally
+        → chronic sleeplessness
+}
+
+INSOMNIAC : {
+    insomnia (sleeplessness) + ac (person)
+
+    Semantic Evolution (literal → modern):
+        → person without sleep
+        → sufferer from insomnia
+        → one unable to sleep normally
+}
+
+INSOMNIOUS : {
+    in (not) + somn (sleep)
+
+    Semantic Evolution (literal → modern):
+        → lacking sleep
+        → characterized by sleeplessness
+        → wakeful or restless
+}
+
+SOMNAMBULIST : {
+    somn (sleep) + ambul (walk) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → sleep walker
+        → person who walks while asleep
+        → sleepwalker
+}
+
+SOMNAMBULISM : {
+    somn (sleep) + ambul (walk) + ism (condition)
+
+    Semantic Evolution (literal → modern):
+        → walking during sleep
+        → sleepwalking condition
+        → unconscious walking while asleep
+}
+
+SOMNILOQUIST : {
+    somn (sleep) + loquist (speaker)
+
+    Semantic Evolution (literal → modern):
+        → sleep speaker
+        → person who talks while asleep
+        → sleep-talker
+}
+
+SOMNILOQUY : {
+    somn (sleep) + loquy (speaking)
+
+    Semantic Evolution (literal → modern):
+        → speaking during sleep
+        → sleep-talking
+        → unconscious speech while asleep
+}
+
+SOPORIFIC : {
+    sopor (deep sleep) + ific (causing)
+
+    Semantic Evolution (literal → modern):
+        → causing sleep
+        → inducing drowsiness
+        → sleep-producing
+}
+
+AMBULATORY : {
+    ambul (walk) + atory (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to walking
+        → capable of movement on foot
+        → able to walk about
+}
+
+PERAMBULATOR : {
+    per (around) + ambul (walk)
+
+    Semantic Evolution (literal → modern):
+        → device for walking around
+        → carriage pushed while walking
+        → baby stroller
+}
+
+AMBLE : {
+    ambl (walk)
+
+    Semantic Evolution (literal → modern):
+        → walk gently
+        → move at an easy pace
+        → stroll leisurely
+}
+
+PREAMBLE : {
+    pre (before) + amble (walk)
+
+    Semantic Evolution (literal → modern):
+        → walk before
+        → introductory movement
+        → preliminary statement or introduction
+}
+
+NOCTAMBULIST : {
+    noct (night) + ambul (walk) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → night walker
+        → person wandering at night
+        → one active or walking during nighttime
+}
