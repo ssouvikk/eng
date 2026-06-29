@@ -1,0 +1,371 @@
+======================================================
+ANIMUS-       → mind, soul, spirit
+MAGNUS-       → great, large
+PUSILLUS-     → very small, petty
+UNUS-         → one
+AEQUUS-       → equal
+TREPIDO-      → tremble, fear
+
+SCINTILLA-    → spark
+URBS-         → city
+RUS-          → countryside
+
+PEJOR-        → worse
+VIVO-         → live
+PARIO-        → bring forth, produce
+OVUM-         → egg
+SECTUS-       → cut
+======================================================
+
+MARTINET       → strict disciplinarian
+SYCOPHANT      → fawning toady
+DILETTANTE     → superficial dabbler
+VIRAGO         → loud-mouthed woman
+CHAUVINIST     → blindly patriotic person
+MONOMANIAC     → one-track mind
+ICONOCLAST     → tradition breaker
+ATHEIST        → God disbeliever
+LECHER         → lustful male
+HYPOCHONDRIAC  → person with imaginary ailments
+
+NAÏVETÉ        → innocence; lack of worldly experience
+INCREDULITY    → unwillingness to believe
+PERSPICUITY    → clarity of expression
+MAGNANIMITY    → greatness of spirit
+
+MAGNANIMOUS    → large-souled; generous
+PUSILLANIMOUS  → small-souled; timid
+UNANIMOUS      → of one mind
+EQUANIMITY     → equal-minded calmness
+ANIMOSITY      → ill will
+ANIMUS         → hostile feeling; spirit
+
+INTREPID       → fearless
+TREPIDATION    → fear; trembling anxiety
+
+SCINTILLATE    → sparkle intellectually
+SCINTILLA      → tiny spark
+
+URBANE         → refined and courteous
+URBANITY       → sophistication
+SUBURB         → area below/outside a city
+INTERURBAN     → between cities
+EXURB          → region beyond suburbs
+
+RUSTIC         → rural; simple
+RURAL          → pertaining to the countryside
+RUSTICITY      → rural simplicity
+
+PEJORATIVE     → expressing disapproval; making worse
+======================================================
+
+MARTINET : {
+    Martinet (Jean Martinet)
+
+    Semantic Evolution (literal → modern):
+        → follower of Martinet's discipline
+        → strict military disciplinarian
+        → person demanding rigid obedience
+}
+
+SYCOPHANT : {
+    sykon (fig) + phanein (to show)
+
+    Semantic Evolution (literal → modern):
+        → informer against fig smugglers
+        → informer or accuser
+        → fawning flatterer seeking favor
+}
+
+DILETTANTE : {
+    dilettare (to delight)
+
+    Semantic Evolution (literal → modern):
+        → one who takes delight
+        → amateur enthusiast
+        → superficial dabbler without serious commitment
+}
+
+VIRAGO : {
+    vir (man)
+
+    Semantic Evolution (literal → modern):
+        → woman with masculine traits
+        → domineering woman
+        → loud and aggressive woman
+}
+
+CHAUVINIST : {
+    Chauvin (Nicolas Chauvin)
+
+    Semantic Evolution (literal → modern):
+        → follower of Chauvin's attitude
+        → excessively patriotic person
+        → blindly devoted supporter of a cause or group
+}
+
+MONOMANIAC : {
+    mono (one) + mania (madness)
+
+    Semantic Evolution (literal → modern):
+        → person obsessed with one idea
+        → single-minded individual
+        → one-track mind
+}
+
+ICONOCLAST : {
+    icon (image) + clast (breaker)
+
+    Semantic Evolution (literal → modern):
+        → breaker of religious images
+        → challenger of accepted beliefs
+        → tradition breaker
+}
+
+ATHEIST : {
+    a (without) + theos (God)
+
+    Semantic Evolution (literal → modern):
+        → without God
+        → disbeliever in divine beings
+        → person who rejects belief in God
+}
+
+LECHER : {
+    lech (lick)
+
+    Semantic Evolution (literal → modern):
+        → one who licks
+        → sensual pleasure-seeker
+        → lustful male
+}
+
+HYPOCHONDRIAC : {
+    hypo (under) + chondros (cartilage)
+
+    Semantic Evolution (literal → modern):
+        → disorder believed to arise below the ribs
+        → excessive health anxiety
+        → person imagining illnesses without evidence
+}
+
+======================================================
+
+NAÏVETÉ : {
+    naïf (natural, innocent)
+
+    Semantic Evolution (literal → modern):
+        → natural innocence
+        → lack of sophistication
+        → trusting simplicity
+}
+
+INCREDULITY : {
+    in (not) + credere (to believe)
+
+    Semantic Evolution (literal → modern):
+        → inability to believe
+        → skepticism
+        → unwillingness to accept something as true
+}
+
+PERSPICUITY : {
+    per (through) + specere (to look)
+
+    Semantic Evolution (literal → modern):
+        → ability to see through
+        → clearness of understanding
+        → clarity of expression
+}
+
+MAGNANIMITY : {
+    magnus (great) + animus (spirit)
+
+    Semantic Evolution (literal → modern):
+        → greatness of soul
+        → nobility of character
+        → generosity toward others
+}
+
+======================================================
+
+MAGNANIMOUS : {
+    magnus (great) + animus (spirit)
+
+    Semantic Evolution (literal → modern):
+        → large-souled
+        → noble-minded
+        → generous and forgiving
+}
+
+PUSILLANIMOUS : {
+    pusillus (small) + animus (spirit)
+
+    Semantic Evolution (literal → modern):
+        → small-souled
+        → lacking courage
+        → timid and cowardly
+}
+
+UNANIMOUS : {
+    unus (one) + animus (mind)
+
+    Semantic Evolution (literal → modern):
+        → one mind
+        → complete agreement
+        → sharing the same opinion
+}
+
+EQUANIMITY : {
+    aequus (equal) + animus (mind)
+
+    Semantic Evolution (literal → modern):
+        → equal mind
+        → mental balance
+        → calmness under stress
+}
+
+ANIMOSITY : {
+    animus (spirit)
+
+    Semantic Evolution (literal → modern):
+        → strong feeling
+        → hostile attitude
+        → deep-seated ill will
+}
+
+ANIMUS : {
+    animus (mind, spirit)
+
+    Semantic Evolution (literal → modern):
+        → soul or spirit
+        → inner disposition
+        → hostile feeling or intention
+}
+
+======================================================
+
+INTREPID : {
+    in (not) + trepido (tremble)
+
+    Semantic Evolution (literal → modern):
+        → not trembling
+        → fearless
+        → boldly courageous
+}
+
+TREPIDATION : {
+    trepido (tremble)
+
+    Semantic Evolution (literal → modern):
+        → trembling
+        → anxious fear
+        → nervous apprehension
+}
+
+======================================================
+
+SCINTILLATE : {
+    scintilla (spark)
+
+    Semantic Evolution (literal → modern):
+        → emit sparks
+        → sparkle brilliantly
+        → display lively intelligence or wit
+}
+
+SCINTILLA : {
+    scintilla (spark)
+
+    Semantic Evolution (literal → modern):
+        → spark
+        → tiny trace
+        → smallest amount
+}
+
+======================================================
+
+URBANE : {
+    urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → of the city
+        → polished by city life
+        → refined and courteous
+}
+
+URBANITY : {
+    urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → city refinement
+        → social polish
+        → sophistication and courtesy
+}
+
+SUBURB : {
+    sub (below) + urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → below the city
+        → settlement outside a city
+        → residential area on a city's edge
+}
+
+INTERURBAN : {
+    inter (between) + urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → between cities
+        → connecting urban areas
+        → operating from one city to another
+}
+
+EXURB : {
+    ex (outside) + urbs (city)
+
+    Semantic Evolution (literal → modern):
+        → beyond the city
+        → area beyond suburbs
+        → low-density commuter settlement
+}
+
+======================================================
+
+RUSTIC : {
+    rus (countryside)
+
+    Semantic Evolution (literal → modern):
+        → of the countryside
+        → simple and rural
+        → unsophisticated but natural
+}
+
+RURAL : {
+    rus (countryside)
+
+    Semantic Evolution (literal → modern):
+        → countryside-related
+        → agricultural
+        → pertaining to non-urban areas
+}
+
+RUSTICITY : {
+    rus (countryside)
+
+    Semantic Evolution (literal → modern):
+        → rural character
+        → simplicity of country life
+        → lack of urban sophistication
+}
+
+======================================================
+
+PEJORATIVE : {
+    pejor (worse)
+
+    Semantic Evolution (literal → modern):
+        → making worse
+        → expressing disapproval
+        → derogatory or negative in meaning
+}

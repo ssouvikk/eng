@@ -1,0 +1,270 @@
+======================================================
+GREG-          → herd, flock, group
+SCI-           → know, knowledge
+
+CON-           → together, with
+SE-            → apart, away
+AG-            → toward, to
+
+OMNI-          → all
+PRE-           → before
+NE-            → not
+
+-ATE           → make, cause
+-ATION         → process, state
+-ENCE          → state, quality
+-ENT           → possessing
+======================================================
+
+GLIB              → fluent but superficial in speech
+GLIBLY            → in a glib manner
+GLIBNESS          → superficial fluency
+
+GREGARIOUS        → sociable; fond of company
+GREGARIOUSNESS    → sociability
+
+EGREGIOUS         → outstandingly bad; shocking
+EGREGIOUSNESS     → quality of being outrageously bad
+
+CONGREGATE        → gather together
+CONGREGATION      → gathered group
+
+SEGREGATE         → separate from others
+SEGREGATION       → separation into groups
+
+AGGREGATE         → total mass; collection
+AGGREGATION       → act of collecting into a whole
+
+CONSCIENCE        → moral awareness of right and wrong
+UNCONSCIONABLE    → without moral restraint; excessive
+UNCONSCIONABILITY → quality of being unconscionable
+UNCONSCIONABLENESS → state of lacking moral limits
+
+CONSCIOUS         → aware; awake
+
+OMNISCIENT        → all-knowing
+OMNISCIENCE       → complete knowledge
+
+PRESCIENT         → knowing beforehand
+PRESCIENCE        → foreknowledge
+
+NESCIENT          → ignorant; lacking knowledge
+NESCIENCE         → ignorance
+
+======================================================
+
+GLIB : {
+    origin uncertain (possibly related to smoothness)
+
+    Semantic Evolution (literal → modern):
+        → smooth in speech
+        → speaking easily without depth
+        → fluent but superficial
+}
+
+GLIBLY : {
+    glib (superficially fluent) + ly (manner)
+
+    Semantic Evolution (literal → modern):
+        → in a smooth manner
+        → with effortless fluency
+        → superficially or insincerely
+}
+
+GLIBNESS : {
+    glib (superficially fluent) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of smooth speech
+        → readiness of expression
+        → superficial eloquence
+}
+
+GREGARIOUS : {
+    greg (herd, flock) + arious (belonging to)
+
+    Semantic Evolution (literal → modern):
+        → belonging to a herd
+        → preferring company of others
+        → sociable and outgoing
+}
+
+GREGARIOUSNESS : {
+    gregarious (sociable) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → tendency to join groups
+        → sociability
+        → enjoyment of companionship
+}
+
+EGREGIOUS : {
+    e (out of) + greg (herd)
+
+    Semantic Evolution (literal → modern):
+        → standing out from the herd
+        → remarkably noticeable
+        → outstandingly bad or shocking
+}
+
+EGREGIOUSNESS : {
+    egregious (outrageous) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of standing out
+        → remarkable offensiveness
+        → extreme badness
+}
+
+CONGREGATE : {
+    con (together) + greg (herd)
+
+    Semantic Evolution (literal → modern):
+        → gather into a flock
+        → come together as a group
+        → assemble
+}
+
+CONGREGATION : {
+    con (together) + greg (group) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → gathering together
+        → assembled group
+        → body of people meeting together
+}
+
+SEGREGATE : {
+    se (apart) + greg (group)
+
+    Semantic Evolution (literal → modern):
+        → separate from the group
+        → isolate into categories
+        → keep apart
+}
+
+SEGREGATION : {
+    segregate (separate) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → act of separation
+        → division into distinct groups
+        → enforced social or physical separation
+}
+
+AGGREGATE : {
+    ag (toward) + greg (group)
+
+    Semantic Evolution (literal → modern):
+        → bring into a group
+        → collect together
+        → total mass or whole
+}
+
+AGGREGATION : {
+    aggregate (collect) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → process of collecting
+        → gathering into one body
+        → formation of a whole from parts
+}
+
+CONSCIENCE : {
+    con (with) + science (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → shared knowledge within oneself
+        → inner awareness of actions
+        → moral sense of right and wrong
+}
+
+UNCONSCIONABLE : {
+    un (not) + conscience (moral awareness) + able
+
+    Semantic Evolution (literal → modern):
+        → not guided by conscience
+        → beyond moral limits
+        → shockingly unfair or excessive
+}
+
+UNCONSCIONABILITY : {
+    unconscionable (without moral restraint) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of lacking conscience
+        → moral unfairness
+        → extreme unreasonableness
+}
+
+UNCONSCIONABLENESS : {
+    unconscionable (without conscience) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of lacking moral restraint
+        → excessive unfairness
+        → outrageous impropriety
+}
+
+CONSCIOUS : {
+    con (with) + sci (know)
+
+    Semantic Evolution (literal → modern):
+        → knowing with oneself
+        → aware of surroundings
+        → awake and mentally aware
+}
+
+OMNISCIENT : {
+    omni (all) + scient (knowing)
+
+    Semantic Evolution (literal → modern):
+        → knowing all things
+        → possessing complete knowledge
+        → all-knowing
+}
+
+OMNISCIENCE : {
+    omni (all) + science (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → complete knowledge
+        → universal awareness
+        → state of knowing everything
+}
+
+PRESCIENT : {
+    pre (before) + scient (knowing)
+
+    Semantic Evolution (literal → modern):
+        → knowing beforehand
+        → foreseeing future events
+        → having foresight
+}
+
+PRESCIENCE : {
+    pre (before) + science (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → foreknowledge
+        → awareness before occurrence
+        → ability to foresee
+}
+
+NESCIENT : {
+    ne (not) + scient (knowing)
+
+    Semantic Evolution (literal → modern):
+        → not knowing
+        → lacking knowledge
+        → ignorant
+}
+
+NESCIENCE : {
+    ne (not) + science (knowledge)
+
+    Semantic Evolution (literal → modern):
+        → absence of knowledge
+        → ignorance
+        → state of not knowing
+}

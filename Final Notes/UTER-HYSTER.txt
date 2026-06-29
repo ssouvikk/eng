@@ -1,0 +1,116 @@
+======================================================
+UTER/HYSTER → womb, uterus, female reproductive organ
+======================================================
+
+UTERUS → womb
+UTERINE → relating to the uterus
+UTERECTOMY → surgical removal of the uterus
+INTRAUTERINE → within the uterus
+EXTRAUTERINE → outside the uterus
+UTERECTOMY → surgical removal of the uterus
+
+HYSTERIA → exaggerated or uncontrollable emotion (originally thought to stem from the womb)
+HYSTERICAL → extremely emotional; uncontrollably excitable
+HISTERECTOMY → surgical removal of the uterus
+HISTERIC → person suffering from hysteria
+HISTEROID → resembling hysteria
+HISTEROIDAL → relating to hysteria
+HYSTEROSCOPY → examination of the uterus
+
+========================================================
+
+UTERINE : {
+    uter (womb) + ine (relating to)
+    semantic :
+        → relating to the uterus
+        → pertaining to the womb
+}
+
+UTERUS : {
+    Latin uterus (womb)
+    semantic :
+        → the womb
+        → female reproductive organ where fetus develops
+}
+
+UTERECTOMY : {
+    uter (womb) + ectomy (surgical removal)
+    semantic :
+        → surgical removal of the uterus
+        → extirpation of the womb
+}
+
+HYSTERIA : {
+    Greek hystera (womb)
+    historical context:
+        → ancient belief that uterus could move within body
+        → caused various physical and emotional symptoms
+    semantic :
+        → exaggerated emotional excitement
+        → uncontrollable emotional outburst
+        → neurotic condition with psychological origins
+}
+
+HYSTERICAL : {
+    hysteria + al (relating to)
+    semantic :
+        → characterized by hysteria
+        → extremely emotional or excitable
+        → uncontrolled emotional display
+}
+
+HISTERECTOMY : {
+    hyster (womb) + ectomy (surgical removal)
+    semantic :
+        → surgical removal of the uterus
+        → extirpation of the womb
+}
+
+HISTERIC : {
+    hysteria + ic (one affected by)
+    semantic :
+        → person suffering from hysteria
+        → one prone to emotional outbursts
+}
+
+HISTEROID : {
+    hyster (womb) + oid (resembling)
+    semantic :
+        → resembling hysteria
+        → characterized by hysterical behavior
+}
+
+HISTEROIDAL : {
+    hystero + idal (relating to)
+    semantic :
+        → relating to hysterical characteristics
+        → pertaining to hysterical behavior
+}
+
+INTRAUTERINE : {
+    intra (within) + uter (womb) + ine (relating to)
+    semantic :
+        → within the uterus
+        → occurring inside the womb
+}
+
+EXTRAUTERINE : {
+    extra (outside) + uter (womb) + ine (relating to)
+    semantic :
+        → outside the uterus
+        → occurring beyond the womb
+}
+
+HYSTEROSCOPY : {
+    hystero (womb, uterus) + scopy (examination, viewing)
+    semantic :
+        → examination of the uterus using an instrument
+        → visual inspection of the uterine cavity
+}
+
+UTERECTOMY : {
+    uter (womb) + ectomy (surgical removal)
+    semantic :
+        → surgical removal of the uterus
+        → extirpation of the womb
+}

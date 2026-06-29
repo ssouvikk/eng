@@ -1,0 +1,155 @@
+======================================================
+GYNE-         → woman, female
+ANDR-         → man, male
+
+GAMY          → marriage, union
+
+MONO-         → one, single
+BI-           → two
+POLY-         → many, multiple
+
+MISO-         → hatred, dislike
+
+ASCET-        → discipline, exercise, self-denial
+
+-LOGY         → study, science
+-LOGIST       → specialist, practitioner
+-ISM          → doctrine, condition, practice
+-IC           → relating to
+======================================================
+
+GYNECOLOGY      → study of women's health and reproductive system
+GYNECOLOGIST    → specialist in women's disorders
+
+MISOGYNY        → hatred of women
+MISOGYNOUS      → characterized by hatred of women
+MISOGYNISTIC    → showing prejudice or hatred toward women
+
+MONOGAMY        → marriage to one spouse
+BIGAMY          → unlawful marriage to two spouses
+POLYGAMY        → marriage involving multiple spouses
+POLYGYNY        → one husband with multiple wives
+POLYANDRY       → one wife with multiple husbands
+MISOGAMY        → hatred of marriage
+
+ASCETICISM      → practice of self-denial for spiritual discipline
+ASCETIC         → person practicing an austere lifestyle
+
+======================================================
+
+GYNECOLOGY : {
+    gyne (woman, female) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of women
+        → study of female reproductive functions
+        → medical specialty dealing with women's health
+}
+
+GYNECOLOGIST : {
+    gyne (woman, female) + logist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → specialist of women
+        → physician treating female reproductive disorders
+        → expert in gynecology
+}
+
+MISOGYNY : {
+    miso (hatred) + gyne (woman)
+
+    Semantic Evolution (literal → modern):
+        → hatred of women
+        → prejudice against women
+        → contempt or hostility toward women
+}
+
+MISOGYNOUS : {
+    misogyny (hatred of women) + ous (characterized by)
+
+    Semantic Evolution (literal → modern):
+        → characterized by hatred of women
+        → showing contempt for women
+        → possessing anti-female attitudes
+}
+
+MISOGYNISTIC : {
+    misogyny (hatred of women) + istic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to hatred of women
+        → expressing prejudice against women
+        → exhibiting misogynous beliefs or behavior
+}
+
+MONOGAMY : {
+    mono (one) + gamy (marriage)
+
+    Semantic Evolution (literal → modern):
+        → one marriage
+        → having a single spouse
+        → exclusive marital union
+}
+
+BIGAMY : {
+    bi (two) + gamy (marriage)
+
+    Semantic Evolution (literal → modern):
+        → two marriages
+        → maintaining two spouses simultaneously
+        → unlawful dual marriage
+}
+
+POLYGAMY : {
+    poly (many) + gamy (marriage)
+
+    Semantic Evolution (literal → modern):
+        → many marriages
+        → having multiple spouses
+        → marital system involving more than one spouse
+}
+
+POLYGYNY : {
+    poly (many) + gyne (woman)
+
+    Semantic Evolution (literal → modern):
+        → many women
+        → one husband with several wives
+        → form of polygamy involving multiple wives
+}
+
+POLYANDRY : {
+    poly (many) + andr (man)
+
+    Semantic Evolution (literal → modern):
+        → many men
+        → one wife with several husbands
+        → form of marriage involving multiple husbands
+}
+
+MISOGAMY : {
+    miso (hatred) + gamy (marriage)
+
+    Semantic Evolution (literal → modern):
+        → hatred of marriage
+        → aversion to matrimony
+        → opposition to marital relationships
+}
+
+ASCETICISM : {
+    ascet (discipline, exercise) + ism (practice)
+
+    Semantic Evolution (literal → modern):
+        → practice of disciplined living
+        → renunciation of worldly pleasures
+        → spiritual self-denial for moral or religious purposes
+}
+
+ASCETIC : {
+    ascet (discipline, exercise) + ic (person)
+
+    Semantic Evolution (literal → modern):
+        → disciplined individual
+        → person practicing self-denial
+        → one devoted to an austere spiritual life
+}

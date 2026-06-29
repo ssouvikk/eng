@@ -1,0 +1,149 @@
+======================================================
+FATIGO-       → weary, tire
+CREDO-        → believe
+
+IN-           → not
+DIS-          → opposite, lack of
+NAÏF-         → natural, innocent
+GULL-         → deceive, trick
+======================================================
+
+INDEFATIGABLE   → tireless
+INGENUOUS       → frank and honest
+DISINGENUOUS    → not candid; deceptive
+NAÏVE           → innocent and inexperienced
+GULLIBLE        → easily deceived
+
+CREDULOUS       → too ready to believe
+INCREDIBLE      → not believable; astonishing
+INCREDULOUS     → unwilling to believe
+CREDIBLE        → believable
+
+CREDENCE        → belief; acceptance
+CREDENTIALS     → evidence of qualification
+CREDO           → personal belief statement
+CREED           → formal system of beliefs
+======================================================
+
+INDEFATIGABLE : {
+    in (not) + fatigo (weary)
+
+    Semantic Evolution (literal → modern):
+        → not becoming tired
+        → incapable of being fatigued
+        → tirelessly persistent and energetic
+}
+
+======================================================
+
+INGENUOUS : {
+    ingenuus (freeborn, noble)
+
+    Semantic Evolution (literal → modern):
+        → noble and straightforward
+        → open and sincere
+        → frank, candid, and honest
+}
+
+DISINGENUOUS : {
+    dis (not) + ingenuous (frank)
+
+    Semantic Evolution (literal → modern):
+        → not straightforward
+        → giving a false impression of sincerity
+        → deceptive or insincere
+}
+
+NAÏVE : {
+    naïf (natural, innocent)
+
+    Semantic Evolution (literal → modern):
+        → natural and innocent
+        → lacking worldly experience
+        → trusting and unsophisticated
+}
+
+GULLIBLE : {
+    gull (to deceive)
+
+    Semantic Evolution (literal → modern):
+        → easily tricked
+        → readily believing others
+        → susceptible to deception
+}
+
+======================================================
+
+CREDULOUS : {
+    credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → inclined to believe
+        → accepting claims too readily
+        → overly trusting and easily convinced
+}
+
+INCREDIBLE : {
+    in (not) + credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → not believable
+        → difficult to accept as true
+        → astonishing or extraordinary
+}
+
+INCREDULOUS : {
+    in (not) + credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → not believing
+        → skeptical of claims
+        → unwilling or unable to believe
+}
+
+CREDIBLE : {
+    credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → worthy of belief
+        → trustworthy
+        → believable and convincing
+}
+
+======================================================
+
+CREDENCE : {
+    credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → belief
+        → acceptance as true
+        → confidence in the truth of something
+}
+
+CREDENTIALS : {
+    credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → things that inspire belief
+        → evidence of trustworthiness
+        → qualifications or achievements proving competence
+}
+
+CREDO : {
+    credo (I believe)
+
+    Semantic Evolution (literal → modern):
+        → I believe
+        → personal statement of faith
+        → guiding set of principles or beliefs
+}
+
+CREED : {
+    credo (believe)
+
+    Semantic Evolution (literal → modern):
+        → belief
+        → formal declaration of faith
+        → established system of religious or philosophical beliefs
+}

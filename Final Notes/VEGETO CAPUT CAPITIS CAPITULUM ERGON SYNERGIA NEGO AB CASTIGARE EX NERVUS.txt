@@ -1,0 +1,223 @@
+======================================================
+VEGETO-       → live and grow
+
+CAPUT-        → head
+CAPITIS-      → head
+CAPITULUM-    → little head, chapter heading
+
+ERGON-        → work
+SYNERGIA-     → working together
+
+NEGO-         → deny
+AB-           → away from, off
+
+CASTIGARE-    → to chastise, correct
+
+EX- (E-)      → out of
+NERVUS-       → nerve
+======================================================
+
+VEGETATION      → plant life; passive existence
+VEGETATE        → live an inactive existence
+
+RECAPITULATION  → summary; repetition of main points
+RECAPITULATORY  → serving as a summary
+DECAPITATE      → cut off the head
+CAPITULATE      → surrender; stop resisting
+CAPITULATION    → act of surrender
+
+SYNERGY         → combined effect greater than the sum
+SYNERGISM       → cooperative interaction
+SYNERGISTIC     → producing synergy
+
+SELF-ABNEGATION → self-denial; self-sacrifice
+NEGATE          → nullify; render ineffective
+NEGATION        → denial or contradiction
+
+CASTIGATION     → severe scolding
+CASTIGATE       → scold severely
+
+ENERVATION      → exhaustion; loss of vitality
+ENERVATE        → weaken or exhaust completely
+======================================================
+
+VEGETATION : {
+    vegeto (live and grow)
+
+    Semantic Evolution (literal → modern):
+        → growth of living plants
+        → plant life collectively
+        → dull, passive, inactive existence
+}
+
+VEGETATE : {
+    vegeto (live and grow)
+
+    Semantic Evolution (literal → modern):
+        → continue living
+        → exist without activity or purpose
+        → lead a stagnant and unstimulating life
+}
+
+======================================================
+
+RECAPITULATION : {
+    re (again) + capitulum (little heading)
+
+    Semantic Evolution (literal → modern):
+        → go through the headings again
+        → review major points
+        → concise summary of essential ideas
+}
+
+RECAPITULATORY : {
+    re (again) + capitulum (heading)
+
+    Semantic Evolution (literal → modern):
+        → relating to summary
+        → reviewing main points
+        → serving as a recapitulation
+}
+
+RECAPITULATE : {
+    re (again) + capitulum (heading)
+
+    Semantic Evolution (literal → modern):
+        → revisit the chapter headings
+        → repeat the main points
+        → summarize briefly and systematically
+}
+
+DECAPITATE : {
+    de (remove) + caput (head)
+
+    Semantic Evolution (literal → modern):
+        → remove the head
+        → behead
+        → cut off a person's head
+}
+
+CAPITULATE : {
+    capitulum (terms, headings)
+
+    Semantic Evolution (literal → modern):
+        → agree to terms
+        → cease resistance
+        → surrender to an opponent
+}
+
+CAPITULATION : {
+    capitulate (surrender)
+
+    Semantic Evolution (literal → modern):
+        → act of agreeing to terms
+        → formal surrender
+        → cessation of resistance
+}
+
+======================================================
+
+SYNERGY : {
+    syn (together) + ergon (work)
+
+    Semantic Evolution (literal → modern):
+        → working together
+        → cooperative action
+        → combined effect greater than individual efforts
+}
+
+SYNERGISM : {
+    syn (together) + ergon (work)
+
+    Semantic Evolution (literal → modern):
+        → joint work
+        → cooperative interaction
+        → mutually reinforcing effect
+}
+
+SYNERGISTIC : {
+    syn (together) + ergon (work)
+
+    Semantic Evolution (literal → modern):
+        → working together
+        → mutually enhancing
+        → producing greater combined results
+}
+
+======================================================
+
+SELF-ABNEGATION : {
+    ab (away) + nego (deny)
+
+    Semantic Evolution (literal → modern):
+        → deny oneself
+        → renounce personal desires
+        → self-sacrifice for a higher purpose
+}
+
+SELF-ABNEGATE : {
+    ab (away) + nego (deny)
+
+    Semantic Evolution (literal → modern):
+        → deny oneself
+        → give up personal interests
+        → sacrifice or subordinate oneself
+}
+
+NEGATE : {
+    nego (deny)
+
+    Semantic Evolution (literal → modern):
+        → deny
+        → invalidate
+        → render ineffective or null
+}
+
+NEGATION : {
+    nego (deny)
+
+    Semantic Evolution (literal → modern):
+        → act of denying
+        → contradiction
+        → cancellation or nullification
+}
+
+======================================================
+
+CASTIGATION : {
+    castigare (to chastise)
+
+    Semantic Evolution (literal → modern):
+        → correction through punishment
+        → severe reprimand
+        → strong verbal criticism or scolding
+}
+
+CASTIGATE : {
+    castigare (to chastise)
+
+    Semantic Evolution (literal → modern):
+        → punish to correct
+        → rebuke harshly
+        → scold or censure severely
+}
+
+======================================================
+
+ENERVATION : {
+    e (out of) + nervus (nerve)
+
+    Semantic Evolution (literal → modern):
+        → removal of nerve strength
+        → loss of vigor
+        → physical, emotional, or mental exhaustion
+}
+
+ENERVATE : {
+    e (out of) + nervus (nerve)
+
+    Semantic Evolution (literal → modern):
+        → deprive of nerve force
+        → weaken greatly
+        → cause complete exhaustion or devitalization
+}

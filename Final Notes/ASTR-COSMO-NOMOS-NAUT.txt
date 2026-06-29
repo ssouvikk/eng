@@ -1,0 +1,101 @@
+======================================================
+ASTR- / ASTER-   → star
+COSMO-           → universe, world
+
+NOMOS            → law, order
+NAUT-            → sailor, navigator
+
+-LOGY            → study, science
+-LOGY            → study of
+-NAUT            → traveler, sailor
+
+DIS-             → against, apart from
+-ISK             → small
+======================================================
+
+ASTRONOMY        → scientific study of stars and celestial bodies
+ASTROLOGY        → belief in the influence of stars and planets
+
+ASTRONAUT        → sailor among the stars
+COSMONAUT        → traveler through the universe
+
+NAUTICAL         → relating to ships and navigation
+
+ASTER            → star-shaped flower
+ASTERISK         → star-shaped symbol
+
+DISASTER         → misfortune; calamity
+
+======================================================
+
+ASTRONOMY : {
+    astron (star) + nomy (law, order)
+
+    Semantic Evolution (literal → modern):
+        → laws governing the stars
+        → orderly study of celestial movements
+        → scientific study of stars, planets, and the universe
+}
+
+ASTROLOGY : {
+    astro (star) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of the stars
+        → interpretation of celestial influences
+        → belief that stars and planets affect human affairs
+}
+
+ASTRONAUT : {
+    astro (star) + naut (sailor)
+
+    Semantic Evolution (literal → modern):
+        → sailor among the stars
+        → navigator of outer space
+        → person who travels in space
+}
+
+COSMONAUT : {
+    cosmo (universe) + naut (traveler)
+
+    Semantic Evolution (literal → modern):
+        → traveler through the universe
+        → navigator of cosmic space
+        → space traveler
+}
+
+NAUTICAL : {
+    naut (sailor, ship) + ical (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to sailors
+        → connected with ships and navigation
+        → pertaining to maritime travel
+}
+
+ASTER : {
+    aster (star)
+
+    Semantic Evolution (literal → modern):
+        → star
+        → star-shaped object
+        → flower named for its star-like appearance
+}
+
+ASTERISK : {
+    aster (star) + isk (small)
+
+    Semantic Evolution (literal → modern):
+        → little star
+        → small star-shaped mark
+        → typographical symbol (*)
+}
+
+DISASTER : {
+    dis (against) + aster (star)
+
+    Semantic Evolution (literal → modern):
+        → against the stars
+        → unfavorable influence of the stars
+        → calamity, catastrophe, or great misfortune
+}

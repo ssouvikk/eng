@@ -1,0 +1,365 @@
+======================================================
+EGO-          → self, I
+ALTER-        → other, another
+
+INTRO-        → inward
+EXTRO-        → outward
+AMBI-         → both
+
+VERT-         → turn
+VERS-         → turn
+
+CENTR-        → center
+MANI-         → obsession, madness
+
+-ISM          → doctrine, condition
+-IST          → person
+-IC           → relating to
+-ION          → process, state
+======================================================
+
+EGOIST          → selfish person
+EGOTIST         → self-conceited person
+EGOTISM         → excessive self-importance
+
+EGOCENTRIC      → self-centered
+EGOCENTRISM     → self-centeredness
+
+EGOMANIAC       → self-obsessed person
+EGOMANIACAL     → extremely self-obsessed
+
+ALTER EGO       → second self; alternative personality
+ALTERCATION     → heated argument
+
+ALTERNATE       → occurring by turns
+ALTERNATELY     → in turn; one after another
+ALTERNATION     → process of taking turns
+ALTERNATIVE     → another choice
+ALTERATION      → change; modification
+ALTER           → change; modify
+
+ALTRUISM        → selfless concern for others
+ALTRUIST        → selfless person
+ALTRUISTIC      → concerned for others' welfare
+
+INTROVERT       → person who turns inward
+INTROVERTED     → inward-looking; reserved
+
+EXTROVERT       → person who turns outward
+EXTROVERTED     → outgoing; socially expressive
+
+AMBIVERT        → person with both introvert and extrovert traits
+AMBIVERSION     → balance of introversion and extroversion
+
+INVERT          → turn upside down
+INVERSION       → reversal; turning upside down
+
+CONVERT         → transform into another form
+CONVERSION      → process of transformation
+
+REVERT          → return to a previous state
+REVERSION       → return to an earlier condition
+
+DIVERT          → turn aside; redirect
+DIVERSION       → redirection; distraction
+
+VERSATILE       → adaptable; capable in many fields
+
+======================================================
+
+EGOIST : {
+    ego (self) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → person focused on self
+        → one who places personal interests first
+        → selfish individual
+}
+
+EGOTIST : {
+    ego (self) + tist (person)
+
+    Semantic Evolution (literal → modern):
+        → person centered on self
+        → one who constantly talks about oneself
+        → self-conceited individual
+}
+
+EGOTISM : {
+    ego (self) + ism (condition)
+
+    Semantic Evolution (literal → modern):
+        → condition of self-focus
+        → exaggerated self-importance
+        → self-conceitedness
+}
+
+EGOCENTRIC : {
+    ego (self) + centric (centered)
+
+    Semantic Evolution (literal → modern):
+        → self at the center
+        → viewing everything in relation to oneself
+        → self-centered
+}
+
+EGOCENTRISM : {
+    ego (self) + centrism (centered condition)
+
+    Semantic Evolution (literal → modern):
+        → state of self-centeredness
+        → placing oneself at the center of experience
+        → inability to fully consider other viewpoints
+}
+
+EGOMANIAC : {
+    ego (self) + maniac (obsessed person)
+
+    Semantic Evolution (literal → modern):
+        → person obsessed with self
+        → excessively self-important individual
+        → self-obsessed person
+}
+
+EGOMANIACAL : {
+    ego (self) + maniacal (obsessive)
+
+    Semantic Evolution (literal → modern):
+        → characterized by self-obsession
+        → displaying excessive self-importance
+        → extremely self-centered
+}
+
+ALTER EGO : {
+    alter (other) + ego (self)
+
+    Semantic Evolution (literal → modern):
+        → other self
+        → secondary identity
+        → different side of one's personality
+}
+
+ALTERCATION : {
+    alter (other)
+
+    Semantic Evolution (literal → modern):
+        → exchange between opposing parties
+        → verbal conflict
+        → heated argument or quarrel
+}
+
+ALTERNATE : {
+    alter (other)
+
+    Semantic Evolution (literal → modern):
+        → one after another
+        → occurring by turns
+        → every other
+}
+
+ALTERNATELY : {
+    alternate (by turns) + ly (manner)
+
+    Semantic Evolution (literal → modern):
+        → in alternating fashion
+        → one after another
+        → by turns
+}
+
+ALTERNATION : {
+    alternate (by turns) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → process of taking turns
+        → successive interchange
+        → recurring change between states
+}
+
+ALTERNATIVE : {
+    alter (other) + ive (having nature of)
+
+    Semantic Evolution (literal → modern):
+        → another possibility
+        → substitute choice
+        → option available instead of another
+}
+
+ALTERATION : {
+    alter (change) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → act of changing
+        → modification
+        → adjustment or revision
+}
+
+ALTER : {
+    alter (other)
+
+    Semantic Evolution (literal → modern):
+        → make different
+        → modify
+        → change from original form
+}
+
+ALTRUISM : {
+    alter (other) → altrui (other people) + ism (principle)
+
+    Semantic Evolution (literal → modern):
+        → concern for others
+        → selfless devotion to others
+        → unselfish regard for human welfare
+}
+
+ALTRUIST : {
+    altru (others) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → person concerned for others
+        → selfless individual
+        → one who places others' welfare first
+}
+
+ALTRUISTIC : {
+    altru (others) + istic (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to concern for others
+        → selfless in behavior
+        → motivated by others' welfare
+}
+
+INTROVERT : {
+    intro (inward) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn inward
+        → focus on inner thoughts
+        → person energized by solitude
+}
+
+INTROVERTED : {
+    introvert (inward-turning)
+
+    Semantic Evolution (literal → modern):
+        → inwardly focused
+        → reserved in social situations
+        → reflective and private
+}
+
+EXTROVERT : {
+    extro (outward) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn outward
+        → direct energy toward people and surroundings
+        → socially outgoing person
+}
+
+EXTROVERTED : {
+    extrovert (outward-turning)
+
+    Semantic Evolution (literal → modern):
+        → socially expressive
+        → outgoing and communicative
+        → energized by interaction
+}
+
+AMBIVERT : {
+    ambi (both) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn both ways
+        → display both inward and outward tendencies
+        → balanced personality orientation
+}
+
+AMBIVERSION : {
+    ambi (both) + version (turning)
+
+    Semantic Evolution (literal → modern):
+        → state of turning both ways
+        → balance of introversion and extroversion
+        → mixed personality orientation
+}
+
+INVERT : {
+    in (into) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn inward or over
+        → reverse position
+        → turn upside down
+}
+
+INVERSION : {
+    invert (reverse) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → act of reversing
+        → turning upside down
+        → reversal of normal order
+}
+
+CONVERT : {
+    con (completely) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn completely
+        → change into another form
+        → transform
+}
+
+CONVERSION : {
+    convert (transform) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → act of transforming
+        → process of change
+        → transition into another form or state
+}
+
+REVERT : {
+    re (back) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn back
+        → return to former condition
+        → go back to a previous state
+}
+
+REVERSION : {
+    revert (return) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → process of returning
+        → restoration of earlier condition
+        → return to a former state
+}
+
+DIVERT : {
+    di (aside) + vert (turn)
+
+    Semantic Evolution (literal → modern):
+        → turn aside
+        → redirect attention or movement
+        → channel away from original course
+}
+
+DIVERSION : {
+    divert (redirect) + ion (process)
+
+    Semantic Evolution (literal → modern):
+        → act of redirecting
+        → distraction from the main course
+        → alternative activity or route
+}
+
+VERSATILE : {
+    vers (turn) + atile (capable of)
+
+    Semantic Evolution (literal → modern):
+        → capable of turning easily
+        → adaptable to different situations
+        → skilled in many areas
+}

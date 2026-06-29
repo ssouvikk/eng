@@ -1,0 +1,133 @@
+======================================================
+ZO- / ZOO-     → animal
+BOTAN-         → plant
+
+BIO-           → life
+AUTO-          → self
+
+OPSIS / OPSY   → seeing, examination
+
+GEO-           → earth
+METRY          → measurement
+GRAPHY         → writing, description, mapping
+
+-LOGY          → study, science
+-ICAL          → relating to
+======================================================
+
+ZOOLOGY         → scientific study of animals
+ZODIAC          → animal-themed celestial diagram
+
+BOTANICAL       → relating to plants
+
+BIOLOGY         → scientific study of life
+BIOGRAPHY       → written account of a person's life
+AUTOBIOGRAPHY   → written account of one's own life
+
+BIOPSY          → examination of living tissue
+AUTOPSY         → examination of a corpse
+
+GEOLOGY         → scientific study of the Earth
+GEOMETRY        → measurement of the Earth
+GEOGRAPHY       → description and mapping of the Earth
+
+======================================================
+
+ZOOLOGY : {
+    zoo (animal) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of animals
+        → scientific investigation of animal life
+        → branch of biology dealing with animals
+}
+
+ZODIAC : {
+    zoo (animal)
+
+    Semantic Evolution (literal → modern):
+        → circle of little animals
+        → celestial diagram containing animal symbols
+        → astrological system of signs
+}
+
+BOTANICAL : {
+    botan (plant) + ical (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to plants
+        → connected with plant life
+        → pertaining to botany
+}
+
+BIOLOGY : {
+    bio (life) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of life
+        → science of living organisms
+        → branch of science concerned with life processes
+}
+
+BIOGRAPHY : {
+    bio (life) + graphy (writing)
+
+    Semantic Evolution (literal → modern):
+        → writing of a life
+        → account of a person's experiences
+        → written history of someone's life
+}
+
+AUTOBIOGRAPHY : {
+    auto (self) + bio (life) + graphy (writing)
+
+    Semantic Evolution (literal → modern):
+        → writing of one's own life
+        → self-written life story
+        → personal account of life experiences
+}
+
+BIOPSY : {
+    bio (life) + opsy (examination)
+
+    Semantic Evolution (literal → modern):
+        → examination of living tissue
+        → medical inspection of tissue samples
+        → diagnostic study of tissue from a living body
+}
+
+AUTOPSY : {
+    auto (self) + opsy (seeing, examination)
+
+    Semantic Evolution (literal → modern):
+        → seeing for oneself
+        → direct examination after death
+        → postmortem examination of a corpse
+}
+
+GEOLOGY : {
+    geo (earth) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of the Earth
+        → science of rocks and Earth's structure
+        → branch of science dealing with Earth's history and composition
+}
+
+GEOMETRY : {
+    geo (earth) + metry (measurement)
+
+    Semantic Evolution (literal → modern):
+        → measurement of land
+        → science of shapes and dimensions
+        → mathematical study of space and form
+}
+
+GEOGRAPHY : {
+    geo (earth) + graphy (description, mapping)
+
+    Semantic Evolution (literal → modern):
+        → description of the Earth
+        → recording and mapping of land areas
+        → study of Earth's physical and human features
+}

@@ -1,0 +1,272 @@
+======================================================
+GARR-          → chatter, prattle
+
+VOLV- / VOLU-  → roll, turn
+
+VERB-          → word
+LOQU-          → speak
+
+MAGN-          → great, large
+GRAND-         → great, impressive
+
+OPUS           → work
+
+RE-            → back, again
+E- / EX-       → out
+
+-ITY           → state, quality
+-AGE           → collection, condition
+-ATION         → process, result
+======================================================
+
+GARRULITY         → incessant chatter
+GARRULOUSNESS     → excessive talkativeness
+
+VOLUBLE           → fluent and talkative
+VOLUBILITY        → fluency of speech
+
+REVOLVE           → roll around
+REVOLUTION        → complete turning; radical change
+
+EVOLVE            → develop gradually
+EVOLUTION         → gradual development
+EVOLUTIONARY      → relating to development
+
+VERBIAGE          → excessive wording
+VERBOSITY         → wordiness
+
+VERBATIM          → exactly word for word
+
+VERBAL            → relating to words
+VERBALIZE         → put into words
+VERBALIZATION     → expression in words
+
+MAGNILOQUENCE     → pompous or grand speech
+GRANDILOQUENCE    → lofty, self-important language
+
+MAGNUM OPUS       → great work; masterpiece
+MAGNATE           → powerful or wealthy person
+MAGNANIMOUS       → noble and forgiving
+MAGNIFY           → enlarge
+MAGNITUDE         → great size or importance
+
+GRANDIOSE         → excessively grand
+GRANDEUR          → splendor; magnificence
+
+======================================================
+
+GARRULITY : {
+    garr (chatter) + ulity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of chattering
+        → excessive talking
+        → incessant talk about trivial matters
+}
+
+GARRULOUSNESS : {
+    garrulous (talkative) + ness (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of constant talking
+        → excessive speech
+        → meaningless talkativeness
+}
+
+VOLUBLE : {
+    volu (roll)
+
+    Semantic Evolution (literal → modern):
+        → rolling easily
+        → words rolling off the tongue
+        → fluent and talkative
+}
+
+VOLUBILITY : {
+    voluble (fluent) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of verbal fluency
+        → ease of expression
+        → rapid and effortless speech
+}
+
+REVOLVE : {
+    re (around, back) + volv (roll)
+
+    Semantic Evolution (literal → modern):
+        → roll around
+        → move in a circular path
+        → rotate about a center
+}
+
+REVOLUTION : {
+    re (around) + volution (rolling)
+
+    Semantic Evolution (literal → modern):
+        → complete turning around
+        → cycle or rotation
+        → radical political or social change
+}
+
+EVOLVE : {
+    e (out) + volv (roll)
+
+    Semantic Evolution (literal → modern):
+        → roll out
+        → unfold gradually
+        → develop over time
+}
+
+EVOLUTION : {
+    evolve (develop) + tion (process)
+
+    Semantic Evolution (literal → modern):
+        → process of unfolding
+        → gradual development
+        → progressive change over time
+}
+
+EVOLUTIONARY : {
+    evolution (development) + ary (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to development
+        → involving gradual change
+        → pertaining to evolution
+}
+
+VERBIAGE : {
+    verb (word) + age (condition)
+
+    Semantic Evolution (literal → modern):
+        → abundance of words
+        → excessive wording
+        → wordiness in expression
+}
+
+VERBOSITY : {
+    verbose (wordy) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of using many words
+        → excessive elaboration
+        → wordiness
+}
+
+VERBATIM : {
+    verba (words)
+
+    Semantic Evolution (literal → modern):
+        → by the words themselves
+        → exactly as spoken
+        → word for word
+}
+
+VERBAL : {
+    verb (word) + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to words
+        → expressed in speech
+        → communicated through language
+}
+
+VERBALIZE : {
+    verbal (word) + ize (make)
+
+    Semantic Evolution (literal → modern):
+        → put into words
+        → express verbally
+        → articulate thoughts in language
+}
+
+VERBALIZATION : {
+    verbalize (express in words) + ation (process)
+
+    Semantic Evolution (literal → modern):
+        → act of expressing in words
+        → conversion of thoughts into language
+        → spoken or written expression
+}
+
+MAGNILOQUENCE : {
+    magni (great) + loquence (speech)
+
+    Semantic Evolution (literal → modern):
+        → great speech
+        → lofty language
+        → pompous and flowery expression
+}
+
+GRANDILOQUENCE : {
+    grandi (great) + loquence (speech)
+
+    Semantic Evolution (literal → modern):
+        → grand speech
+        → elevated style of speaking
+        → self-important and extravagant language
+}
+
+MAGNUM OPUS : {
+    magnum (great) + opus (work)
+
+    Semantic Evolution (literal → modern):
+        → great work
+        → finest achievement
+        → masterpiece
+}
+
+MAGNATE : {
+    magn (great)
+
+    Semantic Evolution (literal → modern):
+        → great person
+        → powerful individual
+        → influential or wealthy leader
+}
+
+MAGNANIMOUS : {
+    magn (great) + animous (spirit)
+
+    Semantic Evolution (literal → modern):
+        → great-souled
+        → noble in character
+        → generous and forgiving
+}
+
+MAGNIFY : {
+    magn (great) + fy (make)
+
+    Semantic Evolution (literal → modern):
+        → make great
+        → enlarge
+        → increase in size or importance
+}
+
+MAGNITUDE : {
+    magn (great) + itude (state)
+
+    Semantic Evolution (literal → modern):
+        → greatness
+        → size or extent
+        → degree of importance or intensity
+}
+
+GRANDIOSE : {
+    grand (great) + iose (full of)
+
+    Semantic Evolution (literal → modern):
+        → full of grandeur
+        → impressively large
+        → excessively grand or showy
+}
+
+GRANDEUR : {
+    grand (great)
+
+    Semantic Evolution (literal → modern):
+        → greatness
+        → magnificence
+        → splendor and dignity
+}

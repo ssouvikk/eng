@@ -1,0 +1,186 @@
+======================================================
+VACILLO-      → swing back and forth, waver
+OSCILLUM-     → swing, pendulum
+
+MISER-        → wretched, unhappy
+
+LEVIS-        → light
+INTIMUS-      → innermost
+
+SIMULO-       → copy, imitate, pretend
+SIMILIS-      → like, similar
+======================================================
+
+VACILLATION     → wavering; indecision
+VACILLATORY     → characterized by wavering
+AMBIVALENT      → having contradictory feelings
+OSCILLATE       → swing back and forth
+OSCILLATION     → repeated swinging motion
+
+COMMISERATION   → sharing another's grief
+
+ALLEVIATION     → reduction of suffering
+ALLEVIATIVE     → relieving suffering
+ALLEVIATING     → easing or reducing
+LEVITY          → frivolity; lightness
+LEVITATE        → rise into the air
+
+INTIMATION      → indirect hint or suggestion
+
+SIMULATION      → imitation of reality
+DISSIMULATE     → conceal feelings by pretense
+DISSIMULATION   → concealment through pretense
+DISSEMBLE       → hide true feelings or motives
+======================================================
+
+VACILLATION : {
+    vacillo (swing back and forth)
+
+    Semantic Evolution (literal → modern):
+        → swinging movement
+        → wavering between alternatives
+        → inability to decide firmly
+}
+
+VACILLATORY : {
+    vacillo (swing back and forth)
+
+    Semantic Evolution (literal → modern):
+        → characterized by swinging
+        → uncertain and wavering
+        → indecisive in thought or action
+}
+
+AMBIVALENT : {
+    ambi (both) + valent (strength, value)
+
+    Semantic Evolution (literal → modern):
+        → possessing both values
+        → holding opposing tendencies
+        → experiencing contradictory feelings simultaneously
+}
+
+OSCILLATE : {
+    oscillum (swing)
+
+    Semantic Evolution (literal → modern):
+        → swing physically
+        → move repeatedly between extremes
+        → fluctuate back and forth
+}
+
+OSCILLATION : {
+    oscillum (swing)
+
+    Semantic Evolution (literal → modern):
+        → repeated swinging
+        → regular fluctuation
+        → back-and-forth movement or variation
+}
+
+======================================================
+
+COMMISERATION : {
+    com (with) + miser (wretched)
+
+    Semantic Evolution (literal → modern):
+        → share another's wretchedness
+        → sympathize with suffering
+        → expression of pity or sorrow for someone
+}
+
+======================================================
+
+ALLEVIATION : {
+    ad (to) + levis (light)
+
+    Semantic Evolution (literal → modern):
+        → make lighter
+        → reduce a burden
+        → easing pain, hardship, or suffering
+}
+
+ALLEVIATIVE : {
+    ad (to) + levis (light)
+
+    Semantic Evolution (literal → modern):
+        → making lighter
+        → relieving discomfort
+        → tending to reduce suffering
+}
+
+ALLEVIATING : {
+    ad (to) + levis (light)
+
+    Semantic Evolution (literal → modern):
+        → lightening a burden
+        → reducing severity
+        → easing pain or difficulty
+}
+
+LEVITY : {
+    levis (light)
+
+    Semantic Evolution (literal → modern):
+        → lightness
+        → lack of seriousness
+        → joking or frivolous behavior
+}
+
+LEVITATE : {
+    levis (light)
+
+    Semantic Evolution (literal → modern):
+        → become light
+        → rise above the ground
+        → appear to float in the air
+}
+
+======================================================
+
+INTIMATION : {
+    intimus (innermost)
+
+    Semantic Evolution (literal → modern):
+        → make known from within
+        → subtle indication
+        → indirect hint or suggestion
+}
+
+======================================================
+
+SIMULATION : {
+    simulo (copy, imitate)
+
+    Semantic Evolution (literal → modern):
+        → imitation
+        → representation of reality
+        → artificial recreation of a process or situation
+}
+
+DISSIMULATE : {
+    dis (away) + simulo (pretend)
+
+    Semantic Evolution (literal → modern):
+        → disguise through pretense
+        → conceal true emotions
+        → hide feelings or intentions behind a false appearance
+}
+
+DISSIMULATION : {
+    dis (away) + simulo (pretend)
+
+    Semantic Evolution (literal → modern):
+        → act of concealing
+        → hiding through deception
+        → deliberate masking of true thoughts or feelings
+}
+
+DISSEMBLE : {
+    dis (away) + similis (similar appearance)
+
+    Semantic Evolution (literal → modern):
+        → disguise one's true nature
+        → conceal motives or emotions
+        → pretend or misrepresent feelings
+}

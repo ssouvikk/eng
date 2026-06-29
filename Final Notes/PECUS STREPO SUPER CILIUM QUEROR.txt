@@ -1,0 +1,112 @@
+======================================================
+PECUS-         → cattle, wealth, money
+
+STREPO-        → make a noise
+
+SUPER-         → above
+CILIUM-        → eyelid
+
+QUEROR-        → complain
+======================================================
+
+IMPECUNIOUS      → habitually short of money
+
+PECUNIARY        → pertaining to money
+PECULATE         → embezzle money
+
+OBSTREPEROUS     → noisily troublesome and unruly
+OBSTREPEROUSNESS → state of being obstreperous
+
+SUPERCILIOUS     → haughtily contemptuous and arrogant
+SUPERCILIOUSNESS → state of being supercilious
+
+QUERULOUS        → nagging and complaining
+QUERULOUSNESS    → state of being querulous
+======================================================
+
+IMPECUNIOUS : {
+    in (not) + pecus (money, wealth)
+
+    Semantic Evolution (literal → modern):
+        → without money
+        → lacking financial resources
+        → habitually short of cash
+}
+
+PECUNIARY : {
+    pecus (cattle, wealth)
+
+    Semantic Evolution (literal → modern):
+        → relating to wealth
+        → concerning money
+        → financial in nature
+}
+
+PECULATE : {
+    pecus (money, property)
+
+    Semantic Evolution (literal → modern):
+        → appropriate property for oneself
+        → misuse entrusted funds
+        → embezzle or steal money
+}
+
+======================================================
+
+OBSTREPEROUS : {
+    ob (against) + strepo (make a noise)
+
+    Semantic Evolution (literal → modern):
+        → make noise against
+        → loudly resistant
+        → noisily troublesome and difficult to control
+}
+
+OBSTREPEROUSNESS : {
+    ob (against) + strepo (make a noise)
+
+    Semantic Evolution (literal → modern):
+        → noisy resistance
+        → unruly behavior
+        → quality of being loudly troublesome
+}
+
+======================================================
+
+SUPERCILIOUS : {
+    super (above) + cilium (eyelid)
+
+    Semantic Evolution (literal → modern):
+        → raising the eyebrow
+        → showing disdain
+        → haughtily contemptuous and arrogant
+}
+
+SUPERCILIOUSNESS : {
+    super (above) + cilium (eyelid)
+
+    Semantic Evolution (literal → modern):
+        → raised-eyebrow attitude
+        → contemptuous superiority
+        → quality of arrogant disdain
+}
+
+======================================================
+
+QUERULOUS : {
+    queror (complain)
+
+    Semantic Evolution (literal → modern):
+        → inclined to complain
+        → habitually dissatisfied
+        → nagging, fretful, and complaining
+}
+
+QUERULOUSNESS : {
+    queror (complain)
+
+    Semantic Evolution (literal → modern):
+        → tendency to complain
+        → chronic dissatisfaction
+        → quality of being querulous
+}

@@ -1,0 +1,128 @@
+======================================================
+SEQUOR-        → follow
+
+-OUS           → full of, characterized by
+======================================================
+
+OBSEQUIOUS      → fawning and servilely attentive
+
+OBSEQUIES       → funeral rites
+SUBSEQUENT      → following after
+SEQUEL          → thing that follows another
+SEQUENCE        → order in which things follow
+
+======================================================
+
+OBSEQUIOUS : {
+    ob (toward) + sequor (follow) + ous (full of)
+
+    Semantic Evolution (literal → modern):
+        → full of following
+        → excessively eager to comply
+        → fawning and servilely attentive
+}
+
+======================================================
+
+OBSEQUIES : {
+    ob (toward) + sequor (follow)
+
+    Semantic Evolution (literal → modern):
+        → following after
+        → accompanying the dead
+        → funeral rites and ceremonies
+}
+
+SUBSEQUENT : {
+    sub (after, under) + sequor (follow)
+
+    Semantic Evolution (literal → modern):
+        → following after
+        → coming later
+        → occurring afterward in time or order
+}
+
+SEQUEL : {
+    sequor (follow)
+
+    Semantic Evolution (literal → modern):
+        → that which follows
+        → continuation of an earlier work
+        → later installment in a story or series
+}
+
+SEQUENCE : {
+    sequor (follow)
+
+    Semantic Evolution (literal → modern):
+        → following in order
+        → succession of events
+        → arranged series of related things
+}
+
+======================================================
+
+-OUS : {
+    Latin suffix meaning "full of"
+
+    Semantic Evolution (literal → modern):
+        → full of
+        → characterized by
+        → possessing the quality of
+}
+
+Examples:
+
+OBSEQUIOUS : {
+    obsequy + ous
+
+    Semantic Evolution (literal → modern):
+        → full of excessive compliance
+        → overly attentive
+        → servile and fawning
+}
+
+DOLOROUS : {
+    dolor (sorrow) + ous
+
+    Semantic Evolution (literal → modern):
+        → full of sorrow
+        → mournful
+        → melancholy and sad
+}
+
+BIBULOUS : {
+    bibo (drink) + ous
+
+    Semantic Evolution (literal → modern):
+        → full of drinking
+        → fond of alcohol
+        → addicted to drink
+}
+
+CADAVEROUS : {
+    cadaver (corpse) + ous
+
+    Semantic Evolution (literal → modern):
+        → full of corpse-like qualities
+        → deathly pale
+        → gaunt and haggard
+}
+
+SUPERCILIOUS : {
+    super (above) + cilium (eyelid) + ous
+
+    Semantic Evolution (literal → modern):
+        → full of superiority
+        → disdainful
+        → arrogantly contemptuous
+}
+
+QUERULOUS : {
+    queror (complain) + ous
+
+    Semantic Evolution (literal → modern):
+        → full of complaints
+        → habitually dissatisfied
+        → nagging and fretful
+}

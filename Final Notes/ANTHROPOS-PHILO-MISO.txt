@@ -1,0 +1,61 @@
+======================================================
+ANTHROPO-   → human being, mankind
+PHILO-      → love, affection
+MISO-       → hatred, dislike
+-LOGY       → study, science
+-LOGIST      → specialist, practitioner
+-IST         → person associated with or characterized by
+======================================================
+
+ANTHROPOLOGY     → study of human beings and their development
+PHILANTHROPY     → love of mankind; concern for human welfare
+MISANTHROPY      → hatred or distrust of mankind
+ANTHROPOLOGIST   → one who studies human beings
+MISANTHROPIST    → one who hates or avoids human beings
+
+======================================================
+
+ANTHROPOLOGY : {
+    anthropo (human being) + logy (study)
+
+    Semantic Evolution (literal → modern):
+        → study of human beings
+        → study of human development and culture
+        → scientific study of mankind
+}
+
+PHILANTHROPY : {
+    philo (love) + anthrop (human being)
+
+    Semantic Evolution (literal → modern):
+        → love of mankind
+        → concern for human welfare
+        → charitable concern for others
+}
+
+MISANTHROPY : {
+    miso (hatred) + anthrop (human being)
+
+    Semantic Evolution (literal → modern):
+        → hatred of mankind
+        → distrust of human society
+        → dislike of social interaction
+}
+
+ANTHROPOLOGIST : {
+    anthropo (human being) + logist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → one who studies human beings
+        → specialist in anthropology
+        → researcher of human cultures and societies
+}
+
+MISANTHROPIST : {
+    miso (hatred) + anthrop (human being) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → one who hates mankind
+        → person who distrusts or avoids people
+        → individual with a strong dislike of society
+}

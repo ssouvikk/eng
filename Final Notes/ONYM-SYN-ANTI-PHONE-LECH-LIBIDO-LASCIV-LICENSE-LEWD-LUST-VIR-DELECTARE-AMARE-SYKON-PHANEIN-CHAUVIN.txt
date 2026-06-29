@@ -1,0 +1,225 @@
+======================================================
+ONYM-         → name
+SYN-          → same, together
+ANTI-         → opposite, against
+HOMO-         → same
+PHONE-        → sound, voice
+
+LECH-         → lick
+LIBIDO-       → desire, pleasure
+LASCIV-       → lustful desire
+LICENSE-      → freedom, permission
+LEWD-         → vulgar, obscene
+LUST-         → sexual desire
+
+VIR-          → man
+DELECTARE-    → to delight
+AMARE-        → to love
+
+SYKON-        → fig
+PHANEIN-      → to show, reveal
+DIA-          → through
+
+CHAUVIN-      → Nicolas Chauvin
+MARTINET-     → Jean Martinet
+======================================================
+
+SYNONYM        → same name
+ANTONYM        → opposite name
+HOMONYM        → same name; same sound/spelling, different meaning
+HOMOPHONE      → same sound
+
+LECHER         → one who lusts; sensual person
+LIBIDINOUS     → filled with sexual desire
+LASCIVIOUS     → lustful; sexually suggestive
+LICENTIOUS     → morally unrestrained
+LEWD           → vulgar; obscene
+LUSTFUL        → full of sexual desire
+
+CHAUVINISM     → excessive or blind patriotism
+
+VIRILE         → masculine
+VIRILITY       → manliness
+
+DELECTABLE     → delightful; pleasing
+AMATEUR        → one who loves; non-professional enthusiast
+
+SYCOPHANT      → informer; flatterer
+DIAPHANOUS     → showing through; transparent
+
+MARTINET       → strict disciplinarian
+======================================================
+
+SYNONYM : {
+    syn (same) + onym (name)
+
+    Semantic Evolution (literal → modern):
+        → same name
+        → different words with the same meaning
+        → word equivalent in meaning to another
+}
+
+ANTONYM : {
+    anti (opposite) + onym (name)
+
+    Semantic Evolution (literal → modern):
+        → opposite name
+        → word with opposite meaning
+        → linguistic opposite of another word
+}
+
+HOMONYM : {
+    homo (same) + onym (name)
+
+    Semantic Evolution (literal → modern):
+        → same name
+        → words sharing form
+        → words identical in spelling or pronunciation but different in meaning
+}
+
+HOMOPHONE : {
+    homo (same) + phone (sound)
+
+    Semantic Evolution (literal → modern):
+        → same sound
+        → words pronounced alike
+        → words with identical pronunciation but different meanings
+}
+
+======================================================
+
+LECHER : {
+    lech (lick)
+
+    Semantic Evolution (literal → modern):
+        → one who licks
+        → sensual pleasure-seeker
+        → lustful or sexually immoral person
+}
+
+LIBIDINOUS : {
+    libido (desire, pleasure)
+
+    Semantic Evolution (literal → modern):
+        → full of desire
+        → strongly sensual
+        → characterized by excessive sexual desire
+}
+
+LASCIVIOUS : {
+    lasciv (lustful)
+
+    Semantic Evolution (literal → modern):
+        → lustful
+        → sexually suggestive
+        → expressing or provoking sexual desire
+}
+
+LICENTIOUS : {
+    license (freedom)
+
+    Semantic Evolution (literal → modern):
+        → unrestricted freedom
+        → disregard for moral restraint
+        → sexually or morally unrestrained
+}
+
+LEWD : {
+    lewd (vulgar)
+
+    Semantic Evolution (literal → modern):
+        → vulgar
+        → indecent
+        → obscene or sexually offensive
+}
+
+LUSTFUL : {
+    lust (sexual desire)
+
+    Semantic Evolution (literal → modern):
+        → full of desire
+        → sexually eager
+        → characterized by strong sexual appetite
+}
+
+======================================================
+
+CHAUVINISM : {
+    Chauvin (Nicolas Chauvin)
+
+    Semantic Evolution (literal → modern):
+        → attitude associated with Chauvin
+        → blind devotion to one's nation
+        → excessive and aggressive patriotism or group loyalty
+}
+
+======================================================
+
+VIRILE : {
+    vir (man)
+
+    Semantic Evolution (literal → modern):
+        → manly
+        → possessing masculine qualities
+        → strong, vigorous, and masculine
+}
+
+VIRILITY : {
+    vir (man)
+
+    Semantic Evolution (literal → modern):
+        → manliness
+        → masculine strength
+        → qualities associated with adult male vigor
+}
+
+======================================================
+
+DELECTABLE : {
+    delectare (to delight)
+
+    Semantic Evolution (literal → modern):
+        → causing delight
+        → highly pleasing
+        → delicious or greatly enjoyable
+}
+
+AMATEUR : {
+    amare (to love)
+
+    Semantic Evolution (literal → modern):
+        → one who loves
+        → person pursuing an activity for pleasure
+        → non-professional enthusiast
+}
+
+======================================================
+
+SYCOPHANT : {
+    sykon (fig) + phanein (to show)
+
+    Semantic Evolution (literal → modern):
+        → informer against fig smugglers
+        → accuser or informer
+        → servile flatterer seeking favor
+}
+
+DIAPHANOUS : {
+    dia (through) + phanein (to show)
+
+    Semantic Evolution (literal → modern):
+        → showing through
+        → allowing light to pass through
+        → delicate and transparent in appearance
+}
+
+======================================================
+
+MARTINET : {
+    Martinet (Jean Martinet)
+
+    Semantic Evolution (literal → modern):
+        → follower of Martinet's discipline
+        → strict military disciplinarian
+        → person demanding rigid obedience and rules
+}

@@ -1,0 +1,171 @@
+======================================================
+EPHEMEROS-     → lasting only a day
+VANESCO-       → vanish, disappear
+
+VICARIUS-      → substitute, deputy
+NOSTOS-        → return home
+ALGOS-         → pain, longing
+EU-            → good, well
+PHEREIN-       → bear, carry
+
+STOLIDUS-      → dull, unmoved
+
+FLUO-          → flow
+OPS-           → wealth, resources
+
+PENURIA-       → need, scarcity
+INDIGENS-      → needy
+DESTITUERE-    → abandon, forsake
+PARSUS-        → sparing
+======================================================
+
+EPHEMERAL      → short-lived
+EVANESCENT     → vanishing away
+EVANESCE       → begin to vanish
+
+VICARIOUS      → experienced through another
+NOSTALGIA      → longing for the past
+EUPHORIA       → exaggerated well-being
+STOLID         → calm and unemotional
+
+AFFLUENCE      → abundance of wealth
+OPULENCE       → luxurious wealth
+
+PENURY         → extreme poverty
+PENURIOUS      → stingy or poor
+INDIGENT       → needy
+DESTITUTE      → utterly lacking resources
+PARSIMONIOUS   → excessively frugal
+======================================================
+
+EPHEMERAL : {
+    ephemeros (lasting one day)
+
+    Semantic Evolution (literal → modern):
+        → existing for a day
+        → short-lived
+        → fleeting and transitory
+}
+
+EVANESCENT : {
+    e (out) + vanesco (vanish)
+
+    Semantic Evolution (literal → modern):
+        → vanishing away
+        → fading gradually
+        → disappearing like vapor
+}
+
+EVANESCE : {
+    e (out) + vanesco (vanish)
+
+    Semantic Evolution (literal → modern):
+        → vanish away
+        → fade from view
+        → begin to disappear gradually
+}
+
+======================================================
+
+VICARIOUS : {
+    vicarius (substitute)
+
+    Semantic Evolution (literal → modern):
+        → acting through another
+        → experienced indirectly
+        → felt secondhand through another person's experience
+}
+
+NOSTALGIA : {
+    nostos (return home) + algos (pain)
+
+    Semantic Evolution (literal → modern):
+        → pain of wishing to return home
+        → homesickness
+        → sentimental longing for the past
+}
+
+EUPHORIA : {
+    eu (good) + pherein (bear)
+
+    Semantic Evolution (literal → modern):
+        → bearing oneself well
+        → feeling exceptionally good
+        → exaggerated sense of happiness or well-being
+}
+
+STOLID : {
+    stolidus (unmoved)
+
+    Semantic Evolution (literal → modern):
+        → emotionally unmoved
+        → impassive
+        → calm, patient, and unexcitable
+}
+
+======================================================
+
+AFFLUENCE : {
+    ad (toward) + fluo (flow)
+
+    Semantic Evolution (literal → modern):
+        → flowing toward
+        → abundance flowing in
+        → wealth and prosperity
+}
+
+OPULENCE : {
+    ops (wealth, resources)
+
+    Semantic Evolution (literal → modern):
+        → abundance of resources
+        → great wealth
+        → lavish and ostentatious riches
+}
+
+======================================================
+
+PENURY : {
+    penuria (need)
+
+    Semantic Evolution (literal → modern):
+        → state of need
+        → severe scarcity
+        → abject poverty and want
+}
+
+PENURIOUS : {
+    penuria (need)
+
+    Semantic Evolution (literal → modern):
+        → characterized by need
+        → poor or miserly
+        → stingy or poverty-stricken
+}
+
+INDIGENT : {
+    indigens (needy)
+
+    Semantic Evolution (literal → modern):
+        → lacking necessities
+        → poor
+        → having limited means of support
+}
+
+DESTITUTE : {
+    de (away) + statuere (set, place)
+
+    Semantic Evolution (literal → modern):
+        → left abandoned
+        → deprived of resources
+        → suffering extreme want and poverty
+}
+
+PARSIMONIOUS : {
+    parsus (sparing)
+
+    Semantic Evolution (literal → modern):
+        → sparing in expenditure
+        → excessively economical
+        → frugal to the point of stinginess
+}

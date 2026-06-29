@@ -1,0 +1,350 @@
+=================================================================
+GEN → birth, produce, kind
+GENIT → birth, beget
+GNAT / GNOS → born, known by birth/kinship
+=================================================================
+
+gene → unit of inheritance
+genus → kind; class; category
+genesis → beginning, origin
+generate → produce
+generator → one who produces
+generation → production; produced group
+generational → relating to generations
+generations → groups of people born during the same period
+generation gap → gap between generations
+
+genetic → relating to inheritance
+genetics → study of inheritance
+geneticist → one who studies inheritance
+
+genealogy → study of lineage
+genealogist → one who studies lineage
+genealogical → relating to lineage
+
+progenitor → ancestor
+progeny → offspring
+progenerate → produce offspring
+
+congenital → existing from birth
+genital → relating to reproduction
+genitourinary → relating to reproduction and urinary organs
+genitive → relating to origin or birth
+
+indigenous → native; born in a place
+aboriginal → existing from the beginning; native
+autochthonous → indigenous; native to a region
+
+genuine → authentic; true to its original nature
+
+regenerate → renew; restore; produce again
+regeneration → renewal; restoration
+
+degenerate → become worse; decay
+degeneration → decline; deterioration
+
+homogeneous → of the same kind
+heterogeneous → of different kinds
+
+genius → exceptional natural ability
+ingenious → clever; inventive
+congenial → pleasant because naturally suited
+genial → cheerful and friendly
+geniality → cheerfulness and friendliness
+genteel → refined; polite and well-bred
+
+indignation → resentment at unfair treatment
+
+agnate → relative through the male line
+agnatic → relating to male-line descent
+cognate → related by common origin
+cognation → blood relationship; kinship
+
+=================================================================
+
+gene : {
+    gene (birth, origin, production)
+    "birth/origin"
+        → literal: unit of origin or inheritance
+        → actual: basic unit of heredity
+},
+
+genus : {
+    gen (birth, race, kind)
+    "kind/race"
+        → literal: a kind or class produced from the same stock
+        → actual: a biological category above species
+},
+
+genesis : {
+    gen (birth/origin) + sis (state/process/result)
+    "birth" + "state/process"
+        → literal: process of coming into being
+        → actual: origin; beginning; creation
+},
+
+generate : {
+    gener (produce, beget) + ate (make/do)
+    "produce" + "make"
+        → literal: bring forth
+        → actual: create; produce; cause to exist
+},
+
+generator : {
+    generate + or (one who does)
+    "produce" + "one who"
+        → literal: one that produces
+        → actual: a device or person that generates
+},
+
+generation : {
+    gener (produce, beget) + ation (act/process/result)
+    "produce" + "process"
+        → literal: act of producing
+        → actual: production; people born in the same period
+},
+
+genetic : {
+    genet (origin, production) + ic (relating to)
+    "origin" + "relating to"
+        → literal: relating to origin
+        → actual: relating to genes and heredity
+},
+
+genetics : {
+    genetic + s
+    "inheritance"
+        → literal: science of inheritance
+        → actual: study of genes and heredity
+},
+
+geneticist : {
+    genetic + ist (specialist)
+    "inheritance" + "specialist"
+        → literal: specialist in genetics
+        → actual: one who studies heredity
+},
+
+genea : {
+    gene (birth/origin) + a (ancestry/lineage)
+    "birth/origin" + "ancestry"
+        → literal: lineage traced from an origin
+        → actual: family descent
+},
+
+genealogy : {
+    genea (ancestry) + logy (study of)
+    "ancestry" + "study"
+        → literal: study of ancestry
+        → actual: study of family history and descent
+},
+
+genealogist : {
+    genealogy + ist (specialist)
+    "study of ancestry" + "specialist"
+        → literal: specialist in genealogy
+        → actual: one who studies family lineage
+},
+
+genealogical : {
+    genealogy + ical (relating to)
+    "genealogy" + "relating to"
+        → literal: relating to ancestry
+        → actual: concerning family lineage
+},
+
+progenitor : {
+    pro (forward, before) + genit (beget) + or (one who)
+    "beget beforehand"
+        → literal: one who came before and begot
+        → actual: ancestor
+},
+
+progeny : {
+    pro (forth) + gen (beget)
+    "beget forth"
+        → literal: that which is produced
+        → actual: offspring; descendants
+},
+
+progenerate : {
+    pro (forth) + generate (produce)
+    "forth" + "produce"
+        → literal: produce offspring
+        → actual: reproduce; beget
+},
+
+congenital : {
+    con (with) + genit (birth) + al (relating to)
+    "with" + "birth"
+        → literal: present with birth
+        → actual: existing from birth
+},
+
+genital : {
+    genit (birth, reproduction) + al (relating to)
+    "reproduction" + "relating to"
+        → literal: relating to generation
+        → actual: relating to reproductive organs
+},
+
+genitourinary : {
+    genit (reproduction) + urinary
+    "reproductive" + "urinary"
+        → literal: relating to reproductive and urinary systems
+        → actual: concerning both systems
+},
+
+genitive : {
+    genit (birth, origin) + ive
+    "origin"
+        → literal: indicating origin or relationship
+        → actual: grammatical case showing possession
+},
+
+indigenous : {
+    indi (within) + gen (born) + ous
+    "born within"
+        → literal: born in a place
+        → actual: native to a region
+},
+
+aboriginal : {
+    ab (from) + origin
+    "from the beginning"
+        → literal: existing from earliest times
+        → actual: native or original inhabitant
+},
+
+autochthonous : {
+    auto (self) + chthon (earth)
+    "from the land itself"
+        → literal: sprung from the soil
+        → actual: indigenous; native
+},
+
+genuine : {
+    genuinus (native, original)
+    "original"
+        → literal: true to its origin
+        → actual: authentic; real
+},
+
+regenerate : {
+    re (again) + generate (produce)
+    "again" + "produce"
+        → literal: produce again
+        → actual: renew; restore; grow again
+},
+
+regeneration : {
+    re (again) + generation
+    "again" + "production"
+        → literal: producing anew
+        → actual: renewal; restoration
+},
+
+degenerate : {
+    de (down, away) + generate (produce)
+    "away from original stock"
+        → literal: fall from one's kind
+        → actual: deteriorate; decay
+},
+
+degeneration : {
+    degenerate + ion
+    "decline"
+        → literal: process of deterioration
+        → actual: worsening condition
+},
+
+homogeneous : {
+    homo (same) + gen (kind) + eous
+    "same" + "kind"
+        → literal: of the same kind
+        → actual: uniform throughout
+},
+
+heterogeneous : {
+    hetero (different) + gen (kind) + eous
+    "different" + "kind"
+        → literal: of different kinds
+        → actual: composed of unlike elements
+},
+
+genius : {
+    gen (be born) + ius
+    "born with"
+        → literal: inborn nature or spirit
+        → actual: exceptional natural ability
+},
+
+ingenious : {
+    in + gen (inborn, natural) + ious
+    "inborn" + "characterized by"
+        → literal: possessing natural talent
+        → actual: clever; inventive
+},
+
+congenial : {
+    con (together) + gen (nature, kind) + ial
+    "same nature"
+        → literal: sharing the same disposition
+        → actual: pleasant; agreeable; compatible
+},
+
+genial : {
+    genialis (festive, pleasant, life-giving)
+    "pleasant by nature"
+        → literal: naturally cheerful
+        → actual: friendly and cheerful
+},
+
+geniality : {
+    genial + ity
+    "cheerful nature"
+        → literal: state of being genial
+        → actual: friendliness and warmth
+},
+
+genteel : {
+    French gentil (well-born)
+    "well-born"
+        → literal: of noble birth
+        → actual: refined; polite; cultured
+},
+
+indignation : {
+    in (against) + dign (worthy)
+    "against what is proper"
+        → literal: anger at injustice
+        → actual: resentment
+},
+
+agnate : {
+    a (to) + gnat (born)
+    "born to the same stock"
+        → literal: related through common descent
+        → actual: relative through the male line
+},
+
+agnatic : {
+    agnate + ic
+    "male-line descent"
+        → literal: relating to agnates
+        → actual: pertaining to paternal lineage
+},
+
+cognate : {
+    co (together) + gnat (born)
+    "born together"
+        → literal: sharing a common origin
+        → actual: related by descent or linguistic origin
+},
+
+cognation : {
+    cognate + ion
+    "common birth"
+        → literal: state of shared descent
+        → actual: kinship; blood relationship
+},

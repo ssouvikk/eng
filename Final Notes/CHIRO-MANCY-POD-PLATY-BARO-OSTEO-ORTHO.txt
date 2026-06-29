@@ -1,0 +1,202 @@
+======================================================
+CHIRO-         → hand
+MANCY          → prophecy, divination
+
+POD- / PODI-   → foot
+PLATY-         → flat
+OKTO-          → eight
+
+BARO-          → weight, pressure
+METER          → measure
+
+SPHYGMO-       → pulse
+OSTEO-         → bone
+
+ORTHO-         → straight, correct
+PAIDO-         → child
+PERI-          → around
+ENDO-          → within
+EX-            → out, away from
+
+-PATHY         → treatment, disease, suffering
+-DONTIA        → teeth, dentistry
+======================================================
+
+CHIROPRACTOR      → healer using hand manipulation
+CHIROGRAPHY       → artistic or expert handwriting
+CHIROMANCY        → palm reading; divination by the hand
+
+PODIATRY          → treatment of foot disorders
+CHIROPODY         → treatment of minor foot ailments
+
+PLATYPUS          → flat-footed mammal
+OCTOPUS           → eight-armed sea creature
+
+PODIUM            → speaker's platform; footrest
+TRIPOD            → three-legged stand
+
+BAROMETER         → instrument measuring atmospheric pressure
+SPHYGMOMANOMETER  → instrument measuring blood pressure
+
+OSTEOPATHY        → treatment involving bones and body manipulation
+
+ORTHODONTIA       → straightening and correction of teeth
+PEDODONTIA        → dentistry for children
+PERIODONTIA       → specialty dealing with gums and supporting tissues
+ENDODONTIA        → root canal and dental pulp therapy
+EXODONTIA         → extraction of teeth
+
+======================================================
+
+CHIROPRACTOR : {
+    chiro (hand) + practor/practice (to do, perform)
+
+    Semantic Evolution (literal → modern):
+        → one who treats with the hands
+        → practitioner of manual therapy
+        → healer using spinal and joint manipulation
+}
+
+CHIROGRAPHY : {
+    chiro (hand) + graphy (writing)
+
+    Semantic Evolution (literal → modern):
+        → handwriting
+        → writing done by hand
+        → artistic or expert penmanship
+}
+
+CHIROMANCY : {
+    chiro (hand) + mancy (prophecy)
+
+    Semantic Evolution (literal → modern):
+        → prophecy through the hand
+        → interpretation of palm markings
+        → palm reading and fortune telling
+}
+
+PODIATRY : {
+    podi (foot) + iatry (medical treatment)
+
+    Semantic Evolution (literal → modern):
+        → medical treatment of the foot
+        → care of foot disorders
+        → specialty concerned with foot health
+}
+
+CHIROPODY : {
+    chiro (hand) + pod (foot)
+
+    Semantic Evolution (literal → modern):
+        → treatment of the feet by hand
+        → care of foot ailments
+        → treatment of minor foot disorders
+}
+
+PLATYPUS : {
+    platy (flat) + pus/pod (foot)
+
+    Semantic Evolution (literal → modern):
+        → flat-footed creature
+        → animal with broad flat feet
+        → egg-laying mammal known as the platypus
+}
+
+OCTOPUS : {
+    okto (eight) + pus/pod (foot)
+
+    Semantic Evolution (literal → modern):
+        → eight-footed creature
+        → animal with eight limbs
+        → eight-armed marine cephalopod
+}
+
+PODIUM : {
+    pod (foot)
+
+    Semantic Evolution (literal → modern):
+        → place for the feet
+        → raised platform
+        → speaker's stand or winners' platform
+}
+
+TRIPOD : {
+    tri (three) + pod (foot)
+
+    Semantic Evolution (literal → modern):
+        → three-footed object
+        → support with three legs
+        → three-legged stand for stability
+}
+
+BAROMETER : {
+    baro (weight, pressure) + meter (measure)
+
+    Semantic Evolution (literal → modern):
+        → measure of weight or pressure
+        → instrument detecting air pressure
+        → atmospheric pressure measuring device
+}
+
+SPHYGMOMANOMETER : {
+    sphygmo (pulse) + mano (pressure) + meter (measure)
+
+    Semantic Evolution (literal → modern):
+        → measure of pulse pressure
+        → instrument assessing arterial pressure
+        → device used to measure blood pressure
+}
+
+OSTEOPATHY : {
+    osteo (bone) + pathy (treatment)
+
+    Semantic Evolution (literal → modern):
+        → treatment involving bones
+        → manipulation of skeletal structures
+        → medical system emphasizing musculoskeletal health
+}
+
+ORTHODONTIA : {
+    ortho (straight) + dontia (teeth)
+
+    Semantic Evolution (literal → modern):
+        → straight teeth
+        → correction of tooth alignment
+        → dental specialty for aligning teeth and jaws
+}
+
+PEDODONTIA : {
+    paido (child) + dontia (teeth)
+
+    Semantic Evolution (literal → modern):
+        → children's teeth
+        → dental care for children
+        → specialty of pediatric dentistry
+}
+
+PERIODONTIA : {
+    peri (around) + dontia (teeth)
+
+    Semantic Evolution (literal → modern):
+        → around the teeth
+        → tissues surrounding teeth
+        → specialty dealing with gums and supporting structures
+}
+
+ENDODONTIA : {
+    endo (within) + dontia (teeth)
+
+    Semantic Evolution (literal → modern):
+        → inside the tooth
+        → treatment of tooth interior
+        → root canal and dental pulp therapy
+}
+
+EXODONTIA : {
+    ex (out) + dontia (teeth)
+
+    Semantic Evolution (literal → modern):
+        → removal of teeth
+        → extraction of diseased teeth
+        → dental specialty involving tooth extraction
+}

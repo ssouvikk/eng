@@ -1,0 +1,225 @@
+======================================================
+VINC-         → conquer, overcome, defeat
+VICT-         → conquer, victory, winner
+
+IN-           → not
+CON-          → thoroughly, completely
+E-/EX-        → out
+
+-IBLE         → able to
+-OR           → one who
+-ION          → act, state, condition
+-OUS          → full of
+-IZE          → make
+======================================================
+
+INVINCIBLE      → impossible to conquer; unbeatable
+INVINCIBILITY   → state of being unconquerable
+
+CONQUER         → overcome by force or victory
+CONQUEROR       → one who conquers
+CONQUERABLE     → capable of being conquered
+CONQUERED       → overcome by force
+
+EVINCE          → reveal clearly; demonstrate
+EVIDENT         → obvious; clearly seen
+
+VICTOR          → winner
+VICTORIOUS      → triumphant
+VICTORY         → triumph
+
+VICTIMIZE       → make a victim of
+VICTIM          → one who suffers harm
+
+CONVINCE        → persuade strongly
+CONVINCING      → persuasive
+CONVICTION      → firm belief
+
+CONVICT         → person found guilty of a crime
+
+VANQUISH        → conquer completely
+
+VICTUAL         → provision of food
+VICTUALS        → food supplies; provisions
+
+======================================================
+
+INVINCIBLE : {
+    in (not) + vinc (conquer) + ible (able)
+
+    Semantic Evolution (literal → modern):
+        → not able to be conquered
+        → impossible to defeat
+        → unconquerable; unbeatable
+}
+
+INVINCIBILITY : {
+    invincible (unconquerable) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being unconquerable
+        → condition of resisting defeat
+        → unbeatable nature
+}
+
+CONQUER : {
+    con (thoroughly) + querere (gain, obtain)
+
+    Semantic Evolution (literal → modern):
+        → gain completely
+        → gain by overcoming resistance
+        → defeat and take control
+}
+
+CONQUEROR : {
+    conquer (defeat) + or (one who)
+
+    Semantic Evolution (literal → modern):
+        → one who conquers
+        → one who defeats opponents
+        → victorious ruler or winner
+}
+
+CONQUERABLE : {
+    conquer (defeat) + able (capable of)
+
+    Semantic Evolution (literal → modern):
+        → capable of being conquered
+        → able to be defeated
+        → capable of being overcome
+}
+
+CONQUERED : {
+    conquer (defeat) + ed
+
+    Semantic Evolution (literal → modern):
+        → was defeated
+        → brought under control
+        → overcome by force
+}
+
+EVINCE : {
+    ex (out) + vinc (prove, overcome doubt)
+
+    Semantic Evolution (literal → modern):
+        → bring out by proof
+        → show clearly through evidence
+        → reveal or demonstrate
+}
+
+EVIDENT : {
+    ex (out) + vid (see)
+
+    Semantic Evolution (literal → modern):
+        → clearly seen
+        → plainly visible
+        → obvious and apparent
+}
+
+VICTOR : {
+    vict (conquer) + or (one who)
+
+    Semantic Evolution (literal → modern):
+        → one who conquers
+        → successful competitor
+        → winner
+}
+
+VICTORIOUS : {
+    victor (winner) + ious (full of)
+
+    Semantic Evolution (literal → modern):
+        → full of victory
+        → marked by success
+        → triumphant
+}
+
+VICTORY : {
+    vict (conquer) + ory (result, state)
+
+    Semantic Evolution (literal → modern):
+        → result of conquering
+        → successful defeat of opposition
+        → triumph
+}
+
+VICTIMIZE : {
+    victim (sufferer) + ize (make)
+
+    Semantic Evolution (literal → modern):
+        → make into a victim
+        → subject to harm or injustice
+        → treat unfairly or cruelly
+}
+
+VICTIM : {
+    Latin victima (sacrificial offering)
+
+    Semantic Evolution (literal → modern):
+        → sacrificial being
+        → person harmed by circumstances
+        → one who suffers loss, injury, or injustice
+}
+
+CONVINCE : {
+    con (thoroughly) + vinc (conquer)
+
+    Semantic Evolution (literal → modern):
+        → conquer completely
+        → overcome resistance or doubt
+        → persuade strongly
+}
+
+CONVINCING : {
+    convince (persuade) + ing
+
+    Semantic Evolution (literal → modern):
+        → causing belief
+        → overcoming doubt
+        → persuasive
+}
+
+CONVICTION : {
+    convince (persuade) + ion (state)
+
+    Semantic Evolution (literal → modern):
+        → state of being convinced
+        → settled belief
+        → firm belief or opinion
+}
+
+CONVICT : {
+    con (thoroughly) + vict (prove, conquer)
+
+    Semantic Evolution (literal → modern):
+        → prove guilty completely
+        → establish guilt by evidence
+        → person legally found guilty of a crime
+}
+
+VANQUISH : {
+    vincere (conquer)
+
+    Semantic Evolution (literal → modern):
+        → conquer completely
+        → defeat thoroughly
+        → overcome decisively
+}
+
+VICTUAL : {
+    Latin victus (food, nourishment)
+
+    Semantic Evolution (literal → modern):
+        → nourishment
+        → food supply
+        → provision of food
+}
+
+VICTUALS : {
+    victual (food supply) + s
+
+    Semantic Evolution (literal → modern):
+        → supplies of food
+        → provisions for sustenance
+        → food and necessities
+}

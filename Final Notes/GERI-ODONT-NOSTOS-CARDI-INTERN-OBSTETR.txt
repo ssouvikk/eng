@@ -1,0 +1,127 @@
+======================================================
+GERI-         → old age, elderly
+-IATRICS      → medical treatment, healing
+-IATRICIAN    → medical specialist
+
+ODONT-        → tooth
+-ALGIA        → pain
+
+NOSTOS        → return, homecoming
+
+CARDI-        → heart
+INTERN-       → internal, inside
+
+OBSTETR-      → midwife, pregnancy, childbirth
+-ICS           → field of study or specialty
+-ICAL          → relating to
+======================================================
+
+GERIATRICS        → medical care of the elderly
+GERIATRICIAN      → specialist in care of the elderly
+
+ODONTALGIA        → tooth pain; toothache
+
+NOSTALGIA         → longing for return home; homesickness
+
+CARDIALGIA        → heart pain; heartburn
+
+INTERNIST         → specialist in internal medicine
+
+INTERNAL          → relating to the inside
+
+OBSTETRICS        → medical specialty dealing with pregnancy and childbirth
+
+OBSTETRIC         → relating to pregnancy and childbirth
+OBSTETRICAL       → relating to pregnancy and childbirth
+
+======================================================
+
+GERIATRICS : {
+    geri (old age) + iatrics (medical treatment)
+
+    Semantic Evolution (literal → modern):
+        → treatment of old age
+        → medical care for elderly people
+        → branch of medicine dealing with aging and the aged
+}
+
+GERIATRICIAN : {
+    geri (old age) + iatrician (medical specialist)
+
+    Semantic Evolution (literal → modern):
+        → physician for the aged
+        → specialist in elderly care
+        → doctor trained in geriatric medicine
+}
+
+ODONTALGIA : {
+    odont (tooth) + algia (pain)
+
+    Semantic Evolution (literal → modern):
+        → tooth pain
+        → pain arising from a tooth
+        → toothache
+}
+
+NOSTALGIA : {
+    nostos (return home) + algia (pain, longing)
+
+    Semantic Evolution (literal → modern):
+        → pain from wishing to return home
+        → homesickness
+        → sentimental longing for the past
+}
+
+CARDIALGIA : {
+    cardi (heart) + algia (pain)
+
+    Semantic Evolution (literal → modern):
+        → heart pain
+        → pain in the chest or heart region
+        → heartburn or cardiac discomfort
+}
+
+INTERNIST : {
+    intern (internal) + ist (specialist)
+
+    Semantic Evolution (literal → modern):
+        → specialist of internal conditions
+        → physician practicing internal medicine
+        → doctor treating adult diseases without surgery
+}
+
+INTERNAL : {
+    intern (inside)
+
+    Semantic Evolution (literal → modern):
+        → situated inside
+        → relating to the interior
+        → occurring within the body or organization
+}
+
+OBSTETRICS : {
+    obstetr (pregnancy, childbirth) + ics (medical specialty)
+
+    Semantic Evolution (literal → modern):
+        → field concerned with childbirth
+        → care of pregnancy and delivery
+        → medical specialty of pregnancy, labor, and postpartum care
+}
+
+OBSTETRIC : {
+    obstetr (pregnancy, childbirth)
+
+    Semantic Evolution (literal → modern):
+        → pertaining to childbirth
+        → relating to pregnancy and delivery
+        → associated with obstetrics
+}
+
+OBSTETRICAL : {
+    obstetr (pregnancy, childbirth) + ical (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to childbirth
+        → connected with pregnancy and delivery
+        → pertaining to the field of obstetrics
+}
