@@ -1,0 +1,239 @@
+======================================================
+EQUI-          → equal, same
+PAR-           → equal, equivalent
+
+VOC- / VOX-    → voice, call
+
+LATER-         → side
+EQU-           → horse
+
+NOCT-          → night
+
+ANIM-          → mind, spirit
+LIBRA-         → balance, scale
+
+DIS-           → apart, away, not
+IN-            → not
+
+-AL            → relating to
+-ITY           → state, quality
+-IST           → person
+======================================================
+
+EQUIVOCAL        → having more than one meaning
+VOCIFEROUS       → loud; noisy
+VOCALIZE         → express in words or voice
+VOCALIST         → singer
+
+EQUILATERAL      → having equal sides
+EQUINE           → horse-like
+EQUESTRIAN       → horseback rider
+
+EQUINOX          → time when day and night are equal
+NOCTURNAL        → active at night
+
+EQUANIMITY       → calmness; evenness of mind
+EQUABILITY       → steadiness of temper
+EQUILIBRIUM      → balance
+EQUILIBRIST      → tightrope walker
+
+EQUITY           → fairness; equal treatment
+INEQUITY         → injustice; unfairness
+INIQUITY         → wickedness; gross injustice
+
+PAR              → equal standard
+PARITY           → equality
+DISPARITY        → inequality
+DISPARAGEMENT    → belittlement; lowering esteem
+PEER             → equal in rank or status
+
+======================================================
+
+EQUIVOCAL : {
+    equi (equal) + vocal (voice)
+
+    Semantic Evolution (literal → modern):
+        → equal voice in two directions
+        → capable of multiple interpretations
+        → having more than one meaning
+}
+
+VOCIFEROUS : {
+    voc (voice) + ferous (carrying)
+
+    Semantic Evolution (literal → modern):
+        → carrying the voice
+        → loudly expressive
+        → noisy and outspoken
+}
+
+VOCALIZE : {
+    vocal (voice) + ize (make)
+
+    Semantic Evolution (literal → modern):
+        → put into voice
+        → express aloud
+        → utter in spoken or sung form
+}
+
+VOCALIST : {
+    vocal (voice) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → person using the voice
+        → singer
+        → professional vocal performer
+}
+
+EQUILATERAL : {
+    equi (equal) + lateral (side)
+
+    Semantic Evolution (literal → modern):
+        → equal-sided
+        → having sides of the same length
+        → geometrically equal on all sides
+}
+
+EQUINE : {
+    equ (horse) + ine (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to horses
+        → horse-like
+        → characteristic of a horse
+}
+
+EQUESTRIAN : {
+    equ (horse) + estrian (rider)
+
+    Semantic Evolution (literal → modern):
+        → horse rider
+        → one who rides horseback
+        → relating to horseback riding
+}
+
+EQUINOX : {
+    equi (equal) + nox (night)
+
+    Semantic Evolution (literal → modern):
+        → equal night
+        → time when day and night are equal
+        → seasonal astronomical event
+}
+
+NOCTURNAL : {
+    noct (night) + urnal (relating to)
+
+    Semantic Evolution (literal → modern):
+        → pertaining to the night
+        → active after dark
+        → occurring at night
+}
+
+EQUANIMITY : {
+    equ (even) + anim (mind, spirit)
+
+    Semantic Evolution (literal → modern):
+        → even mind
+        → mental steadiness
+        → calmness under stress
+}
+
+EQUABILITY : {
+    equ (equal) + ability (state)
+
+    Semantic Evolution (literal → modern):
+        → state of evenness
+        → steadiness of mood
+        → calm and consistent temperament
+}
+
+EQUILIBRIUM : {
+    equi (equal) + libra (balance)
+
+    Semantic Evolution (literal → modern):
+        → equal balance
+        → state of stability
+        → condition of balanced forces
+}
+
+EQUILIBRIST : {
+    equilibrium (balance) + ist (person)
+
+    Semantic Evolution (literal → modern):
+        → person of balance
+        → acrobat maintaining balance
+        → tightrope walker
+}
+
+EQUITY : {
+    equi (equal)
+
+    Semantic Evolution (literal → modern):
+        → equality
+        → fairness in treatment
+        → justice according to circumstances
+}
+
+INEQUITY : {
+    in (not) + equity (fairness)
+
+    Semantic Evolution (literal → modern):
+        → lack of fairness
+        → unequal treatment
+        → injustice
+}
+
+INIQUITY : {
+    in (not) + equity (fairness)
+
+    Semantic Evolution (literal → modern):
+        → extreme unfairness
+        → gross injustice
+        → wickedness or moral corruption
+}
+
+PAR : {
+    par (equal)
+
+    Semantic Evolution (literal → modern):
+        → equal standard
+        → expected level of performance
+        → benchmark or norm
+}
+
+PARITY : {
+    par (equal) + ity (state)
+
+    Semantic Evolution (literal → modern):
+        → state of equality
+        → equivalence in status or value
+        → equality between groups or quantities
+}
+
+DISPARITY : {
+    dis (apart) + parity (equality)
+
+    Semantic Evolution (literal → modern):
+        → absence of equality
+        → difference in condition
+        → inequality or imbalance
+}
+
+DISPARAGEMENT : {
+    dis (down) + par (equal standard)
+
+    Semantic Evolution (literal → modern):
+        → lowering someone's standing
+        → speaking slightingly of another
+        → belittlement or depreciation
+}
+
+PEER : {
+    par (equal)
+
+    Semantic Evolution (literal → modern):
+        → equal person
+        → one of the same rank
+        → person of equal standing or ability
+}
