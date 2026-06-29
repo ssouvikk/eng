@@ -1,132 +1,150 @@
 ======================================================
-AMBI-      → both, on both sides
-DEXTRO-    → right hand, right side
-SINISTRO-  → left hand, left side
-DROIT      → right, skill, expertise
-GAUCHE     → left; awkward, lacking social grace
+AMBI-         → both, on both sides
+DEXTRO-       → right hand, right side
+SINISTRO-     → left hand, left side
+DROIT         → right, skill, expertise
+GAUCHE        → left; awkward, lacking grace
+
+-GUOUS        → leading, driving
+-VALENT       → strength, force
+-VERT         → turn
+-ITY          → state, quality
+-NESS         → state, condition
 ======================================================
 
-AMBIGUOUS → having more than one possible meaning
-AMBIDEXTROUS → able to use both hands equally well
-AMBIDEXTERITY → the ability to use both hands equally well
-AMBIVALENT → having mixed or conflicting feelings about something
-AMBITION → a strong desire to achieve success or a goal
-AMBIVERT → a person who has traits of both an introvert and an extrovert
+AMBIGUOUS       → having more than one possible meaning
+AMBIDEXTROUS    → able to use both hands equally well
+AMBIDEXTERITY   → ability to use both hands equally well
+AMBIVALENT      → having conflicting feelings
+AMBITION        → strong desire for achievement
+AMBIVERT        → person with both introverted and extroverted traits
 
-DEXTROUS → skillful; showing manual or mental skill
-DEXTERITY → skill, especially with the hands
-ADROIT → skillful, clever, expert
-ADROITNESS → skillfulness; expertise
-DROIT-HANDED → right-handed; skilled in using the right hand
+DEXTROUS        → skillful; adept
+DEXTERITY       → manual skill and agility
+ADROIT          → skillful; clever
+ADROITNESS      → expertise; skillfulness
+DROIT-HANDED    → right-handed
 
-SINISTER → threatening, evil, ominous; originally "on the left side"
-GAUCHE → socially awkward; lacking grace or sophistication
+SINISTER        → threatening; ominous; evil
+GAUCHE          → socially awkward; lacking sophistication
 
 ======================================================
 
 AMBIGUOUS : {
-    ambi (both) + guous (driving, leading)
-    semantic :
-        → having more than one possible meaning
+    ambi (both) + guous (leading)
+
+    Semantic Evolution (literal → modern):
+        → leading in two directions
         → open to multiple interpretations
-        → unclear because it points in more than one direction
+        → having more than one possible meaning
 }
 
 AMBIDEXTROUS : {
-    ambi (both) + dextrous (skillful, right-handed)
-    semantic :
+    ambi (both) + dextrous (right-handed, skillful)
+
+    Semantic Evolution (literal → modern):
+        → right-handed on both sides
+        → equally skillful with either hand
         → able to use both hands equally well
-        → possessing skill with either hand
 }
 
 AMBIDEXTERITY : {
     ambi (both) + dexterity (skillfulness)
-    semantic :
+
+    Semantic Evolution (literal → modern):
+        → skillfulness on both sides
+        → equal manual ability in each hand
         → ability to use both hands equally well
-        → equal manual skill on both sides
 }
 
 AMBIVALENT : {
     ambi (both) + valent (strength, force)
-    semantic :
-        → having conflicting feelings
-        → simultaneously attracted and repelled
-        → holding two opposing attitudes
+
+    Semantic Evolution (literal → modern):
+        → pulled by two opposing forces
+        → experiencing contradictory emotions
+        → having mixed or conflicting feelings
 }
 
 AMBITION : {
     Latin ambitio (going around seeking favor)
-    historical context:
-        → candidates would go around both sides seeking support
-    semantic :
-        → strong desire for achievement
-        → aspiration toward success or distinction
+
+    Semantic Evolution (literal → modern):
+        → seeking support from all sides
+        → desire for advancement and recognition
+        → strong aspiration toward success
 }
 
 AMBIVERT : {
     ambi (both) + vert (turn)
-    semantic :
-        → person showing both introverted and extroverted traits
-        → one who can turn toward either social style
+
+    Semantic Evolution (literal → modern):
+        → turning in both directions
+        → displaying introverted and extroverted tendencies
+        → person with a balanced social orientation
 }
 
 DEXTROUS : {
-    dexter (right hand)
-    semantic :
-        → skillful with the hands
-        → mentally or physically adept
-        → showing expert coordination
+    dextr (right hand)
+
+    Semantic Evolution (literal → modern):
+        → skillful with the right hand
+        → manually adept
+        → showing physical or mental skill
 }
 
 DEXTERITY : {
-    dexter (right hand) + ity (state, quality)
-    semantic :
-        → skillfulness
+    dexter (right hand) + ity (quality)
+
+    Semantic Evolution (literal → modern):
+        → quality of right-handed skill
         → manual agility
-        → expert coordination of movement
+        → expert coordination and skillfulness
 }
 
 ADROIT : {
     French à droit (to the right)
-    semantic :
-        → skillful
-        → clever and resourceful
-        → expert in execution
+
+    Semantic Evolution (literal → modern):
+        → on the right side
+        → skillful and capable
+        → clever and expert in action
 }
 
 ADROITNESS : {
     adroit + ness (state, quality)
-    semantic :
-        → skillfulness
-        → expertise
-        → clever competence
+
+    Semantic Evolution (literal → modern):
+        → state of being skillful
+        → expertise and competence
+        → clever effectiveness in performance
 }
 
 DROIT-HANDED : {
     droit (right) + handed
-    semantic :
+
+    Semantic Evolution (literal → modern):
+        → using the right hand preferentially
         → right-handed
         → skilled in use of the right hand
 }
 
 SINISTER : {
-    Latin sinister (left side)
-    historical context:
-        → left side traditionally associated with bad omens
-    semantic :
-        → threatening
-        → evil or ominous
-        → suggesting danger or harm
+    sinistr (left side)
+
+    Semantic Evolution (literal → modern):
+        → located on the left side
+        → associated with bad omens
+        → threatening, evil, or ominous
 }
 
 GAUCHE : {
     French gauche (left)
-    historical context:
-        → left-handedness often associated with clumsiness
-    semantic :
-        → socially awkward
-        → lacking grace or sophistication
-        → tactless in behavior
+
+    Semantic Evolution (literal → modern):
+        → left-sided
+        → clumsy or socially uncomfortable
+        → lacking grace, tact, or sophistication
 }
 
 ======================================================
@@ -136,5 +154,3 @@ Memory Trick:
 LEFT SIDE  → sinister, gauche → awkward, clumsy, threatening
 RIGHT SIDE → dextrous, adroit, droit → skillful, expert
 BOTH SIDES → ambidextrous → able to use both hands
-
-======================================================
