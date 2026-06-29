@@ -1,25 +1,55 @@
 ======================================================
-ANTHROPOS → human being
+ANTHROPOS → human being, mankind
+PHILO-     → love, affection
+MISO-      → hatred, dislike
+LOGY       → study, science
+LOGIST     → specialist, practitioner
+======================================================
+
+ANTHROPOLOGY → study of human beings and human development
+PHILANTHROPY → love of mankind; concern for human welfare
+MISANTHROPY → hatred or distrust of mankind
+ANTHROPOLOGIST → one who studies human beings
+MISANTHROPIST → one who hates or avoids human beings
 
 ======================================================
 
-Anthropology → Study of human development
-Philanthropy → Love of mankind
-Misanthropy → Hatred of mankind
-Anthropologist  → one who studies human beings
-Misanthropist →  one who hates human beings
+ANTHROPOLOGY : {
+    anthropo (human being) + logy (study)
+    semantic :
+        → study of human beings
+        → study of human development and culture
+        → science of mankind
+}
 
-======================================================
+PHILANTHROPY : {
+    phil (love) + anthrop (human being)
+    semantic :
+        → love of mankind
+        → concern for human welfare
+        → charitable disposition toward others
+}
 
+MISANTHROPY : {
+    miso (hatred) + anthrop (human being)
+    semantic :
+        → hatred of mankind
+        → distrust of human society
+        → dislike of social interaction
+}
 
+ANTHROPOLOGIST : {
+    anthropo (human being) + logist (specialist)
+    semantic :
+        → one who studies human beings
+        → expert in anthropology
+        → researcher of human cultures and societies
+}
 
-
-======================================================
-
-Memory Trick:
-
-LEFT SIDE  → sinister, gauche → awkward, clumsy, threatening
-RIGHT SIDE → dextrous, adroit, droit → skillful, expert
-BOTH SIDES → ambidextrous → able to use both hands
-
-======================================================
+MISANTHROPIST : {
+    miso (hatred) + anthrop (human being) + ist (person)
+    semantic :
+        → one who hates mankind
+        → person who avoids or distrusts people
+        → individual with a strong dislike of society
+}
