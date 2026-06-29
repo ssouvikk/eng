@@ -6,21 +6,128 @@ DROIT      → right, skill, expertise
 GAUCHE     → left; awkward, lacking social grace
 ======================================================
 
-ambiguous      → having more than one possible meaning
-ambidextrous   → able to use both hands equally well
-ambidexterity  → the ability to use both hands equally well
-ambivalent     → having mixed or conflicting feelings about something
-ambition       → a strong desire to achieve success or a goal
-ambivert       → a person who has traits of both an introvert and an extrovert
+AMBIGUOUS → having more than one possible meaning
+AMBIDEXTROUS → able to use both hands equally well
+AMBIDEXTERITY → the ability to use both hands equally well
+AMBIVALENT → having mixed or conflicting feelings about something
+AMBITION → a strong desire to achieve success or a goal
+AMBIVERT → a person who has traits of both an introvert and an extrovert
 
-dextrous       → skillful; showing manual or mental skill
-dexterity      → skill, especially with the hands
-adroit         → skillful, clever, expert
-adroitness     → skillfulness; expertise
-droit-handed   → right-handed; skilled in using the right hand
+DEXTROUS → skillful; showing manual or mental skill
+DEXTERITY → skill, especially with the hands
+ADROIT → skillful, clever, expert
+ADROITNESS → skillfulness; expertise
+DROIT-HANDED → right-handed; skilled in using the right hand
 
-sinister       → threatening, evil, ominous; originally "on the left side"
-gauche         → socially awkward; lacking grace or sophistication
+SINISTER → threatening, evil, ominous; originally "on the left side"
+GAUCHE → socially awkward; lacking grace or sophistication
+
+======================================================
+
+AMBIGUOUS : {
+    ambi (both) + guous (driving, leading)
+    semantic :
+        → having more than one possible meaning
+        → open to multiple interpretations
+        → unclear because it points in more than one direction
+}
+
+AMBIDEXTROUS : {
+    ambi (both) + dextrous (skillful, right-handed)
+    semantic :
+        → able to use both hands equally well
+        → possessing skill with either hand
+}
+
+AMBIDEXTERITY : {
+    ambi (both) + dexterity (skillfulness)
+    semantic :
+        → ability to use both hands equally well
+        → equal manual skill on both sides
+}
+
+AMBIVALENT : {
+    ambi (both) + valent (strength, force)
+    semantic :
+        → having conflicting feelings
+        → simultaneously attracted and repelled
+        → holding two opposing attitudes
+}
+
+AMBITION : {
+    Latin ambitio (going around seeking favor)
+    historical context:
+        → candidates would go around both sides seeking support
+    semantic :
+        → strong desire for achievement
+        → aspiration toward success or distinction
+}
+
+AMBIVERT : {
+    ambi (both) + vert (turn)
+    semantic :
+        → person showing both introverted and extroverted traits
+        → one who can turn toward either social style
+}
+
+DEXTROUS : {
+    dexter (right hand)
+    semantic :
+        → skillful with the hands
+        → mentally or physically adept
+        → showing expert coordination
+}
+
+DEXTERITY : {
+    dexter (right hand) + ity (state, quality)
+    semantic :
+        → skillfulness
+        → manual agility
+        → expert coordination of movement
+}
+
+ADROIT : {
+    French à droit (to the right)
+    semantic :
+        → skillful
+        → clever and resourceful
+        → expert in execution
+}
+
+ADROITNESS : {
+    adroit + ness (state, quality)
+    semantic :
+        → skillfulness
+        → expertise
+        → clever competence
+}
+
+DROIT-HANDED : {
+    droit (right) + handed
+    semantic :
+        → right-handed
+        → skilled in use of the right hand
+}
+
+SINISTER : {
+    Latin sinister (left side)
+    historical context:
+        → left side traditionally associated with bad omens
+    semantic :
+        → threatening
+        → evil or ominous
+        → suggesting danger or harm
+}
+
+GAUCHE : {
+    French gauche (left)
+    historical context:
+        → left-handedness often associated with clumsiness
+    semantic :
+        → socially awkward
+        → lacking grace or sophistication
+        → tactless in behavior
+}
 
 ======================================================
 
@@ -29,4 +136,5 @@ Memory Trick:
 LEFT SIDE  → sinister, gauche → awkward, clumsy, threatening
 RIGHT SIDE → dextrous, adroit, droit → skillful, expert
 BOTH SIDES → ambidextrous → able to use both hands
+
 ======================================================
