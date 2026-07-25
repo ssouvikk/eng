@@ -12,6 +12,7 @@ co- = together
 -cide = killing
 -ible = capable of being
 -or = one who
+-red = condition, arrangement, relationship, state
 
 vinc- = conquer
 vict- = conquered
@@ -20,3 +21,4 @@ genos- = race/tribe/people
 
 GEN / GNAT / NAT = birth / origin / production / creation / family / race / type
 uterus = womb
+KIN = family, tribe, race, people born together

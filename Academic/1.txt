@@ -1,26 +1,65 @@
+VICTORIOUS = successful after struggle
+
+VICTIM = someone harmed or adversely affected
+
+VANQUISH = conquer completely
+
+CONVINCE = make someone believe
+
+CONVINCING = persuading or convincing
+
+UNCONVINCING = not persuasive
+
+CONVINCED = certain/sure
+
+GENESIS = origin
+
+NATION = organized political community
+
+NATIVE = local
+
+NATURE = inherent character; the physical world
+
+INNATE = inborn
+
+NATAL = relating to birth
+
+Uterine = Related through mother
+
+Kin = relatives
+
+KIND = type
+
+Ingenuous  = innocent, frank.
+
+GENDER  = social and biological classification
+
+GENERIC = common
+
+PROGENY = children or descendants
+
+PROGENITOR = ancestor
+
+GENOCIDE = mass killing of a people
+
+INDIGENOUS = native to a place
+
+CONGENITAL = present from birth
+
+GENE = basic unit of heredity
+
+GENETIC = relating to genes or heredity
+
+GENETICS = science of genes
+
+GENOME = complete DNA of an organism
+
+GENERATE = create or produce
+
+
 GENEALOGICAL
     = Relating to family lineage or ancestry.
     = Relating to the study of family descent.
-    
-
-GENE 
-    = basic unit of heredity
-    
-
-GENETIC 
-    = relating to genes or heredity
-
-
-GENETICS 
-    = science of genes
-
-
-GENOME 
-    = complete DNA of an organism
-
-
-GENERATE 
-    = create or produce
     
 
 GENERATION 
@@ -44,37 +83,9 @@ DEGENERATION
     = breakdown of tissue or organ
 
 
-GENDER 
-    = social and biological classification
-    
-
 GENUS 
     = biological classification between family and species
     = taxonomic category
-
-
-GENERIC
-    = common
-
-
-PROGENY
-    = children or descendants
-
-
-PROGENITOR
-    = ancestor
-
-
-GENOCIDE
-    = mass killing of a people
-
-
-INDIGENOUS
-    = native to a place
-
-
-CONGENITAL
-    = present from birth
 
 
 ENGENDER
@@ -89,11 +100,6 @@ GENIUS
 INGENIOUS
     = showing exceptional creativity and resourcefulness
     = clever, inventive.
-
-
-Ingenuous 
-    = innocent, frank.
-
 
 INVINCIBLE
     = impossible to defeat
@@ -111,38 +117,9 @@ VICTOR
     = one who defeats an opponent
 
 
-VICTORIOUS
-    = successful after struggle
-
-
-VICTIM
-    = someone harmed or adversely affected
-
-
-VANQUISH
-    = conquer completely
-
-
-CONVINCE
-    = make someone believe
-
-
-CONVINCING
-    = persuading or convincing
-
-
 CONVICTION
     = a firm belief or opinion
     = legal finding of guilt
-
-
-
-UNCONVINCING
-    = not persuasive
-
-
-CONVINCED
-    = certain/sure
 
 
 VINCIBLE
@@ -159,25 +136,9 @@ COGNATES
     = Related through either parent
     = blood relatives generally.
     
-GENESIS
-    = origin
 
-
-NATION
-    = organized political community
-
-
-NATIVE
-    = local
-
-NATURE
-    = inherent character; the physical world
-
-INNATE
-    = inborn
-
-NATAL
-    = relating to birth
-
-Uterine
-    = Related through mother
+KINDRED
+    = related
+    = similar
+    = of the same nature
+    = connected by common characteristics
