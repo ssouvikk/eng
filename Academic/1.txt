@@ -148,3 +148,36 @@ CONVINCED
 VINCIBLE
     = can be defeated
     = able to be defeated or overcome
+
+
+AGNATES
+    = male-line relatives
+    = a relative related exclusively through the male line.
+    =  Father's line only
+
+COGNATES
+    = Related through either parent
+    = blood relatives generally.
+    
+GENESIS
+    = origin
+
+
+NATION
+    = organized political community
+
+
+NATIVE
+    = local
+
+NATURE
+    = inherent character; the physical world
+
+INNATE
+    = inborn
+
+NATAL
+    = relating to birth
+
+Uterine
+    = Related through mother

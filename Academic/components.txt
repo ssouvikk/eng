@@ -5,6 +5,8 @@ re- = again
 de- = down
 in- = within / not
 indi- = within 
+ad- = toward
+co- = together
 
 -ory = state/result
 -cide = killing
@@ -14,5 +16,7 @@ indi- = within
 vinc- = conquer
 vict- = conquered
 vanqu- = conquer
-gen- = BIRTH / PRODUCE / ORIGIN 
 genos- = race/tribe/people
+
+GEN / GNAT / NAT = birth / origin / production / creation / family / race / type
+uterus = womb
