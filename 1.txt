@@ -1,3 +1,23 @@
+CONVEX = Curved outward.
+
+CONCAVITY = Inward depression.
+
+CONCAVE = Surface curving inward. (cave goes inward)
+
+CAVITY = A hole or empty space.
+
+CAVERNOUS = Very large and hollow.
+
+CAVERN = Very large cave
+
+CAVE = Natural underground chamber
+
+EXCAVATOR = A person or machine used for excavation.
+
+EXCAVATE = To dig systematically.
+
+ENGINE = mechanical power source
+
 VICTORIOUS = successful after struggle
 
 VICTIM = someone harmed or adversely affected
@@ -30,6 +50,10 @@ Kin = relatives
 
 KIND = type
 
+KING = monarch
+
+KINGDOM = realm
+
 Ingenuous  = innocent, frank.
 
 GENDER  = social and biological classification
@@ -49,6 +73,8 @@ CONGENITAL = present from birth
 GENE = basic unit of heredity
 
 GENETIC = relating to genes or heredity
+
+GENEALOGY = lineage study
 
 GENETICS = science of genes
 
@@ -142,3 +168,10 @@ KINDRED
     = similar
     = of the same nature
     = connected by common characteristics
+
+
+EXCAVATION
+    = systematic digging
+    = removal of earth
+    = archaeological digging
+    = creating foundations

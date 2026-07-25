@@ -1,4 +1,4 @@
-con- = together/completely
+con- = together/completely/inward
 pro- = forward / before
 en- = make
 re- = again
@@ -19,6 +19,10 @@ vict- = conquered
 vanqu- = conquer
 genos- = race/tribe/people
 
-GEN / GNAT / NAT = birth / origin / production / creation / family / race / type
 uterus = womb
+
+GEN / GNAT / NAT = birth / origin / production / creation / family / race / type
+
 KIN = family, tribe, race, people born together
+
+CAV / CAVE / CAVITY = hollow
