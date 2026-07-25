@@ -53,3 +53,44 @@ GENUS
     = taxonomic category
 
 
+GENERIC
+    = common
+
+
+PROGENY
+    = children or descendants
+
+
+PROGENITOR
+    = ancestor
+
+
+GENOCIDE
+    = mass killing of a people
+
+
+INDIGENOUS
+    = native to a place
+
+
+CONGENITAL
+    = present from birth
+
+
+ENGENDER
+    = cause or give rise to
+    = to create or cause
+
+GENIUS
+    = someone with exceptional intellectual ability
+    = extraordinary intellectual or creative ability
+
+
+INGENIOUS
+    = showing exceptional creativity and resourcefulness
+    = clever, inventive.
+
+
+Ingenuous 
+    = innocent, frank.
+

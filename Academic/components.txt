@@ -1,37 +1,12 @@
-==========
-PREFIXES:
-==========
+con- = together
+pro- = forward / before
+en- = make
+re- = again
+de- = down
 
+in- = within
+indi- = within 
 
-
-
-
-
-
-
-
-
-
-
-
-
-==========
-Suffixes:
-==========
-
-
-
-
-
-
-
-
-
-
-
-
-
-==========
-ROOTS:
-==========
-GEN = BIRTH / PRODUCE / ORIGIN
+gen- = BIRTH / PRODUCE / ORIGIN 
+-cide = killing
+genos- = race/tribe/people
