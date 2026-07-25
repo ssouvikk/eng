@@ -1,55 +1,55 @@
-GENEALOGICAL : {
+GENEALOGICAL
     = Relating to family lineage or ancestry.
     = Relating to the study of family descent.
     
-    usages : {
-        - genealogical records
-        - genealogical research
-        - genealogical studies
-    }
-}
 
-
-GENE : {
+GENE 
     = basic unit of heredity
     
-    usages : {
-        - gene editing
-        - disease-causing gene
-        - gene pool   
-    }
-}
 
-
-GENETIC : {
+GENETIC 
     = relating to genes or heredity
 
-    usages : {
-        - genetic engineering
-        - genetic disorder
-        - genetic testing
-    }
-}
 
-
-GENETICS : {
+GENETICS 
     = science of genes
-    
-    usages : {
-        - population genetics
-        - medical genetics
-        - genetics and evolution
-    }
-}
 
-GENOME : {
+
+GENOME 
     = complete DNA of an organism
 
-    usages : {
-        - human genome project
-        - genome sequencing
-        - genome analysis
-    }
-}
+
+GENERATE 
+    = create or produce
+    
+
+GENERATION 
+    = act of producing
+    = people born around the same time
+    
+
+GENERATOR 
+    = produces or creates
+    = electricity-producing machine
+    
+
+REGENERATE  
+    = produce again
+    = restore
+
+
+DEGENERATION  
+    = gradual worsening
+    = decline or deterioration
+    = breakdown of tissue or organ
+
+
+GENDER 
+    = social and biological classification
+    
+
+GENUS 
+    = biological classification between family and species
+    = taxonomic category
 
 
