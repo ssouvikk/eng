@@ -1,12 +1,18 @@
-con- = together
+con- = together/completely
 pro- = forward / before
 en- = make
 re- = again
 de- = down
-
-in- = within
+in- = within / not
 indi- = within 
 
-gen- = BIRTH / PRODUCE / ORIGIN 
+-ory = state/result
 -cide = killing
+-ible = capable of being
+-or = one who
+
+vinc- = conquer
+vict- = conquered
+vanqu- = conquer
+gen- = BIRTH / PRODUCE / ORIGIN 
 genos- = race/tribe/people

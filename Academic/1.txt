@@ -94,3 +94,57 @@ INGENIOUS
 Ingenuous 
     = innocent, frank.
 
+
+INVINCIBLE
+    = impossible to defeat
+    = unconquerable
+    = unbeatable
+
+
+VICTORY
+    = winning a battle or contest
+    = success in defeating an opponent
+
+
+VICTOR
+    = winner
+    = one who defeats an opponent
+
+
+VICTORIOUS
+    = successful after struggle
+
+
+VICTIM
+    = someone harmed or adversely affected
+
+
+VANQUISH
+    = conquer completely
+
+
+CONVINCE
+    = make someone believe
+
+
+CONVINCING
+    = persuading or convincing
+
+
+CONVICTION
+    = a firm belief or opinion
+    = legal finding of guilt
+
+
+
+UNCONVINCING
+    = not persuasive
+
+
+CONVINCED
+    = certain/sure
+
+
+VINCIBLE
+    = can be defeated
+    = able to be defeated or overcome
