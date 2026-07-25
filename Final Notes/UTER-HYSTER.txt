@@ -1,116 +1,138 @@
 ======================================================
-UTER/HYSTER → womb, uterus, female reproductive organ
+UTER-/HYSTER- → womb, uterus, female reproductive organ
+INTRA-        → within
+EXTRA-        → outside
+-SCOPY        → examination, viewing
+-ECTOMY       → surgical removal
+-OID          → resembling
+-AL / -IDAL   → relating to
+-IC           → person affected by; relating to
 ======================================================
 
-UTERUS → womb
-UTERINE → relating to the uterus
-UTERECTOMY → surgical removal of the uterus
-INTRAUTERINE → within the uterus
-EXTRAUTERINE → outside the uterus
-UTERECTOMY → surgical removal of the uterus
+UTERUS         → womb; female reproductive organ
+UTERINE        → relating to the uterus
+UTERECTOMY     → surgical removal of the uterus
+INTRAUTERINE   → within the uterus
+EXTRAUTERINE   → outside the uterus
 
-HYSTERIA → exaggerated or uncontrollable emotion (originally thought to stem from the womb)
-HYSTERICAL → extremely emotional; uncontrollably excitable
-HISTERECTOMY → surgical removal of the uterus
-HISTERIC → person suffering from hysteria
-HISTEROID → resembling hysteria
-HISTEROIDAL → relating to hysteria
-HYSTEROSCOPY → examination of the uterus
+HYSTERIA       → exaggerated or uncontrollable emotion
+HYSTERICAL     → extremely emotional; uncontrollably excitable
+HISTERECTOMY   → surgical removal of the uterus
+HISTERIC       → person suffering from hysteria
+HISTEROID      → resembling hysteria
+HISTEROIDAL    → relating to hysterical characteristics
+HYSTEROSCOPY   → examination of the uterus
 
-========================================================
-
-UTERINE : {
-    uter (womb) + ine (relating to)
-    semantic :
-        → relating to the uterus
-        → pertaining to the womb
-}
+======================================================
 
 UTERUS : {
     Latin uterus (womb)
-    semantic :
-        → the womb
-        → female reproductive organ where fetus develops
+
+    Semantic Evolution (literal → modern):
+        → womb
+        → female reproductive organ
+        → organ where the fetus develops during pregnancy
+}
+
+UTERINE : {
+    uter (womb) + ine (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to the womb
+        → pertaining to the uterus
+        → associated with uterine structures or functions
 }
 
 UTERECTOMY : {
     uter (womb) + ectomy (surgical removal)
-    semantic :
-        → surgical removal of the uterus
-        → extirpation of the womb
-}
 
-HYSTERIA : {
-    Greek hystera (womb)
-    historical context:
-        → ancient belief that uterus could move within body
-        → caused various physical and emotional symptoms
-    semantic :
-        → exaggerated emotional excitement
-        → uncontrollable emotional outburst
-        → neurotic condition with psychological origins
-}
-
-HYSTERICAL : {
-    hysteria + al (relating to)
-    semantic :
-        → characterized by hysteria
-        → extremely emotional or excitable
-        → uncontrolled emotional display
-}
-
-HISTERECTOMY : {
-    hyster (womb) + ectomy (surgical removal)
-    semantic :
-        → surgical removal of the uterus
-        → extirpation of the womb
-}
-
-HISTERIC : {
-    hysteria + ic (one affected by)
-    semantic :
-        → person suffering from hysteria
-        → one prone to emotional outbursts
-}
-
-HISTEROID : {
-    hyster (womb) + oid (resembling)
-    semantic :
-        → resembling hysteria
-        → characterized by hysterical behavior
-}
-
-HISTEROIDAL : {
-    hystero + idal (relating to)
-    semantic :
-        → relating to hysterical characteristics
-        → pertaining to hysterical behavior
+    Semantic Evolution (literal → modern):
+        → removal of the womb
+        → surgical excision of the uterus
+        → medical operation removing the uterus
 }
 
 INTRAUTERINE : {
     intra (within) + uter (womb) + ine (relating to)
-    semantic :
-        → within the uterus
-        → occurring inside the womb
+
+    Semantic Evolution (literal → modern):
+        → within the womb
+        → occurring inside the uterus
+        → situated in the uterine cavity
 }
 
 EXTRAUTERINE : {
     extra (outside) + uter (womb) + ine (relating to)
-    semantic :
-        → outside the uterus
-        → occurring beyond the womb
+
+    Semantic Evolution (literal → modern):
+        → outside the womb
+        → occurring beyond the uterus
+        → situated outside the uterine cavity
+}
+
+HYSTERIA : {
+    hystera (womb)
+
+    Historical Context:
+        → ancient belief that a wandering uterus caused symptoms
+        → associated with emotional and physical disturbances
+
+    Semantic Evolution (literal → modern):
+        → condition attributed to the womb
+        → excessive emotional excitement
+        → uncontrollable emotional outburst
+}
+
+HYSTERICAL : {
+    hysteria + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to hysteria
+        → marked by excessive emotion
+        → uncontrollably emotional or excitable
+}
+
+HISTERECTOMY : {
+    hyster (womb) + ectomy (surgical removal)
+
+    Semantic Evolution (literal → modern):
+        → removal of the womb
+        → surgical excision of the uterus
+        → operation removing the uterus
+}
+
+HISTERIC : {
+    hysteria + ic (person affected by)
+
+    Semantic Evolution (literal → modern):
+        → person affected by hysteria
+        → one prone to emotional outbursts
+        → excessively emotional individual
+}
+
+HISTEROID : {
+    hyster (womb) + oid (resembling)
+
+    Semantic Evolution (literal → modern):
+        → resembling hysteria
+        → having hysterical characteristics
+        → displaying exaggerated emotional behavior
+}
+
+HISTEROIDAL : {
+    hysteroid + al (relating to)
+
+    Semantic Evolution (literal → modern):
+        → relating to hysteria-like traits
+        → characterized by hysterical behavior
+        → exhibiting emotional instability
 }
 
 HYSTEROSCOPY : {
-    hystero (womb, uterus) + scopy (examination, viewing)
-    semantic :
-        → examination of the uterus using an instrument
-        → visual inspection of the uterine cavity
-}
+    hystero (womb, uterus) + scopy (examination)
 
-UTERECTOMY : {
-    uter (womb) + ectomy (surgical removal)
-    semantic :
-        → surgical removal of the uterus
-        → extirpation of the womb
+    Semantic Evolution (literal → modern):
+        → viewing the uterus
+        → examination of the uterine cavity
+        → diagnostic inspection using a hysteroscope
 }
