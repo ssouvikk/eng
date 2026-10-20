@@ -1,32 +1,33 @@
 # Leeching
 
-- **Metaphorical/social sense:** Taking advantage of another person or institution for one's own benefit.
-- **Parasitic sense:** Draining or benefiting from another organism or source parasitically.
-- **Biological sense:** An organism that draws blood.
+- Taking advantage of another person or institution for one's own benefit (metaphorical or social sense).
+- The downward movement of dissolved substances through soil or other porous materials due to percolating water.
+- Draining or benefiting parasitically.
+- An organism that draws blood from another organism.
 
 ## Leaching
 
-- **Definition:** The downward movement of dissolved substances through soil due to water percolation.
+- The downward movement of dissolved substances through soil due to water percolation.
 - Water moves through the soil profile.
-- Liquid draws soluble substances out of a material.
+- A liquid draws soluble substances out of a material.
 
 ## Leachate
 
-- **Definition:** Liquid that has passed through a material and acquired dissolved or suspended constituents.
+- Liquid that has passed through a material and acquired dissolved or suspended constituents.
 
 ## Runoff
 
-- **Definition:** Water flowing over the land surface.
+- Water flowing over the land surface.
 
 ## Seep
 
-- **Verb:** To flow, penetrate, or spread slowly through small openings or porous material.
-- **Figurative meaning:** To spread gradually and almost imperceptibly into a place, system, group, or situation.
-- **Noun:** Slow penetration or escape through tiny spaces.
+- To flow, penetrate, or spread slowly through small openings or porous materials.
+- To spread gradually and almost imperceptibly into a place, system, group, or situation.
+- Slow penetration or escape through tiny spaces.
 
-## Related Terms: Types of Movement
+## Flow, Pour, Leak, and Drip
 
-- **Flow:** Continuous movement.
-- **Pour:** Abundant or rapid movement of liquid.
-- **Leak:** Escape through a defect or opening.
-- **Drip:** Liquid falling in drops, one by one.
+- **Flow:** Continuous movement of a liquid or gas.
+- **Pour:** Movement of a liquid in a relatively abundant or rapid stream.
+- **Leak:** Escape of a liquid or gas through a defect or opening.
+- **Drip:** Liquid falling in separate drops, one by one.
