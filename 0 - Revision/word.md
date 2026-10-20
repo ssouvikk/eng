@@ -1,9 +1,10 @@
-# Leeching
+## Leeching
 
 - Taking advantage of another person or institution for one's own benefit (metaphorical or social sense).
 - The downward movement of dissolved substances through soil or other porous materials due to percolating water.
 - Draining or benefiting parasitically.
 - An organism that draws blood from another organism.
+
 
 ## Leaching
 
@@ -25,8 +26,7 @@
 - To spread gradually and almost imperceptibly into a place, system, group, or situation.
 - Slow penetration or escape through tiny spaces.
 
-## Flow, Pour, Leak, and Drip
-
+---
 - **Flow:** Continuous movement of a liquid or gas.
 - **Pour:** Movement of a liquid in a relatively abundant or rapid stream.
 - **Leak:** Escape of a liquid or gas through a defect or opening.
