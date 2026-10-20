@@ -1,29 +1,32 @@
-Leeching
-    = Taking advantage of another person or institution for one's own benefit. (Metaphorical/social sense)
-    = downward movement of dissolved substances through soil or other porous material due to percolating water
-    = draining/benefiting parasitically
-    = organism that draws blood
+# Leeching
 
-LEACHING 
-    = The downward movement of dissolved substances through soil due to water percolation.
-    = Water moves through the soil profile.
-    = liquid draws soluble substances out
+- **Metaphorical/social sense:** Taking advantage of another person or institution for one's own benefit.
+- **Parasitic sense:** Draining or benefiting from another organism or source parasitically.
+- **Biological sense:** An organism that draws blood.
 
+## Leaching
 
-LEACHATE
-    = Liquid that has passed through a material and acquired dissolved or suspended constituents.
+- **Definition:** The downward movement of dissolved substances through soil due to water percolation.
+- Water moves through the soil profile.
+- Liquid draws soluble substances out of a material.
 
+## Leachate
 
-Runoff
-    = Water flows over the land surface.
+- **Definition:** Liquid that has passed through a material and acquired dissolved or suspended constituents.
 
+## Runoff
 
-SEEP
-    = To flow, penetrate, or spread slowly through small openings or porous material.
-    = to spread gradually and almost imperceptibly into a place, system, group, or situation.
-    = slow penetration or escape through tiny spaces
+- **Definition:** Water flowing over the land surface.
 
-flow = continuous movement
-pour = abundant/rapid movement
-leak = escape through a defect/opening
-drip = drops falling one by one
+## Seep
+
+- **Verb:** To flow, penetrate, or spread slowly through small openings or porous material.
+- **Figurative meaning:** To spread gradually and almost imperceptibly into a place, system, group, or situation.
+- **Noun:** Slow penetration or escape through tiny spaces.
+
+## Related Terms: Types of Movement
+
+- **Flow:** Continuous movement.
+- **Pour:** Abundant or rapid movement of liquid.
+- **Leak:** Escape through a defect or opening.
+- **Drip:** Liquid falling in drops, one by one.
